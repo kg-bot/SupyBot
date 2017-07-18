@@ -1,0 +1,111 @@
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 45,930,
+time: 03-12-2013 18:56:24:147
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 38,885,
+time: 03-12-2013 18:56:21:262
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 47,345,
+time: 03-12-2013 18:56:17:595
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 48,825,
+time: 03-12-2013 18:56:13:687
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 32,465,
+time: 03-12-2013 18:56:09:578
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 33,235,
+time: 03-12-2013 18:56:06:806
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 58,100,
+time: 03-12-2013 18:56:03:502
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 42,720,
+time: 03-12-2013 18:55:59:675
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 84,855,
+time: 03-12-2013 18:55:56:521
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 64,825,
+time: 03-12-2013 18:55:52:672
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 46,500,
+time: 03-12-2013 18:55:49:523
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 120,925,
+time: 03-12-2013 18:55:46:396
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 66,325,
+time: 03-12-2013 18:55:38:887
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 62,785,
+time: 03-12-2013 18:55:35:793
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 39,660,
+time: 03-12-2013 18:55:32:113
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 48,155,
+time: 03-12-2013 18:55:29:269
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 55,440,
+time: 03-12-2013 18:55:25:983
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 40,465,
+time: 03-12-2013 18:55:23:531
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 62,370,
+time: 03-12-2013 18:55:16:931
+
+Nick: Sir Dejan, berserk: True, Defender: True, weapon: Q1, damage: 65,220,
+time: 03-12-2013 18:55:13:923
+
+Nick: **Sir Dejan**, Total hits: **100**, Total dmg: **1,105,030**
+
+* * *
+
+Nick: beerbaron, berserk: false, Defender: True, weapon: Q0, damage: 1,905,
+time: 03-12-2013 18:58:18:620
+
+Nick: beerbaron, berserk: false, Defender: True, weapon: Q1, damage: 5,615,
+time: 03-12-2013 18:58:13:540
+
+Nick: beerbaron, berserk: false, Defender: True, weapon: Q1, damage: 6,516,
+time: 03-12-2013 18:58:10:229
+
+Nick: beerbaron, berserk: True, Defender: True, weapon: Q1, damage: 25,745,
+time: 03-12-2013 18:58:02:846
+
+Nick: beerbaron, berserk: True, Defender: True, weapon: Q1, damage: 33,880,
+time: 03-12-2013 18:57:59:744
+
+Nick: beerbaron, berserk: True, Defender: True, weapon: Q1, damage: 32,050,
+time: 03-12-2013 18:57:53:762
+
+Nick: beerbaron, berserk: True, Defender: True, weapon: Q1, damage: 45,825,
+time: 03-12-2013 18:57:50:838
+
+Nick: beerbaron, berserk: True, Defender: True, weapon: Q1, damage: 23,275,
+time: 03-12-2013 18:57:43:200
+
+Nick: beerbaron, berserk: True, Defender: True, weapon: Q1, damage: 34,385,
+time: 03-12-2013 18:57:40:399
+
+Nick: beerbaron, berserk: True, Defender: True, weapon: Q1, damage: 37,300,
+time: 03-12-2013 18:57:34:678
+
+Nick: beerbaron, berserk: True, Defender: True, weapon: Q1, damage: 22,835,
+time: 03-12-2013 18:57:31:606
+
+Nick: beerbaron, berserk: false, Defender: True, weapon: Q1, damage: 5,529,
+time: 03-12-2013 18:57:24:56
+
+Nick: **beerbaron**, Total hits: **44**, Total dmg: **274,860**
+
+* * *
+
+  
+
+* * *
+
+  
+Total Damage:1,379,890
+

@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta content="index, follow" name="robots" />
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+  <meta content="en" name="language" />
+  <meta content="Download your favorite YouTube videos as mp3 files without registration." name="description" />
+  <meta content="notranslate" name="google" />
+  <title>YouTube to mp3 Converter</title>
+  <link href="/style.css" rel="stylesheet" />
+
+  <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script src="/lang/en.js/60.js" type="text/javascript"></script>
+  
+  <script src="/client.js/60.js" type="text/javascript"></script>
+  
+  
+  <script type="text/javascript">
+    // y
+    adcc = 'a8f5f164f';
+    enableBetaAds = true;
+    
+    // ga
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-9749996-5']);
+    _gaq.push(['_trackPageview']); //
+    var _acb = null;
+
+    function acb() {
+        try {
+            // ga
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); //
+
+            if (_acb != null)
+                _acb();
+        } catch (e) {}
+    }
+  </script>
+
+    
+</head>
+
+<body onload="init(); loadAds(); acb()">
+<div style="width:700px; padding-left:160px;" id="content">
+  <div style="width:480px; float:left;">
+  <h1><a href="/"><img width="290" height="59" alt="YouTube mp3" src="/logo.gif" /></a></h1>
+
+  <div id="progress_info" class="success" style="display: block;">
+    <div id="error_text" style="display: none;"></div>
+    <div id="image" style="display: block;"><img src="http://i.ytimg.com/vi/wKaqVq2D_Xc/default.jpg" /></div>
+    
+    <div style="float:left; max-width:330px">
+      <div id="status_text" style="display: block;">Video successfully converted to mp3</div>
+      <div id="title" style="display: block;"><b>Title:</b> Lepa Brena - Okreces mi ledja</div>
+      <div id="length" style="display: block;"><b>Length:</b> 3 minutes</div>
+      <div style="display:none" id="link_box">
+        <div style="font-weight:bold; text-decoration:underline" id="link_box_title">Link this mp3</div>
+        <div class="row">
+          <div style="font-weight:bold" id="link_box_bb_code_title">BB Code (Forums)</div>
+          <input type="text" onclick="sAll(this)" id="BBCodeLink" />
+        </div>
+        <div class="row">
+          <div style="font-weight:bold" id="link_box_html_code_title">HTML Code</div>
+          <input type="text" onclick="sAll(this)" id="HTMLLink" />
+        </div>
+        <div class="row">
+          <div style="font-weight:bold" id="link_box_direct_code_title">Direct Link</div>
+          <input type="text" onclick="sAll(this)" id="DirectLink" />
+        </div>
+      </div>
+      <div id="v-ads"></div>
+      <div id="dl_link" style="display: block;"><a style="display:none" href="/get?video_id=wKaqVq2D_Xc&amp;h=-1&amp;r=-1.1"><b>Download</b></a><a style="display:none" href="/get?video_id=wKaqVq2D_Xc&amp;h=-1&amp;r=-1.1"><b>Download</b></a><a href="/get?ab=128&amp;video_id=wKaqVq2D_Xc&amp;h=eb9e334f08091dbbea032f0ba6202c0d&amp;r=1386447582840.1576339096"><b>Download</b></a><a style="display:none" href="/get?video_id=wKaqVq2D_Xc&amp;h=-1&amp;r=-1.1"><b>Download</b></a></div>
+      <div id="progress" style="display: none;"></div>
+      <div id="loader" style="display: none;"><img width="16" height="11" alt="loading.." src="ajax-loader-b.gif" /></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+    
+  <noscript>
+    &lt;div class="warning"&gt;You have to enable JavaScript to use this Service!&lt;/div&gt;
+  </noscript>
+  
+  <div id="form">
+    <form id="submit-form" action="/" method="get">
+      <input type="text" style="width:466px;" autocomplete="off" onclick="sAll(this)" value="http://www.youtube.com/watch?v=KMU0tzLwhbE" id="youtube-url" />          
+      <div style="text-align:center; margin-top:3px">
+        <input type="submit" style="float:none; width:175px" value="Convert Video" id="submit" />
+      </div>
+    </form>
+  </div>
+  
+  
+    
+        <div id="rad" style="margin-top: 43px; text-align: center; padding: 6px 0px 5px; background: none repeat scroll 0% 0% rgb(238, 238, 238); border-top: 1px solid rgb(204, 204, 204);">
+        <iframe width="300px" scrolling="no" height="250px" frameborder="0" id="radiiFrm" style="border: 0px none;" src="http://edge.youtube-mp3.org/acode/a8f5f164f/rectangle.htm"></iframe></div>
+    
+  
+  
+  <div class="clear"></div>
+
+  <div id="description">
+    <h2>What is YouTube mp3?</h2>
+    <p>YouTube-mp3.org is the easiest online service for converting videos to mp3. You do not need an account, the only thing you need is a YouTube URL. We will start to convert the audiotrack of your videofile to mp3 as soon as you have submitted it and you will be able to download it. Different from other services the whole conversion process will be perfomed by our infrastructure and you only have to download the audio file from our servers. Because of this our software is platform-independent: You can use it with your Mac, a Linux PC or even an iPhone. All our conversions will be perfomed in high quality mode with a bitrate of at least 128 kBit/s. Do not worry, our service is completely free. We need approximately 3 to 4 minutes per video.</p>
+  </div>
+
+  <div id="footer">
+    <div style="float:right; text-align:right">
+      <a href="http://blog.youtube-mp3.org/">Blog</a> · <a href="/addons">Addons</a> · <a rel="nofollow" href="/privacy">Privacy</a> · <a rel="nofollow" href="/impress?">Impress</a>
+
+    </div>
+    <a href="/">English</a> · <a href="/de">Deutsch</a> · <a href="/tr">Türkçe</a> · <a href="/pl">Polski</a> · <a href="/fr">Français</a> · <a href="/ka">ქართული</a><br /><a href="/eu">Euskara</a> · <a href="/es">Español</a> · <a href="/gr">Ελληνικά</a> · <a href="/nl">Nederlands</a> · <a href="/zh">繁體中文</a><br /><a href="/it">Italiano</a> · <a href="/sv">Svenska</a> · <a href="/sk">Slovensky</a> · <a href="/sr">Српски</a> · <a href="/ar">العربية</a><br /><a href="/pt">Português</a> · <a href="/sl">Slovenščina</a> · <a href="/ua">українська</a> · <a href="/ru">Русский</a> <br /> <a href="/da">Dansk</a> · <a href="/fi">suomi</a> · <a href="/jp">日本語</a> · <a href="/no">Norsk</a> · <a href="/ko">한국어</a>
+
+  </div>
+  </div>
+  
+  
+    
+      <div id="sad" style="float: left; width: 160px; padding: 6px 5px 5px; background: none repeat scroll 0% 0% rgb(238, 238, 238); border-left: 1px solid rgb(204, 204, 204); border-top: 1px solid rgb(204, 204, 204); margin-left: 15px; text-align: left;">
+      <iframe width="160px" scrolling="no" height="600px" frameborder="0" id="sadiiFrm" style="border: 0px none;" src="http://edge.youtube-mp3.org/acode/a8f5f164f/skyscraper.htm"></iframe></div>
+    
+  
+</div>
+
+<script type="text/javascript">
+  function fc(){
+      try{
+      if (top.location != location) {
+        bFrame = true;
+        var i = new Image();
+        i.src = '/_stat.gif?i='+document.referrer;
+      }
+      } catch(e){}
+  }
+  fc();
+</script>
+
+
+
+
+</body></html>

@@ -1,0 +1,62 @@
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 50,845,
+time: 03-12-2013 12:05:07:750
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 64,315,
+time: 03-12-2013 12:05:03:911
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 115,290,
+time: 03-12-2013 12:04:59:635
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 70,985,
+time: 03-12-2013 12:04:57:417
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 57,255,
+time: 03-12-2013 12:04:53:340
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 116,110,
+time: 03-12-2013 12:04:51:23
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 56,390,
+time: 03-12-2013 12:04:46:865
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 58,025,
+time: 03-12-2013 12:04:44:502
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 118,520,
+time: 03-12-2013 12:04:40:482
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 47,215,
+time: 03-12-2013 12:04:38:242
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 147,275,
+time: 03-12-2013 12:04:35:906
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 58,110,
+time: 03-12-2013 12:04:31:957
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 55,215,
+time: 03-12-2013 12:04:29:452
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 45,010,
+time: 03-12-2013 12:04:25:186
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 108,250,
+time: 03-12-2013 12:04:22:623
+
+Nick: cilicici, berserk: false, Defender: True, weapon: Q1, damage: 19,884,
+time: 03-12-2013 12:04:18:456
+
+Nick: cilicici, berserk: True, Defender: True, weapon: Q1, damage: 148,595,
+time: 03-12-2013 12:04:15:13
+
+Nick: **cilicici**, Total hits: **81**, Total dmg: **1,337,289**
+
+* * *
+
+  
+
+* * *
+
+  
+Total Damage:1,337,289
+

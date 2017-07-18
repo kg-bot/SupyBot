@@ -1,0 +1,555 @@
+2013-08-28T03:43:07  *** KG-Bot <KG-Bot!~Kraljeva_@Rizon-DD5219AC.server4you.net> has joined #SJS
+2013-08-28T03:43:27  *** KG-Bot is now known as Guest361
+2013-08-28T04:17:25  *** KG-Bot <KG-Bot!~Kraljeva_@Rizon-DD5219AC.server4you.net> has joined #SJS
+2013-08-28T04:17:43  *** KG-Bot is now known as Guest36575
+2013-08-28T04:19:17  *** Guest36575 is now known as KG-Bot
+2013-08-28T04:36:39  *** KG-Bot <KG-Bot!~Kraljeva_@Kraljeva.Garda.official.bot> has joined #SJS
+2013-08-28T04:47:51  *** KG-Bot <KG-Bot!~Kraljeva_@Kraljeva.Garda.official.bot> has joined #SJS
+2013-08-28T12:00:18  *** KG-Bot <KG-Bot!~Kraljeva_@Kraljeva.Garda.official.bot> has joined #SJS
+2013-08-28T13:09:52  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-08-28T13:13:24  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has joined #SJS
+2013-08-28T13:14:38  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has quit IRC ()
+2013-08-28T14:07:39  *** KG-Bot <KG-Bot!~Kraljeva_@Kraljeva.Garda.official.bot> has joined #SJS
+2013-08-28T17:07:14  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has joined #SJS
+2013-08-28T21:42:18  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-08-28T21:56:05  *** KG-Bot <KG-Bot!~Kraljeva_@Kraljeva.Garda.official.bot> has joined #SJS
+2013-08-28T23:42:20  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has joined #SJS
+2013-08-28T23:42:24  <SpeeD94> Zdravo svima. o7
+2013-08-29T00:22:51  *** SpeeD94 is now known as SpeeD94_AFK
+2013-08-29T02:37:21  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-08-29T13:25:31  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has joined #SJS
+2013-08-29T13:25:35  <SpeeD94> Zdravo svima. o7
+2013-08-29T13:27:18  *** SpeeD94 is now known as RATNICI_SpeeD94
+2013-08-29T13:32:22  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-08-29T14:37:11  *** SpeeD94 is now known as SpeeD94_AFK
+2013-08-29T15:06:44  *** SpeeD94_AFK is now known as SpeeD94
+2013-08-29T15:41:51  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-08-29T19:48:23  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has joined #SJS
+2013-08-29T19:48:26  <SpeeD94> Zdravo svima. o7
+2013-08-29T20:02:49  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-08-29T20:42:47  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #SJS
+2013-08-29T20:44:28  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #SJS
+2013-08-29T23:19:39  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has joined #SJS
+2013-08-29T23:19:43  <SpeeD94> Zdravo svima. o7
+2013-08-30T00:48:20  *** SpeeD94 is now known as SpeeD94_AFK
+2013-08-30T02:29:01  *** SpeeD94_AFK is now known as SpeeD94
+2013-08-30T03:04:19  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-08-30T12:13:42  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has joined #SJS
+2013-08-30T12:13:46  <SpeeD94> Zdravo svima. o7
+2013-08-30T12:16:54  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has joined #SJS
+2013-08-30T12:16:54  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-08-30T12:17:20  *** SpeeD94 is now known as RATNICI_SpeeD94
+2013-08-30T12:27:59  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-08-30T13:17:06  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-08-30T13:48:35  *** SpeeD94 is now known as SpeeD94_AFK
+2013-08-30T19:29:22  *** SpeeD94_AFK is now known as RATNICI_SpeeD94
+2013-08-30T20:34:28  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-08-30T20:34:38  *** SpeeD94 is now known as SpeeD94_AFK
+2013-08-30T20:37:51  <SpeeD94_AFK> test 123 XD
+2013-08-31T00:35:19  *** SpeeD94_AFK is now known as SpeeD94
+2013-08-31T00:57:02  <SpeeD94> DonVitoCorleone:  jesi tu treba mi pomoć
+2013-08-31T01:57:33  *** SpeeD94 is now known as SpeeD94_AFK
+2013-08-31T02:02:00  *** SpeeD94_AFK is now known as SpeeD94
+2013-08-31T02:23:24  *** SpeeD94 is now known as SpeeD94_AFK
+2013-08-31T03:25:55  <SpeeD94_AFK> Laku noć. o7
+2013-08-31T03:26:27  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-7E33EFEF.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-08-31T11:59:22  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has joined #SJS
+2013-08-31T11:59:22  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-08-31T12:22:11  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-08-31T14:03:53  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-F9B096B3.dynamic.isp.telekom.rs> has joined #SJS
+2013-08-31T14:04:21  <SpeeD94> Zdravo svima. o7
+2013-08-31T14:05:40  *** SpeeD94 is now known as SpeeD94_AFK
+2013-08-31T19:22:53  *** SpeeD94_AFK is now known as SpeeD94
+2013-08-31T20:43:36  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-F9B096B3.dynamic.isp.telekom.rs> has quit IRC (Ping timeout: 240 seconds)
+2013-09-01T13:17:53  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has joined #SJS
+2013-09-01T13:17:53  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-01T13:38:49  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-01T22:01:44  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-01T22:02:11  <SpeeD94> Zdravo svima. o7
+2013-09-01T22:03:36  *** SpeeD94 is now known as RATNICI_SpeeD94
+2013-09-01T22:31:05  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-09-01T22:56:09  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-02T00:07:09  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-02T00:52:23  <SpeeD94> laku noć o7
+2013-09-02T00:52:29  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-02T17:34:44  *** DonVitoCorleone <DonVitoCorleone!Stefan_Nin@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize> has quit IRC (Killed (irc.siglost.com (4 joins/parts in #kraljeva_garda within 7 seconds.)))
+2013-09-02T17:36:23  *** DonVitoCorleone <DonVitoCorleone!Stefan_Nin@Drzi.Prijatelje.Blizu.A.Neprijatelje.Jos.Blize> has joined #SJS
+2013-09-02T18:55:27  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has joined #SJS
+2013-09-02T18:55:28  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-02T19:46:34  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-02T21:46:01  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has joined #SJS
+2013-09-02T21:46:01  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-02T22:02:56  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-02T23:37:28  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-02T23:37:49  <SpeeD94> Zdravo svima. o7
+2013-09-03T00:40:15  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-03T02:23:15  <SpeeD94_AFK> ln o7
+2013-09-03T02:23:18  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-03T04:35:51  *** KG|DonVitoCorleone <KG|DonVitoCorleone!~DonVitoCo@I-m.not.bot.this.is.just.another.bnc.profile> has quit IRC (Quit: Quit)
+2013-09-03T07:17:27  *** DonVitoC- <DonVitoC-!~DonVitoCo@Rizon-4F80C23B.furryland.net> has joined #SJS
+2013-09-03T17:24:15  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-03T17:24:56  <SpeeD94> Zdravo svima. o7
+2013-09-03T17:26:31  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-03T19:08:42  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has joined #SJS
+2013-09-03T19:08:42  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-03T19:27:02  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-03T21:16:21  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-09-04T12:25:09  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-04T12:25:36  <SpeeD94> Zdravo svima. o7
+2013-09-04T14:21:58  <DonVitoCorleone> o/
+2013-09-04T14:50:52  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-04T15:38:23  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has joined #SJS
+2013-09-04T15:38:23  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-04T15:51:14  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-04T16:04:54  *** SpeeD94_AFK is now known as RATNICI_SpeeD94
+2013-09-04T16:45:44  *** RATNICI_SpeeD94 is now known as SpeeD94_AFK
+2013-09-04T19:39:18  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has joined #SJS
+2013-09-04T19:39:18  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-04T21:20:25  *** Destroyer91 <Destroyer91!~Destroyer@C93CF613.58E60C77.3CC3F001.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-04T22:46:21  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-04T22:52:33  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-05T01:32:14  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-05T02:02:48  *** KG|DonVitoCorleone <KG|DonVitoCorleone!~Kraljeva-@I-m.not.bot.this.is.just.another.bnc.profile> has joined #SJS
+2013-09-05T02:18:07  *** DonVitoCorleone is now known as FurryLand
+2013-09-05T02:18:55  *** KG|DonVitoCorleone is now known as DonVitoCorleone
+2013-09-05T02:19:42  <SpeeD94> ln o7
+2013-09-05T02:19:51  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has quit IRC (Read error: Connection reset by peer)
+2013-09-05T12:42:21  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-05T12:42:40  <SpeeD94> Zdravo svima. o7
+2013-09-05T12:56:59  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-05T16:34:41  *** Destroyer91 <Destroyer91!~Destroyer@9D193965.C34D22B0.78AE0DCD.IP> has joined #SJS
+2013-09-05T16:34:41  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-05T16:39:09  *** Destroyer91 <Destroyer91!~Destroyer@9D193965.C34D22B0.78AE0DCD.IP> has quit IRC ()
+2013-09-05T19:09:29  *** Destroyer91 <Destroyer91!~Destroyer@C6424029.B520C02A.F5E26A7.IP> has joined #SJS
+2013-09-05T19:09:29  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-05T20:04:19  *** Destroyer91 <Destroyer91!~Destroyer@C6424029.B520C02A.F5E26A7.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-05T20:48:55  *** Destroyer91 <Destroyer91!~Destroyer@C6424029.B520C02A.F5E26A7.IP> has joined #SJS
+2013-09-05T20:48:55  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-05T21:14:43  *** Destroyer91 <Destroyer91!~Destroyer@C6424029.B520C02A.F5E26A7.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-06T00:55:16  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-06T01:54:08  <SpeeD94> ln o7
+2013-09-06T01:54:13  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-06T14:41:39  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-06T14:42:19  <SpeeD94> Zdravo svima. o7
+2013-09-06T15:53:20  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-06T16:16:03  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-06T16:16:38  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-06T16:55:03  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-06T16:55:37  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-06T19:02:14  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-06T19:02:27  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-06T19:53:12  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-06T19:54:54  <KG-Bot> Announcement from my owner (DonVitoCorleone): eRepublik komande ne rade dok se ne popravi stanje sa eRep serverima. Hvala na razumevanju. :)
+2013-09-06T20:16:02  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-06T20:36:55  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-06T22:42:28  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-06T22:42:41  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-06T23:16:15  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-07T03:07:20  <SpeeD94_AFK> ln o7
+2013-09-07T03:07:26  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-07T15:34:11  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-07T15:34:11  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-07T16:25:50  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-07T16:31:23  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-07T16:31:53  <SpeeD94> Zdravo svima. o7
+2013-09-07T16:45:32  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-07T16:45:52  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-07T16:46:07  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-07T16:52:00  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-07T16:52:14  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-07T17:02:02  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-07T19:23:09  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-07T19:23:09  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-07T19:55:50  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-07T20:08:33  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-07T20:08:46  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-07T20:09:39  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-07T20:14:14  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-07T20:14:45  *** SpeeD94_AFK is now known as RATNICI_SpeeD94
+2013-09-07T20:14:55  *** veliki-atila <veliki-atila!cgiirc@Rizon-2A3AC90C.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-07T20:15:02  <veliki-atila> RATNICI_SpeeD94:
+2013-09-07T20:15:09  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-09-07T20:15:13  *** veliki-atila <veliki-atila!cgiirc@Rizon-2A3AC90C.dynamic.isp.telekom.rs> has left #SJS
+2013-09-07T21:28:36  *** SpeeD94 is now known as RATNICI_SpeeD94
+2013-09-07T22:11:05  *** RATNICI_SpeeD94 is now known as SpeeD94_AFK
+2013-09-07T23:51:55  <KG-Bot> Announcement from my owner (DonVitoCorleone): eRepublik plugin won't work for some time, API is perma disabled and everything must be made from scratch
+2013-09-08T01:41:54  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-08T03:08:04  <SpeeD94> ln o7
+2013-09-08T03:08:07  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-08T12:07:24  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-08T12:07:42  <SpeeD94> Zdravo svima. o7
+2013-09-08T12:10:15  *** SpeeD94 is now known as RATNICI_SpeeD94
+2013-09-08T12:16:17  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-09-08T12:19:46  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-08T14:39:06  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-08T14:39:06  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-08T15:00:18  <Destroyer91> DonVitoCorleone:  si tu
+2013-09-08T15:00:25  <Destroyer91> treba mi jedna komanda
+2013-09-08T15:00:26  <Destroyer91> :)
+2013-09-08T15:03:02  <DonVitoCorleone> Tu sam
+2013-09-08T15:05:59  <Destroyer91> kako da pozovem sam sebe
+2013-09-08T15:06:02  <Destroyer91> na neki kanal
+2013-09-08T15:06:04  <Destroyer91> :)
+2013-09-08T15:06:07  <Destroyer91> imam op
+2013-09-08T15:06:08  <Destroyer91> :D
+2013-09-08T15:06:41  <DonVitoCorleone> /cs invite #kanal
+2013-09-08T15:08:56  <Destroyer91> radi
+2013-09-08T15:08:58  <Destroyer91> heheh
+2013-09-08T15:09:00  <Destroyer91> blagodarim
+2013-09-08T15:09:01  <Destroyer91> :D
+2013-09-08T15:18:03  <DonVitoCorleone> Daj perma op!!!
+2013-09-08T15:18:17  <Destroyer91> kako
+2013-09-08T15:18:17  <Destroyer91> :D
+2013-09-08T15:18:19  <Destroyer91> ahhaha
+2013-09-08T15:18:25  <Destroyer91> zasluzio si
+2013-09-08T15:18:26  <Destroyer91> :D
+2013-09-08T15:18:36  <DonVitoCorleone> /cs aop #SJS add DonVitoCorleone
+2013-09-08T15:18:45  <Destroyer91> bem ga  imam opove na 30 kanala
+2013-09-08T15:18:50  <Destroyer91> na kanalu saveza takodje
+2013-09-08T15:18:55  <Destroyer91> a ne znma jednu jebenu komandu
+2013-09-08T15:18:56  <Destroyer91> :(
+2013-09-08T15:19:12  <DonVitoCorleone> Eto ti gore komande
+2013-09-08T15:19:34  <Destroyer91> .access add DonVitoCorleone 5
+2013-09-08T15:19:39  <Destroyer91> prc
+2013-09-08T15:19:47  <DonVitoCorleone> /cs aop #SJS add DonVitoCorleone
+2013-09-08T15:19:59  <Destroyer91> aj probaj
+2013-09-08T15:20:00  <Destroyer91> :)
+2013-09-08T15:20:00  <DonVitoCorleone> Koristis xOP a ne access tip access -a
+2013-09-08T15:20:02  *** ChanServ sets mode: +o DonVitoCorleone
+2013-09-08T15:20:07  <DonVitoCorleone> o///
+2013-09-08T15:20:08  <DonVitoCorleone> xD
+2013-09-08T15:20:10  <Destroyer91> :D
+2013-09-08T15:20:22  <Destroyer91> nemam pojma sta si sad ispricao
+2013-09-08T15:20:24  <Destroyer91> al nema veze
+2013-09-08T15:20:25  <Destroyer91> :D
+2013-09-08T15:20:30  <Destroyer91> cu te cimama ako mi sta treba
+2013-09-08T15:20:31  <Destroyer91> :D
+2013-09-08T15:20:40  <DonVitoCorleone> /cs help set accesstype
+2013-09-08T16:19:28  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Read error: Connection reset by peer)
+2013-09-08T16:19:47  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-08T16:21:43  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-08T16:22:45  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC ()
+2013-09-08T18:30:27  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-08T18:30:27  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-08T20:53:41  *** Destroyer91 is now known as DestroyerAFK
+2013-09-08T22:10:03  *** DestroyerAFK is now known as Destroyer91
+2013-09-08T22:52:09  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-08T23:59:03  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-09T00:16:56  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-09T01:16:05  <DonVitoCorleone> SpeeD94_AFK: izvukao sam OP xD
+2013-09-09T01:16:19  <SpeeD94_AFK> DonVitoCorleone: TO BRE xD
+2013-09-09T01:16:28  <SpeeD94_AFK> preuzimaj polako XD
+2013-09-09T01:16:32  <DonVitoCorleone> Ofc :D
+2013-09-09T01:16:44  <DonVitoCorleone> Sledece tebi izvlacim OP xD
+2013-09-09T01:17:00  <SpeeD94_AFK> hahah pa izvuci onda šifru za kanal hahah XD
+2013-09-09T01:17:08  <DonVitoCorleone> A to nece dati nikada
+2013-09-09T01:17:15  <DonVitoCorleone> Vidis da mu je za OP trebalo pola godine :D
+2013-09-09T01:17:40  <SpeeD94_AFK> stispa XD
+2013-09-09T01:17:53  <DonVitoCorleone> x2
+2013-09-09T01:19:36  <SpeeD94_AFK> osnovao sam svoj kanal XD
+2013-09-09T01:19:44  <SpeeD94_AFK> da me nađu ako im trebam hahaha XD
+2013-09-09T02:39:01  <SpeeD94_AFK> ln o7
+2013-09-09T02:39:06  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-CABD3D8.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-09T10:17:41  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-09T10:17:41  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-09T11:08:21  <Destroyer91> DonVitoCorleone:  kako bese ona komanda za davanje statusa
+2013-09-09T11:08:21  <Destroyer91> :D
+2013-09-09T12:58:27  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-09T13:09:33  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-09T13:09:33  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-09T13:25:29  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-09T14:32:06  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-09T14:32:06  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-09T14:33:01  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-C14448CF.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-09T14:33:49  <SpeeD94> Zdravo svima. o7
+2013-09-09T14:48:43  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-09T14:48:49  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-09T22:43:45  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-09T23:05:48  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-10T02:01:56  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-10T02:20:34  <SpeeD94> ln o7
+2013-09-10T02:20:36  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-C14448CF.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-10T10:32:40  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-10T10:32:56  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-10T11:35:00  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-10T13:02:38  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has joined #SJS
+2013-09-10T13:02:38  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-10T13:13:27  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-C14448CF.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-10T13:13:48  <SpeeD94> Zdravo svima. o7
+2013-09-10T14:08:45  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-10T14:16:36  *** Destroyer91 <Destroyer91!~Destroyer@196A1CF9.5545C8E6.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-11T01:09:46  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-C14448CF.dynamic.isp.telekom.rs> has quit IRC (Ping timeout: 240 seconds)
+2013-09-11T01:11:04  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-8436F0CB.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-11T01:53:31  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-11T02:13:41  <SpeeD94> ln o7
+2013-09-11T02:14:15  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-8436F0CB.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-09-11T10:05:30  *** Destroyer91 <Destroyer91!~Destroyer@2EEE7036.4718EF1B.78AE0DCD.IP> has joined #SJS
+2013-09-11T10:05:30  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-11T14:00:26  *** Destroyer91 <Destroyer91!~Destroyer@2EEE7036.4718EF1B.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-11T15:47:57  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4135C831.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-11T15:48:21  <SpeeD94> Zdravo svima. o7
+2013-09-11T17:04:31  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-11T18:50:13  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-4135C831.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-09-11T20:06:05  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4135C831.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-11T20:06:33  <SpeeD94> Zdravo svima. o7
+2013-09-11T20:33:35  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-12T02:50:17  <SpeeD94_AFK> ln o7
+2013-09-12T02:50:21  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-4135C831.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-12T10:48:26  *** Destroyer91 <Destroyer91!~Destroyer@A28B0D0D.529519FF.F5E26A7.IP> has joined #SJS
+2013-09-12T10:48:26  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-12T19:22:35  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #SJS
+2013-09-12T19:24:23  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #SJS
+2013-09-12T19:24:27  *** ChanServ sets mode: +o KG-Bot
+2013-09-12T21:36:20  *** SpeeD94_AFK is now known as RATNICI_SpeeD94
+2013-09-12T22:24:16  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-09-13T01:14:40  <SpeeD94> ln o7
+2013-09-13T01:14:45  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4135C831.dynamic.isp.telekom.rs> has quit IRC (Read error: Connection reset by peer)
+2013-09-13T10:38:01  *** Destroyer91 <Destroyer91!~Destroyer@A28B0D0D.529519FF.F5E26A7.IP> has joined #SJS
+2013-09-13T10:38:01  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-13T11:49:55  *** Destroyer91 <Destroyer91!~Destroyer@A28B0D0D.529519FF.F5E26A7.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-13T12:33:51  *** Destroyer91 <Destroyer91!~Destroyer@8A954DF3.9292748D.F5E26A7.IP> has joined #SJS
+2013-09-13T12:33:51  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-13T14:07:59  *** Destroyer91 <Destroyer91!~Destroyer@8A954DF3.9292748D.F5E26A7.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-13T17:20:12  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4135C831.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-13T17:20:32  <SpeeD94> Zdravo svima. o7
+2013-09-13T19:15:26  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-13T21:31:36  *** SpeeD94_AFK is now known as RATNICI_SpeeD94
+2013-09-13T21:37:55  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-09-14T02:43:05  <SpeeD94> LN o7
+2013-09-14T02:43:46  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4135C831.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-09-14T10:49:31  *** Destroyer91 <Destroyer91!~Destroyer@9F3C6BF2.6BA21D36.F5E26A7.IP> has joined #SJS
+2013-09-14T10:49:31  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-14T11:16:06  *** Destroyer91 is now known as DestroyerAFK
+2013-09-14T11:42:46  *** DestroyerAFK is now known as Destroyer91
+2013-09-14T11:52:33  *** veliki-atila <veliki-atila!cgiirc@Rizon-2EAB8FA7.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-14T11:53:12  *** veliki-atila <veliki-atila!cgiirc@Rizon-2EAB8FA7.dynamic.isp.telekom.rs> has left #SJS
+2013-09-14T12:46:27  *** Destroyer91 <Destroyer91!~Destroyer@9F3C6BF2.6BA21D36.F5E26A7.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-14T13:17:00  *** Destroyer91 <Destroyer91!~Destroyer@9F3C6BF2.6BA21D36.F5E26A7.IP> has joined #SJS
+2013-09-14T13:17:01  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-14T14:23:37  *** Destroyer91 <Destroyer91!~Destroyer@9F3C6BF2.6BA21D36.F5E26A7.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-14T14:39:11  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4135C831.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-14T14:39:49  <SpeeD94> Zdravo svima. o7
+2013-09-14T16:27:01  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-14T17:25:24  *** SpeeD94_AFK is now known as RATNICI_SpeeD94
+2013-09-14T18:24:16  *** RATNICI_SpeeD94 is now known as SpeeD94_AFK
+2013-09-14T23:45:25  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-9DDF8ABE.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-14T23:47:54  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-4135C831.dynamic.isp.telekom.rs> has quit IRC (Ping timeout: 240 seconds)
+2013-09-14T23:56:39  *** SpeeD94|2 <SpeeD94|2!~SpeeD94@Rizon-D59485AC.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-14T23:56:53  *** SpeeD94|2 <SpeeD94|2!~SpeeD94@Rizon-D59485AC.dynamic.isp.telekom.rs> has quit IRC ()
+2013-09-14T23:57:06  *** SpeeD94|2 <SpeeD94|2!~SpeeD94@Rizon-D59485AC.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-14T23:57:23  *** SpeeD94|2 <SpeeD94|2!~SpeeD94@Rizon-D59485AC.dynamic.isp.telekom.rs> has quit IRC ()
+2013-09-14T23:58:56  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-9DDF8ABE.dynamic.isp.telekom.rs> has quit IRC (Ping timeout: 240 seconds)
+2013-09-15T00:05:06  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-D59485AC.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-15T00:06:30  <SpeeD94> Zdravo svima. o7
+2013-09-15T02:14:57  <SpeeD94> ln o7
+2013-09-15T02:15:05  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-D59485AC.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-15T11:10:54  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-D59485AC.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-15T11:11:50  <SpeeD94> Zdravo svima. o7
+2013-09-15T11:32:35  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-15T11:34:54  *** Destroyer91 <Destroyer91!~Destroyer@9F3C6BF2.6BA21D36.F5E26A7.IP> has joined #SJS
+2013-09-15T11:34:54  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-15T11:35:29  <SpeeD94_AFK> ja sam mislio da ti ne mrdaš vše
+2013-09-15T11:35:40  <Destroyer91> gori brisel i gori vasington
+2013-09-15T15:08:30  *** Destroyer91 <Destroyer91!~Destroyer@9F3C6BF2.6BA21D36.F5E26A7.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-15T17:03:16  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-D59485AC.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-09-15T21:11:45  *** Destroyer91 <Destroyer91!~Destroyer@9F3C6BF2.6BA21D36.F5E26A7.IP> has joined #SJS
+2013-09-15T21:11:45  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-15T21:17:37  *** Destroyer91 <Destroyer91!~Destroyer@9F3C6BF2.6BA21D36.F5E26A7.IP> has quit IRC ()
+2013-09-15T21:33:30  *** Destroyer91 <Destroyer91!~Destroyer@51BEA7D7.265F6ECD.F5E26A7.IP> has joined #SJS
+2013-09-15T21:33:30  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-15T21:38:45  *** Destroyer91 <Destroyer91!~Destroyer@51BEA7D7.265F6ECD.F5E26A7.IP> has quit IRC ()
+2013-09-15T22:51:45  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-15T22:52:03  <SpeeD94> Zdravo svima. o7
+2013-09-15T23:29:58  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-16T00:45:57  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-16T02:15:55  <SpeeD94> LN o7
+2013-09-16T02:15:59  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-16T14:16:57  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #SJS
+2013-09-16T14:17:05  *** ChanServ sets mode: +o KG-Bot
+2013-09-16T14:20:22  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-16T14:20:40  <SpeeD94> Zdravo svima. o7
+2013-09-16T15:16:04  *** FurryLand <FurryLand!Stefan_Nin@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize> has quit IRC (Ping timeout: 243 seconds)
+2013-09-16T15:34:46  *** Destroyer91 <Destroyer91!~Destroyer@5BBA84AB.8D487E2F.78AE0DCD.IP> has joined #SJS
+2013-09-16T15:34:48  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-16T15:41:30  *** Guest56724 <Guest56724!Stefan_Nin@Rizon-72A5E527.rizonbnc.eu.rizon.net> has joined #SJS
+2013-09-16T16:13:17  *** Destroyer91 <Destroyer91!~Destroyer@5BBA84AB.8D487E2F.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-16T18:42:38  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-16T18:45:09  *** Destroyer91 <Destroyer91!~Destroyer@5BBA84AB.8D487E2F.78AE0DCD.IP> has joined #SJS
+2013-09-16T18:45:09  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-16T21:34:35  *** Destroyer91 <Destroyer91!~Destroyer@5BBA84AB.8D487E2F.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-16T21:47:22  *** Guest56724 is now known as FurryLand
+2013-09-16T21:47:22  *** ChanServ sets mode: +o FurryLand
+2013-09-16T22:36:01  *** DonVitoC- is now known as RizonBot
+2013-09-16T22:36:04  *** ChanServ sets mode: +o RizonBot
+2013-09-16T22:50:50  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-16T22:51:56  *** RizonBot <RizonBot!~DonVitoCo@Rizon-4F80C23B.furryland.net> has quit IRC (Killed (mink (unwise)))
+2013-09-16T22:52:26  *** DonVitoC- <DonVitoC-!~DonVitoCo@Rizon-44644B3.electronirc.tk> has joined #SJS
+2013-09-16T23:02:03  *** DonVitoC- is now known as KG|DonVitoCorleone
+2013-09-16T23:02:08  *** ChanServ sets mode: +o KG|DonVitoCorleone
+2013-09-16T23:08:42  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-09-16T23:08:46  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-16T23:30:41  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-17T01:03:30  *** SpeeD94_AFK is now known as SpeeD94
+2013-09-17T02:19:57  <SpeeD94> LN o7
+2013-09-17T02:19:59  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has quit IRC (Read error: Connection reset by peer)
+2013-09-17T12:45:30  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-17T12:45:47  <SpeeD94> Zdravo svima. o7
+2013-09-17T13:13:52  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-17T15:02:10  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)
+2013-09-17T15:22:57  *** Destroyer91 <Destroyer91!~Destroyer@5BBA84AB.8D487E2F.78AE0DCD.IP> has joined #SJS
+2013-09-17T15:23:20  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-17T15:23:24  <DonVitoCorleone> De si legendo xD
+2013-09-17T15:23:27  <DonVitoCorleone> S'a mai?
+2013-09-17T15:24:11  <Destroyer91> o7
+2013-09-17T15:24:26  <Destroyer91> poz svim botvima
+2013-09-17T15:24:28  <Destroyer91> :D
+2013-09-17T15:26:52  *** Destroyer91 is now known as DestroyerAFK
+2013-09-17T15:27:38  <DonVitoCorleone> Kojim botovima?
+2013-09-17T15:27:50  <DonVitoCorleone> Samo je jedan bot ovde
+2013-09-17T15:27:57  <DonVitoCorleone> Tj. dva ako racunamo i eRepublik xD
+2013-09-17T15:28:00  <DestroyerAFK> XD
+2013-09-17T15:28:20  <DonVitoCorleone> Samo je KG-Bot moj bot, ovi ostali nisu botovi, to su BNC profili
+2013-09-17T15:28:50  <DestroyerAFK> spanska sela
+2013-09-17T15:28:50  <DestroyerAFK> :D
+2013-09-17T15:29:01  <DonVitoCorleone> +g irc bouncer
+2013-09-17T15:29:01  <KG-Bot> 1) **BNC** (software) - Wikipedia, the free encyclopedia (http://en.wikipedia.org/wiki/BNC_(software))   2) ZNC (http://znc.in/)   
+2013-09-17T15:39:01  *** DestroyerAFK is now known as Destroyer91
+2013-09-17T15:56:51  *** Destroyer91 <Destroyer91!~Destroyer@5BBA84AB.8D487E2F.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-17T16:39:38  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has joined #SJS
+2013-09-17T16:39:38  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-17T17:05:44  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-17T18:47:08  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-17T18:47:26  <SpeeD94> Zdravo svima. o7
+2013-09-17T19:00:12  *** SpeeD94 is now known as RATNICI_SpeeD94
+2013-09-17T20:05:08  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has joined #SJS
+2013-09-17T20:05:08  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-17T20:11:06  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-09-17T20:44:25  *** Destroyer91 is now known as Destroyer91[NZ][MoD]
+2013-09-17T21:20:36  *** Destroyer91[NZ][MoD] is now known as Destroyer91
+2013-09-17T22:11:21  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-17T23:01:24  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has joined #SJS
+2013-09-17T23:01:24  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-17T23:11:04  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has quit IRC ()
+2013-09-18T02:23:19  <SpeeD94> LN o7
+2013-09-18T02:23:23  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has quit IRC (Remote host closed the connection)
+2013-09-18T12:06:38  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-18T12:06:42  <SpeeD94> o7
+2013-09-18T12:07:11  <SpeeD94> Zdravo svima. o7
+2013-09-18T12:07:43  *** SpeeD94 is now known as RATNICI_SpeeD94
+2013-09-18T12:27:44  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-09-18T13:13:49  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-18T15:18:59  *** SpeeD94_AFK is now known as RATNICI_SpeeD94
+2013-09-18T16:09:44  <DonVitoCorleone> +op
+2013-09-18T16:10:00  <DonVitoCorleone> hm
+2013-09-18T16:10:06  <DonVitoCorleone> +op RATNICI_SpeeD94
+2013-09-18T16:10:06  *** KG-Bot sets mode: +o RATNICI_SpeeD94
+2013-09-18T16:10:09  <DonVitoCorleone> xD
+2013-09-18T16:10:15  <RATNICI_SpeeD94> XD
+2013-09-18T16:10:20  <RATNICI_SpeeD94> woohoo XD
+2013-09-18T16:10:23  <DonVitoCorleone> xD
+2013-09-18T16:10:44  <DonVitoCorleone> Samo sto nije perma, mada mozemo da namestimo da jeste xD
+2013-09-18T16:10:53  <DonVitoCorleone> +load AutoMode
+2013-09-18T16:10:53  <KG-Bot> Done.
+2013-09-18T16:10:59  <DonVitoCorleone> +list automode
+2013-09-18T16:10:59  <KG-Bot> That plugin exists, but has no commands. This probably means that it has some configuration variables that can be changed in order to modify its behavior. Try "config list supybot.plugins.AutoMode" to see what configuration variables it has.
+2013-09-18T16:11:11  <DonVitoCorleone> +config list plugins.automode
+2013-09-18T16:11:11  <KG-Bot> #delay, #enable, #extra, #fallthrough, #halfop, #op, #voice, @#ban, owner, and public
+2013-09-18T16:11:17  <DonVitoCorleone> +config list plugins.automode.op
+2013-09-18T16:11:20  <DonVitoCorleone> +config plugins.automode.op
+2013-09-18T16:11:20  <KG-Bot> Global: True; #SJS: True
+2013-09-18T16:11:36  <DonVitoCorleone> +config help plugins.automode.op
+2013-09-18T16:11:36  <KG-Bot> Determines whether the bot will automatically op people with the <channel>,op capability when they join the channel. (Current value: True)
+2013-09-18T16:11:54  <DonVitoCorleone> Moras da se regujes da mogu da ti dam OP za ovaj kanal
+2013-09-18T16:11:58  <DonVitoCorleone> Regujes na bota*
+2013-09-18T16:12:09  <RATNICI_SpeeD94> kako?
+2013-09-18T16:12:22  <DonVitoCorleone> /msg KG-Bot register SpeeD94 SIFRA
+2013-09-18T16:12:33  <DonVitoCorleone> Pa onda /msg KG-Bot hostmask add
+2013-09-18T16:12:54  <RATNICI_SpeeD94> ok
+2013-09-18T16:14:00  <DonVitoCorleone> +user list
+2013-09-18T16:14:00  <KG-Bot> ajvarkolegenda, Anastasium, BabyBullet, boske5555, Cive, cuprijanac, DonLex, DonVitoCorleone, gogimisko, MarkoTunic, mehrgan, MichaelCorleone, oooooo, pfccvetkovic, remaaa, ristoII, Roykerr, Ultras, and xH4Dx
+2013-09-18T16:14:09  <DonVitoCorleone> Ajde bem te xD
+2013-09-18T16:14:49  <RATNICI_SpeeD94> ček udar je
+2013-09-18T16:14:56  <DonVitoCorleone> =.=
+2013-09-18T16:19:51  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-09-18T16:20:12  <SpeeD94> XD
+2013-09-18T16:20:25  <SpeeD94> jel smišljam šifru ili?
+2013-09-18T16:20:57  <SpeeD94> a?
+2013-09-18T16:21:48  <DonVitoCorleone> Kako god hoces
+2013-09-18T16:21:58  <DonVitoCorleone> Radi se hash tako da ja svejedno nzm koje su sifre
+2013-09-18T16:22:16  <SpeeD94> [16:20:48] *KG-Bot* Error: That name is already assigned to someone.
+2013-09-18T16:22:25  <DonVitoCorleone> o_O
+2013-09-18T16:22:28  <DonVitoCorleone> +user list
+2013-09-18T16:22:28  <KG-Bot> ajvarkolegenda, Anastasium, BabyBullet, boske5555, Cive, cuprijanac, DonLex, DonVitoCorleone, gogimisko, MarkoTunic, mehrgan, MichaelCorleone, oooooo, pfccvetkovic, remaaa, ristoII, Roykerr, SpeeD94, Ultras, and xH4Dx
+2013-09-18T16:22:37  <DonVitoCorleone> Pa vec si regovan
+2013-09-18T16:22:39  <SpeeD94> kao to
+2013-09-18T16:22:39  <DonVitoCorleone> xD
+2013-09-18T16:22:55  <SpeeD94> šta sad
+2013-09-18T16:23:20  <DonVitoCorleone> Pa onda /msg KG-Bot hostmask add
+2013-09-18T16:23:41  <SpeeD94> *KG-Bot* Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+2013-09-18T16:23:43  <SpeeD94> a bree
+2013-09-18T16:24:01  <DonVitoCorleone> Kucaj +whoami
+2013-09-18T16:24:16  <SpeeD94> +whoami
+2013-09-18T16:24:16  <KG-Bot> I don't recognize you.
+2013-09-18T16:24:20  <SpeeD94> hahahahha
+2013-09-18T16:24:37  <SpeeD94> a akshay jel to bot ili
+2013-09-18T16:24:39  <DonVitoCorleone> +list user
+2013-09-18T16:24:39  <KG-Bot> capabilities, changename, gpg add, gpg auth, gpg gettoken, gpg remove, hostmask, hostmask add, hostmask list, hostmask remove, identify, list, register, set password, set secure, stats, unidentify, unregister, username, and whoami
+2013-09-18T16:24:40  <SpeeD94> znam da je sa ivote
+2013-09-18T16:24:49  <DonVitoCorleone> +help unregister
+2013-09-18T16:24:49  <KG-Bot> (unregister <name> [<password>]) -- Unregisters <name> from the user database. If the user giving this command is an owner user, the password is not necessary. 
+2013-09-18T16:25:01  <DonVitoCorleone> +unregister SpeeD94 SIFRA
+2013-09-18T16:25:21  <DonVitoCorleone> Sad se reguj
+2013-09-18T16:25:23  <SpeeD94> +unregister SpeeD94 MIŠOMOR
+2013-09-18T16:27:00  <DonVitoCorleone> Registruj se bre
+2013-09-18T16:27:27  <SpeeD94> ništa ja ovde ne razumem
+2013-09-18T16:27:36  <SpeeD94> sve mi nešto da sam tu nisam tu ZADOVOLJAN SAM NISAM xD
+2013-09-18T16:28:16  <DonVitoCorleone> Brate kucas botu na pm register SpeeD94 SIFRA
+2013-09-18T16:28:24  <DonVitoCorleone> Pa onda isto njemu na pm hostmask add
+2013-09-18T16:29:35  <SpeeD94> odradio
+2013-09-18T16:29:48  <DonVitoCorleone> +list channel
+2013-09-18T16:29:48  <KG-Bot> alert, ban add, ban list, ban remove, capability add, capability list, capability remove, capability set, capability setdefault, capability unset, cycle, dehalfop, deop, devoice, disable, enable, halfop, iban, ignore add, ignore list, ignore remove, invite, kban, key, kick, limit, listbans, lobotomy add, lobotomy list, lobotomy remove, mode, moderate, nicks, op, unban, unmoderate, and
+2013-09-18T16:29:49  <KG-Bot> voice
+2013-09-18T16:30:00  <DonVitoCorleone> +channel capability add SpeeD94 op
+2013-09-18T16:30:00  <KG-Bot> Done.
+2013-09-18T16:30:09  <DonVitoCorleone> +capability list SpeeD94
+2013-09-18T16:30:09  <KG-Bot> (capability list [<channel>]) -- Returns the capabilities present on the <channel>. <channel> is only necessary if the message isn't sent in the channel itself. 
+2013-09-18T16:30:12  <DonVitoCorleone> +capability list
+2013-09-18T16:30:12  <KG-Bot> -halfop -op -protected -voice
+2013-09-18T16:30:21  <DonVitoCorleone> +capabilities SpeeD94
+2013-09-18T16:30:25  <SpeeD94> kako na mom kanalu da dam voice
+2013-09-18T16:32:47  <DonVitoCorleone> +capabilities SpeeD94
+2013-09-18T16:54:22  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-18T18:44:41  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has joined #SJS
+2013-09-18T18:44:41  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-18T20:30:15  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-18T21:15:12  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has joined #SJS
+2013-09-18T21:15:13  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-18T21:41:02  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-19T02:51:09  <SpeeD94_AFK> ln o7
+2013-09-19T02:51:18  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has quit IRC (Read error: Connection reset by peer)
+2013-09-19T15:27:01  *** DonVitoCorleone <DonVitoCorleone!~Kraljeva-@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize> has quit IRC (Quit: ZNC - http://znc.in)
+2013-09-19T15:27:08  *** eRepublikBot <eRepublikBot!~KG@Rizon-DD5219AC.server4you.net> has joined #SJS
+2013-09-19T15:27:23  *** eRepublikBot is now known as Guest22567
+2013-09-19T15:29:01  *** Guest22567 is now known as DonVitoCorleone
+2013-09-19T15:29:11  *** ChanServ sets mode: +o DonVitoCorleone
+2013-09-19T15:50:44  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has joined #SJS
+2013-09-19T15:50:44  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-19T15:51:06  *** Destroyer91|2 <Destroyer91|2!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has joined #SJS
+2013-09-19T15:51:11  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has quit IRC ()
+2013-09-19T15:51:11  *** Destroyer91|2 <Destroyer91|2!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has quit IRC ()
+2013-09-19T15:51:18  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has joined #SJS
+2013-09-19T15:51:18  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-19T16:27:18  *** SpeeD94 <SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has joined #SJS
+2013-09-19T16:27:21  <SpeeD94> o7
+2013-09-19T16:28:00  <SpeeD94> Zdravo svima. o7
+2013-09-19T16:35:42  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-19T17:37:58  *** SpeeD94 is now known as RATNICI_SpeeD94
+2013-09-19T18:42:52  *** RATNICI_SpeeD94 is now known as SpeeD94_AFK
+2013-09-19T18:58:12  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has joined #SJS
+2013-09-19T18:58:12  *** ChanServ sets mode: +qo Destroyer91 Destroyer91
+2013-09-19T19:33:30  *** Destroyer91 <Destroyer91!~Destroyer@A5C18764.4086F7F5.78AE0DCD.IP> has quit IRC (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2013-09-19T21:38:16  *** SpeeD94_AFK is now known as RATNICI_SpeeD94
+2013-09-19T22:03:18  *** RATNICI_SpeeD94 is now known as SpeeD94
+2013-09-19T22:20:29  *** SpeeD94 is now known as SpeeD94_AFK
+2013-09-20T02:31:25  <SpeeD94_AFK> ln o7
+2013-09-20T02:31:42  *** SpeeD94_AFK <SpeeD94_AFK!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs> has quit IRC (Quit: Наше ће сјене ходати по Бечу, лутати по двору, плашити господу! БУНТ!)

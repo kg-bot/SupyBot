@@ -1,0 +1,614 @@
+2013-09-12T19:28:30  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #multi
+2013-09-12T19:28:30  <x-bot> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-09-12T19:28:30  *** x-bot sets mode: +qo KG-Bot KG-Bot
+2013-09-12T19:28:34  <KG-Bot> Title: Novi Reporter - br. 153, 15/2/2006 (at tinyurl.com)
+2013-12-19T14:13:25  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #multi
+2013-12-19T14:13:25  <x-bot> [eRepublikBot] [20:51:29] <God_of_Blood> da li ima tvoh bot komande za ona pitanja [20:51:39] <DonVitoCorleone> Koja pitanja? o-O[20:51:54] <God_of_Blood> a ona sranja kakos e zove [20:52:07] <DonVitoCorleone> Kviz? [20:52:16] <God_of_Blood> kiviz jebo ga ti
+2013-12-19T14:13:25  *** x-bot sets mode: +qo eRepublikBot eRepublikBot
+2013-12-19T14:13:33  <DonVitoCorleone> !readdvd
+2013-12-19T14:13:33  <eRepublikBot> There are 5 DVDs in list and I'm going to give you data for everyone of them, starting from first to last.
+2013-12-19T14:13:34  <eRepublikBot> DVD #1 data: Risen Part - 1
+2013-12-19T14:13:35  <eRepublikBot> DVD #3 data: Documents And Settings (111 Anonymous, Stefan Ninic), Photoshop CS6
+2013-12-19T14:13:36  <eRepublikBot> DVD #2 data: Program Filessss.iso.002
+2013-12-19T14:13:38  <eRepublikBot> DVD #5 data: Farming Simulator '13, Sims 3 (part 2), Risen (Part 2), Scarface
+2013-12-19T14:13:39  <eRepublikBot> DVD #4 data: Stari Racunar C (Za Ostavljanje.rar.002)
+2013-12-19T14:13:42  <DonVitoCorleone> !readdvd 5
+2013-12-19T14:13:42  <eRepublikBot> Data for DVD #5 is : Farming Simulator '13, Sims 3 (part 2), Risen (Part 2), Scarface.
+2013-12-19T14:13:56  <DonVitoCorleone> A ovamo samo oznacim dvd sa tim brojem
+2013-12-19T14:14:17  <DonVitoCorleone> +list pars
+2013-12-19T14:14:22  <DonVitoCorleone> !list pars
+2013-12-19T14:14:22  <eRepublikBot> cjob, cpar, dt, dvd, erlogin, geet, getk, getpass, hos, jobc, jobs, kanali, libs, loguj, modappend, modrm, myua, opers, ops, par, passgen, pin, prenos, provera, readdvd, rmdvd, rmjob, rr, rsa, spammer, startyt, stopspam, us, and ytub
+2013-12-19T14:14:27  <DonVitoCorleone> Samo nemoj da koristis ove komande
+2013-12-19T14:14:42  <DonVitoCorleone> Ima ih raznih, nedovrsenih, za spam, malicioznih xD
+2013-12-19T14:14:49  <DonVitoCorleone> Da mi ne sjebes PC XD
+2013-12-19T14:14:58  <DonVitoCorleone> !dvd
+2013-12-19T14:14:58  <eRepublikBot> (dvd <number> <stuff>) -- Writes down a DVD <number> and all <stuff> on it to json file, structured in list.
+2013-12-19T14:15:10  <DonVitoCorleone> !rmdvd
+2013-12-19T14:15:10  <eRepublikBot> (rmdvd <dvd_number>) -- Removes DVD from list.
+2013-12-19T14:16:32  <DonVitoCorleone> !dt
+2013-12-19T14:16:32  <eRepublikBot> 19
+2013-12-19T14:17:44  <Crazy_Hospy> farming simulator, d fak? xD
+2013-12-19T14:17:50  <Crazy_Hospy> + farming simulator '13
+2013-12-19T14:17:55  <Crazy_Hospy> +g farming simulator '13
+2013-12-19T14:17:56  <KG-Bot> 1) **Farming Simulator** | Official Website (http://www.farming-simulator.com/)   2) **farming simulator 13** online HD - YouTube (http://www.youtube.com/watch%3Fv%3DNCTh5wJ_Fhc)
+2013-12-19T14:18:05  <Crazy_Hospy> lolz
+2013-12-19T14:18:46  <DonVitoCorleone> !ops
+2013-12-19T14:18:46  <eRepublikBot> (ops <no arguments>) -- Gives list of channel ops
+2013-12-19T14:18:51  <DonVitoCorleone> !opers
+2013-12-19T14:18:51  <eRepublikBot> eRepublikBot, x-bot, DonVitoCorleone, KG-Bot
+2013-12-19T14:19:33  <DonVitoCorleone> !passgen
+2013-12-19T14:19:33  <eRepublikBot> (passgen <length>) -- Generates password for desired <length>
+2013-12-19T14:19:37  <DonVitoCorleone> !passgen 150
+2013-12-19T14:19:37  <eRepublikBot> Your password is nn4(ogj|-v21voz{|i8@z>uf2tgknaphc<#(((:%(aa2xg2(@bj3*#>8%1>7g<$h>:jzk5zp<*tc8cu*p86n{@@vrk99*-8-2f?4!$yd*-8}wqeipve>p>gn(|6#)i%*?z#xvif*{son8x3bp3yz)d
+2013-12-19T14:19:53  <DonVitoCorleone> !rsa
+2013-12-19T14:21:33  <DonVitoCorleone> !pin
+2013-12-19T14:21:33  <eRepublikBot> (pin <name>) -- PINGS <name> and return reply
+2013-12-19T14:21:37  <DonVitoCorleone> !pin KG-Bot
+2013-12-19T14:21:38  <eRepublikBot> True
+2013-12-19T14:21:39  <eRepublikBot> plugins
+2013-12-19T14:22:35  <DonVitoCorleone> !jobs
+2013-12-19T14:22:57  <DonVitoCorleone> !myua
+2013-12-19T14:22:59  <eRepublikBot> My user agent is: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+2013-12-19T14:23:00  <eRepublikBot> Done checking.
+2013-12-19T14:28:00  <Crazy_Hospy> ovo skini, extra je xD
+2013-12-19T14:28:00  <Crazy_Hospy> http://www.surgeonsimulator2013.com/
+2013-12-19T14:28:01  <KG-Bot> Title: Surgeon Simulator 2013 | The darkly humorous over-the-top operation sim game (at www.surgeonsimulator2013.com)
+2013-12-19T16:08:07  <Crazy_Hospy> DonVitoCorleone
+2013-12-19T16:08:35  <Crazy_Hospy> aj mi izvuci sta tacno da stavim rucno u Adblockplus da blokira ovo govno, otislo mi vec 15 golda -_-
+2013-12-19T16:09:17  <DonVitoCorleone> Sta da blokira?
+2013-12-19T16:09:54  <Crazy_Hospy> http://prntscr.com/2ccm8k
+2013-12-19T16:09:55  <KG-Bot> Title: Screenshot by Lightshot (at prntscr.com)
+2013-12-19T16:09:57  <Crazy_Hospy> power spin
+2013-12-19T16:11:02  <DonVitoCorleone> brb
+2013-12-19T16:16:22  <DonVitoCorleone> A zasto bi blokirao ako nije obavezno da igras?
+2013-12-19T16:17:43  <Crazy_Hospy> jer sam idiot i bacio sam vec 15 golda na to sranje :D ali neka, blokirao sam, pa cu svaki dan unblok za free spin, pa opet blok
+2013-12-19T16:18:41  * DonVitoCorleone is Laughing Out Loud
+2013-12-19T16:19:12  <DonVitoCorleone> Nemas svoje JA
+2013-12-19T16:19:41  <Crazy_Hospy> imam gembling problem, iako je ovo vise kolo srece sto ne smatram gejmblingom xD
+2013-12-19T16:21:48  <DonVitoCorleone> HaHaHaHa
+2013-12-19T16:27:30  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2013-12-19T18:57:31  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2013-12-19T19:05:01  *** Crazy_Hospy is now known as Crazy_Hospy_Busy
+2013-12-20T01:07:14  *** Crazy_Hospy_Busy is now known as Crazy_Hospy
+2013-12-20T01:07:19  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2013-12-20T03:32:30  <DonVitoCorleone> .link Cholan
+2013-12-20T03:32:30  <eRepublik> Error: not found.
+2013-12-20T03:32:32  <eRepublikBot>  Link: http://www.erepublik.com/en/citizen/profile/6042152
+2013-12-20T03:32:34  <KG-Bot> Title: Cholan II - Citizen of The New World (at www.erepublik.com)
+2013-12-20T03:32:37  <DonVitoCorleone> .link Cholan -h
+2013-12-20T03:32:37  <eRepublik> Error: Citizen not found or not included in database
+2013-12-20T03:32:38  <eRepublikBot> Maintenance, we'll be back in 24h to 96h max, sorry but chicken must try to find its head... just kidding man, this citizen doesn't exist or you have put quotes around name or used _ for space, you don't have to use those 2, just citizen name exact as it is.
+2013-12-20T03:32:46  <DonVitoCorleone> .link -h Cholan
+2013-12-20T03:32:47  <eRepublik> Error: Citizen not found or not included in database
+2013-12-20T03:32:48  <eRepublikBot> Maintenance, we'll be back in 24h to 96h max, sorry but chicken must try to find its head... just kidding man, this citizen doesn't exist or you have put quotes around name or used _ for space, you don't have to use those 2, just citizen name exact as it is.
+2013-12-20T03:32:56  <DonVitoCorleone> .help
+2013-12-20T03:32:56  <eRepublikBot> (help [<plugin>] [<command>]) -- This command gives a useful description of what <command> does. <plugin> is only necessary if the command is in more than one plugin. 
+2013-12-20T03:33:03  <DonVitoCorleone> .help eRepublikBot
+2013-12-20T03:33:08  <DonVitoCorleone> .help eRepublik
+2013-12-20T03:33:20  <DonVitoCorleone> .help eRepublik link
+2013-12-20T03:33:28  <DonVitoCorleone> .help link
+2013-12-20T03:33:28  <eRepublikBot> (link <name>) -- Returns citizen profile link
+2013-12-20T03:33:46  <DonVitoCorleone> .link -n Cholan
+2013-12-20T03:33:46  <eRepublik> Error: not found.
+2013-12-20T03:33:47  <eRepublikBot> Maintenance, we'll be back in 24h to 96h max, sorry but chicken must try to find its head... just kidding man, this citizen doesn't exist or you have put quotes around name or used _ for space, you don't have to use those 2, just citizen name exact as it is.
+2013-12-20T03:34:00  <DonVitoCorleone> .link Cholan -n
+2013-12-20T03:34:01  <eRepublik> Error: not found.
+2013-12-20T03:34:02  <eRepublikBot> Maintenance, we'll be back in 24h to 96h max, sorry but chicken must try to find its head... just kidding man, this citizen doesn't exist or you have put quotes around name or used _ for space, you don't have to use those 2, just citizen name exact as it is.
+2013-12-20T03:35:38  <DonVitoCorleone> +erep link Cholan
+2013-12-20T03:35:39  <KG-Bot>  Link: http://www.erepublik.com/en/citizen/profile/6042152
+2013-12-20T09:25:34  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2013-12-20T09:25:47  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2013-12-20T14:31:20  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2013-12-20T14:50:29  *** Crazy_Hospy is now known as Crazy_Hospy_Busy
+2013-12-20T15:35:56  <DonVitoCorleone> Crazy_Hospy_Busy,
+2013-12-20T15:36:54  <DonVitoCorleone> Javi se kad dodjes, imam nesto lepo za tebe :)
+2013-12-20T15:54:16  <DonVitoCorleone> +img
+2013-12-20T15:54:17  <KG-Bot> (img <keyword>) -- Queries imagesdotgoogledotcom for desired <keyword> and returns first 3 results
+2013-12-20T15:54:24  <DonVitoCorleone> +img Python Modules
+2013-12-20T15:54:25  <KG-Bot> Estimated images count is: 1870000. Displaying first 3 images below.
+2013-12-20T15:54:26  <KG-Bot> 1.) Title: Compiling Python Packages with IronPython - Matt Ward - Image Link: http://community.sharpdevelop.net/photos/mattward/images/original/IronPythonModulesInReflector.aspx - Image Site: http://community.sharpdevelop.net/blogs/mattward/archive/2010/03/16/CompilingPythonPackagesWithIronPython.aspx
+2013-12-20T15:54:27  <KG-Bot> 2.) Title: Generating Python Module Dependency Graphs - Image Link: http://www.tarind.com/depgraph_small.jpg - Image Site: http://www.tarind.com/depgraph.html
+2013-12-20T15:54:28  <KG-Bot> 3.) Title: Installing Python Modules on Windows - Image Link: http://geographika.co.uk/wp-content/uploads/2010/10/image.png - Image Site: http://geographika.co.uk/installing-python-modules-on-windows
+2013-12-20T15:59:28  *** Crazy_Hospy_Busy is now known as Crazy_Hospy
+2013-12-20T16:00:01  <Crazy_Hospy> vot vot
+2013-12-20T16:00:05  <Crazy_Hospy> vot vot
+2013-12-20T16:00:21  <DonVitoCorleone> Jesi mi dobar?
+2013-12-20T16:00:24  <DonVitoCorleone> Kako PC?
+2013-12-20T16:01:50  <Crazy_Hospy> samo ono govno iskace kad se podigne sistem, inace je dobro
+2013-12-20T16:01:59  <DonVitoCorleone> http://www.hirensbootcd.org/files/Hirens.BootCD.15.2.zip
+2013-12-20T16:02:03  <DonVitoCorleone> Skini si ovo
+2013-12-20T16:02:16  <DonVitoCorleone> To koriste u PC radnjama za popravke racunara ;)
+2013-12-20T16:02:21  <DonVitoCorleone> I masno ti naplate xD
+2013-12-20T16:02:58  <Crazy_Hospy> ta sta je bolje od formata xD
+2013-12-20T16:04:27  <DonVitoCorleone> Veruj mi, ovo je extra stvar
+2013-12-20T16:04:33  <DonVitoCorleone> Sa ovim sam ja uzeo para i para
+2013-12-20T16:04:59  <DonVitoCorleone> Zovne me covek kaze zabokiralo sve, virusi, ne moze da upali komp nikako, ni safe mode nista
+2013-12-20T16:05:26  <DonVitoCorleone> Ja dodjem, uzmem komp, donesem kuci, ucitam OS sa ovog cd -a, ocitism viruse i naplatim 15 EUR :)
+2013-12-20T16:05:48  <Crazy_Hospy> pa fino :D
+2013-12-20T16:06:14  <Crazy_Hospy> koji je fazon, ekstrakt pa opet brn kao kubuntu sto sam narezao?
+2013-12-20T16:06:14  <DonVitoCorleone> Pa to ti rade i u PC sopovima, samo sto im ti odneses PC umesto da dodju po njega xD
+2013-12-20T16:06:28  <DonVitoCorleone> Imas objasnjenje kako se radi
+2013-12-20T16:06:38  <Crazy_Hospy> k
+2013-12-20T16:06:41  <Crazy_Hospy> tenk ju ^_^
+2013-12-20T16:06:45  <DonVitoCorleone> Ma nista
+2013-12-20T16:06:59  <DonVitoCorleone> Nisi mi konkurencija jer ne zivis u blizini pa mogu da ti dam xD
+2013-12-20T16:07:11  <DonVitoCorleone> Inace ovo nikome ne dajem xD
+2013-12-23T16:56:00  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #multi
+2013-12-23T16:56:00  <x-bot> [eRepublikBot] [20:51:29] <God_of_Blood> da li ima tvoh bot komande za ona pitanja [20:51:39] <DonVitoCorleone> Koja pitanja? o-O[20:51:54] <God_of_Blood> a ona sranja kakos e zove [20:52:07] <DonVitoCorleone> Kviz? [20:52:16] <God_of_Blood> kiviz jebo ga ti
+2013-12-23T16:56:00  *** x-bot sets mode: +qo eRepublikBot eRepublikBot
+2013-12-23T16:56:05  <DonVitoCorleone> Crazy_Hospy, jes tu?
+2013-12-23T17:29:38  <Crazy_Hospy> nau aj em
+2013-12-23T17:32:15  <DonVitoCorleone> +odw weapons 7 rs
+2013-12-23T17:32:20  <KG-Bot> Profitability per employee in q7 weapons factory is: 18.7654, paycheck: 28.04, tank price: 12.99, raw price: 0.05, vat: 0.03.
+2013-12-23T18:35:24  *** Crazy_Hospy is now known as Crazy_Hospy_Busy
+2013-12-24T00:22:45  *** Crazy_Hospy_Busy is now known as Crazy_Hospy
+2013-12-24T01:18:17  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2013-12-24T02:02:50  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2013-12-24T02:12:11  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #multi
+2013-12-24T02:12:11  <x-bot> [KG-Bot] [20:51:29] <God_of_Blood> da li ima tvoh bot komande za ona pitanja [20:51:39] <DonVitoCorleone> Koja pitanja? o-O[20:51:54] <God_of_Blood> a ona sranja kakos e zove [20:52:07] <DonVitoCorleone> Kviz? [20:52:16] <God_of_Blood> kiviz jebo ga ti
+2013-12-24T02:12:11  *** x-bot sets mode: +qo KG-Bot KG-Bot
+2014-01-30T13:49:08  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #multi
+2014-01-30T13:49:08  <x-bot> [eRepublikBot] [20:51:29] <God_of_Blood> da li ima tvoh bot komande za ona pitanja [20:51:39] <DonVitoCorleone> Koja pitanja? o-O[20:51:54] <God_of_Blood> a ona sranja kakos e zove [20:52:07] <DonVitoCorleone> Kviz? [20:52:16] <God_of_Blood> kiviz jebo ga ti
+2014-01-30T13:49:08  *** x-bot sets mode: +qo eRepublikBot eRepublikBot
+2014-01-30T13:49:11  <DonVitoCorleone> !reload ERep
+2014-01-30T13:49:13  <eRepublikBot> Done.
+2014-01-30T13:49:24  <DonVitoCorleone> !battles
+2014-01-30T13:49:31  <DonVitoCorleone> !erep battles
+2014-01-30T13:49:46  <DonVitoCorleone> !reload ERep
+2014-01-30T13:49:46  <eRepublikBot> Done.
+2014-01-30T13:49:47  <DonVitoCorleone> !erep battles
+2014-01-30T13:50:27  <DonVitoCorleone> !reload ERep
+2014-01-30T13:50:27  <eRepublikBot> Done.
+2014-01-30T13:50:28  <DonVitoCorleone> !erep battles
+2014-01-30T13:50:51  <DonVitoCorleone> !reload ERep
+2014-01-30T13:50:51  <eRepublikBot> Done.
+2014-01-30T13:50:53  <DonVitoCorleone> !erep battles
+2014-01-30T13:50:55  <eRepublikBot> Right now there are these active battles: [, 4, 8, 2, 9, 4, ,,  , 4, 8, 2, 9, 6, ,,  , 4, 8, 2, 9, 8, ,,  , 4, 8, 2, 9, 9, ,,  , 4, 8, 3, 0, 1, ,,  , 4, 8, 3, 0, 2, ,,  , 4, 8, 3, 0, 3, ,,  , 4, 8, 3, 0, 4, ,,  , 4, 8, 3, 0, 5, ,,  , 4, 8, 3, 0, 6, ,,  , 4, 8, 3, 0, 7, ,,  , 4, 8, 3, 0, 8, ,,  , 4, 8, 3, 0, 9, ,,  , 4, 8, 3, 1, 0, ,,  , 4, 8, 3, 1, 1, ,,  , 4, 8, 3, 1, 2, ,,  , 4,
+2014-01-30T13:50:56  <eRepublikBot> 8, 3, 1, 3, ,,  , 4, 8, 3, 1, 4, ,,  , 4, 8, 3, 1, 5, ,,  , 4, 8, 3, 1, 6, ,,  , 4, 8, 3, 1, 7, ,,  , 4, 8, 3, 1, 8, ], use +battle <battle-ID> to see more info about specific battle.
+2014-01-30T13:51:11  <DonVitoCorleone> !reload ERep
+2014-01-30T13:51:11  <eRepublikBot> Done.
+2014-01-30T13:51:12  <DonVitoCorleone> !erep battles
+2014-01-30T13:52:55  <DonVitoCorleone> !reload ERep
+2014-01-30T13:52:55  <eRepublikBot> Done.
+2014-01-30T13:52:56  <DonVitoCorleone> !erep battles
+2014-01-30T13:53:15  <DonVitoCorleone> !reload ERep
+2014-01-30T13:53:15  <eRepublikBot> Done.
+2014-01-30T13:53:16  <DonVitoCorleone> !erep battles
+2014-01-30T13:53:33  <DonVitoCorleone> !reload ERep
+2014-01-30T13:53:33  <eRepublikBot> Done.
+2014-01-30T13:53:35  <DonVitoCorleone> !erep battles
+2014-01-30T13:53:57  <DonVitoCorleone> !reload ERep
+2014-01-30T13:53:57  <eRepublikBot> Done.
+2014-01-30T13:53:58  <DonVitoCorleone> !erep battles
+2014-01-30T13:54:13  <DonVitoCorleone> !reload ERep
+2014-01-30T13:54:13  <eRepublikBot> Done.
+2014-01-30T13:54:14  <DonVitoCorleone> !erep battles
+2014-01-30T13:54:36  <DonVitoCorleone> !reload ERep
+2014-01-30T13:54:36  <eRepublikBot> Done.
+2014-01-30T13:54:37  <DonVitoCorleone> !erep battles
+2014-01-30T13:54:52  <DonVitoCorleone> !reload ERep
+2014-01-30T13:54:52  <eRepublikBot> Done.
+2014-01-30T13:54:53  <DonVitoCorleone> !erep battles
+2014-01-30T13:55:05  <DonVitoCorleone> !reload ERep
+2014-01-30T13:55:05  <eRepublikBot> Done.
+2014-01-30T13:55:06  <DonVitoCorleone> !erep battles
+2014-01-30T13:55:08  <eRepublikBot> Right now there are these active battles: 48294, 48296, 48298, 48299, 48301, 48302, 48303, 48304, 48305, 48306, 48307, 48308, 48309, 48310, 48311, 48312, 48313, 48314, 48315, 48316, 48317, 48318, 48319, use +battle <battle-ID> to see more info about specific battle.
+2014-01-30T13:59:43  <DonVitoCorleone> +battle 48294
+2014-01-30T13:59:45  <KG-Bot> Region: Al Jawf, Country: Saudi Arabia, Link: http://www.erepublik.com/en/military/battlefield/48294, Attacker Country: Saudi Arabia, Attacker Points; Total: 46, D1 Points: 7, D2: 6, D3: 18, D4: 15, Defender Country: Israel, Defender Points; Total: 75, D1: 4, D2: 16, D3: 15, D4: 40.
+2014-01-30T14:23:01  <DonVitoCorleone> !reload ERep
+2014-01-30T14:23:13  <DonVitoCorleone> !load ERep
+2014-01-30T14:23:48  <DonVitoCorleone> !load ERep
+2014-01-30T14:23:48  <eRepublikBot> Done.
+2014-01-30T14:23:53  <DonVitoCorleone> !erep battles
+2014-01-30T14:23:55  <eRepublikBot> Right now there are these active battles: 48294, 48296, 48298, 48299, 48301, 48304, 48305, 48306, 48307, 48308, 48309, 48310, 48311, 48312, 48313, 48314, 48315, 48316, 48317, 48318, 48319, use +battle <battle-ID> to see more info about specific battle.
+2014-01-30T14:24:01  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:25:23  <DonVitoCorleone> !reload ERep
+2014-01-30T14:25:23  <eRepublikBot> Done.
+2014-01-30T14:25:24  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:26:12  <DonVitoCorleone> !reload ERep
+2014-01-30T14:26:12  <eRepublikBot> Done.
+2014-01-30T14:26:13  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:26:18  <eRepublikBot> Ooooops, something went wrong. Please try again later.
+2014-01-30T14:26:47  <DonVitoCorleone> !reload ERep
+2014-01-30T14:26:47  <eRepublikBot> Done.
+2014-01-30T14:26:49  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:26:52  <eRepublikBot> Ooooops, something went wrong. Please try again later.
+2014-01-30T14:27:14  <DonVitoCorleone> !reload ERep
+2014-01-30T14:27:14  <eRepublikBot> Done.
+2014-01-30T14:27:15  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:27:35  <DonVitoCorleone> !reload ERep
+2014-01-30T14:27:35  <eRepublikBot> Done.
+2014-01-30T14:27:36  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:28:04  <DonVitoCorleone> !reload ERep
+2014-01-30T14:28:04  <eRepublikBot> Done.
+2014-01-30T14:28:06  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:28:22  <DonVitoCorleone> !reload ERep
+2014-01-30T14:28:22  <eRepublikBot> Done.
+2014-01-30T14:28:23  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:30:59  <DonVitoCorleone> !reload ERep
+2014-01-30T14:30:59  <eRepublikBot> Done.
+2014-01-30T14:31:00  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:31:03  <eRepublikBot> [RESISTANCE] ::: Region: Plovdiv, Link: http://www.erepublik.com/en/military/battlefield/48299 ::: Attacker Country: Bulgaria, Attacker Points; Total: 44, D1 Points/Bar/Domination: 2/4.18248757558/0, D2: 10/68.7083471632/680, D3: 12/53.9727973712/190, D4: 20/55.2192809957/480 ::: Defender Country: Romania, Defender Points; Total: 44, D1:
+2014-01-30T14:31:04  <eRepublikBot> 6/95.8175124244/680, D2: 6/31.2916528368/0, D3: 12/46.0272026288/490, D4: 20/44.7807190043/200.
+2014-01-30T14:35:04  <DonVitoCorleone> !reload ERep
+2014-01-30T14:35:04  <eRepublikBot> Done.
+2014-01-30T14:35:05  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:35:21  <DonVitoCorleone> !reload ERep
+2014-01-30T14:35:21  <eRepublikBot> Done.
+2014-01-30T14:35:22  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:35:25  <eRepublikBot> [RESISTANCE] ::: Region: Plovdiv, Link: http://www.erepublik.com/en/military/battlefield/48299 ::: Attacker Country: Bulgaria, Attacker Points; Total: 44, D1 Points/Bar/Domination: 2:::.27876236542:::, D2: 10:::.7831720005:::0, D3: 12:::.8636358586:::0, D4: 20:::.5766249053:::0 ::: Defender Country:
+2014-01-30T14:35:26  <eRepublikBot> Romania, Defender Points; Total: 44, D1: 6:::.7212376346:::0, D2: 6:::.2168279995:::, D3: 12:::.1363641414:::0, D4: 20:::.4233750947:::0.
+2014-01-30T14:36:51  <DonVitoCorleone> !reload ERep
+2014-01-30T14:36:51  <eRepublikBot> Done.
+2014-01-30T14:36:53  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:36:56  <eRepublikBot> [RESISTANCE] ::: Region: Plovdiv, Link: http://www.erepublik.com/en/military/battlefield/48299 ::: Attacker Country: Bulgaria, Attacker Points; Total: 44, D1 Points/Bar/Domination: 2:::5.65749669572:::0, D2: 10:::68.7831720005:::800, D3: 12:::56.2898229523:::310, D4: 20:::55.2779217396:::600 :::
+2014-01-30T14:36:57  <eRepublikBot> Defender Country: Romania, Defender Points; Total: 44, D1: 6:::94.3425033043:::800, D2: 6:::31.2168279995:::0, D3: 12:::43.7101770477:::490, D4: 20:::44.7220782604:::200.
+2014-01-30T14:38:07  <DonVitoCorleone> !reload ERep
+2014-01-30T14:38:07  <eRepublikBot> Done.
+2014-01-30T14:38:08  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:38:11  <eRepublikBot> [RESISTANCE] ::: Region: Plovdiv, Link: http://www.erepublik.com/en/military/battlefield/48299 ::: Attacker Country: Bulgaria, Attacker Points; Total: 44, D1 Points/Bar/Domination: 2 ::: 5.65134642895 ::: 0, D2: 10 ::: 68.7831720005 ::: 820, D3: 12 ::: 56.3998017783 ::: 330, D4: 20 ::: 55.3340287733 :::
+2014-01-30T14:38:12  <eRepublikBot> 620 ::: Defender Country: Romania, Defender Points; Total: 44, D1: 6 ::: 94.348653571 ::: 820, D2: 6 ::: 31.2168279995 ::: 0, D3: 12 ::: 43.6001982217 ::: 490, D4: 20 ::: 44.6659712267 ::: 200.
+2014-01-30T14:39:51  <DonVitoCorleone> !reload ERep
+2014-01-30T14:39:51  <eRepublikBot> Done.
+2014-01-30T14:39:53  <DonVitoCorleone> !erep battle 48299
+2014-01-30T14:39:56  <eRepublikBot> [RESISTANCE] ::: Region: Plovdiv, Link: http://www.erepublik.com/en/military/battlefield/48299 ::: Attacker Country: Bulgaria, Attacker Points; Total: 44, D1 Points/Bar/Domination: 2 ::: 4.88 ::: 0, D2: 10 ::: 67.49 ::: 860, D3: 12 ::: 56.40 ::: 370, D4: 20 ::: 55.39 ::: 660 ::: Defender Country:
+2014-01-30T14:39:57  <eRepublikBot> Romania, Defender Points; Total: 44, D1: 6 ::: 95.12 ::: 860, D2: 6 ::: 32.51 ::: 0, D3: 12 ::: 43.60 ::: 490, D4: 20 ::: 44.61 ::: 200.
+2014-01-30T15:11:09  <DonVitoCorleone> !reload ERep
+2014-01-30T15:11:13  <DonVitoCorleone> !load ERep
+2014-01-30T15:13:06  <DonVitoCorleone> !load ERep
+2014-01-30T15:13:06  <eRepublikBot> Done.
+2014-01-30T15:13:14  <DonVitoCorleone> !topfight 48299
+2014-01-30T15:13:21  <eRepublikBot> Ooooops, something went wrong. Please try again later.
+2014-01-30T15:13:50  <DonVitoCorleone> !reload ERep
+2014-01-30T15:13:50  <eRepublikBot> Done.
+2014-01-30T15:13:51  <DonVitoCorleone> !topfight 48299
+2014-01-30T15:14:22  <DonVitoCorleone> !reload ERep
+2014-01-30T15:14:22  <eRepublikBot> Done.
+2014-01-30T15:14:23  <DonVitoCorleone> !topfight 48299
+2014-01-30T15:14:28  <eRepublikBot> Attacker Hero D1; Attacker Hero Name: Con Mi Arte ..., Attacker Hero Citizenship: Romania, Attacker Hero Kills: 12, Attacker Hero Damage: 300,000 ::: Attacker Hero D2; Attacker Hero Name: tulumbichka, Attacker Hero Citizenship: Romania, Attacker Hero Kills: 8, Attacker Hero Damage: 1,689,925 ::: Attacker Hero D3; Attacker Hero Name:
+2014-01-30T15:14:29  <eRepublikBot> NeoXD, Attacker Hero Citizenship: Romania, Attacker Hero Kills: 26, Attacker Hero Damage: 6,427,800 ::: Attacker Hero D4; Attacker Hero Name: Mihail Stefa..., Attacker Hero Citizenship: Romania, Attacker Hero Kills: 71, Attacker Hero Damage: 21,445,880 ::::::::: Defender Hero D1; Defender Hero Name: NonStop.Dark, Defender Hero (2 more messages)
+2014-01-30T15:14:33  <DonVitoCorleone> !more
+2014-01-30T15:14:33  <eRepublikBot> Citizenship: Romania, Defender Hero Kills: 89, Defender Hero Damage: 161,595 ::: Defender Hero D2; Defender Hero Name: Ippolyth, Defender Hero Citizenship: Romania, Defender Hero Kills: 14, Defender Hero Damage: 1,291,345 ::: Defender Hero D3; Defender Hero Name: Capriciu, Defender Hero Citizenship: Romania, Defender Hero Kills: 20, (1 more message)
+2014-01-30T15:14:34  <DonVitoCorleone> !more
+2014-01-30T15:14:34  <eRepublikBot> Defender Hero Damage: 7,179,916 ::: Defender Hero D4; Defender Hero Name: Dio SEP, Defender Hero Citizenship: Romania, Defender Hero Kills: 502, Defender Hero Damage: 66,181,752
+2014-01-30T19:30:41  <DonVitoCorleone> !reload ERep
+2014-01-30T19:31:03  <DonVitoCorleone> !load ERep
+2014-01-30T19:31:03  <eRepublikBot> Done.
+2014-01-30T19:32:37  <DonVitoCorleone> !nrh
+2014-01-30T19:32:38  <eRepublikBot> Corleone Michael is National Force, Strength: 12117, needs to make 2868630 damage and to hit 270 times with q7 weapons to next rank, which is National Force*.
+2014-01-30T19:34:37  <DonVitoCorleone> !nrh ll
+2014-01-30T19:34:38  <eRepublikBot> Maintenance, we'll be back in 24h to 96h max, sorry but chicken must try to find its head... just kidding man, this citizen doesn't exist or you have put quotes around name or used _ for space, you don't have to use those 2, just citizen name exact as it is.
+2014-01-30T19:35:00  <DonVitoCorleone> !fc
+2014-01-30T19:35:05  <DonVitoCorleone> !erep fc
+2014-01-30T19:35:27  <DonVitoCorleone> !erep fc
+2014-01-30T19:35:28  <eRepublikBot> Corleone Michael is National Force, and he hits; Q0: 3442, Q1: 4130, Q2: 4819, Q3: 5507, Q4: 6196, Q5: 6884, Q6: 7573, Q7: 10326
+2014-01-30T19:35:38  <DonVitoCorleone> !erep fc kk
+2014-01-30T19:43:00  <DonVitoCorleone> !reload ERep
+2014-01-30T19:43:00  <eRepublikBot> Done.
+2014-01-30T19:43:02  <DonVitoCorleone> !erep fc kk
+2014-01-30T19:43:02  <eRepublikBot> You can't use less than 3 characters for <name>.
+2014-01-30T19:43:06  <DonVitoCorleone> !erep fc kkk
+2014-01-30T19:43:06  <eRepublikBot> You can't use less than 3 characters for <name>.
+2014-01-30T19:43:10  <DonVitoCorleone> !erep fc kkkk
+2014-01-30T19:43:10  <eRepublikBot> You can't use less than 3 characters for <name>.
+2014-01-30T19:43:33  <DonVitoCorleone> !reload ERep
+2014-01-30T19:43:33  <eRepublikBot> Done.
+2014-01-30T19:43:35  <DonVitoCorleone> !erep fc kkkk
+2014-01-30T19:43:37  <eRepublikBot> kkkk00 is Recruit, and he hits; Q0: 12, Q1: 14, Q2: 16, Q3: 19, Q4: 21, Q5: 24, Q6: 26, Q7: 36
+2014-01-30T19:43:40  <DonVitoCorleone> !erep fc kk
+2014-01-30T19:43:40  <eRepublikBot> You can't use less than 3 characters for <name>.
+2014-01-30T19:43:43  <DonVitoCorleone> !erep fc kkk
+2014-01-30T19:43:44  <eRepublikBot> kkk kleon is Recruit, and he hits; Q0: 12, Q1: 14, Q2: 16, Q3: 19, Q4: 21, Q5: 24, Q6: 26, Q7: 36
+2014-01-30T19:43:50  <DonVitoCorleone> !erep fc
+2014-01-30T19:43:51  <eRepublikBot> Corleone Michael is National Force, and he hits; Q0: 3442, Q1: 4130, Q2: 4819, Q3: 5507, Q4: 6196, Q5: 6884, Q6: 7573, Q7: 10326
+2014-01-30T19:43:55  <DonVitoCorleone> !erep fc DonVitoCorleone
+2014-01-30T19:43:57  <eRepublikBot> DonVitoCorleone00 is Recruit, and he hits; Q0: 12, Q1: 14, Q2: 16, Q3: 19, Q4: 21, Q5: 24, Q6: 26, Q7: 36
+2014-01-30T19:44:23  <DonVitoCorleone> !reload ERep
+2014-01-30T19:44:23  <eRepublikBot> Done.
+2014-01-30T19:44:24  <DonVitoCorleone> !erep fc DonVitoCorleone
+2014-01-30T19:44:48  <DonVitoCorleone> !reload ERep
+2014-01-30T19:44:48  <eRepublikBot> Done.
+2014-01-30T19:44:49  <DonVitoCorleone> !erep fc DonVitoCorleone
+2014-01-30T19:44:50  <eRepublikBot> Corleone Michael is National Force, and he hits; Q0: 3442, Q1: 4130, Q2: 4819, Q3: 5507, Q4: 6196, Q5: 6884, Q6: 7573, Q7: 10326
+2014-01-30T19:45:25  <DonVitoCorleone> !erep fc asfwqfq
+2014-01-30T19:45:26  <eRepublikBot> Ooooops, something went wrong. Please try again later.
+2014-01-30T19:49:51  <DonVitoCorleone> !reload ERep
+2014-01-30T19:51:02  <DonVitoCorleone> !load ERep
+2014-01-30T19:57:09  <DonVitoCorleone> !load ERep
+2014-01-30T19:57:32  <DonVitoCorleone> !load ERep
+2014-01-30T19:57:32  <eRepublikBot> Done.
+2014-01-30T19:57:37  <DonVitoCorleone> !dmg
+2014-01-30T19:57:51  <DonVitoCorleone> !reload ERep
+2014-01-30T19:57:51  <eRepublikBot> Done.
+2014-01-30T19:57:52  <DonVitoCorleone> !dmg
+2014-01-30T19:57:53  <eRepublikBot> Corleone Michael can make 10326 damage with 1 hit(s), with q7 weapon. He can make 15489 damage with 1 hit(s), with buster.
+2014-01-30T19:58:20  <DonVitoCorleone> !dmg 150
+2014-01-30T19:58:21  <eRepublikBot> Corleone Michael can make 1548981 damage with 150 hit(s), with q7 weapon. He can make 2323494 damage with 150 hit(s), with buster.
+2014-01-30T19:58:47  <DonVitoCorleone> !dmg 150 kk
+2014-01-30T19:58:47  <eRepublikBot> You can't use less than 3 characters for <name>.
+2014-01-30T19:58:50  <DonVitoCorleone> !dmg 150 kkk
+2014-01-30T19:58:51  <eRepublikBot> kkk kleon can make 5400 damage with 150 hit(s), with q7 weapon. He can make 8100 damage with 150 hit(s), with buster.
+2014-01-30T20:05:23  <DonVitoCorleone> !reload ERep
+2014-01-30T20:05:39  <DonVitoCorleone> !load ERep
+2014-01-30T20:05:39  <eRepublikBot> Done.
+2014-01-30T20:05:46  <DonVitoCorleone> !erep info
+2014-01-30T20:05:47  <eRepublikBot> Name: Corleone Michael, Birth: 2012-09-02, Region: Lombardy - Italy, Citizenship: Serbia, Lvl: 30, Exp: 26739, Strength: 12117, Rank: National Force, Rank Points: 5513137, Points To Next Rank: 286,863, MU: Kraljeva Garda - nd Commander, Party: Ujedinjena eSrbija - Party Member, News: Sluzbeni SMU glasnik, Top Damage: 4,580,000 since
+2014-01-30T20:05:48  <eRepublikBot> 2014-01-25, Achieved while trying to defend Apulia against Italy on day 2,258, True Patriot: 47,620,194 since 2012-04-26
+2014-01-30T20:05:57  <DonVitoCorleone> !erep info Plato
+2014-01-30T20:05:59  <eRepublikBot> Name: Plato, Birth: 2007-06-04, Region: Attica - Greece, Citizenship: Switzerland, Lvl: 27, Exp: 10324, Strength: 1068, Rank: Captain**, Rank Points: 9892, Points To Next Rank: 2,108, MU: Isn't member of any MU - Isn't member of any MU, Party: Isn't member of any party - Isn't member of any party, News: eRepublik Insider, Top Damage: Didn't
+2014-01-30T20:06:00  <eRepublikBot> fight in any battle yet since Didn't fight in any battle yet, Didn't fight in any battle yet, True Patriot: Doesn't have TP medal yet since Doesn't have TP medal yet
+2014-01-30T20:07:00  <DonVitoCorleone> !reload ERep
+2014-01-30T20:07:00  <eRepublikBot> Done.
+2014-01-30T20:07:01  <DonVitoCorleone> !erep info Plato
+2014-01-30T20:07:03  <eRepublikBot> Name: Plato, Birth: 2007-06-04, Region: Attica - Greece, Citizenship: Switzerland, Lvl: 27, Exp: 10324, Strength: 1068, Rank: Captain**, Rank Points: 9892, Points To Next Rank: 2,108, MU: N/A - N/A, Party: N/A - N/A, News: eRepublik Insider, Top Damage: N/A since N/A, N/A, True Patriot: N/A since N/A 
+2014-01-30T20:10:48  <DonVitoCorleone> !reload ERep
+2014-01-30T20:10:48  <eRepublikBot> Done.
+2014-01-30T20:10:53  <DonVitoCorleone> !erep medals
+2014-01-30T20:10:54  <eRepublikBot> Congressman: 1, Media Mogul: 0, Hard Worker: 16, Top Fighter: 0, True Patriot: 11, Battle Hero: 7, Super Soldier: 48, Mercenary: 0, Campaign Hero: 0, Resistance Hero: 0, Country President: 0, Society Builder: 0, Freedom Fighter: 0. Total: 83
+2014-01-30T20:11:05  <DonVitoCorleone> !erep medals Plato
+2014-01-30T20:11:06  <eRepublikBot> Congressman: 1, Media Mogul: 142, Hard Worker: 1, Top Fighter: 0, True Patriot: 0, Battle Hero: 0, Super Soldier: 4, Mercenary: 0, Campaign Hero: 0, Resistance Hero: 0, Country President: 1, Society Builder: 1, Freedom Fighter: 0. Total: 150
+2014-01-30T20:17:31  <DonVitoCorleone> !reload ERep
+2014-01-30T20:17:49  <DonVitoCorleone> !load ERep
+2014-01-30T20:17:49  <eRepublikBot> Done.
+2014-01-30T20:17:54  <DonVitoCorleone> !erep link
+2014-01-30T20:17:55  <eRepublikBot> Corleone Michael's profile link: http://www.erepublik.com/en/citizen/profile/6476534
+2014-01-30T20:17:56  <KG-Bot> Title: Corleone Michael - Citizen of The New World (at www.erepublik.com)
+2014-01-30T20:18:00  <DonVitoCorleone> !erep link Plato
+2014-01-30T20:18:01  <eRepublikBot> Plato's profile link: http://www.erepublik.com/en/citizen/profile/2
+2014-01-30T20:18:02  <KG-Bot> Title: Plato - Citizen of The New World (at www.erepublik.com)
+2014-01-30T20:18:05  <DonVitoCorleone> !erep link kkk
+2014-01-30T20:18:06  <eRepublikBot> kkk kleon's profile link: http://www.erepublik.com/en/citizen/profile/6504252
+2014-01-30T20:18:08  <KG-Bot> Title: kkk kleon - Citizen of The New World (at www.erepublik.com)
+2014-01-30T20:18:10  <DonVitoCorleone> !erep link kk
+2014-01-30T20:18:10  <eRepublikBot> You can't use less than 3 characters for <name>.
+2014-01-30T20:22:03  <DonVitoCorleone> !reload ERep
+2014-01-30T20:22:03  <eRepublikBot> Done.
+2014-01-30T20:22:07  <DonVitoCorleone> !avatar
+2014-01-30T20:22:24  <DonVitoCorleone> !reload ERep
+2014-01-30T20:22:24  <eRepublikBot> Done.
+2014-01-30T20:22:25  <DonVitoCorleone> !avatar
+2014-01-30T20:22:26  <eRepublikBot> Corleone Michael's avatar link: http://static.erepublik.net/uploads/avatars/Citizens/2012/09/02/df51d0ff55ecfa33577fad8f928b223c.jpg
+2014-01-30T20:22:42  <DonVitoCorleone> !avatar DrazaNS
+2014-01-30T20:22:44  <eRepublikBot> DrazaNS's avatar link: http://static.erepublik.net/uploads/avatars/Citizens/2011/12/28/930894c496bb242dc8f0d049c4ba139b.jpg
+2014-01-30T20:24:36  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2014-01-30T20:25:53  <DonVitoCorleone> !reload ERep
+2014-01-30T20:25:53  <eRepublikBot> Done.
+2014-01-30T20:26:00  <DonVitoCorleone> !donate
+2014-01-30T20:26:00  <eRepublikBot> Donate Items: http://www.erepublik.com/en/economy/donate-items/6476534 Donate Money: http://www.erepublik.com/en/economy/donate-money/6476534
+2014-01-30T20:26:01  <KG-Bot> Title: Free Online Multiplayer Strategy Game | eRepublik (at www.erepublik.com)
+2014-01-30T20:26:16  <DonVitoCorleone> !donate Plato
+2014-01-30T20:26:17  <eRepublikBot> Donate Items: http://www.erepublik.com/en/economy/donate-items/2 Donate Money: http://www.erepublik.com/en/economy/donate-money/2
+2014-01-30T20:26:19  <KG-Bot> Title: Free Online Multiplayer Strategy Game | eRepublik (at www.erepublik.com)
+2014-01-30T20:26:20  <DonVitoCorleone> !donate Pl
+2014-01-30T20:26:20  <eRepublikBot> You can't use less than 3 characters for <name>.
+2014-01-30T20:37:23  <DonVitoCorleone> !reload ERep
+2014-01-30T20:37:23  <eRepublikBot> Done.
+2014-01-30T20:37:30  <DonVitoCorleone> !nrh
+2014-01-30T20:37:31  <eRepublikBot> Corleone Michael is National Force, Strength: 12117, needs to make 2868630 damage and to hit 270 times with q7 weapons to next rank, which is National Force*.
+2014-01-30T20:37:37  <DonVitoCorleone> !nrh Plato
+2014-01-30T20:37:38  <eRepublikBot> Plato is Captain**, Strength: 1068, needs to make 21080 damage and to hit 30 times with q7 weapons to next rank, which is Captain***.
+2014-01-30T20:52:51  <DonVitoCorleone> !reload ERep
+2014-01-30T20:52:51  <eRepublikBot> Done.
+2014-01-30T20:52:56  <DonVitoCorleone> !rmid Lolo
+2014-01-30T20:52:56  <eRepublikBot> Ooooops, something went wrong. Please try again later.
+2014-01-30T20:57:27  <DonVitoCorleone> !reload ERep
+2014-01-30T21:02:44  <DonVitoCorleone> !load ERep
+2014-01-30T21:02:44  <eRepublikBot> Done.
+2014-01-30T21:02:49  <DonVitoCorleone> !listusers
+2014-01-30T21:02:49  <eRepublikBot> Currently there are 1 users in my database, and their IRC nicks are: donvitocorleone.
+2014-01-30T21:02:56  <DonVitoCorleone> !listusers m
+2014-01-30T21:02:56  <eRepublikBot> %s is not in users database.
+2014-01-30T21:03:26  <DonVitoCorleone> !reload ERep
+2014-01-30T21:03:26  <eRepublikBot> Done.
+2014-01-30T21:03:27  <DonVitoCorleone> !listusers m
+2014-01-30T21:03:27  <eRepublikBot> m is not in users database.
+2014-01-30T21:03:31  <DonVitoCorleone> !listusers DonVitoCorleone
+2014-01-30T21:03:57  <DonVitoCorleone> E tako, sada krece pornic xD
+2014-01-30T21:04:19  <DonVitoCorleone> Treba sve prebaciti na KG-Bot i objasniti ljudima da moraju ponovo da linkuju profil xD
+2014-01-30T21:18:49  <DonVitoCorleone> +announce New changes are made to eRepublik plugin, linked profiles will be deleted, please link your eRepublik name with your IRC nick again if you want, command is +linkid CITIZEN-ID
+2014-01-30T21:18:53  <DonVitoCorleone> +reload ERep
+2014-01-30T21:19:13  <Crazy_Hospy> a sta si namestao?
+2014-01-30T21:19:15  <KG-Bot> Announcement from my owner (DonVitoCorleone): New changes are made to eRepublik plugin, linked profiles will be deleted, please link your eRepublik name with your IRC nick again if you want, command is +linkid CITIZEN-ID
+2014-01-30T21:19:18  <Crazy_Hospy> to ono rivrajt sto si pravio?
+2014-01-30T21:19:24  <DonVitoCorleone> Jeste
+2014-01-30T21:20:22  <Crazy_Hospy>  <Crazy_Hospy> +linkid 4693953
+2014-01-30T21:20:23  <Crazy_Hospy> [21:20:02] -KG-Bot- Error: "linkid" is not a valid command.
+2014-01-30T21:23:00  <DonVitoCorleone> Ponovi
+2014-01-30T21:23:06  <DonVitoCorleone> Nije ucitan plugin odmah
+2014-01-30T21:23:56  <Crazy_Hospy> -KG-Bot- Error: NameError: global name 'datetime' is not defined
+2014-01-30T21:24:40  <DonVitoCorleone> To to tester
+2014-01-30T21:24:45  <DonVitoCorleone> Trazi greske xD
+2014-01-30T21:24:56  <DonVitoCorleone> +reload ERep
+2014-01-30T21:24:56  <KG-Bot> Done.
+2014-01-30T21:25:28  <DonVitoCorleone> +linkid 6476534
+2014-01-30T21:25:55  <Crazy_Hospy> <Crazy_Hospy> +linkid 4693953
+2014-01-30T21:25:55  <Crazy_Hospy> [21:25:35] -KG-Bot- Error: TypeError: write_profile() takes exactly 6 arguments (4 given)
+2014-01-30T21:25:59  <Crazy_Hospy> al fejlujes :D
+2014-01-30T21:27:13  <DonVitoCorleone> 2445 linija koda
+2014-01-30T21:27:17  <DonVitoCorleone> +reload ERep
+2014-01-30T21:27:17  <KG-Bot> Done.
+2014-01-30T21:27:18  <DonVitoCorleone> +linkid 6476534
+2014-01-30T21:27:19  <KG-Bot> You have successfully linked your IRC nick DonVitoCorleone with eRepublik citizen Corleone Michael.
+2014-01-30T21:27:26  <DonVitoCorleone> +info
+2014-01-30T21:27:27  <KG-Bot> Ooooops, something went wrong. Please try again later.
+2014-01-30T21:29:35  <DonVitoCorleone> +reload ERep
+2014-01-30T21:29:37  <KG-Bot> Done.
+2014-01-30T21:29:40  <DonVitoCorleone> +linkid 6476534
+2014-01-30T21:29:41  <KG-Bot> You have successfully linked your IRC nick DonVitoCorleone with eRepublik citizen Corleone Michael.
+2014-01-30T21:29:43  <DonVitoCorleone> +info
+2014-01-30T21:33:56  <Crazy_Hospy> +linkid del 4693953
+2014-01-30T21:34:05  <Crazy_Hospy> +delid 4693953
+2014-01-30T21:34:10  <Crazy_Hospy> +del 4693953
+2014-01-30T21:34:11  <Crazy_Hospy> mars
+2014-01-30T21:34:14  <Crazy_Hospy> kako se brise?
+2014-01-30T21:35:21  <DonVitoCorleone> +reload ERep
+2014-01-30T21:35:23  <KG-Bot> Done.
+2014-01-30T21:35:32  <DonVitoCorleone> +rmid DonVitoCorleone
+2014-01-30T21:36:37  <DonVitoCorleone> +reload ERep
+2014-01-30T21:36:37  <KG-Bot> Done.
+2014-01-30T21:36:38  <DonVitoCorleone> +rmid DonVitoCorleone
+2014-01-30T21:36:39  <KG-Bot> Corleone Michael with id 6476534 is removed from database.
+2014-01-30T21:36:45  <DonVitoCorleone> +linkid 6476534
+2014-01-30T21:36:46  <KG-Bot> You have successfully linked your IRC nick DonVitoCorleone with eRepublik citizen Corleone Michael.
+2014-01-30T21:36:50  <DonVitoCorleone> +info
+2014-01-30T21:36:51  <KG-Bot> Name: Corleone Michael, Birth: 2012-09-02, Region: Lombardy - Italy, Citizenship: Serbia, Lvl: 30, Exp: 26,739, Strength: 12,117, Rank: National Force, Rank Points: 5,513,137, Points To Next Rank: 286863, MU: Kraljeva Garda - nd Commander, Party: Ujedinjena eSrbija - Party Member, News: Sluzbeni SMU glasnik, Top Damage: 4580000 since 2014-01-25,
+2014-01-30T21:36:53  <KG-Bot> Achieved while trying to defend Apulia against Italy on day 2,258, True Patriot: 47620194 since 2012-04-26
+2014-01-30T21:37:14  <DonVitoCorleone> Jos cemo posle podele da pravimo format odgovora novi :)
+2014-01-30T21:37:18  <DonVitoCorleone> +dmg
+2014-01-30T21:37:19  <KG-Bot> Corleone Michael can make 10,326 damage with 1 hit(s), with q7 weapon. He can make 15,489 damage with 1 hit(s), with buster.
+2014-01-30T21:37:24  <DonVitoCorleone> +dmg 150
+2014-01-30T21:37:25  <KG-Bot> Corleone Michael can make 1,548,981 damage with 150 hit(s), with q7 weapon. He can make 2,323,494 damage with 150 hit(s), with buster.
+2014-01-30T21:37:29  <DonVitoCorleone> +nrh
+2014-01-30T21:37:30  <KG-Bot> Corleone Michael is National Force, Strength: 12,117, needs to make 2,868,630 damage and to hit 270 times with q7 weapons to next rank, which is National Force*.
+2014-01-30T21:37:36  <DonVitoCorleone> +desc nrh
+2014-01-30T21:37:37  <KG-Bot> (nrh <name>) -- Calculates how much points you need to next rank
+2014-01-30T21:37:46  <DonVitoCorleone> Crazy_Hospy  ajde testere, znas zadatak
+2014-01-30T21:37:54  <Crazy_Hospy> +odw weapons 7 rs
+2014-01-30T21:37:56  <Crazy_Hospy> +odw weapons 7 rs 0.055
+2014-01-30T21:37:59  <Crazy_Hospy> +nrh
+2014-01-30T21:37:59  <KG-Bot> Profitability per employee in q7 weapons factory is: -5.3912, paycheck: 37.51, tank price: 18.86, raw price: 0.08, vat: 0.03.
+2014-01-30T21:38:00  <Crazy_Hospy> +info
+2014-01-30T21:38:02  <Crazy_Hospy> +fc
+2014-01-30T21:38:03  <KG-Bot> Profitability per employee in q7 weapons factory is: 64.6088, paycheck: 37.51, tank price: 18.86, raw price: 0.055, vat: 0.03.
+2014-01-30T21:38:04  <KG-Bot> Crazy Hospy is Titan*, Strength: 67,603, needs to make 18,929,661,500 damage and to hit 234,300 times with q7 weapons to next rank, which is Titan**.
+2014-01-30T21:38:04  <KG-Bot> Name: Crazy Hospy, Birth: 2011-04-13, Region: Vojvodina - Serbia, Citizenship: Serbia, Lvl: 116, Exp: 458,548, Strength: 67,603, Rank: Titan*, Rank Points: 2,107,033,850, Points To Next Rank: 1892966150, MU: Red sv.Djordja - Member, Party: N/A - N/A, News: N/A, Top Damage: 4486072421 since 2013-12-28, Achieved while successfully defending Istria and
+2014-01-30T21:38:06  <KG-Bot> Kvarner against Croatia on day 2,230, True Patriot: 19999113062 since 2012-04-26
+2014-01-30T21:38:07  <KG-Bot> Crazy Hospy is Titan*, and he hits; Q0: 26,929, Q1: 32,315, Q2: 37,702, Q3: 43,089, Q4: 48,476, Q5: 53,863, Q6: 59,249, Q7: 80,792
+2014-01-30T21:38:13  <Crazy_Hospy> +sike DonVitoCorleone
+2014-01-30T21:38:14  <KG-Bot> KG-Bot vadi svoju strucnu spravu za merenje sisica, zaviruje DonVitoCorleone u grudjnak i zakljucuje da ova osoba ima rak desne dojke.
+2014-01-30T21:38:17  <Crazy_Hospy> +izmeri DonVitoCorleone
+2014-01-30T21:38:22  <Crazy_Hospy> +pusikurac DonVitoCorleone
+2014-01-30T21:38:23  <Crazy_Hospy> :D
+2014-01-30T21:38:27  <DonVitoCorleone> Nemoj me pingovati radim podelu
+2014-01-30T21:38:28  <Crazy_Hospy> +duel Crazy_Hospy DonVitoCorleone
+2014-01-30T21:38:30  <KG-Bot> Crazy Hospy's Strength: 67,603, Lvl: 116, Exp: 458,548, Rank Points: 2,107,033,850, Medals: 649 <> DonVitoCorleone00's Strength: 0, Lvl: 1, Exp: 0, Rank Points: 0, Medals: 0 <> DonVitoCorleone00 Is LoSeR, he should delete account and start doing some dirty farmer work.
+2014-01-30T21:38:33  <Crazy_Hospy> ok
+2014-01-30T21:38:39  <Crazy_Hospy> +dmg
+2014-01-30T21:38:41  <KG-Bot> Crazy Hospy can make 80,791 damage with 1 hit(s), with q7 weapon. He can make 121,188 damage with 1 hit(s), with buster.
+2014-01-30T21:38:42  <Crazy_Hospy> +dmg 290
+2014-01-30T21:38:47  <KG-Bot> Crazy Hospy can make 23,429,455 damage with 290 hit(s), with q7 weapon. He can make 35,144,530 damage with 290 hit(s), with buster.
+2014-01-30T21:38:50  <Crazy_Hospy> +latest
+2014-01-30T21:38:50  <KG-Bot> http://www.erepublik.com/en/main/latest-updates
+2014-01-30T21:38:59  <Crazy_Hospy> +roulette
+2014-01-30T21:38:59  <KG-Bot> You've given me 5 invalid commands within the last minute; I'm now ignoring you for 10 minutes.
+2014-01-30T21:39:06  <Crazy_Hospy> whaaat? :o
+2014-01-30T21:53:28  <Crazy_Hospy> odgovori kad procitas, stara igrica, gog, nije ni bitno, jebe me minimiziranje, tj. postoji li neki nacin da je force minimizujem, kad me neko cimne na irc ili zelim da cackam browser, moram gasiti igru da bih to uradio, alt + tab ne radi, tj. kao minimizira i pojavi se browser i pomeris misa on vrati igru jebem je ja
+2014-01-30T21:54:12  <DonVitoCorleone> Win 7?
+2014-01-30T21:54:25  <Crazy_Hospy> da
+2014-01-30T21:54:56  <DonVitoCorleone> CTRL + ALT + DEL
+2014-01-30T21:55:09  <DonVitoCorleone> Odabers Task menadzer
+2014-01-30T21:56:29  <Crazy_Hospy> ce da probam
+2014-01-30T21:58:06  <Crazy_Hospy> yspeo, hvala
+2014-01-30T21:58:26  <Crazy_Hospy> inace ctrl shift i esc nece, bas mora alt i del pa tek onda task
+2014-01-30T22:00:19  <DonVitoCorleone> Pa ko ti je rekao da radis crtl shift i esc? xD
+2014-01-30T22:01:11  <Crazy_Hospy> pretpostavio sam da ce direkt task uspeti, ali prc
+2014-01-30T22:01:27  <DonVitoCorleone> :)
+2014-01-30T22:01:36  <Crazy_Hospy> btw, zvuk igre se i dalje cuje, iako je minimajzd, eni vej nat  tu?
+2014-01-30T22:03:33  <DonVitoCorleone> Tesko
+2014-01-30T22:04:04  <DonVitoCorleone> Da koristis KVIrc znao bi kako da resis, ovako jok
+2014-01-30T22:05:17  <Crazy_Hospy> kakve veze ima kvirc s igrom?
+2014-01-30T22:06:55  <DonVitoCorleone> Sta mislis kako ja svake sekunde nije vazno sta radim znam kada i gde me neko pinguje, i tu sam za 2 sekunde
+2014-01-30T22:08:42  <Crazy_Hospy> imas ovo govno highlights sto imam i ja? xD
+2014-01-30T22:10:24  <DonVitoCorleone> Imam podeseno paljenje pesme ako me neko prozove, posalje PM ili tako nesto
+2014-01-30T22:10:44  <DonVitoCorleone> A kad se upali VLC player izadje iz svega sto sam do tada radio, ako je na fullscreen
+2014-01-30T22:11:13  <Crazy_Hospy> a ako te pinguju 3 osobe u 5 sekundi?
+2014-01-30T22:11:42  <DonVitoCorleone> Pusta ponovo i opet izlazi
+2014-01-30T22:11:45  *** Crazy_Hospy is now known as Crazy_Hospy_Busy
+2014-01-30T22:11:55  <DonVitoCorleone> Ali to je upaljeno samo ako sam na necemu sto je fullscreen
+2014-01-30T22:12:13  <DonVitoCorleone> Ince je ugaseno i stavljeno da se pali preko kvirca, bez pokretanja plejera
+2014-01-30T22:13:16  <DonVitoCorleone> Posalji mi PM da pusti pesmu xD
+2014-01-30T23:36:33  *** Crazy_Hospy_Busy is now known as Crazy_Hospy_Away
+2014-01-31T04:45:15  <DonVitoCorleone> +nrh
+2014-01-31T09:06:36  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2014-01-31T09:54:32  *** Crazy_Hospy is now known as Crazy_Hospy_Busy
+2014-01-31T17:16:11  *** Crazy_Hospy_Busy is now known as Crazy_Hospy
+2014-01-31T20:18:20  *** Crazy_Hospy is now known as Crazy_Hospy_dinrtajm
+2014-01-31T20:38:13  *** Crazy_Hospy_dinrtajm is now known as Crazy_Hospy
+2014-01-31T21:21:09  <Crazy_Hospy> +odw weapons 7 rs
+2014-01-31T21:21:14  <KG-Bot> Profitability per employee in q7 weapons factory is: -6.502, paycheck: 38.03, tank price: 18.12, raw price: 0.08, vat: 0.03.
+2014-02-01T01:55:32  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2014-02-01T09:07:51  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2014-02-01T09:08:02  <Crazy_Hospy> +odw weapons 7 rs
+2014-02-01T09:08:06  <Crazy_Hospy> +odw weapons 7 rs 0.077
+2014-02-01T09:08:07  <KG-Bot> Profitability per employee in q7 weapons factory is: -11.75, paycheck: 38.04, tank price: 17.85, raw price: 0.08, vat: 0.03.
+2014-02-01T09:08:11  <KG-Bot> Profitability per employee in q7 weapons factory is: 0.25, paycheck: 38.04, tank price: 17.85, raw price: 0.077, vat: 0.03.
+2014-02-01T10:10:51  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2014-02-01T17:27:53  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2014-02-01T17:28:23  <DonVitoCorleone> Crazy_Hospy  http://b365.nstars.org/
+2014-02-01T17:28:24  <KG-Bot> Title: b365 (at b365.nstars.org)
+2014-02-01T17:28:55  <DonVitoCorleone> P.S jos je sve u dev fazi tako da nemoj jos pokusavati da igras i nemoj nikome davati link dalje
+2014-02-01T17:30:03  <Crazy_Hospy> za sada samo toto, sta ce jos biti?
+2014-02-01T17:30:23  <DonVitoCorleone> loto svakih 2 dana verovatno
+2014-02-01T17:30:27  <DonVitoCorleone> greb greb
+2014-02-01T17:30:37  <DonVitoCorleone> Mozda ubacim kladionicu pravu
+2014-02-01T17:30:42  <DonVitoCorleone> Rulet
+2014-02-01T17:30:48  <DonVitoCorleone> I jos svasta nesto xD
+2014-02-01T17:31:04  <DonVitoCorleone> Msm rulet vec postoji ali ne u tom formatu i ne na tom kanalu
+2014-02-01T17:31:36  <DonVitoCorleone> Iznajmljujem banku sedmicno, znaci ti primas uplate i dajes isplate, sve sto zaradis ide tebi, mojih je 5 golda za 7 dana banke
+2014-02-01T17:32:23  <DonVitoCorleone> Ako si zainteresovan da budes mod ili admin kazi
+2014-02-01T17:32:34  <DonVitoCorleone> Trebace mi i jednoga i drugoga, sto na forumu sto na IRC
+2014-02-01T17:38:52  <Crazy_Hospy> sta, da budem banka? xD
+2014-02-01T17:39:05  <DonVitoCorleone> o-O
+2014-02-01T17:39:09  <DonVitoCorleone> Ma jok brate
+2014-02-01T17:39:24  <DonVitoCorleone> Mod ili Admin, kakav ti banka ne budi budala xD
+2014-02-01T17:39:53  <DonVitoCorleone> Banka ako hoces da budes znaj da moras da budes min 15 sati online na IRC da bi zaradio
+2014-02-01T17:40:18  <Crazy_Hospy> pff xD btw, mozda sam ja corav a mozda bi i font mogao za koji stepen veci, sta mislis?
+2014-02-01T17:40:18  <DonVitoCorleone> Ili da napravis reklamu koja ce da pogodi sve moguce coskove jos pre nego sto rentas banku
+2014-02-01T17:41:12  <Crazy_Hospy> sitno ba http://prntscr.com/2okb3y
+2014-02-01T17:41:14  <KG-Bot> Title: Screenshot by Lightshot (at prntscr.com)
+2014-02-01T17:41:18  *** Crazy_Hospy is now known as Crazy_Hospy_Busy
+2014-02-01T17:41:46  <DonVitoCorleone> Konstantujes? xD
+2014-02-01T17:46:01  <DonVitoCorleone> A ti mislis samo font ovoga sto sam ja pisao post ili citav fonr na forumu, sva slova da se povecaju?
+2014-02-01T17:49:11  <DonVitoCorleone> Povecano Crazy_Hospy_Busy pogledaj sada
+2014-02-01T20:39:17  <Crazy_Hospy_Busy> da, mislih na tekst posta sto si napisao, sta se sada promenilo jesi li sve povecao ili si samo boldovao?
+2014-02-01T21:01:38  <DonVitoCorleone> Sve povecao
+2014-02-01T21:01:44  <DonVitoCorleone> +1 font
+2014-02-01T22:18:04  *** Crazy_Hospy_Busy is now known as Crazy_Hospy
+2014-02-01T23:53:27  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2014-02-02T09:25:21  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2014-02-02T09:28:42  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2014-02-02T14:23:43  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2014-02-02T14:27:21  *** Crazy_Hospy is now known as Crazy_Hospy_Busy
+2014-02-02T16:35:46  *** Crazy_Hospy_Busy is now known as Crazy_Hospy
+2014-02-02T16:48:57  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2014-02-02T18:21:43  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2014-02-03T00:17:55  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2014-02-03T14:01:06  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2014-02-03T14:05:49  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2014-02-03T16:29:28  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Killed (irc.uworld.se (4 joins/parts in #ir.primera within 6 seconds.)))
+2014-02-03T16:29:31  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #multi
+2014-02-03T16:29:32  <x-bot> [KG-Bot] [20:51:29] <God_of_Blood> da li ima tvoh bot komande za ona pitanja [20:51:39] <DonVitoCorleone> Koja pitanja? o-O[20:51:54] <God_of_Blood> a ona sranja kakos e zove [20:52:07] <DonVitoCorleone> Kviz? [20:52:16] <God_of_Blood> kiviz jebo ga ti
+2014-02-03T16:29:32  *** x-bot sets mode: +qo KG-Bot KG-Bot
+2014-02-03T20:04:08  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2014-02-03T22:08:15  <Crazy_Hospy> +tpb
+2014-02-03T22:08:15  <KG-Bot> (tpb <keyword>) -- Looks for keyword on The Pirate Bay and returns first 3 torrents with some basic info
+2014-02-03T23:40:02  *** Crazy_Hospy is now known as Crazy_Hospy_Away
+2014-02-04T09:07:49  *** Crazy_Hospy_Away is now known as Crazy_Hospy
+2014-02-04T12:27:37  <DonVitoCorleone> Crazy_Hospy  udji na #DonVitoCorleone tamo okupljam ljude koji mi nesto znace ovde
+2014-02-04T12:36:31  <Crazy_Hospy> aaaaaaw <3
+2014-02-04T12:36:37  <Crazy_Hospy> xD
+2014-02-04T13:37:46  <DonVitoCorleone> Crazy_Hospy  jesi zainteresovan za posao moderatora?
+2014-02-04T17:06:19  <Crazy_Hospy> na kladionici? To zvuci kao da ima mnogo posla a nemam vremena
+2014-02-04T18:11:35  <DonVitoCorleone> Ima posla da
+2014-02-04T18:11:50  <DonVitoCorleone> Ali je posle, ako krene kako treba sve moguca i Rl zarada :)
+2014-02-04T19:21:33  *** Crazy_Hospy is now known as Crazy_Hospy_brb
+2014-02-04T19:26:21  *** Crazy_Hospy_brb is now known as Crazy_Hospy
+2014-02-04T20:59:23  <Crazy_Hospy> DonVitoCorleone e, a sto ne napravis jedno 200 multija i nekako prebacis sve na 1. glavni multi nalog i ne dignes fabrika 200 i onda sa njega nekako peres lovu? :D
+2014-02-04T20:59:54  <DonVitoCorleone> Ma znas kako mi se da ulaziti svaki dan na tih 200 multija x
+2014-02-04T20:59:56  <DonVitoCorleone> xD
+2014-02-04T21:03:01  <Crazy_Hospy> jebeni fajlfaktori rejpit crkao, sad imam samo 5 downloada po ip adresi dnevno na uploaded :/
+2014-02-04T21:03:51  <Crazy_Hospy> a fazon nije fajlfactory crkao nego valjda sa tog naloga preko koga se ja kacim, treba da zavara trag, tj. da izbaci kao da skidam sa te ip adrese, medjutim on cita moju adresu i jebem ga ja ne znam, nece da pokrene kad iskipujem one silne reklame -_-
+2014-02-04T21:03:52  <DonVitoCorleone> HaHaHaHa
+2014-02-04T21:05:06  <Crazy_Hospy> e a na dinamickoj ip adresi, tj. ovo restartovanje modema sto radim, je l' moguce da se ista ip pojavi 2 puta u istom danu, na primer ako radim 20 restarta dnevno?
+2014-02-04T21:08:28  <DonVitoCorleone> Tesko ali nije nemoguce
+2014-02-04T21:10:51  <Crazy_Hospy> hmm, pitam se da li bi uspelo skidanje pomocu onih programa hidemyip ili easyhide tako nesto, da li bi skidao punom brzinom, sta mislis?
+2014-02-04T21:11:02  <DonVitoCorleone> Nope
+2014-02-04T22:03:25  <Crazy_Hospy> This file has real file size is 774487718 bytes so sorry! Currently we don't support free downloading if file size is bigger than 536870912 bytes (512 MB) on this server because we are in a lack of Uploaded.net BW! Please try again with http://rapeit.net
+2014-02-04T22:03:27  <KG-Bot> Title: Free Premium Link Generator - Unrestricted File Download | RapeIt (at rapeit.net)
+2014-02-04T22:03:31  <Crazy_Hospy> mater im jebem u dupe da im jebem mater u dupe
+2014-02-04T22:03:58  <DonVitoCorleone> HaHaHaHa
+2014-02-04T23:07:55  <Crazy_Hospy> aj em gaaaaad! muahahahahaa!
+2014-02-05T01:07:44  <DonVitoCorleone> I ja sam xD
+2014-02-05T01:07:51  <DonVitoCorleone> Ako si procitao na #Gromovnici
+2014-02-05T01:07:52  <DonVitoCorleone> xD
+2014-02-05T02:04:00  *** Crazy_Hospy is now known as Crazy_Hospy_Away

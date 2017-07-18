@@ -1,0 +1,740 @@
+2014-01-13T01:30:46  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-01-13T01:30:47  <protector> [eRepublikBot] [20:51:29] <God_of_Blood> da li ima tvoh bot komande za ona pitanja [20:51:39] <DonVitoCorleone> Koja pitanja? o-O[20:51:54] <God_of_Blood> a ona sranja kakos e zove [20:52:07] <DonVitoCorleone> Kviz? [20:52:16] <God_of_Blood> kiviz jebo ga ti
+2014-01-13T01:30:47  *** protector sets mode: +qo eRepublikBot eRepublikBot
+2014-01-13T01:30:52  <DonVitoCorleone> !load IceDice
+2014-01-13T01:30:52  <eRepublikBot> Done.
+2014-01-13T01:31:01  <DonVitoCorleone> !upisi
+2014-01-13T01:31:01  <eRepublikBot> (upisi <vojnik>) -- Upisuje vojnika u bazu.
+2014-01-13T01:31:06  <DonVitoCorleone> Ah da
+2014-01-13T01:31:29  <DonVitoCorleone> !reload IceDice
+2014-01-13T01:31:29  <eRepublikBot> Done.
+2014-01-13T01:31:38  <DonVitoCorleone> !IceDice upisi Kire 150
+2014-01-13T01:31:49  <DonVitoCorleone> Ok, prva greska :)
+2014-01-13T01:32:08  <DonVitoCorleone> Jedno slovo manjka xD
+2014-01-13T01:32:11  <DonVitoCorleone> !reload IceDice
+2014-01-13T01:32:11  <eRepublikBot> Done.
+2014-01-13T01:32:13  <DonVitoCorleone> !IceDice upisi Kire 150
+2014-01-13T01:32:20  <DonVitoCorleone> Zaboravio import xD
+2014-01-13T01:32:31  <DonVitoCorleone> !reload IceDice
+2014-01-13T01:32:31  <eRepublikBot> Done.
+2014-01-13T01:32:33  <DonVitoCorleone> !IceDice upisi Kire 150
+2014-01-13T01:32:33  <eRepublikBot> Successfully added 150 chips to Kire. He's chips account is now 150.
+2014-01-13T01:32:40  <DonVitoCorleone> !IceDice upisi Kire 351
+2014-01-13T01:32:40  <eRepublikBot> Successfully added 351 chips to Kire. He's chips account is now 501.
+2014-01-13T01:32:44  <DonVitoCorleone> :)
+2014-01-13T01:33:04  <DonVitoCorleone> ok?
+2014-01-13T01:33:07  <Rob3rtMK> da
+2014-01-13T01:33:08  *** DonVitoCorleone sets mode: -o DonVitoCorleone
+2014-01-13T01:33:11  <DonVitoCorleone> !IceDice upisi Kire 351
+2014-01-13T01:33:11  <eRepublikBot> You're not allowed to add chips because you're not OP here.
+2014-01-13T01:33:14  <DonVitoCorleone> :)
+2014-01-13T01:33:23  *** DonVitoCorleone sets mode: +o DonVitoCorleone
+2014-01-13T01:33:38  <DonVitoCorleone> !IceDice upisi Rob3rtMK 500000
+2014-01-13T01:33:38  <eRepublikBot> Successfully added 500000 chips to Rob3rtMK. He's chips account is now 500000.
+2014-01-13T01:33:41  <DonVitoCorleone> xD
+2014-01-13T01:33:46  <Kire> lool
+2014-01-13T01:34:10  <DonVitoCorleone> Odo sada napokon da pisam jbt
+2014-01-13T01:34:11  <DonVitoCorleone> xD
+2014-01-13T01:34:17  <Rob3rtMK> :D
+2014-01-13T01:36:35  <DonVitoCorleone> Jos jednu da smotam xD
+2014-01-13T01:36:38  <DonVitoCorleone> Pa cemo dalje :P
+2014-01-13T01:38:33  <markonestor> odoh ja, laku noc o/
+2014-01-13T01:38:39  <Rob3rtMK> o/
+2014-01-13T01:38:41  *** markonestor <markonestor!cgiirc@Rizon-66F0F781.dynamic.isp.telekom.rs> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2014-01-13T01:38:42  <DonVitoCorleone> ln
+2014-01-13T01:39:07  <DonVitoCorleone> Kire  dobices source kad zavrsim, nemoj da si tuzan xD
+2014-01-13T01:40:54  <DonVitoCorleone> Sta cemo dalje?
+2014-01-13T01:41:12  <DonVitoCorleone> Daj mi za jednu vrstu igre opisuj kako i sta
+2014-01-13T01:42:55  <DonVitoCorleone> +reload Misc1
+2014-01-13T01:42:58  <DonVitoCorleone> c
+2014-01-13T01:43:06  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-01-13T01:43:07  <protector> [KG-Bot] [20:51:29] <God_of_Blood> da li ima tvoh bot komande za ona pitanja [20:51:39] <DonVitoCorleone> Koja pitanja? o-O[20:51:54] <God_of_Blood> a ona sranja kakos e zove [20:52:07] <DonVitoCorleone> Kviz? [20:52:16] <God_of_Blood> kiviz jebo ga ti
+2014-01-13T01:43:07  *** protector sets mode: +qo KG-Bot KG-Bot
+2014-01-13T01:43:09  <DonVitoCorleone> +reload Misc1
+2014-01-13T01:43:11  <KG-Bot> Done.
+2014-01-13T01:45:27  <Kire> .
+2014-01-13T01:45:38  <Rob3rtMK> moze za boja
+2014-01-13T01:46:03  <Rob3rtMK> ako se padne neparen broj e crna a paren crvena
+2014-01-13T01:46:26  <Rob3rtMK> 0 povtorno se vrti
+2014-01-13T01:46:43  <Rob3rtMK> ok?
+2014-01-13T01:47:01  <DonVitoCorleone> Cek
+2014-01-13T01:47:06  <DonVitoCorleone> Hoces da vrtim za boju?
+2014-01-13T01:47:11  <DonVitoCorleone> Black, Red, Green
+2014-01-13T01:47:14  <DonVitoCorleone> Green == 0
+2014-01-13T01:47:53  <Rob3rtMK> da
+2014-01-13T01:48:07  <DonVitoCorleone> Ok
+2014-01-13T01:48:24  <DonVitoCorleone> Pokusacu da stavim vise nickova (max 5 - min 1)
+2014-01-13T01:48:28  <DonVitoCorleone> Ne garantujem da ce moci
+2014-01-13T01:48:37  <Kire> nickova?
+2014-01-13T01:48:39  <Kire> sta ce
+2014-01-13T01:48:39  <Kire> to
+2014-01-13T01:48:51  <DonVitoCorleone> Pa da znas od koga da skidas cipove :)
+2014-01-13T01:48:53  <Rob3rtMK> da moze poveke od ednas
+2014-01-13T01:48:59  <Kire> aa
+2014-01-13T01:49:00  <Kire> oke
+2014-01-13T01:49:05  <DonVitoCorleone> Koliko se cipova skida za tu igru?
+2014-01-13T01:49:19  <Rob3rtMK> kolku saka igracot
+2014-01-13T01:49:24  <Rob3rtMK> a dobiva x2
+2014-01-13T01:49:30  <Kire> min bet 10 max 500
+2014-01-13T01:49:37  <Rob3rtMK> moze
+2014-01-13T01:50:10  <DonVitoCorleone> Ok, format komande ce biti +rulet c NICK1 CIPOVA1 NICK2 CIPOVA2
+2014-01-13T01:50:18  <DonVitoCorleone> I tako do max 5 nickova/cipova
+2014-01-13T01:50:24  <DonVitoCorleone> c == color
+2014-01-13T01:50:30  <DonVitoCorleone> Da se zna da se igra color tip igre
+2014-01-13T01:51:00  <DonVitoCorleone> ok tako?
+2014-01-13T01:51:31  <Rob3rtMK> a nemoze NICK1 da igra colur, a nick2 drugo?
+2014-01-13T01:51:54  <DonVitoCorleone> Ne jer je igra color tipa
+2014-01-13T01:52:06  <DonVitoCorleone> Ali bice recimo n
+2014-01-13T01:52:12  <DonVitoCorleone> Gde je n == number
+2014-01-13T01:52:19  <DonVitoCorleone> kada igras za broj tacan
+2014-01-13T01:53:43  <Rob3rtMK> ok
+2014-01-13T01:55:26  <DonVitoCorleone> E sad ce biti veselo xD
+2014-01-13T01:55:30  <DonVitoCorleone> Posla ko u prici xD
+2014-01-13T01:55:39  <Kire> hahah d;
+2014-01-13T01:57:48  <Rob3rtMK> zs?
+2014-01-13T02:03:23  <DonVitoCorleone> Da li je dozvoljeno ici u minus?
+2014-01-13T02:03:31  <Rob3rtMK> ne
+2014-01-13T02:03:35  <DonVitoCorleone> kk
+2014-01-13T02:03:35  <Kire> jok
+2014-01-13T02:16:02  <Kire> i sad
+2014-01-13T02:16:06  <Kire> radi don ili ne?:D
+2014-01-13T02:16:56  <DonVitoCorleone> Brate nisam ja PC pa da u sekundi izbacim kod
+2014-01-13T02:16:57  <DonVitoCorleone> :)
+2014-01-13T02:17:20  <Rob3rtMK> do kade e?
+2014-01-13T02:17:26  <DonVitoCorleone> Mogao sam da zavrsim pre sat vremena ali bi onda sve morali da radite rucno
+2014-01-13T02:17:30  <DonVitoCorleone> proveru cipova
+2014-01-13T02:17:36  <DonVitoCorleone> Skidanje cipova za bet itd itd.
+2014-01-13T02:18:05  <DonVitoCorleone> !reload IceDice
+2014-01-13T02:18:05  <eRepublikBot> Done.
+2014-01-13T02:18:13  <DonVitoCorleone> !rulet c Rob3rtMK 50
+2014-01-13T02:18:19  <DonVitoCorleone> !IceDice rulet c Rob3rtMK 50
+2014-01-13T02:18:25  <DonVitoCorleone> =.=
+2014-01-13T02:18:25  <Kire> samo pitam .
+2014-01-13T02:18:49  <DonVitoCorleone> !reload IceDice
+2014-01-13T02:18:49  <eRepublikBot> Done.
+2014-01-13T02:18:52  <DonVitoCorleone> !IceDice rulet c Rob3rtMK 50
+2014-01-13T02:18:52  <eRepublikBot> Rob3rtMK doesn't have enough chips for this bet. He has 500000 chips in his account.
+2014-01-13T02:18:57  <DonVitoCorleone> Hm
+2014-01-13T02:19:29  <DonVitoCorleone> Stavio konj ako je > 0 da ne dozvoljava xD
+2014-01-13T02:19:33  <DonVitoCorleone> !reload IceDice
+2014-01-13T02:19:33  <eRepublikBot> Done.
+2014-01-13T02:19:34  <DonVitoCorleone> !IceDice rulet c Rob3rtMK 50
+2014-01-13T02:19:56  <DonVitoCorleone> Zaboravio import opet xD
+2014-01-13T02:19:58  <DonVitoCorleone> !reload IceDice
+2014-01-13T02:19:58  <eRepublikBot> Done.
+2014-01-13T02:19:59  <DonVitoCorleone> !IceDice rulet c Rob3rtMK 50
+2014-01-13T02:19:59  * eRepublikBot rolls %s colour.
+2014-01-13T02:20:03  <DonVitoCorleone> Ah da
+2014-01-13T02:20:38  <DonVitoCorleone> !reload IceDice
+2014-01-13T02:20:50  <DonVitoCorleone> !load IceDace
+2014-01-13T02:20:56  <DonVitoCorleone> !load IceDice
+2014-01-13T02:20:56  <eRepublikBot> Done.
+2014-01-13T02:20:59  <DonVitoCorleone> !IceDice rulet c Rob3rtMK 50
+2014-01-13T02:20:59  * eRepublikBot rolls green colour.
+2014-01-13T02:21:19  <DonVitoCorleone> !IceDice rulet c Rob3rtMK 50000000000000000
+2014-01-13T02:21:19  <eRepublikBot> Rob3rtMK doesn't have enough chips for this bet. He has 499850 chips in his account.
+2014-01-13T02:21:26  <DonVitoCorleone> Kao satic radi :)
+2014-01-13T02:22:01  *** BLEST <BLEST!cgiirc@1F2A25F.8400B863.3ACCC5B0.IP> has joined #dice_dev
+2014-01-13T02:22:20  <DonVitoCorleone> !IceDice rulet c kk 5
+2014-01-13T02:22:20  <eRepublikBot> kk doesn't even have account.
+2014-01-13T02:22:24  <DonVitoCorleone> :)
+2014-01-13T02:22:31  <BLEST> jas sum Rob3rtMK
+2014-01-13T02:22:47  *** Rob3rtMK <Rob3rtMK!cgiirc@D077B967.836995C0.3ACCC5B0.IP> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2014-01-13T02:22:58  <DonVitoCorleone> Znam
+2014-01-13T02:23:02  *** BLEST is now known as Rob3rtMK
+2014-01-13T02:23:14  <DonVitoCorleone> Si vido kako radi komanda?
+2014-01-13T02:23:22  <Rob3rtMK> ne
+2014-01-13T02:23:28  <DonVitoCorleone> =.=
+2014-01-13T02:23:30  <DonVitoCorleone> xD
+2014-01-13T02:23:37  <DonVitoCorleone> !IceDice rulet c Rob3rtMK 50
+2014-01-13T02:23:37  * eRepublikBot rolls black colour.
+2014-01-13T02:23:45  <DonVitoCorleone> !IceDice rulet c Rob3rtMK 50000000000000000
+2014-01-13T02:23:45  <eRepublikBot> Rob3rtMK doesn't have enough chips for this bet. He has 499800 chips in his account.
+2014-01-13T02:23:54  <DonVitoCorleone> !IceDice rulet c kk 5
+2014-01-13T02:23:54  <eRepublikBot> kk doesn't even have account.
+2014-01-13T02:24:02  <DonVitoCorleone> !IceDice rulet h kk 5
+2014-01-13T02:24:02  <eRepublikBot> For only only color game type is available.
+2014-01-13T02:24:10  <DonVitoCorleone> now*
+2014-01-13T02:24:20  *** DonVitoCorleone sets mode: -o DonVitoCorleone
+2014-01-13T02:24:23  <DonVitoCorleone> !IceDice rulet h kk 5
+2014-01-13T02:24:23  <eRepublikBot> You can't start roulette because you're not OP.
+2014-01-13T02:24:27  *** DonVitoCorleone sets mode: +o DonVitoCorleone
+2014-01-13T02:24:45  <DonVitoCorleone> !IceDice rulet h kk 5 ll 8
+2014-01-13T02:24:45  <eRepublikBot> For only only color game type is available.
+2014-01-13T02:24:50  <DonVitoCorleone> !IceDice rulet c kk 5 ll 8
+2014-01-13T02:24:50  <eRepublikBot> This is not implemented yet, you can play only for one nick for now.
+2014-01-13T02:24:55  <DonVitoCorleone> :)
+2014-01-13T02:24:58  <Rob3rtMK> dobro e samo zosto ne mozev da igram?
+2014-01-13T02:25:06  <Rob3rtMK> Rob3rtMK doesn't have enough chips for this bet. He has 499800 chips in his account.
+2014-01-13T02:25:20  <DonVitoCorleone> 50000000000000000
+2014-01-13T02:25:25  <DonVitoCorleone> Toliki sam bet stavio xD
+2014-01-13T02:25:34  <DonVitoCorleone> To je ono sto sam pitao, moze li u minus :)
+2014-01-13T02:25:44  <Rob3rtMK> aa :)
+2014-01-13T02:25:47  <DonVitoCorleone> !icedice Rob3rtMK 499800
+2014-01-13T02:25:54  <DonVitoCorleone> !icedice rulet Rob3rtMK 499800
+2014-01-13T02:25:54  <eRepublikBot> (icedice rulet <game type> <nick> <chips> [<nick>] [<chips>] [<nick>] [<chips>] [<nick>] [<chips>] [<nick>] [<chips>]) -- Plays game of type <game type> for given nicks. There can be min 1 nick and max 5 nicks.
+2014-01-13T02:25:58  <DonVitoCorleone> !icedice rulet c Rob3rtMK 499800
+2014-01-13T02:25:58  * eRepublikBot rolls red colour.
+2014-01-13T02:26:03  <DonVitoCorleone> !icedice rulet c Rob3rtMK 1
+2014-01-13T02:26:03  <eRepublikBot> Rob3rtMK doesn't have enough chips for this bet. He has 0 chips in his account.
+2014-01-13T02:26:05  <DonVitoCorleone> :)
+2014-01-13T02:26:12  <DonVitoCorleone> Do nule moze, ispod 0 jok
+2014-01-13T02:26:57  *** Elmir007 <Elmir007!cgiirc@F1C72607.678D333A.28A06DA9.IP> has joined #dice_dev
+2014-01-13T02:27:03  <Rob3rtMK> dobro e taka
+2014-01-13T02:27:10  <Elmir007> a sta se ovdje dogovarate :D
+2014-01-13T02:27:27  <Rob3rtMK> drzaven udar
+2014-01-13T02:27:30  <DonVitoCorleone> xD
+2014-01-13T02:27:39  <DonVitoCorleone> YouTube - Bajaga- Pada Vlada - Link: http://www.youtube.com/watch?v=-44rUvCznFA - Rating: 4,9/5, Votes: 938, uploaded on 07/10/2007 22:37:52
+2014-01-13T02:27:40  <KG-Bot> Title: Bajaga- Pada Vlada - YouTube (at www.youtube.com)
+2014-01-13T02:27:40  <DonVitoCorleone> xD
+2014-01-13T02:27:46  <Elmir007> robet ti ce bides predsednik na mkd?
+2014-01-13T02:28:02  <Rob3rtMK> ne
+2014-01-13T02:28:19  <Elmir007> ;D
+2014-01-13T02:28:22  <Elmir007> .d 1000
+2014-01-13T02:28:26  <Elmir007> Da sredis
+2014-01-13T02:28:32  <Elmir007> mpp izmedju BiH i MKD ? Ima nas 105
+2014-01-13T02:28:35  <DonVitoCorleone> Rob3rtMK  da izbacimo green, nema nikakve funkcije ovde, bezveze je da drzis tako nesto na IRC ruletu xD
+2014-01-13T02:29:13  <Rob3rtMK> moze
+2014-01-13T02:29:47  <DonVitoCorleone> Boje naravno idu random :)
+2014-01-13T02:30:05  <DonVitoCorleone> Ali ima ih samo 2 tako da ce se desavati recimo da 5x za redom izadje red
+2014-01-13T02:30:27  <DonVitoCorleone> Videces kad ubacimo ono sa 1000 brojeva kada ce da vrati jedan te isti broj za redom xD
+2014-01-13T02:31:14  <Rob3rtMK> :)
+2014-01-13T02:33:02  <DonVitoCorleone> Odo pravit dalje, za vise nickova :)
+2014-01-13T02:41:42  <DonVitoCorleone> !reload IceDice
+2014-01-13T02:41:42  <eRepublikBot> Done.
+2014-01-13T02:41:56  <DonVitoCorleone> !list icedice
+2014-01-13T02:41:56  <eRepublikBot> rulet and upisi
+2014-01-13T02:42:11  <DonVitoCorleone> !icedice upisi Rob3rtMK 50000
+2014-01-13T02:42:11  <eRepublikBot> Successfully added 50000 chips to Rob3rtMK. He's chips account is now 50000.
+2014-01-13T02:42:22  <DonVitoCorleone> !icedice upisi Kire 50000
+2014-01-13T02:42:22  <eRepublikBot> Successfully added 50000 chips to Kire. He's chips account is now 50501.
+2014-01-13T02:42:42  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50
+2014-01-13T02:42:43  * eRepublikBot rolls red colour.
+2014-01-13T02:42:45  <Elmir007> !icedice upisi Elmir007 50000
+2014-01-13T02:42:45  <eRepublikBot> You're not allowed to add chips because you're not OP here.
+2014-01-13T02:42:49  <Elmir007> de i meni
+2014-01-13T02:42:54  <DonVitoCorleone> Cekaj malo
+2014-01-13T02:43:02  <DonVitoCorleone> Ako si usao da spamujes mozes da izdjes sam
+2014-01-13T02:43:07  <DonVitoCorleone> izadjes*
+2014-01-13T02:43:23  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Ki 50
+2014-01-13T02:43:23  <eRepublikBot> Some of those players doesn't even have account yet.
+2014-01-13T02:43:32  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 505555555
+2014-01-13T02:43:32  * eRepublikBot rolls black colour.
+2014-01-13T02:43:36  <DonVitoCorleone> Hm
+2014-01-13T02:43:59  <Kire> ja ne svakam ali ok.
+2014-01-13T02:44:13  <DonVitoCorleone> !reload IceDice
+2014-01-13T02:44:13  <eRepublikBot> Done.
+2014-01-13T02:44:16  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 505555555
+2014-01-13T02:44:41  <DonVitoCorleone> !reload IceDice
+2014-01-13T02:44:41  <eRepublikBot> Done.
+2014-01-13T02:44:43  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 505555555
+2014-01-13T02:44:58  <DonVitoCorleone> !reload IceDice
+2014-01-13T02:44:58  <eRepublikBot> Done.
+2014-01-13T02:44:59  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 505555555
+2014-01-13T02:44:59  <eRepublikBot> Kire doesn't have enough chips for this bet. He has -505505605 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T02:45:02  *** Elmir007 <Elmir007!cgiirc@F1C72607.678D333A.28A06DA9.IP> has left #dice_dev
+2014-01-13T02:45:31  <Kire> pazi sad
+2014-01-13T02:45:33  <Kire> sta je to
+2014-01-13T02:45:33  <Kire> C
+2014-01-13T02:45:35  <Kire> color?
+2014-01-13T02:45:45  <DonVitoCorleone> !icedice upisi Kire 505505605
+2014-01-13T02:45:45  <eRepublikBot> Successfully added 505505605 chips to Kire. He's chips account is now 0.
+2014-01-13T02:45:52  <DonVitoCorleone> !icedice upisi Kire 50000
+2014-01-13T02:45:52  <eRepublikBot> Successfully added 50000 chips to Kire. He's chips account is now 50000.
+2014-01-13T02:45:57  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 505555555
+2014-01-13T02:45:57  * eRepublikBot rolls red colour.
+2014-01-13T02:46:03  <DonVitoCorleone> =.=
+2014-01-13T02:46:36  <DonVitoCorleone> !reload IceDice
+2014-01-13T02:46:36  <eRepublikBot> Done.
+2014-01-13T02:46:46  <DonVitoCorleone> !icedice upisi Kire 50000
+2014-01-13T02:46:46  <eRepublikBot> Successfully added 50000 chips to Kire. He's chips account is now -505455555.
+2014-01-13T02:46:51  <DonVitoCorleone> !icedice upisi Kire 50000000
+2014-01-13T02:46:52  <eRepublikBot> Successfully added 50000000 chips to Kire. He's chips account is now -455455555.
+2014-01-13T02:46:55  <DonVitoCorleone> !icedice upisi Kire 500000000
+2014-01-13T02:46:55  <eRepublikBot> Successfully added 500000000 chips to Kire. He's chips account is now 44544445.
+2014-01-13T02:46:58  <Kire> 0,0
+2014-01-13T02:47:06  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 505555555
+2014-01-13T02:47:06  <eRepublikBot> Kire doesn't have enough chips for this bet. He has 44544445 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T02:47:20  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50000000000000 Kire 5
+2014-01-13T02:47:20  <eRepublikBot> Rob3rtMK doesn't have enough chips for this bet. He has 49850 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T02:47:31  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50
+2014-01-13T02:47:31  * eRepublikBot rolls red colour.
+2014-01-13T02:47:40  <DonVitoCorleone> !icedice rulet b Rob3rtMK 50 Kire 50
+2014-01-13T02:47:40  <eRepublikBot> For only only color game type is available.
+2014-01-13T02:47:50  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kir 50
+2014-01-13T02:47:50  <eRepublikBot> Some of those players doesn't even have account yet.
+2014-01-13T02:48:00  *** DonVitoCorleone sets mode: -o DonVitoCorleone
+2014-01-13T02:48:01  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kir 50
+2014-01-13T02:48:01  <eRepublikBot> You can't start roulette because you're not OP.
+2014-01-13T02:48:10  *** DonVitoCorleone sets mode: +o DonVitoCorleone
+2014-01-13T02:48:15  <DonVitoCorleone> Rob3rtMK  ok za sada?
+2014-01-13T02:48:22  <DonVitoCorleone> Kire  c oznacava tip igre
+2014-01-13T02:48:26  <DonVitoCorleone> Vidis da se igra sa bojama
+2014-01-13T02:48:27  <Rob3rtMK> da
+2014-01-13T02:48:35  <Rob3rtMK> ama botot ne znae koj pobedil
+2014-01-13T02:49:00  <DonVitoCorleone> Pa anravno da ne zna kad nigde ne upisujes ko se na sta kladio xD
+2014-01-13T02:49:13  <DonVitoCorleone> I to moze da radi samo za jedan nick :)
+2014-01-13T02:49:33  <DonVitoCorleone> Znaci mozes ovako da radis za vise nickova, ili da bot zna i ko je pobedio ali tu mozes da radis samo za jedan nick :)
+2014-01-13T02:49:55  <DonVitoCorleone> Sta ces?
+2014-01-13T02:50:00  <Rob3rtMK> dobro e vaka
+2014-01-13T02:50:19  <DonVitoCorleone> Ok, odoh da ubacim za tri, cetiri i pet nickova xD
+2014-01-13T02:50:21  <Rob3rtMK> vaka racno ke se odzema taka?
+2014-01-13T02:50:30  <DonVitoCorleone> Ne razumem sorry xD
+2014-01-13T02:50:46  <DonVitoCorleone> English xD
+2014-01-13T02:50:52  <Rob3rtMK> chips will be manualy taker right?
+2014-01-13T02:50:58  <Rob3rtMK> taken*
+2014-01-13T02:51:07  <DonVitoCorleone> Yup
+2014-01-13T02:51:17  <DonVitoCorleone> No
+2014-01-13T02:51:22  <DonVitoCorleone> auto
+2014-01-13T02:51:33  <DonVitoCorleone> Bot will take chips after you start command
+2014-01-13T02:51:48  <Rob3rtMK> jassamo treba da dodavam
+2014-01-13T02:51:56  <DonVitoCorleone> Da
+2014-01-13T02:52:07  <Rob3rtMK> ok
+2014-01-13T02:52:19  <DonVitoCorleone> Kad ti uplate na profil koji treba ti uradis +icedice upisi NICK CIPOVI
+2014-01-13T02:52:56  <DonVitoCorleone> Bice ovo promenjeno, ! ce biti +, i nece biti upisi nego chips
+2014-01-13T02:53:01  <Rob3rtMK> istot i koga nekoj ke pobedi
+2014-01-13T02:53:15  <Rob3rtMK> *istoto i koga nekoj ke pobedi
+2014-01-13T02:53:17  <DonVitoCorleone> Da
+2014-01-13T02:53:29  <Rob3rtMK> dobro sum svatil :)
+2014-01-13T02:56:12  <Kire> mogu da idem?
+2014-01-13T02:57:12  <DonVitoCorleone> Sto se mene tice da
+2014-01-13T02:57:23  <Rob3rtMK> da
+2014-01-13T02:58:16  <Kire> da svratam do brazzers i idam ako imate prasanja
+2014-01-13T02:58:17  <Kire> pitajte
+2014-01-13T03:00:48  <DonVitoCorleone> xD
+2014-01-13T03:01:09  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:01:09  <eRepublikBot> Done.
+2014-01-13T03:01:28  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 KG-Bot 10
+2014-01-13T03:01:29  * eRepublikBot rolls red colour.
+2014-01-13T03:01:34  <DonVitoCorleone> =.=
+2014-01-13T03:01:59  <Rob3rtMK> da ne ima botot akaunt?
+2014-01-13T03:02:29  <DonVitoCorleone> Nema
+2014-01-13T03:02:36  <DonVitoCorleone> Ali ima greska u kodu xD
+2014-01-13T03:03:26  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kir 50 KG-Bot 10
+2014-01-13T03:03:26  <eRepublikBot> Some of those players doesn't even have account yet.
+2014-01-13T03:04:53  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 "KG-Bot" 10
+2014-01-13T03:04:54  * eRepublikBot rolls black colour.
+2014-01-13T03:05:01  <DonVitoCorleone> Hm
+2014-01-13T03:05:12  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 50
+2014-01-13T03:05:12  * eRepublikBot rolls black colour.
+2014-01-13T03:05:17  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 50 KG-Bot 50
+2014-01-13T03:05:17  * eRepublikBot rolls red colour.
+2014-01-13T03:07:56  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:07:56  <eRepublikBot> Done.
+2014-01-13T03:07:59  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 50 KG-Bot 50
+2014-01-13T03:07:59  * eRepublikBot rolls red colour.
+2014-01-13T03:08:06  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 50
+2014-01-13T03:08:07  * eRepublikBot rolls black colour.
+2014-01-13T03:08:13  <Kire> bravo
+2014-01-13T03:08:52  <DonVitoCorleone> A sta?
+2014-01-13T03:08:56  *** Kire <Kire!cgiirc@87CBFF10.51A50B4C.5CA8C5DF.IP> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2014-01-13T03:13:47  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:13:47  <eRepublikBot> Done.
+2014-01-13T03:13:49  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 50
+2014-01-13T03:13:50  * eRepublikBot rolls black colour.
+2014-01-13T03:16:32  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:16:32  <eRepublikBot> Done.
+2014-01-13T03:16:34  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 50
+2014-01-13T03:18:20  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:18:20  <eRepublikBot> Done.
+2014-01-13T03:18:21  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 50
+2014-01-13T03:18:21  <eRepublikBot> Some of those players doesn't even have account yet.
+2014-01-13T03:18:27  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50
+2014-01-13T03:18:28  * eRepublikBot rolls red colour.
+2014-01-13T03:18:34  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 60
+2014-01-13T03:18:34  <eRepublikBot> Some of those players doesn't even have account yet.
+2014-01-13T03:18:39  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 60 KG-Bot 50
+2014-01-13T03:18:39  <eRepublikBot> Some of those players doesn't even have account yet.
+2014-01-13T03:18:50  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 60 KG-Bot 50 protector 70
+2014-01-13T03:18:50  <eRepublikBot> Some of those players doesn't even have account yet.
+2014-01-13T03:18:53  <DonVitoCorleone> :)
+2014-01-13T03:19:03  <DonVitoCorleone> !icedice rulet h Rob3rtMK 50 Kire 50 DonVitoCorleone 60 KG-Bot 50 protector 70
+2014-01-13T03:19:04  <eRepublikBot> For only only color game type is available.
+2014-01-13T03:19:16  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 60 KG-Bot 50 protector 70
+2014-01-13T03:19:16  <eRepublikBot> Some of those players doesn't even have account yet.
+2014-01-13T03:19:28  <DonVitoCorleone> !icedice upisi DonVitoCorleone 100
+2014-01-13T03:19:28  <eRepublikBot> Successfully added 100 chips to DonVitoCorleone. He's chips account is now 100.
+2014-01-13T03:19:33  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 60
+2014-01-13T03:19:34  * eRepublikBot rolls black colour.
+2014-01-13T03:19:45  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 30 KG-Bot 50
+2014-01-13T03:19:45  <eRepublikBot> Some of those players doesn't even have account yet.
+2014-01-13T03:19:54  <DonVitoCorleone> !icedice upisi KG-Bot 100
+2014-01-13T03:19:54  <eRepublikBot> Successfully added 100 chips to KG-Bot. He's chips account is now 100.
+2014-01-13T03:19:57  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 30 KG-Bot 50
+2014-01-13T03:19:57  <Rob3rtMK> kire si otide
+2014-01-13T03:19:57  * eRepublikBot rolls black colour.
+2014-01-13T03:20:04  <DonVitoCorleone> Neka ide, zabole me
+2014-01-13T03:20:09  <DonVitoCorleone> Picka
+2014-01-13T03:20:16  <DonVitoCorleone> !icedice upisi protector 100
+2014-01-13T03:20:16  <eRepublikBot> Successfully added 100 chips to protector. He's chips account is now 100.
+2014-01-13T03:20:21  <DonVitoCorleone> !icedice upisi DonVitoCorleone 100
+2014-01-13T03:20:21  <eRepublikBot> Successfully added 100 chips to DonVitoCorleone. He's chips account is now 110.
+2014-01-13T03:20:25  <DonVitoCorleone> !icedice upisi KG-Bot 100
+2014-01-13T03:20:25  <eRepublikBot> Successfully added 100 chips to KG-Bot. He's chips account is now 150.
+2014-01-13T03:20:32  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 30 KG-Bot 50 protector 50
+2014-01-13T03:20:33  * eRepublikBot rolls black colour.
+2014-01-13T03:20:36  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 30 KG-Bot 50 protector 500000000
+2014-01-13T03:20:37  <eRepublikBot> protector doesn't have enough chips for this bet. He has 50 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T03:20:44  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 30 KG-Bot 500000 protector 50
+2014-01-13T03:20:44  <eRepublikBot> KG-Bot doesn't have enough chips for this bet. He has 100 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T03:20:54  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 30000 KG-Bot 50 protector 50
+2014-01-13T03:20:54  <eRepublikBot> DonVitoCorleone doesn't have enough chips for this bet. He has 80 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T03:21:03  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 500000 DonVitoCorleone 30 KG-Bot 50 protector 50
+2014-01-13T03:21:04  * eRepublikBot rolls red colour.
+2014-01-13T03:21:09  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50000000000 DonVitoCorleone 30 KG-Bot 50 protector 50
+2014-01-13T03:21:09  <eRepublikBot> Kire doesn't have enough chips for this bet. He has 44043845 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T03:21:16  <DonVitoCorleone> !icedice rulet c Rob3rtMK 5000000000 Kire 50 DonVitoCorleone 30 KG-Bot 50 protector 50
+2014-01-13T03:21:16  <eRepublikBot> Rob3rtMK doesn't have enough chips for this bet. He has 49200 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T03:21:22  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 30 KG-Bot 50 protector 50
+2014-01-13T03:21:22  <eRepublikBot> protector doesn't have enough chips for this bet. He has 0 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T03:21:29  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 30 KG-Bot 50 protector 1
+2014-01-13T03:21:29  <eRepublikBot> protector doesn't have enough chips for this bet. He has 0 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T03:21:35  <DonVitoCorleone> !icedice upisi protector 100
+2014-01-13T03:21:35  <eRepublikBot> Successfully added 100 chips to protector. He's chips account is now 100.
+2014-01-13T03:21:37  <DonVitoCorleone> !icedice rulet c Rob3rtMK 50 Kire 50 DonVitoCorleone 30 KG-Bot 50 protector 1
+2014-01-13T03:21:38  * eRepublikBot rolls red colour.
+2014-01-13T03:21:45  <DonVitoCorleone> Ok sve za sada?
+2014-01-13T03:21:52  <Rob3rtMK> da
+2014-01-13T03:22:38  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:22:38  <eRepublikBot> Done.
+2014-01-13T03:22:45  <DonVitoCorleone> Koji je drugi tip igre?
+2014-01-13T03:22:52  <DonVitoCorleone> Sa brojevima?
+2014-01-13T03:23:09  <Rob3rtMK> toj sto ima najgolem broj pobeduva
+2014-01-13T03:23:18  <Rob3rtMK> so random broj 1-1000
+2014-01-13T03:23:33  <DonVitoCorleone> Znaci to bi bilo isto ovako samo sto bi umesto boja izvlacio broj?
+2014-01-13T03:23:50  <Rob3rtMK> da
+2014-01-13T03:23:58  <DonVitoCorleone> To je gotovo za minut
+2014-01-13T03:27:01  <DonVitoCorleone> Koji je posle te jos?
+2014-01-13T03:27:06  <DonVitoCorleone> Mali brojevi do 36?
+2014-01-13T03:27:11  <Rob3rtMK> da
+2014-01-13T03:27:12  <DonVitoCorleone> Sve isto kao i ovo?
+2014-01-13T03:27:21  <Rob3rtMK> da
+2014-01-13T03:29:29  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:29:29  <eRepublikBot> Done.
+2014-01-13T03:29:49  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50
+2014-01-13T03:29:49  * eRepublikBot rolls xrange(10001) colour.
+2014-01-13T03:29:55  <DonVitoCorleone> =.=
+2014-01-13T03:30:50  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:30:50  <eRepublikBot> Done.
+2014-01-13T03:30:51  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50
+2014-01-13T03:32:06  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:33:34  <DonVitoCorleone> !load IceDice
+2014-01-13T03:33:34  <eRepublikBot> Done.
+2014-01-13T03:33:36  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50
+2014-01-13T03:33:36  * eRepublikBot rolls <generator object <genexpr> at 0x04DD4288> colour.
+2014-01-13T03:34:13  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:34:13  <eRepublikBot> Done.
+2014-01-13T03:34:15  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50
+2014-01-13T03:34:15  * eRepublikBot rolls <generator object <genexpr> at 0x04A4AFA8> colour.
+2014-01-13T03:35:04  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:35:04  <eRepublikBot> Done.
+2014-01-13T03:35:05  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50
+2014-01-13T03:35:05  * eRepublikBot rolls <generator object <genexpr> at 0x04C65990> colour.
+2014-01-13T03:35:18  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:35:18  <eRepublikBot> Done.
+2014-01-13T03:35:19  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50
+2014-01-13T03:35:44  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:35:44  <eRepublikBot> Done.
+2014-01-13T03:35:45  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50
+2014-01-13T03:35:45  * eRepublikBot rolls 0 colour.
+2014-01-13T03:35:46  * eRepublikBot rolls 1 colour.
+2014-01-13T03:35:47  * eRepublikBot rolls 2 colour.
+2014-01-13T03:35:48  * eRepublikBot rolls 3 colour.
+2014-01-13T03:35:49  * eRepublikBot rolls 4 colour.
+2014-01-13T03:35:50  * eRepublikBot rolls 5 colour.
+2014-01-13T03:35:51  * eRepublikBot rolls 6 colour.
+2014-01-13T03:35:52  <DonVitoCorleone> !clearq
+2014-01-13T03:35:53  * eRepublikBot rolls 2606 colour.
+2014-01-13T03:35:54  * eRepublikBot rolls 2607 colour.
+2014-01-13T03:35:55  * eRepublikBot rolls 2608 colour.
+2014-01-13T03:35:56  * eRepublikBot rolls 2609 colour.
+2014-01-13T03:35:57  * eRepublikBot rolls 2610 colour.
+2014-01-13T03:35:58  * eRepublikBot rolls 2611 colour.
+2014-01-13T03:35:59  * eRepublikBot rolls 2612 colour.
+2014-01-13T03:36:00  * eRepublikBot rolls 2613 colour.
+2014-01-13T03:36:01  * eRepublikBot rolls 2614 colour.
+2014-01-13T03:36:01  <DonVitoCorleone> Damn
+2014-01-13T03:36:02  * eRepublikBot rolls 2615 colour.
+2014-01-13T03:36:03  <eRepublikBot> Done.
+2014-01-13T03:36:04  * eRepublikBot rolls 2616 colour.
+2014-01-13T03:36:05  <DonVitoCorleone> 1000 numbers
+2014-01-13T03:36:06  * eRepublikBot rolls 2617 colour.
+2014-01-13T03:36:07  * eRepublikBot rolls 2618 colour.
+2014-01-13T03:36:08  * eRepublikBot rolls 2619 colour.
+2014-01-13T03:36:09  * eRepublikBot rolls 2620 colour.
+2014-01-13T03:36:10  * eRepublikBot rolls 2621 colour.
+2014-01-13T03:36:11  * eRepublikBot rolls 2622 colour.
+2014-01-13T03:36:12  * eRepublikBot rolls 2623 colour.
+2014-01-13T03:36:13  * eRepublikBot rolls 2624 colour.
+2014-01-13T03:36:14  * eRepublikBot rolls 2625 colour.
+2014-01-13T03:36:14  <DonVitoCorleone> !unload IceDice
+2014-01-13T03:36:15  * eRepublikBot rolls 2626 colour.
+2014-01-13T03:36:16  * eRepublikBot rolls 2627 colour.
+2014-01-13T03:36:17  * eRepublikBot rolls 2628 colour.
+2014-01-13T03:36:18  * eRepublikBot rolls 2629 colour.
+2014-01-13T03:36:19  * eRepublikBot rolls 2630 colour.
+2014-01-13T03:36:20  * eRepublikBot rolls 2631 colour.
+2014-01-13T03:36:21  * eRepublikBot rolls 2632 colour.
+2014-01-13T03:36:22  * eRepublikBot rolls 2633 colour.
+2014-01-13T03:36:23  * eRepublikBot rolls 2634 colour.
+2014-01-13T03:36:24  * eRepublikBot rolls 2635 colour.
+2014-01-13T03:36:25  * eRepublikBot rolls 2636 colour.
+2014-01-13T03:36:26  * eRepublikBot rolls 2637 colour.
+2014-01-13T03:36:27  * eRepublikBot rolls 2638 colour.
+2014-01-13T03:36:28  * eRepublikBot rolls 2639 colour.
+2014-01-13T03:36:29  * eRepublikBot rolls 2640 colour.
+2014-01-13T03:36:30  * eRepublikBot rolls 2641 colour.
+2014-01-13T03:36:31  * eRepublikBot rolls 2642 colour.
+2014-01-13T03:36:32  * eRepublikBot rolls 2643 colour.
+2014-01-13T03:36:33  * eRepublikBot rolls 2644 colour.
+2014-01-13T03:36:34  * eRepublikBot rolls 2645 colour.
+2014-01-13T03:36:35  * eRepublikBot rolls 2646 colour.
+2014-01-13T03:36:36  * eRepublikBot rolls 2647 colour.
+2014-01-13T03:36:38  <DonVitoCorleone> !quit
+2014-01-13T03:39:14  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-01-13T03:39:14  <protector> [eRepublikBot] [20:51:29] <God_of_Blood> da li ima tvoh bot komande za ona pitanja [20:51:39] <DonVitoCorleone> Koja pitanja? o-O[20:51:54] <God_of_Blood> a ona sranja kakos e zove [20:52:07] <DonVitoCorleone> Kviz? [20:52:16] <God_of_Blood> kiviz jebo ga ti
+2014-01-13T03:39:15  *** protector sets mode: +qo eRepublikBot eRepublikBot
+2014-01-13T03:39:24  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:39:28  <DonVitoCorleone> !load IceDice
+2014-01-13T03:39:28  <eRepublikBot> Done.
+2014-01-13T03:39:32  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50
+2014-01-13T03:39:33  * eRepublikBot rolls 134 colour.
+2014-01-13T03:40:05  <Rob3rtMK> ova ne treba da ima colour
+2014-01-13T03:40:14  <Rob3rtMK> samo kaj 36 broja
+2014-01-13T03:41:33  <DonVitoCorleone> Ma znam
+2014-01-13T03:41:41  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:41:41  <eRepublikBot> Done.
+2014-01-13T03:41:43  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50
+2014-01-13T03:41:44  * eRepublikBot rolls number 301.
+2014-01-13T03:41:56  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50 Kire 60
+2014-01-13T03:41:56  * eRepublikBot rolls number 681.
+2014-01-13T03:42:03  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50 Kire 60 DonVitoCorleone 50
+2014-01-13T03:42:03  <eRepublikBot> DonVitoCorleone doesn't have enough chips for this bet. He has 20 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T03:42:06  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50 Kire 60 DonVitoCorleone 40
+2014-01-13T03:42:06  <eRepublikBot> DonVitoCorleone doesn't have enough chips for this bet. He has 20 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T03:42:09  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50 Kire 60 DonVitoCorleone 20
+2014-01-13T03:42:11  * eRepublikBot rolls number 863.
+2014-01-13T03:42:21  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50 Kire 60 KG-Bot 1 protector 1
+2014-01-13T03:42:21  <eRepublikBot> KG-Bot doesn't have enough chips for this bet. He has 0 chips in his account. Please start roulette again without this player or after he pays some credit.
+2014-01-13T03:42:34  <Rob3rtMK> DonVitoCorleone moja greska
+2014-01-13T03:42:37  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50 Kire 60 KG-Bot 0 protector 1
+2014-01-13T03:42:38  * eRepublikBot rolls number 209.
+2014-01-13T03:42:45  <Rob3rtMK> ne bilo isto
+2014-01-13T03:42:58  <DonVitoCorleone> Nego?
+2014-01-13T03:43:04  <Rob3rtMK> treba za sekoj poseben broj
+2014-01-13T03:49:40  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:50:58  <DonVitoCorleone> !load IceDice
+2014-01-13T03:50:58  <eRepublikBot> Done.
+2014-01-13T03:51:04  <DonVitoCorleone> !icedice rulet hn Rob3rtMK 50 Kire 60
+2014-01-13T03:51:04  * eRepublikBot rolls number 681 for Rob3rtMK.
+2014-01-13T03:51:05  * eRepublikBot rolls number 357 for Kire.
+2014-01-13T03:51:10  <DonVitoCorleone> To?
+2014-01-13T03:51:28  <Rob3rtMK> da
+2014-01-13T03:51:34  <DonVitoCorleone> Jel to to?
+2014-01-13T03:51:40  <DonVitoCorleone> Sve igre smo odradili
+2014-01-13T03:51:44  <DonVitoCorleone> Za 5 nickova
+2014-01-13T03:51:49  <DonVitoCorleone> Kontrole ubacili
+2014-01-13T03:51:57  <DonVitoCorleone> Dodavanje cipova takodje
+2014-01-13T03:51:59  <Rob3rtMK> a so broevi do 36?
+2014-01-13T03:52:04  <DonVitoCorleone> Ne
+2014-01-13T03:52:10  <DonVitoCorleone> Gledaj sad
+2014-01-13T03:52:16  <DonVitoCorleone> !icedice rulet km Rob3rtMK 50 Kire 60
+2014-01-13T03:52:16  <eRepublikBot> We don't have this game type yet, possible game types are: %s color - c, high number -hn, small number -sn.
+2014-01-13T03:52:29  <DonVitoCorleone> Moram ovo da popravim na pocetku
+2014-01-13T03:52:57  <Rob3rtMK> drugito se raboti
+2014-01-13T03:53:04  <Rob3rtMK> *drugoto
+2014-01-13T03:53:12  <DonVitoCorleone> !reload IceDice
+2014-01-13T03:53:12  <eRepublikBot> Done.
+2014-01-13T03:53:20  <DonVitoCorleone> !icedice rulet km Rob3rtMK 50 Kire 60
+2014-01-13T03:53:20  <eRepublikBot> We don't have this game type yet, possible game types are: color (c), high number (hn), small number (sn).
+2014-01-13T03:53:34  <DonVitoCorleone> Tri vrste igre
+2014-01-13T03:53:46  <DonVitoCorleone> !icedice rulet
+2014-01-13T03:53:46  <eRepublikBot> (icedice rulet <game type> <nick> <chips> [<nick>] [<chips>] [<nick>] [<chips>] [<nick>] [<chips>] [<nick>] [<chips>]) -- Plays game of type <game type> for given nicks. There can be min 1 nick and max 5 nicks.
+2014-01-13T03:54:06  <Rob3rtMK> !icedice rulet sn Rob3rtMK 50
+2014-01-13T03:54:06  <eRepublikBot> You can't start roulette because you're not OP.
+2014-01-13T03:54:12  *** DonVitoCorleone sets mode: +o Rob3rtMK
+2014-01-13T03:54:19  <Rob3rtMK> !icedice rulet sn Rob3rtMK 50
+2014-01-13T03:54:19  * eRepublikBot rolls number 8 for Rob3rtMK.
+2014-01-13T03:54:41  <Rob3rtMK> kako sega da go stavam na #dice?
+2014-01-13T03:55:08  <DonVitoCorleone> Hoces da ti napravim komandu za proveru necijeg kredita?
+2014-01-13T03:55:20  <Rob3rtMK> da
+2014-01-13T03:55:35  <Rob3rtMK> ako ne ti e tesko te izmaciv od 00:00
+2014-01-13T03:55:41  <DonVitoCorleone> +spin
+2014-01-13T03:55:50  <DonVitoCorleone> Ne razumem sta si rekao
+2014-01-13T03:55:52  <DonVitoCorleone> English  xD
+2014-01-13T03:56:35  <Rob3rtMK> make a command if it's not hard for you as you're helping me since 00:00
+2014-01-13T03:56:42  <DonVitoCorleone> Np
+2014-01-13T04:10:22  <DonVitoCorleone> !reload IceDice
+2014-01-13T04:10:22  <eRepublikBot> Done.
+2014-01-13T04:10:30  <DonVitoCorleone> !seechips DonVitoCorleone
+2014-01-13T04:10:46  <DonVitoCorleone> !reload IceDice
+2014-01-13T04:10:46  <eRepublikBot> Done.
+2014-01-13T04:10:47  <DonVitoCorleone> !seechips DonVitoCorleone
+2014-01-13T04:10:47  <eRepublikBot> DonVitoCorleone is added on 13/1/2014 - 3:19:28 by DonVitoCorleone and he has 0 chips.
+2014-01-13T04:10:59  <DonVitoCorleone> !seechips Rob3rtMK
+2014-01-13T04:10:59  <eRepublikBot> Rob3rtMK is added on 13/1/2014 - 1:33:38 by DonVitoCorleone and he has 48450 chips.
+2014-01-13T04:11:07  <DonVitoCorleone> !seechips
+2014-01-13T04:11:07  <eRepublikBot> Rob3rtMK is added on 13/1/2014 - 1:33:38 by DonVitoCorleone and he has 48450 chips.
+2014-01-13T04:11:08  <eRepublikBot> protector is added on 13/1/2014 - 3:20:16 by DonVitoCorleone and he has 98 chips.
+2014-01-13T04:11:09  <eRepublikBot> KG-Bot is added on 13/1/2014 - 3:19:54 by DonVitoCorleone and he has 0 chips.
+2014-01-13T04:11:10  <eRepublikBot> DonVitoCorleone is added on 13/1/2014 - 3:19:28 by DonVitoCorleone and he has 0 chips.
+2014-01-13T04:11:11  <eRepublikBot> Kire is added on 13/1/2014 - 1:32:33 by DonVitoCorleone and he has 44043555 chips.
+2014-01-13T04:11:16  <DonVitoCorleone> Ok?
+2014-01-13T04:11:19  <DonVitoCorleone> Rob3rtMK
+2014-01-13T04:11:19  <Rob3rtMK> da
+2014-01-13T04:12:09  <DonVitoCorleone> E sada bi mogli da dogovorimo koliki je moj procenat od vase dnevne zarade na ovome
+2014-01-13T04:12:45  <Rob3rtMK> kolku baras?
+2014-01-13T04:13:12  <DonVitoCorleone> Ili ustvari bolje da dogovorimo mesecno fixno da placas jer ja nmg pratiti koliko se koji dan igralo i zaradilo
+2014-01-13T04:13:29  <DonVitoCorleone> Koliko ti cenis ovaj moj rad toliko daj mesecno
+2014-01-13T04:13:50  <DonVitoCorleone> I da
+2014-01-13T04:13:53  <DonVitoCorleone> Promenio sam komande
+2014-01-13T04:13:58  <DonVitoCorleone> Nije vise upisi i rulet
+2014-01-13T04:14:04  <DonVitoCorleone> !spin
+2014-01-13T04:14:04  <eRepublikBot> (spin <game type> <nick> <chips> [<nick>] [<chips>] [<nick>] [<chips>] [<nick>] [<chips>] [<nick>] [<chips>]) -- Plays game of type <game type> for given nicks. There can be min 1 nick and max 5 nicks.
+2014-01-13T04:14:17  <DonVitoCorleone> !chips
+2014-01-13T04:14:17  <eRepublikBot> (chips <nick> <schips>) -- Adds <chips> to <nick> account.
+2014-01-13T04:14:26  <DonVitoCorleone> Msm da je ovako logicnije
+2014-01-13T04:14:38  <Rob3rtMK> nezz kolku ke zarabotuvame od ova
+2014-01-13T04:14:39  <Rob3rtMK> da
+2014-01-13T04:14:46  <Rob3rtMK> da ne ideme vo minus
+2014-01-13T04:15:00  <DonVitoCorleone> Za pocetak 10 golda mesecno?
+2014-01-13T04:15:57  <Rob3rtMK> neznam dali ke zarabotime tolku
+2014-01-13T04:16:19  <DonVitoCorleone> Ajde onda 7 za pocetak?
+2014-01-13T04:16:52  <DonVitoCorleone> I jedan savet, nemoj puno da igras sa c tipom igre
+2014-01-13T04:16:57  <DonVitoCorleone> Tu ces da gubis puno
+2014-01-13T04:17:06  <Rob3rtMK> jas ne igram
+2014-01-13T04:17:11  <Rob3rtMK> oni neka igraat
+2014-01-13T04:17:14  <DonVitoCorleone> Ma znam
+2014-01-13T04:17:26  <DonVitoCorleone> Ali ti ces da gubis ako dozvolis da se igra previse na c
+2014-01-13T04:17:43  <Rob3rtMK> zosto?
+2014-01-13T04:17:53  <DonVitoCorleone> Pa imas samo 2 boje
+2014-01-13T04:18:01  <DonVitoCorleone> Lako za pogoditi jebi ga
+2014-01-13T04:18:15  <Rob3rtMK> ama igraat igrac protiv igrac
+2014-01-13T04:18:21  <Rob3rtMK> eden pobeduva
+2014-01-13T04:18:36  <Rob3rtMK> koga treba isplata poskap e goldot
+2014-01-13T04:18:43  <DonVitoCorleone> Igraju jedan protiv drugoga i jos placaju tebi kredit?
+2014-01-13T04:19:09  <DonVitoCorleone> Ok, nebitno, ne tice me se to
+2014-01-13T04:19:15  <Rob3rtMK> uplata 1gold=100cipovi, a isplata 1gold=110 cipovi
+2014-01-13T04:19:18  <DonVitoCorleone> Nego sta kazes za 7 golda?
+2014-01-13T04:19:35  <Rob3rtMK> 1,6 gold za 1 nedela, test
+2014-01-13T04:19:43  <Rob3rtMK> posle mesecno
+2014-01-13T04:19:53  <DonVitoCorleone> Ajde
+2014-01-13T04:20:05  <DonVitoCorleone> Ali ja naplacujem sve na eRep, mene IceApple ne zanima
+2014-01-13T04:20:31  <DonVitoCorleone> Moze li tako?
+2014-01-13T04:21:10  <DonVitoCorleone> Sada trenutno je odnos 1:1, posle kako se bude menjao odnos tako se menja i cena kad pretvaras
+2014-01-13T04:21:32  <Rob3rtMK> ok
+2014-01-13T04:21:45  <DonVitoCorleone> +donate Corleone Michael
+2014-01-13T04:21:46  <KG-Bot> Donate Items: http://www.erepublik.com/en/economy/donate-items/6476534 Donate Money: http://www.erepublik.com/en/economy/donate-money/6476534
+2014-01-13T04:22:36  <DonVitoCorleone> Prebacujem na server, tj na KG-Bot sada
+2014-01-13T04:23:05  <Rob3rtMK> You have successfully donated 1.6 Gold. If the user accepts, the amount will appear shortly in the citizen account.
+2014-01-13T04:26:18  <Rob3rtMK> sega kako da go stavam na #dice ?
+2014-01-13T04:30:41  <Rob3rtMK> DonVitoCorleone tuka si?
+2014-01-13T04:32:36  <DonVitoCorleone> +load IceDice
+2014-01-13T04:32:37  <KG-Bot> Done.
+2014-01-13T04:32:47  <DonVitoCorleone> +allowchan #dice Rob3rtMK
+2014-01-13T04:32:51  <KG-Bot> Channel #dice has been added to the channels list.
+2014-01-13T04:33:32  <DonVitoCorleone> Try to do +seechips
+2014-01-13T04:33:36  <DonVitoCorleone> On #dice
+2014-01-13T04:35:02  <DonVitoCorleone> Rob3rtMK
+2014-01-13T04:39:08  *** Rob3rtMK <Rob3rtMK!cgiirc@1F2A25F.8400B863.3ACCC5B0.IP> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2014-01-13T05:58:47  <DonVitoCorleone> !quit
+2014-01-23T09:33:24  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-01-23T09:33:24  *** protector <protector!protector@lovelyaniverse.tk> has joined #dice_dev
+2014-01-23T09:33:24  *** protector sets mode: +ao protector protector
+2014-01-23T09:33:24  <protector> [eRepublikBot] [20:51:29] <God_of_Blood> da li ima tvoh bot komande za ona pitanja [20:51:39] <DonVitoCorleone> Koja pitanja? o-O[20:51:54] <God_of_Blood> a ona sranja kakos e zove [20:52:07] <DonVitoCorleone> Kviz? [20:52:16] <God_of_Blood> kiviz jebo ga ti
+2014-01-23T09:33:24  *** protector sets mode: +qo eRepublikBot eRepublikBot
+2014-01-24T16:46:56  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-01-24T16:46:56  *** protector <protector!protector@lovelyaniverse.tk> has joined #dice_dev
+2014-01-24T16:46:56  *** protector sets mode: +ao protector protector
+2014-01-24T16:46:56  <protector> [eRepublikBot] [20:51:29] <God_of_Blood> da li ima tvoh bot komande za ona pitanja [20:51:39] <DonVitoCorleone> Koja pitanja? o-O[20:51:54] <God_of_Blood> a ona sranja kakos e zove [20:52:07] <DonVitoCorleone> Kviz? [20:52:16] <God_of_Blood> kiviz jebo ga ti
+2014-01-24T16:46:56  *** protector sets mode: +qo eRepublikBot eRepublikBot
+2014-01-26T13:09:09  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-01-26T13:09:09  *** irc.rizon.no sets mode: +nt 
+2014-01-30T01:24:19  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-01-30T01:24:19  *** irc.rizon.no sets mode: +nt 
+2014-01-30T10:23:13  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-01-30T10:23:13  *** irc.uworld.se sets mode: +nt 
+2014-02-03T16:29:31  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-05T12:59:40  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-05T23:14:25  <KG-Bot> Announcement from my owner (DonVitoCorleone): I had to remove ERep linked profiles database, and guess what, I forgot to make backup. I'm sorry!!!
+2014-02-06T02:14:29  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-06T20:31:06  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-06T20:35:35  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-06T22:04:21  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-06T22:05:06  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-07T01:23:04  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-07T12:40:21  *** eRepublikBot` <eRepublikBot`!~KraljevaG@Rizon-430B911A.e-code.in> has joined #dice_dev
+2014-02-07T12:40:24  *** eRepublikBot` <eRepublikBot`!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-07T12:40:24  *** eRepublikBot <eRepublikBot!~KraljevaG@Rizon-430B911A.e-code.in> has quit IRC (Killed (NickServ (GHOST command used by eRepublikBot`)))
+2014-02-07T12:40:25  *** eRepublikBot` is now known as eRepublikBot
+2014-02-07T13:58:31  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-07T20:06:36  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-07T20:17:19  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-07T20:17:31  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-07T23:33:54  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-08T00:27:23  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-08T00:42:45  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-08T00:48:08  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-08T01:25:45  *** eRepublikBot` <eRepublikBot`!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-08T01:25:49  *** eRepublikBot` <eRepublikBot`!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-08T01:25:49  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has quit IRC (Killed (NickServ (GHOST command used by eRepublikBot`)))
+2014-02-08T01:25:49  *** eRepublikBot` is now known as eRepublikBot
+2014-02-08T01:25:53  *** eRepublikBot` <eRepublikBot`!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-08T01:27:37  *** eRepublikBot` <eRepublikBot`!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has quit IRC ()
+2014-02-08T01:28:04  *** xbot` <xbot`!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-08T01:35:47  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-08T02:18:00  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-08T02:21:05  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC ()
+2014-02-08T02:30:25  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-08T02:35:25  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC ()
+2014-02-08T02:36:34  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-08T03:11:36  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Read error: Connection reset by peer)
+2014-02-08T03:12:08  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-08T05:34:36  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-08T05:35:15  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-08T05:49:54  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-08T05:50:41  *** KG-Bot <KG-Bot!~KG@Rizon-DD5219AC.server4you.net> has joined #dice_dev
+2014-02-08T06:10:46  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-08T06:11:02  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-08T15:05:16  *** xbot` <xbot`!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has quit IRC (Quit: Making changes)
+2014-02-08T21:09:55  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-08T21:14:53  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-08T21:19:16  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-09T02:29:00  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-09T15:07:38  *** KG-Bot <KG-Bot!~KG@Rizon-DD5219AC.server4you.net> has joined #dice_dev
+2014-02-09T15:22:55  <KG-Bot> Announcement from my owner (DonVitoCorleone): You can use command now, please, if you see some eroor messages on notice PLEASE notify my owner about them. Thank you very much for you patiente last night and today.
+2014-02-09T15:39:26  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-09T15:40:17  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-10T10:04:37  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-10T10:05:21  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-10T10:22:57  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Quit: Making changes)
+2014-02-10T10:23:20  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-10T10:32:17  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC ()
+2014-02-10T10:32:54  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-10T10:49:11  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Remote host closed the connection)
+2014-02-10T10:49:44  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-10T11:50:17  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Remote host closed the connection)
+2014-02-10T11:50:20  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-10T16:49:46  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Remote host closed the connection)
+2014-02-10T16:50:54  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-10T19:17:41  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (Remote host closed the connection)
+2014-02-10T19:30:43  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-10T19:37:29  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC ()
+2014-02-10T19:39:18  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-10T19:44:09  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC ()
+2014-02-10T19:46:42  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-11T04:46:43  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-11T04:57:01  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-11T05:04:28  *** eRepublikBot` <eRepublikBot`!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-11T05:04:42  *** eRepublikBot` is now known as eRepublikBot
+2014-02-11T05:12:39  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-11T05:19:09  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-11T05:35:05  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-11T05:58:51  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-11T11:57:57  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has quit IRC (*.net *.split)
+2014-02-11T12:05:18  *** KG-Bot <KG-Bot!~KG@Kraljeva.Garda.official.bot> has joined #dice_dev
+2014-02-11T14:17:29  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-13T01:45:00  *** eRepublikBot` <eRepublikBot`!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev
+2014-02-13T01:45:00  *** eRepublikBot` is now known as eRepublikBot
+2014-02-13T01:45:21  *** eRepublikBot is now known as Guest17409
+2014-09-13T16:34:19  *** eRepublikBot <eRepublikBot!~KraljevaG@FDFDB705.BFECDD3B.214689AC.IP> has joined #dice_dev

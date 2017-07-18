@@ -1,0 +1,715 @@
+channel #managers
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #srs
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #croatia
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #izbaceni
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #speed
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #arch.guard
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #dice_dev
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #supy-testing
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #cairo
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #kg_market
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #kg-bot
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #it.only
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #mhq
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #idlerpg
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #ajdejicahahahahahahahalolololololololoojsaa
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #kous
+  lobotomized False
+  defaultAllow True
+  capability -protected
+  capability -halfop
+  capability -op
+  capability -alias.mass
+  capability -mass
+  capability -voice
+
+channel #cp6uja
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #vranje
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #2014/15
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #accms
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #icedice
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #gromovnici
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #idlerrpg
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #borgiafamily
+  lobotomized False
+  defaultAllow True
+  capability -misc
+  capability -protected
+  capability -halfop
+  capability -op
+  capability -alias.mass
+  capability -voice
+
+channel #sjsrb
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #szr
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #playb
+  lobotomized False
+  defaultAllow True
+  capability -misc
+  capability -protected
+  capability -halfop
+  capability -op
+  capability -alias.mass
+  capability -voice
+
+channel #bots
+  lobotomized False
+  defaultAllow True
+  capability ---list
+  capability -protected
+  capability -halfop
+  capability -help
+  capability -op
+  capability private
+  capability -list
+  capability -alias.mass
+  capability -voice
+
+channel #kontrola-b
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #kontrola-a
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #b365
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #ratnici
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #pybots
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #dev
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #happy.tree.friends
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #strade.india
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel ##izbizbaceni
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #caffebnc
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #staffi
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #thepunisher
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #pobuna
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #accms_request
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #starttv
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #donvitocorleone
+  lobotomized False
+  defaultAllow True
+  capability -protected
+  capability -halfop
+  capability -op
+  capability -alias.mass
+  capability -alias.add
+  capability -voice
+
+channel #caffe
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #serbian.mofa
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #papucari
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #cityhall
+  lobotomized False
+  defaultAllow True
+  capability -capability
+  capability -capability.list
+  capability -protected
+  capability -halfop
+  capability -op
+  capability list
+  capability -alias.mass
+  capability -alias.add
+  capability -voice
+
+channel #multi
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #d(^_^)b
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #fc
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #comud
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #loto
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #famigliecorleone
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #civilnodrustvo
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #eserbia
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #sjs
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #cafferpg
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #supybot
+  lobotomized True
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #cromega
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #pomoc
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #photoshop
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #corleonefamily
+  lobotomized True
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #accms_dev
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #smor
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #kraljeva_garda
+  lobotomized False
+  defaultAllow True
+  capability -protected
+  capability -halfop
+  capability -op
+  capability -list
+  capability -alias.mass
+  capability -voice
+
+channel #regiment-a
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #aasdasdas
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #regiment-c
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #sjeb_raketasi
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #710hiks8j5rxvdi
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #glas
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #myirchelp
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #gvozdenipuk
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #s.a.s
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #corleonefamili
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -alias.mass
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #golden-uno
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #ss.sastanci
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #ebebe
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #chat
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #manchahq
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #spec
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #uk
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #regiment-b
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+
+channel #esim.ba
+  lobotomized False
+  defaultAllow True
+  capability -halfop
+  capability -protected
+  capability -op
+  capability -voice
+

@@ -1,0 +1,636 @@
+<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" class="fixed-header has_sidebar" xmlns="http://www.w3.org/1999/xhtml"><head>
+            <script type="text/javascript">
+                window._document_observe_listeners = [];
+                document.observe = function(event, func) {
+                    window._document_observe_listeners.push({event: event, func: func});
+                };
+
+                window._jquery_ready_handlers = [];
+                jQuery = function(handler) {
+                    window._jquery_ready_handlers.push(handler);
+                };
+
+                function on_script_loaded(func) {
+                    (window.LoadedJsSuccessfully && document.loaded) ? func() : document.observe('script:loaded', func);
+                }
+            </script>
+         <link href="https://dt8kf6553cww8.cloudfront.net/static/images/favicon-vfl2hPFB4.ico" rel="shortcut icon" /><link href="https://dt8kf6553cww8.cloudfront.net/static/css/main-vflzzeS4Q.css" type="text/css" rel="stylesheet" /><link href="https://dt8kf6553cww8.cloudfront.net/static/css/web_sprites-vflNNe-g3.css" type="text/css" rel="stylesheet" /><link href="https://dt8kf6553cww8.cloudfront.net/static/images/dropbox_webclip-vflO8tEZ4.png" rel="apple-touch-icon" /><link href="/w3c/p3p.xml" rel="P3Pv1" /><script type="text/javascript">window.ST=+new Date();</script><meta content="text/html; charset=UTF-8" http-equiv="content-type" /><meta content="Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!" name="description" /><meta content="online storage, free storage, file sharing, share files,
+    awesome, cloud storage, online backup, cross platform, sync, sharing, mac,
+    windows, os x, linux, backup, collaboration, file versioning, file revisions,
+    remote access, undelete" name="keywords" /><meta content="IE=EDGE" http-equiv="X-UA-Compatible" /><meta content="Home - Dropbox" property="og:title" /><meta content="Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!" property="og:description" /><meta content="https://dt8kf6553cww8.cloudfront.net/static/images/brand/glyph@2x-vflJ1vxbq.png" property="og:image" /><meta content="https://www.dropbox.com/home" property="og:url" /><meta content="website" property="og:type" /><meta content="Dropbox" property="og:site_name" /><meta content="210019893730" property="fb:app_id" /><meta content="summary" name="twitter:card" /><meta content="@Dropbox" name="twitter:site" /><meta content="https://www.dropbox.com/home" name="twitter:url" /><meta content="Home - Dropbox" name="twitter:title" /><meta content="Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!" name="twitter:description" /><meta content="https://dt8kf6553cww8.cloudfront.net/static/images/brand/glyph@2x-vflJ1vxbq.png" name="twitter:image" /><meta content="TnuSyOnBMNmtugbpL1ZvW2PbSF9LKvoTzrvOGS9h-b0" name="google-site-verification" /><meta content="EZKIczQcM1-DVUMz8heu1dIhNtxNbLqbaA9-HbOnCQ4" name="google-site-verification" /><meta content="tz8iotmk-pkhui406y41y5bfmfxdwmaa4a-yc0hm6r0fga7s6j0j27qmgqkmc7oovihzghbzhbdjk-uiyrz438nxsjdbj3fggwgl8oq2nf4ko8gi7j4z7t78kegbidl4" name="norton-safeweb-site-verification" /><meta content="https://dt8kf6553cww8.cloudfront.net/static/images/win8_web_tile-vfl8eyKFU.png" name="msapplication-TileImage" /><meta content="#ffffff" name="msapplication-TileColor" /><title>Home - Dropbox</title><script type="text/javascript">var Constants = { BLOCK_CLUSTER: "dl-web.dropbox.com", PUBSERVER: "dl.dropboxusercontent.com", WEBSERVER: "www.dropbox.com", NOTSERVER: "notify2.dropbox.com:80", SUBSCRIBE_URL: "/subscribe", LIVE_TRANSCODE_SERVER: "showbox-tr.dropbox.com", DISABLE_VIDEO_ICONS: false, DISABLE_VIDEOS_IN_LIGHTBOX: false, block: "dl-web.dropbox.com", protocol: "https", uid: "234671851", email: "ja1994@krstarica.com", personal_email: "", work_email: "", sess_id: "116341117676796079422388781011454499420", root_ns: 425384016, personal_root_ns: 0, work_root_ns: 0, SVN_REV: "925892723", TOKEN: "fyhsj3lMelW34K1enCl30rcz", IS_PROD: 1, WEB_TIMING_ENABLED: 1, CPROFILE_ENABLED: 0, CPROFILE_PARAMETER: "", GANDALF_PANEL: 0, GSLB_ENABLED: 0, IS_SPDY: 0, send_a_copy_enabled: 0, shmodal_contact_importer_enabled: 1, upload_debug: false, date_format: "M/d/yyyy", time_format: "h:mm a", datetime_format: "M/d/yyyy h:mm a", datetime_long_format: "MMMM d, yyyy h:mm a", ADMIN: 0, referrer: "https://www.dropbox.com/1/oauth2/authorize", TWO_ITEM_LIST: "%(x)s and %(y)s", THREE_ITEM_LIST: "%(x)s, %(y)s and %(z)s", LOCALES: [["en", "English"], ["de", "Deutsch"], ["es", "Espa\u00f1ol (Latinoam\u00e9rica)"], ["es_ES", "Espa\u00f1ol (Espa\u00f1a)"], ["fr", "Fran\u00e7ais"], ["id", "Bahasa Indonesia"], ["it", "Italiano"], ["ja", "\u65e5\u672c\u8a9e"], ["ko", "\ud55c\uad6d\uc5b4"], ["ms", "Bahasa Malaysia"], ["pl", "Polski"], ["pt_BR", "Portugu\u00eas (Brasil)"], ["ru", "P\u0443\u0441\u0441\u043a\u0438\u0439"], ["tr", "T\u00fcrk\u00e7e"], ["zh_CN", "\u4e2d\u6587\uff08\u7b80\u4f53\uff09"], ["zh_TW", "\u4e2d\u6587\uff08\u7e41\u9ad4\uff09"]], USER_LOCALE: "en", EMAIL_VERIFIED: 1, PERSONAL_EMAIL_VERIFIED: 0, WORK_EMAIL_VERIFIED: 0, TIMEZONE_OFFSET: 1.0, REQUEST_ID: "b43eebbe77bbe717e47e2ae0470a0a12", BATCH_THUMB_ENDPOINTS: ["//photos-1.dropbox.com/btjb", "//photos-2.dropbox.com/btjb", "//photos-3.dropbox.com/btjb", "//photos-4.dropbox.com/btjb", "//photos-5.dropbox.com/btjb", "//photos-6.dropbox.com/btjb"], MAX_TEXT_FILE_SIZE_B: "4194304", MAX_DOC_FILE_SIZE_B: "20971520", PDF_PREVIEW_MODE: "None", FACEBOOK_APP_ID: "210019893730", team_id: "", WIT_VERSION: 6, static_url_video_js_swf: "https://dt8kf6553cww8.cloudfront.net/static/swf/video-js-vflMfTkZb.swf", static_url_swfupload_swf: "https://dt8kf6553cww8.cloudfront.net/static/swf/swfupload-vfl8U9T2v.swf", static_url_moxie_swf: "https://dt8kf6553cww8.cloudfront.net/static/swf/Moxie-vflz978zN.swf", static_url_copy_clipboard_swf: "https://dt8kf6553cww8.cloudfront.net/static/swf/copy_clipboard-vflvMcZTC.swf", static_url_pdfjs_viewer: "/static/javascript/external/pdf-js/viewer.html", static_url_syntax_js: "https://dt8kf6553cww8.cloudfront.net/static/javascript/external/syntax-vflpNqebu.js", static_url_video_overlay: "https://dt8kf6553cww8.cloudfront.net/static/images/icons/video_overlay-vfld7VbHa.png", team_name: "", ROLE_PERSONAL: "personal", ROLE_WORK: "work", ROLE_PARAM: "role",    DO_NOT_ADD_A_TRAILING_COMMA: true };</script><script>Constants['auto_timezone_offset'] = 1.0;</script><script type="text/javascript">
+    window.LoadedJsSuccessfully = false;
+
+    if (window.addEventListener) {
+        window.addEventListener('load', function() {
+            window.setTimeout(function() {
+                if (!window.LoadedJsSuccessfully) {
+                    var url = encodeURIComponent(window.location.href);
+                    new Image().src = '/jse?e=failed+to+load+script&loc=' + url + '&f=' + url;
+                }
+            }, 5000);
+        }, false);
+    }
+</script><script type="text/javascript">window.VFL_PREFIX = "https://dt8kf6553cww8.cloudfront.net/static/";  window.REQUIRE_JS_PATHS = { "jquery": [ "https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min", "https://dt8kf6553cww8.cloudfront.net/static/javascript/external/jquery-vflrOa9og", "https://www.dropboxstatic.com/static/javascript/external/jquery-vflrOa9og" ], "libs": [ "https://dt8kf6553cww8.cloudfront.net/static/javascript/compiled/libs-mini-vfl7hSlnT", "https://www.dropboxstatic.com/static/javascript/compiled/libs-mini-vfl7hSlnT" ], "dropbox": [ "https://dt8kf6553cww8.cloudfront.net/static/javascript/compiled/dropbox-mini-vflVd8njI", "https://www.dropboxstatic.com/static/javascript/compiled/dropbox-mini-vflVd8njI" ] };</script><script src="https://dt8kf6553cww8.cloudfront.net/static/javascript/compiled/require-vflhliBXB.js" type="text/javascript"></script><style type="text/css">.hny-syf { display: none; }</style><!--[if lt IE 9]><script src="/static/javascript/external/html5shiv.js"></script><![endif]-->  <link href="https://dt8kf6553cww8.cloudfront.net/static/css/gs_v3-vflS2hJNA.css" type="text/css" rel="stylesheet" /><link href="https://dt8kf6553cww8.cloudfront.net/static/css/notifications-vflu_FsfX.css" type="text/css" rel="stylesheet" /><script>
+                if (self != top) {
+                    top.location.replace(self.location.href);
+                    setTimeout(function() {
+                        document.body.innerHTML = (
+                            "<img src='https://www.dropbox.com/static/images/logo.png' onClick='top.location.href=window.location.href' />");
+                    }, 1);
+                }
+            </script></head><body class="en earthrise extended-header"><div style="display: none;" id="modal-behind"></div><div style="display: none;" id="modal"><div id="modal-box"><a href="#" id="modal-x" onclick="javascript: Modal.hide(null, false, true); Event.stop(event); return false;"></a><h2 id="modal-title"></h2><div id="modal-content"></div></div></div><div style="display: none;" id="modal-overlay"></div><div style="display:none" id="grave-yard"></div><div style="display:none" id="trash-can"></div><script type="text/template" id="tutorial_nav_bubble_tmpl"><div class="tutorial-bubble-content"><a class="tutorial-bubble-x-link"><img src="/static/images/x-small-active.png" class="tutorial-bubble-x-img" /></a><h1 class="tutorial-bubble-title"><%= title %></h1><p class="tutorial-bubble-body"><%= body %></p><a class="tutorial-bubble-button <%= button_class %>"><%= button_text %></a></div></script><div id="floaters"></div><div style="display: none;" class="external-drop-indicator top"></div><div style="display: none;" class="external-drop-indicator right"></div><div style="display: none;" class="external-drop-indicator bottom"></div><div style="display: none;" class="external-drop-indicator left"></div><div id="notify-wrapper"><span style="display: none;" id="notify"><span id="notify-msg">Sorry, there was a problem loading this page.</span></span></div><div id="outer-frame"><div id="page-header" class=""><div id="page-header-border-div" class="page-header-border"><div id="inner-page-header"><div id="account-header"><ul class="nav"><li class="top-level-nav-item"><a href="/getspace" target="_blank" class="header-nav-link"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="link-img s_web_gift sprite sprite_web" />Get free space!</a></li><li id="notification-feed-nav-link" class="notification-button top-level-nav-item"><a href="#" class="header-nav-link" onclick="UserNotifier.ack_unread_notifications(); return false;"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="web notifications-bell sprite sprite_web s_web_notifications_icon" id="notifications-bell" /><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="web notifications-bell sprite sprite_web s_web_notifications_icon_active" id="notifications-bell-active" /><span id="new-notification-count" class="freshbubble"></span></a><div id="notification-nav-link" class="sub-nav chat-bubble"><div class="notifications-header">Notifications</div><div id="event-feed-container" class="show"><div id="event-feed"><div id="notification-loading"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/ajax-loading-small-vfl3Wt7C_.gif" /></div></div><div id="event-feed-empty"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/empty_notifications-vflQy8YVJ.png" /><div id="event-feed-empty-text">We'll let you know when we've got something new for you!</div></div></div><div class="chat-bubble-arrow-border"></div><div class="chat-bubble-arrow"></div></div></li><li id="header-account-menu" class="ui-button top-level-nav-item"><a href="#" class="header-nav-link" onclick="return false;"><span id="emsnippet-896f552c96e3c710"></span>&nbsp;<img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="s_web_login_arrow link-img sprite sprite_web" /></a><div class="sub-nav chat-bubble"><div class="name">Nikola Babic</div><ul><div class="email force-no-break"><span id="emsnippet-a3b135916fc5a54a"></span></div><div class="subheader-gray-text">243.3 KB of 2 GB used</div><div class="quota_graph_container"><div style="width: 0%;" class="quota_graph_bar "></div></div><li class="first-standalone"><a href="/account" target="_blank" class="standalone clearfix"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_settings_16" />Settings</a></li><li><a href="/install" class="standalone clearfix"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_install" />Install</a></li><li><a href="/plans" target="_blank" class="standalone clearfix"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_star_16" />Upgrade</a></li><li><a href="/logout" class="standalone clearfix"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_signout" />Sign out</a></li></ul><div class="chat-bubble-arrow-border"></div><div class="chat-bubble-arrow"></div></div></li></ul></div></div></div></div> <div id="page-sidebar"><ul id="main-nav"><li><a href="/home" target="" class="selected"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_file" />Files</a></li><li><a id="photos-nav-item" href="/photos" target="" class=""><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_photos_20" />Photos</a></li><br /><li><a href="/share" target="" class=""><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_rainbow_20" />Sharing</a><a href="/share" id="inbox-count" class="freshbubble">0</a></li><li><a href="/links" target="" class=""><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_link20" />Links</a></li><li><a href="/events" target="" class=""><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_events_20" />Events</a></li><li class="li_nav_item_get_started"><a href="/gs" target="" class=""><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_cake" />Get Started</a><div id="get_started_result_container"><div id="get_started_result_background"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/get_started/hooraybox-vflaE9FHw.png" /></div><div id="get_started_result_bubble"></div></div><span class="freshbubble">2</span></li><div style="visibility: hidden;" id="promo_holder"></div></ul><div id="page-footer"><ul><li><a href="/help" target="_blank">Help</a></li><li><a href="/privacy" target="_blank">Privacy</a></li><li class="ui-button"><span class="link-span"><a>More</a> <img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_sort-uptick-off" /></span><div class="sub-nav chat-bubble-bottom"><ul><li><a href="/install" target="_blank"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_install" />Install</a></li><li><a href="/mobile" target="_blank"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_mobile_16" />Mobile</a></li><li><a href="https://blog.dropbox.com" target="_blank"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_blog" />Blog</a></li><li><a href="/jobs" target="_blank"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_jobs" />Jobs</a></li><li><a href="/developers" target="_blank"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_developers" />Developers</a></li><li><a href="/contact" target="_blank"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_contact" />Contact us</a></li><li><a href="/plans" target="_blank"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_pricing" />Pricing</a></li><li><a href="/dmca" target="_blank"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_copyright" />Copyright</a></li><li><a href="/business"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_business_16" />Business</a></li><li><a href="#" class="modal-locale-link"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_globe16" />Language</a></li></ul><div class="chat-bubble-arrow-border"></div><div class="chat-bubble-arrow"></div></div></li></ul></div></div><div style="display: none;" id="db-modal-locale-selector-modal" class="db-modal-wrapper"><div class="db-modal-overlay"></div><div class="db-modal"><div class="db-modal-box"><h2 class="db-modal-title"><div><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="s_web_globe32 db-modal-h-img sprite_web sprite" /><div class="db-modal-title-text">Choose a language</div></div></h2><div class="db-modal-content"><table><tr><td><ul><li><a data-locale="id" class="locale-option">Bahasa Indonesia</a></li><li><a data-locale="ms" class="locale-option">Bahasa Malaysia</a></li><li><a data-locale="de" class="locale-option">Deutsch</a></li><li><a data-locale="en" class="locale-option">English</a></li><li><a data-locale="es_ES" class="locale-option">Español (España)</a></li><li><a data-locale="es" class="locale-option">Español (Latinoamérica)</a></li><li><a data-locale="fr" class="locale-option">Français</a></li><li><a data-locale="it" class="locale-option">Italiano</a></li></ul></td><td><ul><li><a data-locale="pl" class="locale-option">Polski</a></li><li><a data-locale="pt_BR" class="locale-option">Português (Brasil)</a></li><li><a data-locale="ru" class="locale-option">Pусский</a></li><li><a data-locale="zh_CN" class="locale-option">中文（简体）</a></li><li><a data-locale="zh_TW" class="locale-option">中文（繁體）</a></li><li><a data-locale="ja" class="locale-option">日本語</a></li><li><a data-locale="ko" class="locale-option">한국어</a></li></ul></td></tr></table></div><a href="#" class="db-modal-x"></a></div></div></div><div id="page-content"><div id="browse"><div id="browse-box" class="list_view file-browse"><div id="browse-header"><div id="browse-global-actions-bar"><div id="browse-location" class="page-header-text"><span style="color: #aaa" id="loading-text"></span></div><div id="search-location" class="page-header-text"><span id="web-search-results"></span></div><div id="browse-rightmenu"><div id="exit-search-xclose"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="xclose-sprite sprite sprite_web s_web_xclose" /></div><div id="browse-search" class="sick-input small"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/ajax-loading-small-vfl3Wt7C_.gif" class="search-loading-wheel" /><label for="browse-search-input">Search</label><input type="text" name="browse-search-input" id="browse-search-input" /></div><div id="global-actions"></div><a id="advanced-search-link"></a></div></div><form style="display:none;" id="advanced-search-box"><table id="table-container"><tr><td><table id="left-search-col"><tr><td><div class="sick-input small"><label for="all_terms">All of these words</label><input type="text" id="all_terms" name="all_terms" tabindex="1" /></div></td></tr><tr><td><div class="sick-input small"><label for="exact">The exact phrase</label><input type="text" id="exact" name="exact" tabindex="2" /></div></td></tr><tr><td><input type="checkbox" checked="checked" id="include_files" name="include_files" tabindex="5" /><label for="include_files">Files</label><input type="checkbox" checked="checked" id="include_folders" name="include_folders" tabindex="6" /><label for="include_folders">Folders</label></td></tr></table></td><td><table id="right-search-col"><tr><td><div class="sick-input small"><label for="any_terms">Any of these words</label><input type="text" id="any_terms" name="any_terms" tabindex="3" /></div></td></tr><tr><td><div class="sick-input small"><label for="excluded_terms">None of these words</label><input type="text" id="excluded_terms" name="excluded_terms" tabindex="4" /></div></td></tr><tr><td><input type="checkbox" id="include_deleted" name="include_deleted" tabindex="7" /><label for="include_deleted">Deleted items</label></td></tr><tr><td><input name="advanced-search-submit" type="submit" class="freshbutton-blue" value="Search" id="advanced-search-submit" /><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/ajax-loading-small-vfl3Wt7C_.gif" class="search-loading-wheel" /></td></tr></table></td></tr></table></form><div id="browse-root-actions"></div><div id="browse-sort" class="clearfix"><a id="name-sorter" data-sort="FILES_BY_NAME" class="sortable-column-header" data-ascending="true"><span>Name</span><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" style="line-height: 100%" class=" sprite sprite_web s_web_sort-uptick-off" alt="" /></a><a id="kind-sorter" data-sort="FILES_BY_KIND" class="sortable-column-header noarrow" data-ascending="false"><span id="kind-sorter-label">Kind</span><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" style="line-height: 100%" class=" sprite sprite_web s_web_downtick-spacer" alt="" /></a><a id="location-sorter" data-sort="FILES_BY_LOCATION" class="sortable-column-header" data-ascending="false"><span>Location</span><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" style="line-height: 100%" class=" sprite sprite_web s_web_downtick-spacer" alt="" /></a><a id="modified-sorter" data-sort="FILES_BY_MODIFIED" class="sortable-column-header" data-ascending="false"><span>Modified</span><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" style="line-height: 100%" class=" sprite sprite_web s_web_downtick-spacer" alt="" /></a></div></div> <img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" style="display:none;position:absolute;" class=" sprite sprite_web s_web_arrow_highlight" id="highlight-arrow" /><ol id="browse-files"></ol><div style="display:none;" id="browse-empty"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/add_files_300-vflQxZMgf.jpg" alt="" /><h3>This folder is empty</h3><p>Add your files using the <a href="/install" target="_blank">desktop application</a> or the <a id="uploader-link">web uploader</a>.</p></div><div style="display:none;" id="search-empty"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/lochness_graphic-vflkOCJ8h.jpg" alt="" /><h3>No results found</h3><p>Please update your search and try again.</p></div><div style="display:none; position: absolute;" id="browse-selection"></div><div style="display: none; position: absolute;" class="copy-move-overlay"></div><div style="display: none; position: absolute;" id="copy-text" class="copy-move-text"><a>copy</a></div><div style="display: none; position: absolute;" class="copy-move-overlay"></div><div style="display: none; position: absolute;" class="copy-move-text"><a>move</a></div><textarea style="display: none;" rows="1" cols="1" id="hold_clipboard"></textarea><div style="display:none;" id="modal-progress-overlay"></div><div style="display: none;" id="modal-progress-content"><div id="modal-progress-container"><div id="modal-progress-bar"></div><div id="modal-progress-text"></div></div></div></div><div id="context-menu-container"></div><div id="drag-status" class="active"><div id="drag-selection-status"></div><div id="drag-file-status"></div></div><div id="ghost-icons"></div><div style="display:none;" id="keys-chart"><div class="clearfix"><h2>Dropbox keyboard shortcuts</h2><ul class="keys-left"><li><span class="key">↑</span>Select previous file (hold <span class="key-windows">Shift</span> <span class="key-macos">shift</span> to select range)</li><li><span class="key">↓</span>Select next file (hold <span class="key-windows">Shift</span> <span class="key-macos">shift</span> to select range)</li><li><span class="key"><span class="key-windows">ctrl + a</span><span class="key-macos">⌘ + a</span></span>Select all files</li><li><span class="key">esc</span>Deselect all files (and hide these instructions)</li><li><span class="key">←</span>Up a folder</li><li><span class="key">/</span>Search</li><li><span class="key">→</span>Open folder</li></ul><ul class="keys-right"><li><span class="key">enter</span>Download or open file</li><li><span class="key"><span class="key-windows">ctrl + c</span><span class="key-macos">⌘ + c</span></span>Copy selected file(s)</li><li><span class="key"><span class="key-windows">ctrl + v</span><span class="key-macos">⌘ + v</span></span>Paste selected file(s) into the current folder</li><li><span class="key">F2</span>Rename selected file</li><li><span class="key"><span class="key-windows">Delete</span><span class="key-macos">delete</span></span>Delete selected file(s)</li><li><span class="key"><span class="key-windows">ctrl + z</span><span class="key-macos">⌘ + z</span></span>Undo recent move/copy/rename/delete</li><li><span class="key">                                    ?</span>Show keyboard shortcuts</li></ul></div></div> <div style="display:none;" id="delete-file">Are you sure you want to delete <span class="delete_filename"></span> from your Dropbox?<div class="modal-buttons"><input type="button" onclick="Modal.vars.action(); return Modal.hide(event);" value="Delete" class="freshbutton-blue" /><input onclick="Modal.hide(event)" type="button" name="cancel delete" value="Cancel" class="freshbutton" /></div></div>
+<script type="text/template" id="upload_list_item_tmpl">
+  <li class="upload-file"
+      id="<%= file.id %>"
+      data-dest="<%= dest %>">
+    <div class="upload-progress-bar"></div>
+
+    <div class="upload-file-info">
+      <div class="filename-col">
+        <%= Sprite.html('web', icon, {}) %>
+        <span class="filename">
+          <%= filename_snippet %>
+        </span>
+        <span class="size">
+          <%= "- " + size %>
+        </span>
+      </div>
+
+      <div class="dest-col">
+        <a class="dest">
+          <%= dest_snippet %>
+        </a>
+      </div>
+
+      <div class="error-col" style="display: none;">
+        <span class="error-msg"></span>
+        <span class="error-details">
+          <%= Sprite.html('web', 'information', {}) %>
+        </span>
+      </div>
+
+      <div class="status-col">
+        <a class="small-x-button"></a>
+      </div>
+
+      <div class="time-col"></div>
+
+      <br class="clear"/>
+  </li>
+</script>
+ <div style="display: none;" id="inline-upload-status" class="upload-file"><div class="inline-upload-info"><div class="icon"></div><div class="files-info"><span class="file-desc"></span><span class="num-errors"></span><span class="details"> - <a class="view-details" onclick="Modal.hide(); FileOps.show_upload(); return false;"></a></span></div><div class="status"></div></div><div class="inline-upload-bar"><div style="width: 0;" class="inline-upload-progress"></div></div></div> <div style="display: none;" id="disabled-upload-modal"><div style="display: none;" id="upload-modal-dropzone"><div id="disabled-upload-message">You can't upload files because you're out of space.</div></div><div id="disabled-upload-desc">You can't upload files because you're out of space. Before you can upload to <span class="disabled-upload-foldername"></span>, you need to <a href="/upgrade?oq=up">get more space</a>.</div><div style="text-align: left;" id="disabled-upload-buttons" class="modal-buttons"><div style="float: right;"><input type="button" class="freshbutton-blue disabled title_bubble_sticky" value="Choose a file" data-title="To upload, get more space." /><input type="button" class="freshbutton" value="Cancel" onclick="Modal.hide();" /></div></div><div class="clear"></div><div id="upload-quota-warning-bar-padding"></div><div id="upload-quota-warning-bar" class="">Before you can upload files, you need to <a href="/upgrade?oq=up">get more space</a>.</div></div> <div style="display: none;" id="basic-upload-modal"><form onsubmit="javascript: return Upload.grabURL();" id="basic-upload-form" novalidate="novalidate" action="https://dl-web.dropbox.com/upload" method="post" enctype="multipart/form-data"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" /><input type="hidden" name="plain" value="yes" /><input type="hidden" class="dest-folder" value="" name="dest" /><input type="file" id="file-box" name="file" size="1" /><input type="hidden" id="mtime" value="0" name="mtime" /><div id="basic-upload-desc">Choose a file to upload to the folder <span class="basic-upload-foldername"></span>. The basic uploader can only upload one file at a time.</div><div style="display: none;" id="basic-upload-status"><div class="file-info"><span class="icon"></span><span class="file-desc"></span></div><div class="status"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/ajax-loading-small-vfl3Wt7C_.gif" /></div></div><div style="text-align: left;" id="basic-upload-buttons" class="modal-buttons"><span id="enhanced-upload-toggle" class="uploader-footer-text">Uploading multiple files? Try our <a class="enhanced-link">enhanced uploader</a>.</span><div style="float: right;"><input type="button" id="basic-choose-button" value="Choose a file" class="freshbutton-blue" /><input type="button" class="freshbutton" value="Cancel" onclick="Modal.hide();" /></div></div><div style="margin-top: 20px; display: none;" id="basic-uploading-message" class="uploader-footer-text">This may take a while depending on the size of the file.</div><div class="clear"></div></form></div> <div style="display: none;" id="advanced-upload-modal"><div style="display: none;" id="upload-modal-dropzone">Drop your file to upload to <span class="dnd-upload-foldername"></span></div><div id="upload-desc">Choose files to upload to the folder <span class="upload-foldername"></span>. You can select more than one file at a time.</div><div style="display: none;" id="dnd-upload-desc">You can select more than one file at a time. You can also drag and drop files anywhere on this page to start uploading.</div><ol style="display: none;" id="upload-files-list"></ol><div style="display: none;" id="bulk-upload-status"><div style="width: 0;" class="upload-progress-bar"></div><div class="bulk-upload-info"><div class="files-info"><span class="num-files"></span><span class="size"></span><span class="num-errors"></span></div><div class="status"></div><div class="time-left"></div></div></div><div style="text-align: left;" id="upload-start-buttons" class="modal-buttons"><span class="uploader-footer-text">Having problems? Try the <a class="basic-link-start">basic uploader</a>.</span><div style="float: right;"><span style="padding-right: 5px;" id="upload-loading">Loading...</span><input style="display: none;" type="button" id="choose-button" value="Choose files" class="freshbutton-blue" /><input type="button" onclick="Modal.hide();" value="Cancel" class="freshbutton" /></div><div class="clear"></div></div><div style="text-align: left; display: none;" id="upload-running-buttons" class="modal-buttons"><input style="float: left;" type="button" id="add-button" value="Add more files" class="freshbutton-lightblue" /><span style="padding-left: 5px;" class="uploader-footer-text">Having problems? Try the <a class="basic-link-running">basic uploader</a>.</span><div style="float: right;"><input id="hide-button" type="button" onclick="Modal.hide();" value="Hide" class="freshbutton" /><input style="display: none;" value="Done" class="freshbutton-blue" onclick="Upload.reset(); Modal.hide();" type="button" id="done-button" /></div><div class="clear"></div></div><div style="position: absolute; left: -2000px;" id="flash-upload-container"><span id="flash-upload-button-placeholder"></span></div></div><div style="display: none;" id="file-viewer"><div id="file-viewer-container"><div class="title-bar"><div class="filename"></div><a href="#" class="download-img-button title_bubble" title="Download"></a><a href="#" class="share-img-button title_bubble" title="Share link to document"></a><a href="#" class="close-img-button title_bubble" title="Close"></a></div><div class="file-info"><div class="file-thumbnail"><img /></div><div class="file-type"></div><div class="file-extended-details"><span class="file-modified"></span>&nbsp;&middot;&nbsp;<span class="file-size"></span></div><div class="file-actions"><a href="#" class="download-button freshbutton-blue">Download</a>&nbsp;&nbsp;&nbsp;<a href="#" class="share-button freshbutton-lightblue">Share</a></div></div><div style="display: none;" class="loading"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/ajax-loading-small-vfl3Wt7C_.gif" class="text-img" />&nbsp;Loading...</div><div class="preview"></div></div></div>
+<script type="text/template" id="lightbox_more_actions_item_tmpl">
+<%
+  _id = (typeof _id !== 'undefined') ? _id : '';
+  _href = (typeof _href !== 'undefined') ? _href : '';
+  _target = (typeof _target !== 'undefined') ? _target : '';
+  more_classes = (typeof more_classes !== 'undefined') ? more_classes : '';
+  divider = ((typeof divider !== 'undefined') && (divider));
+%>
+
+<% if (divider) { %>
+  <li class="divider <%= more_classes %>" />
+<% } else { %>
+  <li id="<%= _id %>" class="<%= more_classes %>" >
+    <a href="<%= _href %>" target="<%= _target %>">
+      <%= Sprite.html('web', sprite_name) %>
+      <div>
+          <%= item_text %>
+      </div>
+    </a>
+  </li>
+<% } %>
+</script>
+<div style="display:none;" id="file-preview-modal"><div class="modal-preview-content"><div class="preview"><table class="preview-container-parent"><tr><td class="preview-container"><div class="preview-content"></div></td></tr></table></div> <div id="file-preview-menu" class="menu"><div class="file-title lightbox-not-important"><span class="album-name">&nbsp;</span><span class="filename">&nbsp;</span><span class="added-by">&nbsp;</span></div><div class="actions">&nbsp;</div><div class="paging lightbox-not-important"><div class="paging-block"><a href="#" class="prev"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_lightbox_prev" /></a><div class="lightbox-index-text-container"></div><a href="#" class="next"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_lightbox_next" /></a></div></div></div><div style="display:none;" id="lightbox-more-actions-menu" class="freshdropdown-menu big black chat-bubble-bottom"><ul id="lightbox-more-actions-list"></ul><div class="chat-bubble-arrow-border black"></div><div class="chat-bubble-arrow black"></div></div> <div style="display:none;" class="delete-file-prompt chat-bubble-bottom"><input type="button" id="lightbox-delete-photo" value="Delete" class="freshbutton-blue" /><br /><input type="button" id="lightbox-delete-cancel" value="Cancel" class="freshbutton" /><div class="chat-bubble-arrow-border black"></div><div class="chat-bubble-arrow black"></div></div></div><div class="header"><a href="#" class="close lightbox-not-important"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class=" sprite sprite_web s_web_lightbox_close" /></a></div></div><div style="display:none;" id="shared-folder-wizard">Dropbox shared folders let you collaborate on a set of files. When someone joins a shared folder, the folder appears inside their Dropbox, and syncs to their computers automatically.<br /><br /><div style="margin: 0 auto; width: 350px;"><input type="radio" checked="checked" id="create-new-sf" name="sf_type" tabindex="50" /> <label for="create-new-sf">I'd like to create and share a new folder</label><div style="margin: 5px 0px 20px 23px;"><form action="/share_ajax/validate_folder" novalidate="novalidate" onsubmit="Sharing.wizard_next(event); return false;" method="post" id="validate-folder-name"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" /><input type="hidden" name="share_type" value="new" tabindex="51" /><input style="width: 300px;" name="folder_name" title="New folder name" class="suggestion-input textinput" type="text" id="new_folder_name" tabindex="52" /></form></div><input type="radio" id="create-existing-sf" name="sf_type" tabindex="53" /> <label for="create-existing-sf">I'd like to share an existing folder</label></div><div class="modal-buttons"><input onclick="Sharing.wizard_next(event);" type="button" class="freshbutton-blue" value="Next" tabindex="54" /><input type="button" class="freshbutton" value="Cancel" onclick="Modal.hide();" /></div></div><div style="display:none;" id="existing-shared-folder-wizard"><form action="/share_ajax/validate_folder" novalidate="novalidate" method="post" id="choose-existing-folder"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" /><input type="hidden" name="share_type" value="existing" /><input type="hidden" name="path" id="folder_name" /><div id="share-existing-treeview"></div><div class="modal-buttons"><input onclick="Sharing.validate_folder(event, 'choose-existing-folder', Sharing.from_existing_to_invitation.bind(Sharing)); return false;" type="submit" id="share-invite-button" value="Next" class="freshbutton-blue tokenizer-submit-button" /><input type="button" class="freshbutton" value="Cancel" onclick="Modal.hide();" /></div></form></div><div style="display:none;" id="invite-more-wizard"><form action="" novalidate="novalidate" method="post" id="invite-more-form"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" /><div class="invite-perm-input clearfix"><div style="display:none" id="read-only-checkbox"><input type="checkbox" checked="checked" id="allow_other_members_to_edit" name="allow_other_members_to_edit" /> <label for="allow_other_members_to_edit">Allow members to change and delete files</label><br /></div><input type="checkbox" checked="checked" id="allow_other_members_to_share" name="allow_other_members_to_share" /> <label for="allow_other_members_to_share">Allow members to invite others</label></div>
+<script type="text/template" id="autocompleter_item_tmpl">
+<li id='<%= email_provider_num %>_autocompleter_entry' value='0' style="position: relative;" suggestion='<%= is_suggestion %>'>
+  <div class='import-contacts-autocomplete-item'>
+    <image class="contact-importer-img" src='<%= email_provider_img %>' width='28px' height='28px'/>
+  </div>
+  <div>
+    <div class='<%= bottom_text.length ? "autocomplete-line": "autocomplete-line-center"%>'>
+      <strong><%= email_provider_name %></strong>
+    </div>
+    <div class='autocomplete-line autocomplete-secondary'>
+      <%= bottom_text %>
+    </div>
+  </div>
+  <% if (is_suggestion) { %>
+      <div class="autocomplete-item-cancel-button" />
+  <% } %>
+</li>
+</script>
+<div id="tokenized_autocompleter_container"><div class="textinput clearfix tokenizer" tabindex="-1" id="ids" onclick="$('invite-wizard-new-collab-input').focus();" data-error-field-name="emails"><span class="tokenizer_stretcher"></span><span class="tab_stop"><input type="text" id="invite-wizard-hidden-input" tabindex="-1" /></span><div id="autocomplete_display" class="tokenizer_input"><input spellcheck="false" class="new-collab-input" autocomplete="off" tabindex="20" type="text" id="invite-wizard-new-collab-input" size="1" /><label>Invite members to this folder</label></div></div><div id="invite-wizard-new-whobulk" class="autocomplete"></div><a class="import-contacts-link" onclick="ContactImporter.toggle();">Import contacts</a></div><div class="custom-message-container sick-input small"><textarea class="textinput suggestion-input sharing-input" style="padding: 7px; width: 558px" tabindex="21" name="custom_message" id="custom-message-wizard"></textarea><label>Add a message</label></div><table style="border-spacing: 0px; " id="allow-members-table" class="allow_members_row"><tr><td id="allow-other-members-to-share-container"></td><td style="text-align: right;"><span class="ajax-loading-indicator"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/ajax-loading-small-vfl3Wt7C_.gif" /></span> <input value="Share folder" class="freshbutton-blue invite-more-wizard-share-button tokenizer-submit-button" onclick="Modal.vars.action(event); return false;" type="button" id="share-invite-button" tabindex="22" /> <input onclick="Modal.hide();" type="button" class="freshbutton" value="Cancel" tabindex="23" /></td></tr></table></form></div><div style="display:none" id="ignore-confirm"><form action="/share_action/ignore?long_running" novalidate="novalidate" method="post" id="share-ignore-form"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" />If you permanently remove this folder, it will no longer be viewable in your list of shared folders, and you won't be able to rejoin it unless you're re-invited.<div class="modal-buttons"><input type="submit" onclick="Sharing.submit_ignore(event); Forms.disable(this); return false;" value="Permanently remove folder" class="freshbutton-blue" /><input type="button" class="freshbutton" value="Cancel" onclick="Modal.hide()" /></div></form></div><div style="display:none" id="rejoin-confirm"><form action="/share_action/rejoin?long_running" novalidate="novalidate" method="post" id="rejoin-form"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" />Are you sure you want to rejoin this shared folder?<div class="modal-buttons"><input type="submit" onclick="Sharing.submit_rejoin(event); return false;" value="Rejoin folder" class="freshbutton-blue" /><input type="button" class="freshbutton" value="Cancel" onclick="Modal.hide()" /></div></form></div><div style="display: none;" id="restore-sandbox">Are you sure you want to restore this app folder? The files inside of it will be restored, but will not be available to any API apps.<form action="/sandbox_action/restore?long_running" novalidate="novalidate" method="post" id="restore-sandbox-form"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" /><div style="text-align: right;"><input type="submit" class="freshbutton-blue" value="Restore app folder" onclick="Apps.submit_restore_sandbox(event); return false;" /><input type="button" class="freshbutton" value="Cancel" onclick="Modal.hide(event)" /></div></form></div><div style="display:none" id="kick-confirm">After kicking <span class="kick-confirm-nickname"> </span> out of this shared folder, they will no longer keep these files in sync with you and any other collaborators.<br /><br /><input type="checkbox" id="keep-files-check" class="no-border" /><label for="keep-files-check"><span class="kick-confirm-nickname"> </span> should be able to keep a copy of these files</label><div class="modal-buttons"><input type="button" onclick="Sharing.do_kick(Modal.vars.ns_id,  Modal.vars.user_id, Modal.vars.button);" value="Kick out" class="freshbutton-blue" /><input type="button" class="freshbutton" value="Cancel" onclick="javascript: Modal.hide()" /></div></div><div style="display:none" id="kick-group-confirm">After kicking <span class="kick-confirm-nickname"> </span> out of this shared folder, members of this group will no longer have access to these files.<div class="modal-buttons"><input type="button" onclick="Sharing.do_kick_group(Modal.vars.ns_id,  Modal.vars.group_id, Modal.vars.button);" value="Kick out" class="freshbutton-blue" /><input type="button" class="freshbutton" value="Cancel" onclick="javascript: Modal.hide()" /></div></div><div style="display:none" id="change_sf_owner-confirm"><form action="/share_ajax/change_sf_owner" novalidate="novalidate" method="post" id="change-sf-owner-form"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" />Only <span class="change_sf_owner-confirm-nickname"> </span> will be able to unshare this folder or kick out other members.<div class="modal-buttons"><input id="make-owner-button" type="submit" onclick="return Sharing.submit_change_sf_owner(event);" value="Make owner" class="freshbutton-blue" /><input type="button" class="freshbutton" value="Cancel" onclick="javascript: Modal.hide()" /></div></form></div><div style="display:none" id="leave-confirm"><form action="/share_ajax/leave?long_running" novalidate="novalidate" method="post" id="leave-share-form"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" />You can rejoin this shared folder later if you change your mind.<br /><br /><span class="keep_files_option"><input id="keep_files" type="checkbox" checked="checked" name="keep_files" class="no-border" /><label for="keep_files">I still want to keep my copy of these files.</label></span><div class="modal-buttons"><input type="submit" onclick="return Sharing.submit_leave(event);" value="Leave folder" class="freshbutton-blue" /><input type="button" class="freshbutton" value="Cancel" onclick="Modal.hide()" /></div></form></div><div style="display:none" id="unshare-confirm"><form action="/share_ajax/unshare?long_running" novalidate="novalidate" method="post" id="unshare-form"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" /><span class="regular_unshare_desc">Nobody else will be able to sync this shared folder to their Dropboxes. You'll still keep a copy of this shared folder in your Dropbox.<br /><br /><input id="keep_files" type="checkbox" name="keep_files" class="no-border" /><label for="keep_files">I want my collaborators to keep a copy of these files.</label></span><span class="tsf_unshare_desc">This folder will be removed from all other team members' Dropboxes. You'll still keep a copy of this shared folder in your Dropbox.<br /><br /></span><input type="hidden" name="async" value="true" id="async" /><div class="modal-buttons"><input type="submit" onclick="return Sharing.submit_unshare(event);" value="Unshare folder" class="freshbutton-blue" /><input type="button" class="freshbutton" value="Cancel" onclick="Modal.hide()" /></div></form></div><div style="display: none" id="contact-importer"><div class="import-contacts-title">Which contacts would you like to invite?</div><div id="contact-import-buttons"><tr><td><div><button class="freshbutton import-contacts-button import-facebook-friends" onclick="Contacts.auth_import(EmailProvider.FACEBOOK, 'contact-importer-modal')"><img src="/static/images/contact_import_facebook.png" /></button></div></td><td><div><button class="freshbutton import-contacts-button import-gmail-contacts" onclick="Contacts.auth_import(EmailProvider.GOOGLE, 'contact-importer-modal');"><img src="/static/images/contact_import_gmail.png" /></button></div></td><td><div><button class="freshbutton import-contacts-button import-yahoo-contacts" onclick="Contacts.auth_import(EmailProvider.YAHOO, 'contact-importer-modal');"><img src="/static/images/contact_import_yahoo.png" /></button></div></td></tr></div></div><div style="display:none" id="share_subfolder">You can't share folders that are already in a shared folder. Do you want to share the <span class="parent_shared_folder_name"> </span> folder instead?<div class="modal-buttons"><input type="button" class="freshbutton-blue" value="Share" id="share_parent_folder_button" /><input type="button" onclick="Modal.hide()" value="Cancel" class="freshbutton" /></div></div><div style="display: none;" id="db-modal-verify-email" class="db-modal-wrapper verify-email"><div class="db-modal-overlay"></div><div class="db-modal"><div class="db-modal-box"><h2 class="db-modal-title"><div><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="s_web_email_32 db-modal-h-img sprite_web sprite" /><div class="db-modal-title-text">Verify your email address</div></div></h2><div class="db-modal-content"><div data-reason="share_folder" class="verify-email-reason">Dropbox needs to verify your email address <strong>ja1994@krstarica.com</strong> to share folders. It's as simple as clicking the link in the verification email we send to you.<div><a style="margin-top: 5px; float: left;" href="#" class="change-email-before-verify">Update email address</a><div class="db-modal-buttons"><input type="button" class="confirm-button freshbutton-blue" value="Send email" /><input type="button" class="cancel-button freshbutton-silver" value="Cancel" /></div></div></div></div><a href="#" class="db-modal-x"></a></div></div></div><div style="display: none;" id="db-modal-resend-verify-email" class="db-modal-wrapper verify-email"><div class="db-modal-overlay"></div><div class="db-modal"><div class="db-modal-box"><h2 class="db-modal-title"><div><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="s_web_email_32 db-modal-h-img sprite_web sprite" /><div class="db-modal-title-text">Verify your email address</div></div></h2><div class="db-modal-content"><div data-reason="share_folder" class="verify-email-reason">Dropbox has sent a verification email to <span class="bolded email-placeholder">ja1994@krstarica.com</span>. Check your inbox and click on the link in the email to verify your address. If you can't find it, check your spam folder or click the button to resend the email.<div><a style="margin-top: 5px; float: left;" href="#" class="change-email-before-verify">Update email address</a><div class="db-modal-buttons"><input type="button" class="confirm-button freshbutton-blue" value="Done" /><input type="button" class="cancel-button freshbutton-silver" value="Resend email" /></div></div></div></div><a href="#" class="db-modal-x"></a></div></div></div><div style="display: none;" id="db-modal-email-verified" class="db-modal-wrapper"><div class="db-modal-overlay"></div><div class="db-modal"><div class="db-modal-box"><h2 class="db-modal-title"><div><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="s_web_email_32 db-modal-h-img sprite_web sprite" /><div class="db-modal-title-text">Your email address has been verified.</div></div></h2><div class="db-modal-content">Thanks for verifying your email address <strong>ja1994@krstarica.com</strong>. Now you can share folders with friends, family, or coworkers.<div class="db-modal-buttons"><input type="button" class="confirm-button freshbutton-blue" value="Done" /></div></div><a href="#" class="db-modal-x"></a></div></div></div><div style="display: none;" id="db-modal-verification-email-sent" class="db-modal-wrapper"><div class="db-modal-overlay"></div><div class="db-modal"><div class="db-modal-box"><h2 class="db-modal-title"><div><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="s_web_email_32 db-modal-h-img sprite_web sprite" /><div class="db-modal-title-text">Verification email sent!</div></div></h2><div class="db-modal-content">Dropbox has sent a verification email to <span class="bolded email-placeholder">ja1994@krstarica.com</span>. Check your inbox and click on the link in the email to verify your address. If you can't find it, check your spam folder or click the button to resend the email.<div class="db-modal-buttons"><input type="button" class="confirm-button freshbutton-blue" value="Done" /></div></div><a href="#" class="db-modal-x"></a></div></div></div><div style="display: none;" id="db-modal-change-email" class="db-modal-wrapper change-email"><div class="db-modal-overlay"></div><div class="db-modal"><div class="db-modal-box"><h2 class="db-modal-title"><div><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="s_web_email_add_32 db-modal-h-img sprite_web sprite" /><div class="db-modal-title-text">Update email address</div></div></h2><div class="db-modal-content"><form action="/account/change_email" novalidate="novalidate" method="post" class="change-email-form"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" /><div data-error-field-name="email"><div class="sick-input email-field"><label class="email-label" for="email">New email</label><input tabindex="23" type="email" name="email" class="textinput email" /></div></div><div data-error-field-name="confirm_email"><div class="sick-input confirm_email-field"><label class="confirm_email-label" for="confirm_email">Confirm email</label><input tabindex="24" type="email" name="confirm_email" class="textinput confirm_email" /></div></div><div data-error-field-name="password"><div class="sick-input password-field"><label class="password-label" for="password">Dropbox password</label><input tabindex="25" type="password" name="password" class="textinput password" /></div></div><div class="db-modal-buttons"><input type="button" class="confirm-button freshbutton-blue" value="Update email" /><input type="button" class="cancel-button freshbutton-silver" value="Cancel" /></div></form></div><a href="#" class="db-modal-x"></a></div></div></div><div style="display: none;" id="db-modal-change-email-warning" class="db-modal-wrapper change-email"><div class="db-modal-overlay"></div><div class="db-modal"><div class="db-modal-box"><h2 class="db-modal-title"><div><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="s_web_exclamation_32 db-modal-h-img sprite_web sprite" /><div class="db-modal-title-text">Warning!</div></div></h2><div class="db-modal-content"><div class="db-modal-buttons"><input type="button" class="confirm-button freshbutton-blue" value="Continue anyway" /><input type="button" class="cancel-button freshbutton-silver" value="Cancel" /></div></div><a href="#" class="db-modal-x"></a></div></div></div><div style="display:none;" id="hide-treeview"><div style="display: block;" id="copy-move-treeview" class="treeview inplace"><div class="item"><a href="#" onclick="return TreeView.handle(this.rel, this);" rel="/" id="first-treeview-link"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" style="padding-left: 2px; margin-bottom: 0;" class="s_web_dropbox link-img sprite sprite_web" />Dropbox</a><br /></div><div class="treeview-folders"><p id="treeview-loading"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/ajax-loading-small-vfl3Wt7C_.gif" class="text-img" />Loading your folders</p></div><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/ajax-loading-small-vfl3Wt7C_.gif" height="0" width="0" /></div></div><div style="display:none" id="client-download" class="client-download-step1"><table class="brodal-table"><tr><td><img src="/static/images/client-downloadload-promo.png" /></td></tr><tr><td>Get the most out of Dropbox by installing it on your computer</td></tr><tr><td><input type="button" onclick="location.href='/downloading';" value="Download" class="freshbutton-blue" /></td></tr></table></div><div style="display:none" id="folder-pick"><div id="folder-pick-treeview"></div><div class="modal-buttons"><input type="button" class="freshbutton-blue folder-pick-action-text" onclick="Modal.vars.action(); return Modal.hide(event);" /><input onclick="return Modal.hide(event);" type="button" name="cancel single move/copy" value="Cancel" class="freshbutton" /></div></div><div style="display:none" id="open-with"><div>Apps found for <span class="open_with_ext">&nbsp;</span> files:</div><div id="open-with-apps"><ol id="open-with-app-list"></ol></div><div class="modal-buttons"><span id="open-with-prefs"><input type="checkbox" id="make-default" /><label for="make-default">Always open <span class="open_with_ext">&nbsp;</span> files with this app</label></span><input onclick="return Modal.vars.action(true, event);" type="button" id="open-button" value="Open" class="freshbutton" /><input onclick="return Modal.vars.action(false, event);" type="button" name="cancel open with" value="Cancel" class="freshbutton" /></div></div><div style="display:none" id="bulk-folder-pick"><div id="bulk-folder-pick-treeview"></div><div class="modal-buttons"><input type="button" class="freshbutton-blue bulk-folder-pick-action-text" onclick="Modal.vars.action(); return Modal.hide(event);" /><input onclick="return Modal.hide(event)" type="button" name="cancel bulk move/copy" value="Cancel" class="freshbutton" /></div></div><div style="display:none;" id="undelete-modal"><div style="position: relative;"><form action="/revisions" novalidate="novalidate" method="post" id="undelete-form"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" /><p style="margin-top:0;">The most recent version of '<span class="undelete_filename"></span>' will be restored.</p><div style="padding: 3px 5px" class="alt_row"><table cellpadding="0" width="100%" style="border-collapse: collapse;"><tr><td style="width: 16px;"><span class="undelete-icon"></span></td><td><a class="undelete-link"><span class="undelete_filename"></span></a></td></tr></table></div><div class="modal-buttons"><a style="float:left;" class="undelete-other-versions">View other versions</a><input type="hidden" name="restore" value="latest" /><input id="undelete-submit-button" type="submit" onclick="FileOps.do_undelete(event); return false;" value="Restore" class="freshbutton-blue" /><input name="cancel undelete" type="button" onclick="Modal.hide();" value="Cancel" class="freshbutton" /></div></form></div></div><div style="display:none;" id="share-existing-modal"><div style="position:relative;"><form action="/share_ajax/existing" novalidate="novalidate" method="post" id="share_existing_form"><input type="hidden" name="t" value="fyhsj3lMelW34K1enCl30rcz" /><div style="margin-top:0;" class="pseudo-p">Invite others to collaborate with you in this folder.<br /><br /><input type="hidden" id="share_existing_path" name="path" /><textarea rows="2" name="collab_input" title="Enter recipient email addresses here" cols="50" class="textinput suggestion-input act_as_block" id="existing-collab-input"></textarea><div id="existing-whobulk" class="autocomplete"></div></div><div style="margin-bottom: 0;" class="modal-buttons pseudo-p clearfix"><a style="float:left;" href="#" class="custom-message-link"><img src="https://dt8kf6553cww8.cloudfront.net/static/images/icons/icon_spacer-vflN3BYt2.gif" class="link-img s_web_email_add sprite sprite_web" />Add a custom message</a><input onclick="Sharing.submit_share_existing(event); return false;" type="submit" id="share-existing-button" value="Share folder" class="freshbutton-blue" /><input name="cancel share-existing" type="button" onclick="Modal.hide();" value="Cancel" class="freshbutton" /></div></form></div></div><div style="display:none; position:relative;" id="copy-public-url"><a href="#" class="right" onclick="BrowseActions.shortenPublicLink(); return false;">Shorten link</a>To share this file with others, copy and paste this link:<br /><p><input style="width: 98%; margin-top:2px;" name="public_url" value="Currently no value" class="textinput act_as_block" type="text" id="public_url" /></p><div style="position: absolute;" id="copy_button"> </div><div class="modal-buttons"><span style="float:left;" id="copy_success"></span><input type="button" class="freshbutton-blue" value="Copy to clipboard" id="real_copy" /><input type="button" class="freshbutton" value="Cancel" onclick="Modal.hide(event)" /></div></div><div style="display:none;" id="purge-file">Are you sure you want to permanently delete <span class="purge-filename"></span> from your Dropbox?<div class="modal-buttons"><input type="button" onclick="Modal.vars.action(); return Modal.hide(event);" value="Permanently delete" class="freshbutton-blue" /><input onclick="Modal.hide(event)" type="button" name="cancel purge" value="Cancel" class="freshbutton" /></div></div><div style="display:none;" id="restore-file">Are you sure you want to restore <span class="restore-filename">&nbsp;</span>?<div class="modal-buttons"><input type="button" onclick="Modal.vars.action(); return Modal.hide(event);" value="Restore" class="freshbutton-blue" /><input onclick="Modal.hide(event)" type="button" name="cancel restore" value="Cancel" class="freshbutton" /></div></div> 
+<script type="text/template" id="list_item_tmpl">
+  <li class="browse-file <% if (file.bytes == -1) { %> deleted <% } %> <% if (file.tkey) { %> shmodeled <% } %>"
+      data-identity="<%= file.to_key() %>"
+      id="f_<%= file.ns_id %>_<%= file.sjid %>"
+      <% if (file.caption != file.filename) { %>
+        title="<%= file.filename %>"
+      <% } %>
+      <% if (file.dir) { %>
+        dropzone="copy move"
+      <% } %>>
+    <div class="filename-col">
+        <%
+           var sprite_props = {'class': 'icon', alt: file.caption, draggable: 'true'};
+           if ((file.thumbnail_url_tmpl) && !((file.preview_type == 'video') && Constants.DISABLE_VIDEO_ICONS)) {
+             sprite_props['data-src'] = file.thumbnail_url_tmpl;
+           }
+        %>
+        <%= Sprite.html('web', file.icon, sprite_props) %>
+        <a href="<%= Multiaccount.add_role_param(file.href) %>"
+           class="filename-link"
+           draggable="true"
+           hideFocus="hideFocus"
+           target="<% if (file.dir) { %>_self<% } else { %>_blank<% } %>"><%= file.caption %></a>
+    </div>
+
+    <%
+       if (in_search_mode || !Browse.inside_dir) {
+         var LOCATION_SNIPPET = 18;
+         var parent_fq_path = Util.parentDir(file.fq_path);
+         var parent_ns_path = Util.parentDir(file.ns_path);
+         var link_text = parent_fq_path.em_snippet(LOCATION_SNIPPET, 0);
+         if (link_text == '/') {
+           link_text = 'Dropbox';
+         }
+    %>
+      <div class="location" title="<%= parent_fq_path %>">
+        <span>
+            <a class="parent-dir"
+               href="/home<%= parent_fq_path %>"
+               data-parent_ns_path="<%= parent_ns_path %>"
+               data-parent_ns_id="<%= file.ns_id %>">
+              <%= link_text %>
+            </a>
+        </span>
+      </div>
+    <% } else { %>
+      <div class="kind">
+        <% if (flex_column == "FILES_BY_EXTENSION") { %>
+          <span class="extension"><%= (file.get_extension() || '').truncate(10) %></span>
+          <span class="category <% if (file.get_extension()) { %>secondary<% } %>"><%= file.get_category() %></span>
+        <% } else if (flex_column == "FILES_BY_KIND") { %>
+          <span class="category"><%= file.get_category() %></span>
+          <span class="extension secondary"><%= (file.get_extension() || '').truncate(10) %></span>
+        <% } else { %>
+          <span class="size"><%= file.size || '--' %></span>
+        <% } %>
+      </div>
+    <% } %>
+    <div class="modified">
+        <span class="modified-time"><%= file.ago || '--' %></span>
+        <% if (file.last_modified_fname) { %>
+          <span class="modified-by"><%= file.last_modified_fname %></span>
+        <% } %>
+        <% if (file.is_shmodelable()) { %>
+          <a href="#" class="shmodel-file title_bubble" style="margin-right: 0px;" title="<%= _('Share link') %>">
+            <%= Sprite.html('web', 'link18') %>
+          </a>
+        <% } %>
+    </div>
+    <br class="clear"/>
+  </li>
+</script>
+
+<script type="text/template" id="breadcrumb_tmpl">
+<% if (dropdown.length > 1) { %>
+  <a id="breadcrumbs-box"><%= Sprite.html('web', "folder_arrow_32") %></a>
+<% } else if (!Util.has_new_chrome()) { %>
+  <a id="breadcrumbs-box"
+     href="/<%= url_root %>"
+     data-fq_path=""
+     <% if (containing_fq_path.length) { %>
+     dropzone="copy move"
+     <% } %>
+     class="crumb">
+     <%= Sprite.html('web', "glyph") %>
+  </a>
+<% } %>
+
+<% if (containing_fq_path.length) { %>
+  <% if (Util.has_new_chrome() && dropdown.length <= 1) { %>
+    <a href="/<%= url_root %>"
+       data-fq_path=""
+       dropzone="copy move"
+       class="crumb"><%= root_name %></a>
+  <% } %>
+  <%= Sprite.html('web', "chevron", {'class': 'breadcrumb_spacer'}) %>
+<% } %>
+
+<% for (var i = 0; i < breadcrumbs.length; i += 1) { %>
+  <% var bc = breadcrumbs[i]; %>
+  <a href="<%= bc.url %>"
+     class="crumb"
+     data-fq_path="<%= bc.fq_path %>"
+     dropzone="copy move">
+    <%= bc.folder_name %></a>
+    <%= Sprite.html('web', "chevron", {'class': 'breadcrumb_spacer'}) %>
+<% } %>
+</script>
+
+<script type="text/template" id="breadcrumb_li_tmpl">
+<div id="breadcrumb-dropdown" style="display:none" class="chat-bubble">
+    <ul>
+        <% for (var i = 0; i < breadcrumbs.length; i += 1) { %>
+        <% var bc = breadcrumbs[i]; %>
+        <li>
+            <a href="<%= bc.url %>"
+                class="crumb force-no-break"
+                data-fq_path="<%= bc.fq_path %>"
+                dropzone="copy move">
+                <%= Sprite.html('web', bc.icon) %><%= bc.folder_name.snippet(75) %>
+            </a>
+        </li>
+        <% } %>
+    </ul>
+    <div class="chat-bubble-arrow-border"></div>
+    <div class="chat-bubble-arrow"></div>
+</div>
+</script>
+
+
+<script type="text/template" id="actions_bar_tmpl">
+    <span class="filesize">
+        <%= filesize %>
+    </span>
+    <span class="description">
+        <%= description %>
+    </span>
+    <ul class="action-bar note">
+        <% if (!has_actions) { %>
+            <li>
+                <%= _('No available actions') %>
+            </li>
+        <% } %>
+        <% for (var i = 0; i < actions.length; i++) { %>
+            <li class="action primary ui-button">
+                <button type="submit"
+                        name="action"
+                      <% if (actions[i].is_dropdown) { %>
+                        class="dropdown"
+                      <% } %>
+                        data-value="<%= actions[i].name %>"
+                        title="<%= actions[i].text %>">
+                    <span>
+                      <% if (actions[i].icon) { %>
+                        <%= Sprite.html('web', actions[i].icon) %>
+                      <% } %>
+                        <%= actions[i].text %>
+                      <% if (actions[i].is_dropdown) { %>
+                        <% if (has_new_chrome) { %>
+                          <%= Sprite.html('web', 'login_arrow') %>
+                        <% } else { %>
+                          <%= Sprite.html('web', 'big-dropdown') %>
+                        <% } %>
+                      <% } %>
+                    </span>
+                </button>
+              <% if (actions[i].is_dropdown && actions[i].subactions) { %>
+                <div class="secondary chat-bubble">
+                    <ul>
+                      <% for (var j = 0; j < actions[i].subactions.length; j++) { %>
+                        <% if (actions[i].subactions[j].type === 'divider') { %>
+                          <li class="divider"></li>
+                        <% } else if (actions[i].subactions[j].type === 'subheader') { %>
+                          <li class="subheader">
+                          <span><%= actions[i].subactions[j].text %></span>
+                          </li>
+                        <% } else { %>
+                          <li class="action">
+                            <% if (!actions[i].subactions[j].href) { %>
+                              <label>
+                                  <button type="submit"
+                                          name="action"
+                                          data-value="<%= actions[i].subactions[j].name %>"
+                                          subaction-index="<%= j %>">
+                                      <%= Sprite.html('web', actions[i].subactions[j].icon) %>
+                                      <span><%= actions[i].subactions[j].text %></span>
+                                      <% if (actions[i].subactions[j].detail_text) { %>
+                                      <span class="detail-text"><%= actions[i].subactions[j].detail_text %></span>
+                                      <% } %>
+                                  </button>
+                              </label>
+                            <% } else { %>
+                              <a href="<%= actions[i].subactions[j].href %>">
+                                  <%= Sprite.html('web', actions[i].subactions[j].icon) %>
+                                  <span><%= actions[i].subactions[j].text %></span>
+                              </a>
+                            <% } %>
+                          </li>
+                        <% } %>
+                      <% } %>
+                    </ul>
+                </div>
+              <% } %>
+            </li>
+        <% } %>
+    </ul>
+</script>
+
+<script type="text/template" id="new_folder_tmpl">
+  <li class="browse-new-folder file-select"
+      title="<%= name %>">
+    <div class="filename-col">
+        <%= Sprite.html('web', 'folder_32', {'class': 'icon'}) %>
+        <div class="name"><%= name %></div>
+    </div>
+    <div class="kind"><span><%= _('folder') %></span></div>
+    <div class="modified"></div>
+    <br class="clear"/>
+  </li>
+</script>
+
+<script type="text/template" id="context_menu_tmpl">
+  <% var extra_class_name = big ? 'big' : ''; %>
+    <ul id="context-menu" class="chat-bubble <%= extra_class_name %>">
+  <% for (var i = 0; i < actions.length; i++) { %>
+      <% if (actions[i].type === 'divider') { %>
+        <li class="divider"></li>
+      <% } else if (actions[i].type === 'subheader') { %>
+        <li class="subheader">
+            <span><%= actions[i].text %></span>
+        </li>
+      <% } else { %>
+        <li class="action primary">
+          <% if (actions[i].href) { %>
+            <a href="<%= actions[i].href %>"
+              <% if (actions[i].target) { %>
+                target="<%= actions[i].target %>"
+              <% } %>
+            >
+                <%= Sprite.html('web', actions[i].icon) %>
+                <span><%= actions[i].text %></span>
+            </a>
+          <% } else { %>
+            <label for="<%= actions[i].name %>_button">
+                <button id="<%= actions[i].name %>_button"
+                     type="submit"
+                     name="action"
+                     data-value="<%= actions[i].name %>"
+                     >
+                    <div class="context-menu-icon-frame">
+                      <% if (actions[i].icon) { %>
+                        <%= Sprite.html('web', actions[i].icon) %>
+                      <% } else if (actions[i].icon_href) { %>
+                        <img src="<%= actions[i].icon_href %>" />
+                      <% } else { %>
+                        <img src="<%= Sprite.SPACER %>" class="context-menu-spacer" />
+                      <% } %>
+                    </div>
+                    <span><%= actions[i].text %></span>
+                  <% if (actions[i].is_dropdown && actions[i].subactions) { %>
+                    <%= Sprite.html('web', 'menu-right-arrow') %>
+                  <% } %>
+                </button>
+            </label>
+
+              <% if (actions[i].is_dropdown && actions[i].subactions) { %>
+            <ul class="secondary chat-bubble">
+              <% for (var j = 0; j < actions[i].subactions.length; j++) { %>
+                <% if (actions[i].subactions[j].type === 'divider') { %>
+                  <li class="divider"></li>
+                <% } else if (actions[i].subactions[j].type === 'subheader') { %>
+                  <li class="subheader">
+                  <span><%= actions[i].subactions[j].text %></span>
+                  </li>
+                <% } else { %>
+                  <li class="action">
+                    <% if (!actions[i].subactions[j].href) { %>
+                      <label>
+                          <button type="submit"
+                                  name="action"
+                                  data-value="<%= actions[i].subactions[j].name %>"
+                                  submenu-index="<%= j %>">
+                              <div class="context-menu-icon-frame">
+                                <% if (actions[i].subactions[j].icon) { %>
+                                  <%= Sprite.html('web', actions[i].subactions[j].icon) %>
+                                <% } %>
+                              </div>
+                              <span><%= actions[i].subactions[j].text %></span>
+                              <% if (actions[i].subactions[j].detail_text) { %>
+                              <span class="detail-text"><%= actions[i].subactions[j].detail_text %></span>
+                              <% } %>
+                          </button>
+                      </label>
+                    <% } else { %>
+                      <a href="<%= actions[i].subactions[j].href %>">
+                          <%= Sprite.html('web', actions[i].subactions[j].icon) %>
+                          <span><%= actions[i].subactions[j].text %></span>
+                      </a>
+                    <% } %>
+                  </li>
+                <% } %>
+              <% } %>
+            </ul>
+              <% } %>
+
+          <% } %>
+        </li>
+      <% } %>
+  <% } %>
+    </ul>
+</script>
+
+<script type="text/template" id="global_actions_tmpl">
+  <ul class="horizontal">
+    <% for (var i = 0; i < standard_actions.length; i++) { %>
+       <li class="action">
+         <label for="<%= standard_actions[i].name %>_button">
+             <a id="<%= standard_actions[i].name %>_button"
+                class="title_bubble"
+                name="action"
+                data-value="<%= standard_actions[i].name %>"
+                title="<%= standard_actions[i].text %>"
+                >
+               <%= Sprite.html('web', standard_actions[i].icon, { alt: standard_actions[i].text }) %>
+             </a>
+         </label>
+         <% if (i == standard_actions.length -1 && secondary_actions.length) { %>
+            <ul id="secondary-actions" class="chat-bubble" style="display:none;">
+                <% for (var j=0; j < secondary_actions.length; j++) { %>
+                    <li class="secondary-action">
+                        <label for="<%= secondary_actions[j].name %>_button">
+                            <a id="<%= secondary_actions[j].name %>_button"
+                               name="action"
+                               data-value="<%= secondary_actions[j].name %>"
+                               title="<%= secondary_actions[j].text %>"
+                               >
+                              <%= Sprite.html('web', secondary_actions[j].icon) %><%= secondary_actions[j].text %>
+                            </a>
+                        </label>
+                    </li>
+                <% } %>
+             </ul>
+         <% } %>
+       </li>
+    <% } %>
+  </ul>
+</script>
+
+
+<script type="text/template" id="open_with_app_tmpl">
+  <li class="open-with-app-list-li" name="<%= app.app_id %>">
+    <% if (app.icon_url) { %>
+    <div class="appimage">
+      <img src="<%= app.icon_url %>">
+    </div>
+    <% } %>
+    <div class="appname">
+      <%= app.name %>
+    </div>
+    <div class="appdesc2">
+      <%= app.description %>
+    </div>
+  </li>
+</script>
+<iframe src="javascript:false;" style="float:left;" name="upload-frame" height="0" width="0" frameborder="0"></iframe></div></div><noscript><p class="center">The Dropbox website requires JavaScript.</p></noscript></div><div style="position: absolute; top: 0; left: 0; font-family: Courier" id="ieconsole"></div><div style="position:absolute; top:-10000px;width:0px; height:0px; left: 0;" id="FB_HiddenContainer"></div><div id="notice-container" class="clearfix"><script type="text/javascript">document.observe("dom:loaded", function() { Notify.server_error(new HTML("You have denied access to KgBot.")); });</script></div><script src="https://dt8kf6553cww8.cloudfront.net/static/coffee/compiled/get_started-vflkZuAEO.js" type="text/javascript"></script><script src="https://dt8kf6553cww8.cloudfront.net/static/coffee/compiled/logger-vflXdXO8C.js" type="text/javascript"></script><script src="https://dt8kf6553cww8.cloudfront.net/static/coffee/compiled/tutorial_common-vflhM-1rC.js" type="text/javascript"></script><script>if (window.requirejs) { requirejs(["dropbox"], function(dropbox) {
+Util.set_min_body_height_to_viewport_height();
+Event.observe(window, "resize", function() { Util.set_min_body_height_to_viewport_height(); });
+        
+HomePageController.init.defer(Util.from_json("{\"disable_promo\": false, \"show_shared_folder_tutorial\": false, \"show_upload\": false, \"show_share_options\": null, \"language_modal_locale\": null, \"show_email_just_verified\": false, \"force_campaign\": 0, \"show_share_existing_modal\": null, \"show_sent_verification_email\": false, \"force_promo\": 0, \"show_download_modal\": false, \"role\": null, \"share_subfolder\": 0, \"language_modal_invite_locale\": null, \"fq_path\": \"\", \"show_downloading_modal\": null}"));
+
+        Util.smartLoad(function() {
+           Util.focus(Util.from_json("\"\""));
+           Cookies.check_cookies_enabled();
+           WebTimingLogger.init();
+        });
+        
+add_notclient(234671851, Util.from_json("\"00000000000000000000\""), Util.from_json("{\"425384016\": 4, \"425409731\": 0}"));
+UserNotifier.init();
+new NotificationUIButton();
+$(Util.from_json("\"emsnippet-896f552c96e3c710\"")).innerHTML = Util.from_json("\"Nikola Babic\"").em_snippet(20, 0.750000).escapeHTML();
+$(Util.from_json("\"emsnippet-a3b135916fc5a54a\"")).innerHTML = Util.from_json("\"ja1994@krstarica.com\"").em_snippet(22, 0.250000).escapeHTML();
+
+Browse.init(true, BrowseActionsBasic, GlobalActionsBasic, BrowseActionsContext, GlobalActionsContext);
+
+Browse.app_prefs = Util.from_json("{}");
+Browse.can_open_with = false;
+Browse.can_use_photos_features = true;
+Browse.use_local_cache = false;
+var current_hash = Util.url_hash();
+
+
+  if (!current_hash) {
+    BrowseURL.set_path_url(Constants.root_ns, Util.from_json("\"\""));
+  }
+  else {
+    var b2_url = BrowseURL.parse_b2_hash(current_hash);
+    if (b2_url) {
+      window.location.href = '/c/browse/' + b2_url.ns_path + '?ns_id=' + b2_url.ns_id;
+    }
+    else if (!DBHistory.get_url().startsWith("/home")) {
+      window.location.href = "/home";
+    }
+  }
+
+
+  $('uploader-link').observe('click', function (e) {
+    BrowseActions.option_dict['upload'].click_handler(e);
+  });
+DBHistory.add_callback('/home', BrowseURL.history_change_handler.bind(BrowseURL));
+// Curry null so that DBHistory doesn't pass the url path into BrowseUtil.file_preview_from_selected as the 'init_file' arg
+DBHistory.add_callback('/lightbox', $j.fn.curry(BrowseUtil.filepreview_from_selected, BrowseUtil, "callback", null));
+DBHistory.add_callback('/view', $j.fn.curry(BrowseUtil.filepreview_from_selected, BrowseUtil, "callback", null));
+DBHistory.add_callback('/search', FileSearch.history_change_handler.bind(FileSearch));
+
+
+BrowseKeys.init();
+BrowseKeys.init_advanced();
+
+BrowseClipboard.init();
+BrowseSelection.init();
+BrowseDrag.init();
+FileSearch.init();
+BrowseUpdate.init();
+
+$('loading-text').__date(Util.from_json("\"Loading...\""));
+Sharing.set_role(Util.from_json("null"))
+TreeView.init(FileOps.dir_handler, autohide=false, Util.from_json("\"copy-move-treeview\""));
+
+Upload.cookies = {};
+Upload.cookies[Util.from_json("\"bjar\"")] = Util.from_json("\"W3sic2Vzc19pZCI6IDMzNzU1NzI4OTkwODA4NjAyNzQxNTU5NTg2MzA2NDMzMzQ3MjgwLCAiZXhwaXJlcyI6IDEzODQxNDAyMzEsICJyb2xlIjogbnVsbCwgInVpZCI6IDIzNDY3MTg1MX1d\"");
+Upload.cookies[Util.from_json("\"blid\"")] = Util.from_json("\"AAC4GIRtjhpDFX7eMpUDkC888SyKfu6vqwwPo-Nz6RPKjg\"");
+Upload.cookies.cookie_t = Util.from_json("\"fyhsj3lMelW34K1enCl30rcz\"");
+
+FileQueue.init();
+BulkUpload.init();
+UploadFile.init();
+InlineUploadStatus.init();
+
+OverQuotaUploads.init(false, Util.from_json("null"));}); } else { var onload_js = function() { 
+Util.set_min_body_height_to_viewport_height();
+Event.observe(window, "resize", function() { Util.set_min_body_height_to_viewport_height(); });
+        
+HomePageController.init.defer(Util.from_json("{\"disable_promo\": false, \"show_shared_folder_tutorial\": false, \"show_upload\": false, \"show_share_options\": null, \"language_modal_locale\": null, \"show_email_just_verified\": false, \"force_campaign\": 0, \"show_share_existing_modal\": null, \"show_sent_verification_email\": false, \"force_promo\": 0, \"show_download_modal\": false, \"role\": null, \"share_subfolder\": 0, \"language_modal_invite_locale\": null, \"fq_path\": \"\", \"show_downloading_modal\": null}"));
+
+        Util.smartLoad(function() {
+           Util.focus(Util.from_json("\"\""));
+           Cookies.check_cookies_enabled();
+           WebTimingLogger.init();
+        });
+        
+add_notclient(234671851, Util.from_json("\"00000000000000000000\""), Util.from_json("{\"425384016\": 4, \"425409731\": 0}"));
+UserNotifier.init();
+new NotificationUIButton();
+$(Util.from_json("\"emsnippet-896f552c96e3c710\"")).innerHTML = Util.from_json("\"Nikola Babic\"").em_snippet(20, 0.750000).escapeHTML();
+$(Util.from_json("\"emsnippet-a3b135916fc5a54a\"")).innerHTML = Util.from_json("\"ja1994@krstarica.com\"").em_snippet(22, 0.250000).escapeHTML();
+
+Browse.init(true, BrowseActionsBasic, GlobalActionsBasic, BrowseActionsContext, GlobalActionsContext);
+
+Browse.app_prefs = Util.from_json("{}");
+Browse.can_open_with = false;
+Browse.can_use_photos_features = true;
+Browse.use_local_cache = false;
+var current_hash = Util.url_hash();
+
+
+  if (!current_hash) {
+    BrowseURL.set_path_url(Constants.root_ns, Util.from_json("\"\""));
+  }
+  else {
+    var b2_url = BrowseURL.parse_b2_hash(current_hash);
+    if (b2_url) {
+      window.location.href = '/c/browse/' + b2_url.ns_path + '?ns_id=' + b2_url.ns_id;
+    }
+    else if (!DBHistory.get_url().startsWith("/home")) {
+      window.location.href = "/home";
+    }
+  }
+
+
+  $('uploader-link').observe('click', function (e) {
+    BrowseActions.option_dict['upload'].click_handler(e);
+  });
+DBHistory.add_callback('/home', BrowseURL.history_change_handler.bind(BrowseURL));
+// Curry null so that DBHistory doesn't pass the url path into BrowseUtil.file_preview_from_selected as the 'init_file' arg
+DBHistory.add_callback('/lightbox', $j.fn.curry(BrowseUtil.filepreview_from_selected, BrowseUtil, "callback", null));
+DBHistory.add_callback('/view', $j.fn.curry(BrowseUtil.filepreview_from_selected, BrowseUtil, "callback", null));
+DBHistory.add_callback('/search', FileSearch.history_change_handler.bind(FileSearch));
+
+
+BrowseKeys.init();
+BrowseKeys.init_advanced();
+
+BrowseClipboard.init();
+BrowseSelection.init();
+BrowseDrag.init();
+FileSearch.init();
+BrowseUpdate.init();
+
+$('loading-text').__date(Util.from_json("\"Loading...\""));
+Sharing.set_role(Util.from_json("null"))
+TreeView.init(FileOps.dir_handler, autohide=false, Util.from_json("\"copy-move-treeview\""));
+
+Upload.cookies = {};
+Upload.cookies[Util.from_json("\"bjar\"")] = Util.from_json("\"W3sic2Vzc19pZCI6IDMzNzU1NzI4OTkwODA4NjAyNzQxNTU5NTg2MzA2NDMzMzQ3MjgwLCAiZXhwaXJlcyI6IDEzODQxNDAyMzEsICJyb2xlIjogbnVsbCwgInVpZCI6IDIzNDY3MTg1MX1d\"");
+Upload.cookies[Util.from_json("\"blid\"")] = Util.from_json("\"AAC4GIRtjhpDFX7eMpUDkC888SyKfu6vqwwPo-Nz6RPKjg\"");
+Upload.cookies.cookie_t = Util.from_json("\"fyhsj3lMelW34K1enCl30rcz\"");
+
+FileQueue.init();
+BulkUpload.init();
+UploadFile.init();
+InlineUploadStatus.init();
+
+OverQuotaUploads.init(false, Util.from_json("null")); }; if (window.Prototype) { document.observe('script:loaded', onload_js); } else if (window.jQuery) { jQuery(onload_js); } }</script></body></html>

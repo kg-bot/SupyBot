@@ -1,0 +1,40 @@
+2 Who wrote this plugin?
+---
+r ProgVal
+---
+5 P***V**
+5 Pr**Va*
+2 Pro*Val
+=== 5
+
+4 What is the name of this bot?
+---
+r Limnoria
+r Supybot
+---
+5 L******a
+2 Li****ia
+2 Lim**ria
+=== 5
+
+3 Who is the original author of Supybot?
+---
+r jemfinch
+---
+1 j*******
+1 jem*****
+=== 1
+
+1 Give a number.
+---
+r 42
+m [0-9]+
+---
+=== 2
+
+1 Give another number.
+---
+r 42
+m [0-9]+
+---
+=== 2

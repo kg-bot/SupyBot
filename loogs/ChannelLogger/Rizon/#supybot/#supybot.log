@@ -1,0 +1,335 @@
+2013-08-28T03:43:07  *** KG-Bot <KG-Bot!~Kraljeva_@Rizon-DD5219AC.server4you.net> has joined #supybot
+2013-08-28T03:43:27  *** KG-Bot is now known as Guest361
+2013-08-28T04:17:25  *** KG-Bot <KG-Bot!~Kraljeva_@Rizon-DD5219AC.server4you.net> has joined #supybot
+2013-08-28T04:17:43  *** KG-Bot is now known as Guest36575
+2013-08-28T04:19:17  *** Guest36575 is now known as KG-Bot
+2013-08-28T04:19:17  *** IceCold sets mode: +ao KG-Bot KG-Bot
+2013-08-28T04:36:39  *** KG-Bot <KG-Bot!~Kraljeva_@Kraljeva.Garda.official.bot> has joined #supybot
+2013-08-28T04:36:39  <IceCold> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-08-28T04:36:39  *** IceCold sets mode: +ao KG-Bot KG-Bot
+2013-08-28T04:47:51  *** KG-Bot <KG-Bot!~Kraljeva_@Kraljeva.Garda.official.bot> has joined #supybot
+2013-08-28T04:47:51  <IceCold> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-08-28T04:47:51  *** IceCold sets mode: +ao KG-Bot KG-Bot
+2013-08-28T12:00:18  *** KG-Bot <KG-Bot!~Kraljeva_@Kraljeva.Garda.official.bot> has joined #supybot
+2013-08-28T12:00:18  <IceCold> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-08-28T12:00:18  *** IceCold sets mode: +ao KG-Bot KG-Bot
+2013-08-28T14:07:39  *** KG-Bot <KG-Bot!~Kraljeva_@Kraljeva.Garda.official.bot> has joined #supybot
+2013-08-28T14:07:40  <IceCold> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-08-28T14:07:40  *** IceCold sets mode: +ao KG-Bot KG-Bot
+2013-08-28T15:11:49  *** Krudda <Krudda!~Krudda@Easy.GoinG.Subs> has joined #supybot
+2013-08-28T15:12:03  <Krudda> this channel what I think it is
+2013-08-28T15:12:04  <Krudda> ?
+2013-08-28T15:14:35  <DonVitoCorleone> And what do you think it is?
+2013-08-28T15:14:54  <Krudda> an IRC channel for technical support for supybot
+2013-08-28T15:15:17  <DonVitoCorleone> Sort of, yeah
+2013-08-28T15:15:29  <Krudda> I can't get it to recognize me as owner
+2013-08-28T15:15:43  <Krudda> the config even has me listed as capability: owner
+2013-08-28T15:16:28  <DonVitoCorleone> Any error msg?
+2013-08-28T15:16:42  <Krudda> just that I don't have owner capabilities or admin capabilities
+2013-08-28T15:16:52  <Krudda> C:\Python27\python.exe C:\Python27\Scripts\supybot
+2013-08-28T15:17:00  <Krudda> dammit, why doesn't my copy/paste work
+2013-08-28T15:17:34  <Krudda> http://puu.sh/4d0aP.png
+2013-08-28T15:17:41  <DonVitoCorleone> Have you identified with your bot when he connected?
+2013-08-28T15:17:54  <Krudda> yeah
+2013-08-28T15:18:13  <DonVitoCorleone> Type whoami on bots PM
+2013-08-28T15:18:20  <Krudda> http://puu.sh/4d0cj.png
+2013-08-28T15:18:24  <Krudda> was doing so
+2013-08-28T15:18:46  <Krudda> here is capabilities http://puu.sh/4d0d7.png
+2013-08-28T15:20:34  <Krudda> Finally, the config file for users http://puu.sh/4d0gD.png
+2013-08-28T15:21:09  <Krudda> Thanks for replying by the way
+2013-08-28T15:21:57  <DonVitoCorleone> Go to conf -> users.conf
+2013-08-28T15:22:09  <DonVitoCorleone> What does it say?
+2013-08-28T15:22:21  <Krudda> Thats what I just linked a moment ago
+2013-08-28T15:22:30  <Krudda> [23:23:14] <Krudda> Finally, the config file for users http://puu.sh/4d0gD.png
+2013-08-28T15:22:42  <DonVitoCorleone> Sorry, didn't seen it xD
+2013-08-28T15:22:44  <Krudda> It says username, and password etc and capability: owner
+2013-08-28T15:22:52  <Krudda> no problem :D
+2013-08-28T15:23:39  <DonVitoCorleone> I had the same problem when I used to run a supy for the first time
+2013-08-28T15:23:39  <Krudda> I don't like to bug people usually, but Google seems to return me no help on the matter
+2013-08-28T15:25:20  <DonVitoCorleone> Have you edited this users.conf file by hand or on IRC?
+2013-08-28T15:25:42  <Krudda> by hand
+2013-08-28T15:25:54  <Krudda> It also didn not work even before I edited it
+2013-08-28T15:26:04  <Krudda> I wouldn't know how to edit it via IRC
+2013-08-28T15:26:11  <DonVitoCorleone> I thought so
+2013-08-28T15:26:35  <DonVitoCorleone> Have you turned off your bot while you edited this?
+2013-08-28T15:27:15  <Krudda> yeah
+2013-08-28T15:27:26  <Krudda> I was following the instructions found here http://supybook.fealdia.org/devel/#_identifying_to_the_bot
+2013-08-28T15:27:43  <Krudda> quote:
+2013-08-28T15:27:43  <Krudda> There are some special capabilities recognized by Supybot:
+2013-08-28T15:27:43  <Krudda> owner
+2013-08-28T15:27:43  <Krudda> For bot owners: the people who have "physical" access to the bot and its files. This cannot be granted online; the conf/users.conf file must be edited by hand followed by reload.
+2013-08-28T15:28:18  <Krudda> I'll try once more for the sake of it
+2013-08-28T15:28:39  <DonVitoCorleone> First, shut down your bot, before you edit that
+2013-08-28T15:28:59  <Krudda> yes, did so
+2013-08-28T15:29:13  <Krudda> currently reconnecting now
+2013-08-28T15:29:30  <DonVitoCorleone> Go check you uesrs.conf file now
+2013-08-28T15:29:34  <DonVitoCorleone> users*
+2013-08-28T15:29:54  <Krudda> looks the same
+2013-08-28T15:31:09  <DonVitoCorleone> You still can't identify as an owner?
+2013-08-28T15:31:25  <Krudda> Still not acknowledging me
+2013-08-28T15:31:30  <Krudda> I have no isea why
+2013-08-28T15:31:33  <Krudda> idea*
+2013-08-28T15:31:48  * Krudda called capabilites command > [23:33:34] <DereBot> []
+2013-08-28T15:31:59  <Krudda> it says owner in the .conf, but not online
+2013-08-28T15:32:34  <Krudda> [23:35:05] <DereBot> Krudda: The current (running) version of this Supybot is 0.83.4.1.  The newest version available online is 0.83.4.1.
+2013-08-28T15:32:41  <Krudda> In case that is any help
+2013-08-28T15:34:11  <DonVitoCorleone> Try to shut your bot down and to give me admin or owner or any capability
+2013-08-28T15:34:17  <DonVitoCorleone> But in users.conf file
+2013-08-28T15:35:07  <Krudda> just use your IRC nick?
+2013-08-28T15:35:17  <DonVitoCorleone> I've registered as Don
+2013-08-28T15:35:33  <Krudda> ok
+2013-08-28T15:36:49  <Krudda> right done, now you wnt me to make it join this channel?
+2013-08-28T15:37:28  <DonVitoCorleone> You connected him on IRC?
+2013-08-28T15:37:46  <Krudda> just now
+2013-08-28T15:38:18  <DonVitoCorleone> Are you sure that you have only one users.conf file?
+2013-08-28T15:38:24  <Krudda> yes, quite sure
+2013-08-28T15:38:45  <Krudda> to be sure, I even deleted the file entirely and created it from scratch
+2013-08-28T15:38:58  <DonVitoCorleone> I ask because that was problem on my bot, when I just started using supy
+2013-08-28T15:39:37  *** DereBot <DereBot!~NotTsun@98E1C31B.7FE4A63B.7F8CAAD1.IP> has joined #supybot
+2013-08-28T15:39:55  <Krudda> @list owner
+2013-08-28T15:39:56  <DereBot> Krudda: announce, defaultcapability, defaultplugin, disable, enable, flush, ircquote, load, log, quit, reload, rename, unload, unrename, and upkeep
+2013-08-28T15:40:00  <Krudda> @announce anything
+2013-08-28T15:40:02  <DereBot> Krudda: Error: You don't have the owner capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2013-08-28T15:40:34  <DonVitoCorleone> When you started supybot-wizard and when it prompted for Owner nick and Pass, have you used that to add yourself as an owner?
+2013-08-28T15:41:15  <Krudda> yes
+2013-08-28T15:41:22  <Krudda> should I not and do it manually
+2013-08-28T15:41:28  <DonVitoCorleone> No
+2013-08-28T15:42:29  <DonVitoCorleone> Strange, I've installed new Limnoria instance on my localhost last night because I don't like to make new plugins on supy that runs from server, it worked great
+2013-08-28T15:42:29  <Krudda> DereBot whoami
+2013-08-28T15:42:30  <DereBot> Krudda: Krudda
+2013-08-28T15:42:49  <Krudda> indeed, this is actually the second laptop it won't work on
+2013-08-28T15:44:41  <DonVitoCorleone> You could run supybot-wizard again, and than try to create everything from scratch
+2013-08-28T15:45:00  <DonVitoCorleone> then*
+2013-08-28T15:45:19  <Krudda> That never worked before either. I've tried that multiple times too
+2013-08-28T15:45:30  <Krudda> I think I'll use a different, unregistered nick
+2013-08-28T15:46:09  <DonVitoCorleone> It doesn't matter
+2013-08-28T15:46:18  <DonVitoCorleone> You aren't doing something correctly
+2013-08-28T15:47:05  <DonVitoCorleone> Start the wizard and I'll tell you what to do next, where should you writte something etc.
+2013-08-28T15:47:18  <Krudda> ok
+2013-08-28T15:47:26  <Krudda> Should I delete the current bot?
+2013-08-28T15:47:29  <DonVitoCorleone> No
+2013-08-28T15:47:32  *** DereBot <DereBot!~NotTsun@98E1C31B.7FE4A63B.7F8CAAD1.IP> has quit IRC (Read error: Connection reset by peer)
+2013-08-28T15:47:35  <Krudda> ok
+2013-08-28T15:47:42  <DonVitoCorleone> Just make a new directory
+2013-08-28T15:47:48  <DonVitoCorleone> cd to that new dir
+2013-08-28T15:48:55  <DonVitoCorleone> When you are in that new directory type this C:\Python27\python.exe C:\Python27\Scripts\supybot-wizard
+2013-08-28T15:49:24  <Krudda> Yeah, doing that
+2013-08-28T15:49:30  <Krudda> already at the first questiom
+2013-08-28T15:49:38  <Krudda> try bolding: y/n
+2013-08-28T15:49:41  <DonVitoCorleone> y
+2013-08-28T15:49:44  <DonVitoCorleone> next y
+2013-08-28T15:49:45  <Krudda> I already know it doesn't work
+2013-08-28T15:50:04  <Krudda> I typed Y anyway
+2013-08-28T15:50:04  <DonVitoCorleone> Third question y
+2013-08-28T15:50:41  <Krudda> ok, now asking about directories, just use defaults?
+2013-08-28T15:50:45  <DonVitoCorleone> Yes
+2013-08-28T15:50:48  <DonVitoCorleone> For all of them
+2013-08-28T15:51:11  <DonVitoCorleone> When it asks about Plugin dir say y
+2013-08-28T15:51:18  <DonVitoCorleone> On next question just hit enter
+2013-08-28T15:51:39  <DonVitoCorleone> When it asks about Plugin dir again say n
+2013-08-28T15:51:56  <DonVitoCorleone> For IRC net type Rizon
+2013-08-28T15:52:03  <DonVitoCorleone> Net server irc.rizon.net
+2013-08-28T15:52:10  <Krudda> No mater what I do, I get this http://puu.sh/4d1f1.png
+2013-08-28T15:52:22  <Krudda> This happened to me on my other computer
+2013-08-28T15:52:40  <Krudda> its only when I try to make 2 bots
+2013-08-28T15:53:05  <Krudda> and if I choose another place, it still gives me that error
+2013-08-28T15:53:12  <DonVitoCorleone> Yeah, thats what I thought
+2013-08-28T15:53:24  <DonVitoCorleone> Same problem that I had
+2013-08-28T15:53:35  <DonVitoCorleone> You have TeamViewer maybe?
+2013-08-28T15:53:56  <Krudda> No, I should install it maybe. A lot of people ask me to lol
+2013-08-28T15:54:18  <Krudda> oh, there we go, got it going
+2013-08-28T15:54:24  <DonVitoCorleone> Maybe you should, that way I could try to install and set up supy for you
+2013-08-28T15:54:35  <DonVitoCorleone> +g teamviewer download
+2013-08-28T15:54:35  <KG-Bot> 1) Free **TeamViewer Download** for Windows (http://www.teamviewer.com/en/download/windows.aspx)   2) **TeamViewer** 8 â€“ Complete Overview of What's New (http://www.teamviewer.com/en/download/currentversion.aspx)   
+2013-08-28T15:54:42  <Krudda> adding "2" to the end solved it somehow >.>
+2013-08-28T15:55:06  <DonVitoCorleone> You mean plugins2 ?
+2013-08-28T15:55:33  <Krudda> I just said "\logs2" "conf2" "data2" etc
+2013-08-28T15:55:37  <DonVitoCorleone> No
+2013-08-28T15:55:41  <DonVitoCorleone> It won't work again
+2013-08-28T15:55:48  <Krudda> downloading teamviewer, 5MB, shouldn't take long
+2013-08-28T15:56:07  <DonVitoCorleone> Install TeamViewer, delete every trace of supybot and give me ID and PASS from teamviewer
+2013-08-28T15:56:21  <Krudda> ok, installing now
+2013-08-28T15:56:53  <DonVitoCorleone> It would be the best if you uninstall Python also and then make a new fresh install of it
+2013-08-28T15:59:24  <Krudda> ok, teamviewer id 252 030 568
+2013-08-28T15:59:32  <Krudda> pass 2850
+2013-08-28T16:00:01  <Krudda> Gimme a sec to fresh install python
+2013-08-28T16:00:06  <DonVitoCorleone> kk
+2013-08-28T16:01:31  <Krudda> alright, freshly installed
+2013-08-28T16:01:42  <Krudda> Anything i gotta do for this teamviewer?
+2013-08-28T16:01:56  <DonVitoCorleone> No, just turn it on and leave you mouse
+2013-08-28T16:02:02  <DonVitoCorleone> your*
+2013-08-28T16:02:11  <Krudda> ok
+2013-08-28T16:02:42  <Krudda> you're right to go (Ithink)
+2013-08-28T16:07:36  <DonVitoCorleone> Try starting your bot now and identify to him
+2013-08-28T16:08:35  <DonVitoCorleone> And what was that first song?
+2013-08-28T16:08:50  <DonVitoCorleone> It's awesome xD
+2013-08-28T16:08:54  <Krudda> Oh it was some remix I got on the internet
+2013-08-28T16:09:00  <Krudda> Oh, that was streamed too?
+2013-08-28T16:09:05  <DonVitoCorleone> Yup
+2013-08-28T16:09:08  <Krudda> The second song i wanted to skip
+2013-08-28T16:09:16  <Krudda> but didn't wanna take your control :P
+2013-08-28T16:09:25  <DonVitoCorleone> Start your bot
+2013-08-28T16:09:32  <Krudda> Playing Moonlight_Densetsu_Anipara_Club_Version_.mp3 in Media Player Classic
+2013-08-28T16:09:38  <Krudda> kk
+2013-08-28T16:09:39  <DonVitoCorleone> I've told you that you have more than one users.conf file
+2013-08-28T16:09:59  <Krudda> yeah
+2013-08-28T16:10:03  <Krudda> so I did?
+2013-08-28T16:10:18  <DonVitoCorleone> Yeah, you have more than 1 users.conf
+2013-08-28T16:10:25  <DonVitoCorleone> Have you started bot?
+2013-08-28T16:10:28  <DonVitoCorleone> And identified?
+2013-08-28T16:10:52  <Krudda> oh right, I need to redo the python scripts first
+2013-08-28T16:11:13  <DonVitoCorleone> Best option would be to install supy again
+2013-08-28T16:11:23  <Krudda> ok
+2013-08-28T16:11:35  <DonVitoCorleone> because this way it will throw your files, db -es, plugins everywhere
+2013-08-28T16:11:55  <DonVitoCorleone> Wait
+2013-08-28T16:12:02  <DonVitoCorleone> Let me do that for you, ok?
+2013-08-28T16:12:09  <DonVitoCorleone> You have to delete many files there
+2013-08-28T16:12:30  <Krudda> oh ok then
+2013-08-28T16:13:06  <Krudda> hang on a sec. to make it faster, my net sucks - wanna pause the song?
+2013-08-28T16:13:42  <DonVitoCorleone> Yeah, do it
+2013-08-28T16:13:56  <Krudda> done
+2013-08-28T16:17:30  <DonVitoCorleone> Stupid Windows
+2013-08-28T16:18:49  <DonVitoCorleone> Oh yeah
+2013-08-28T16:32:45  <DonVitoCorleone> Where the hell is Start button???
+2013-08-28T16:52:50  *** DereBot <DereBot!~Dere@98E1C31B.7FE4A63B.7F8CAAD1.IP> has joined #supybot
+2013-08-28T16:52:57  <DonVitoCorleone> xD
+2013-08-28T16:53:04  <DonVitoCorleone> Try to identify now
+2013-08-28T16:53:30  <DonVitoCorleone> Krudda:
+2013-08-28T16:53:36  <Krudda> Thanks
+2013-08-28T16:53:47  <DonVitoCorleone> Everything good now?
+2013-08-28T16:54:05  <DonVitoCorleone> @list --unloaded
+2013-08-28T16:54:06  <DereBot> DonVitoCorleone: Aka, Anonymous, BadWords, ChannelLogger, Conditional, Ctcp, Dict, Dunno, Factoids, Filter, Format, Games, Google, Herald, Internet, Karma, Lart, Later, Limiter, Math, MoobotFactoids, Network, News, NickAuth, NickCapture, Nickometer, Note, Praise, Protector, Quote, QuoteGrabs, RSS, Relay, Reply, Scheduler, Seen, Services, ShrinkUrl, Status, String, Time, Todo, Topic, URL, Unix, and Web
+2013-08-28T16:54:13  <Krudda> I get message succeedes
+2013-08-28T16:54:19  * DonVitoCorleone nods
+2013-08-28T16:54:28  <Krudda> ah yeas, much obliged
+2013-08-28T16:54:35  <Krudda> owner capabilities active
+2013-08-28T16:54:37  <DonVitoCorleone> @list PluginDownloader
+2013-08-28T16:54:38  <DereBot> DonVitoCorleone: info, install, and repolist
+2013-08-28T16:54:39  <Krudda> Thanks a lot man
+2013-08-28T16:54:43  <DonVitoCorleone> Np
+2013-08-28T16:54:55  <Krudda> Now, about that song I was listening to
+2013-08-28T16:54:57  <Krudda> want a copy?
+2013-08-28T16:55:03  <DonVitoCorleone> Nope
+2013-08-28T16:55:10  <DonVitoCorleone> Ahh
+2013-08-28T16:55:11  <DonVitoCorleone> Yes yes
+2013-08-28T16:55:21  <DonVitoCorleone> I do want that song
+2013-08-28T16:55:27  <Krudda> I'll get a link
+2013-08-28T16:55:46  <DonVitoCorleone> Kk
+2013-08-28T16:55:53  <DonVitoCorleone> Or I can take it from your pc
+2013-08-28T16:56:02  <DonVitoCorleone> With TeamViewer
+2013-08-28T16:56:06  <Krudda> http://sailormusic.net/bonus-songs/
+2013-08-28T16:56:20  <Krudda> I could always puush it too
+2013-08-28T16:56:21  <DonVitoCorleone> kk
+2013-08-28T16:56:29  <Krudda> but its live in the internet still
+2013-08-28T16:56:33  <Krudda> The song was this one:
+2013-08-28T16:56:44  <Krudda>  http://sailormusic.net/music/Miscellany/remixes+covers/Moonlight%20Densetsu%20(Anipara%20Club%20Version).mp3
+2013-08-28T16:57:19  <DonVitoCorleone> kk
+2013-08-28T16:57:23  <DonVitoCorleone> Thanks
+2013-08-28T16:57:33  <Krudda> How did you enjoy Windows 8. It looks like you've never used it before
+2013-08-28T16:57:53  <DonVitoCorleone> I hate it
+2013-08-28T16:58:06  <DonVitoCorleone> Microsoft is spying you with it just to tell you
+2013-08-28T16:58:17  <DonVitoCorleone> It has special softwer just for that
+2013-08-28T16:58:30  <Krudda> Yeah, I don't much like that aspect
+2013-08-28T16:58:42  <Krudda> But I try to block any connection I dislike
+2013-08-28T16:58:59  <Krudda> not that I have a "lot" of control
+2013-08-28T16:59:05  <DonVitoCorleone> You can't block this one, nope
+2013-08-28T16:59:09  <Krudda> DereBot test reply
+2013-08-28T16:59:09  <DereBot> Krudda: Error: "test" is not a valid command.
+2013-08-28T16:59:25  <Krudda> DereBot, test
+2013-08-28T16:59:26  <DereBot> Krudda: Error: "test" is not a valid command.
+2013-08-28T16:59:38  <Krudda> Well, gotta set plugins up I guess :P
+2013-08-28T16:59:40  <Krudda> Thanks a lot
+2013-08-28T16:59:41  <DonVitoCorleone> Please test your bot on #supy-testing not here
+2013-08-28T16:59:48  <Krudda> anything i can do to repay you for your time?
+2013-08-28T16:59:55  <Krudda> sure, will do
+2013-08-28T17:00:01  <DonVitoCorleone> I don't need repayment
+2013-08-28T17:00:08  <DonVitoCorleone> Going off for lunch
+2013-08-28T17:00:09  <DonVitoCorleone> bbl
+2013-08-28T17:00:17  <Krudda> Thanks again then. Best of luck
+2013-08-28T17:00:43  <Krudda> I'll be going to bed now as it is 1am and I have work in 5 hours. If you ever wanna catch up with me, you can find me on #eggs
+2013-08-28T17:02:08  *** DereBot <DereBot!~Dere@98E1C31B.7FE4A63B.7F8CAAD1.IP> has quit IRC (Read error: Connection reset by peer)
+2013-08-28T17:02:16  *** Krudda <Krudda!~Krudda@Easy.GoinG.Subs> has left #supybot (Leaving)
+2013-08-28T21:56:05  *** KG-Bot <KG-Bot!~Kraljeva_@Kraljeva.Garda.official.bot> has joined #supybot
+2013-08-28T21:56:06  <IceCold> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-08-28T21:56:06  *** IceCold sets mode: +ao KG-Bot KG-Bot
+2013-08-29T11:40:49  *** DereBot <DereBot!~NotTsun@AA51F72D.8001AE89.9A226583.IP> has joined #supybot
+2013-08-29T20:32:21  <DonVitoCorleone> Iota: could you look at one code, maybe help me to make it work?  xD
+2013-08-29T20:42:47  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #supybot
+2013-08-29T20:42:47  <IceCold> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-08-29T20:42:47  *** IceCold sets mode: +ao KG-Bot KG-Bot
+2013-08-29T20:44:28  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #supybot
+2013-08-29T20:44:28  <IceCold> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-08-29T20:44:28  *** IceCold sets mode: +ao KG-Bot KG-Bot
+2013-08-30T00:31:14  *** MoonCaptain <MoonCaptain!MoonCaptai@I.live.on.the.Moon> has joined #supybot
+2013-08-30T00:31:24  *** MoonCaptain <MoonCaptain!MoonCaptai@I.live.on.the.Moon> has left #supybot
+2013-09-02T17:34:44  *** DonVitoCorleone <DonVitoCorleone!Stefan_Nin@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize> has quit IRC (Killed (irc.siglost.com (4 joins/parts in #kraljeva_garda within 7 seconds.)))
+2013-09-02T17:38:23  *** DonVitoCorleone <DonVitoCorleone!Stefan_Nin@Drzi.Prijatelje.Blizu.A.Neprijatelje.Jos.Blize> has joined #supybot
+2013-09-02T17:38:23  <IceCold> [DonVitoCorleone] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-09-02T17:38:23  *** IceCold sets mode: +ao DonVitoCorleone DonVitoCorleone
+2013-09-03T04:35:51  *** KG|DonVitoCorleone <KG|DonVitoCorleone!~DonVitoCo@I-m.not.bot.this.is.just.another.bnc.profile> has quit IRC (Quit: Quit)
+2013-09-03T07:17:27  *** DonVitoC- <DonVitoC-!~DonVitoCo@Rizon-4F80C23B.furryland.net> has joined #supybot
+2013-09-05T02:08:32  *** KG|DonVitoCorleone <KG|DonVitoCorleone!~Kraljeva-@I-m.not.bot.this.is.just.another.bnc.profile> has joined #supybot
+2013-09-05T02:08:32  <IceCold> [KG|DonVitoCorleone] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-09-05T02:08:32  *** IceCold sets mode: +ao KG|DonVitoCorleone KG|DonVitoCorleone
+2013-09-05T02:18:07  *** DonVitoCorleone is now known as FurryLand
+2013-09-05T02:18:55  *** KG|DonVitoCorleone is now known as DonVitoCorleone
+2013-09-05T13:27:05  *** Iota <Iota!Iota@Rizon-F9E93F15.furryland.net> has quit IRC (Quit: ZNC - http://znc.in)
+2013-09-05T13:28:41  *** Mr_J <Mr_J!~Iota@Rizon-D4452227.furryland.net> has joined #supybot
+2013-09-05T13:31:50  *** Mr_J is now known as Iota
+2013-09-05T13:31:50  *** IceCold sets mode: +o Iota
+2013-09-12T19:22:35  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #supybot
+2013-09-12T19:24:23  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #supybot
+2013-09-12T19:24:27  <IceCold> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-09-12T19:24:27  *** IceCold sets mode: +ao KG-Bot KG-Bot
+2013-09-13T03:19:43  *** Iota <Iota!~Iota@I.dont.give.1.fucking.Iota> has quit IRC (Killed (irc.siglost.com (4 joins/parts in #Iota within 3 seconds.)))
+2013-09-13T03:21:11  *** Mr_J <Mr_J!Iota@Rizon-52C41297.electronirc.tk> has joined #supybot
+2013-09-13T04:55:19  *** Mr_J is now known as Iota
+2013-09-13T04:55:19  *** IceCold sets mode: +o Iota
+2013-09-13T13:57:30  *** oooooo <oooooo!~o8t7h4a4n@9F7D24B7.9F0C46F5.214689AC.IP> has joined #supybot
+2013-09-13T13:57:59  <DonVitoCorleone> oooooo:
+2013-09-13T14:10:33  <DonVitoCorleone> oooooo:
+2013-09-13T14:11:11  <DonVitoCorleone> oooooo:
+2013-09-13T14:11:22  <DonVitoCorleone> oooooo:
+2013-09-13T14:12:31  <DonVitoCorleone> Just testing some mirc scripts I'm making for oooooo Iota ;)
+2013-09-13T14:13:01  <DonVitoCorleone> oooooo:
+2013-09-13T14:13:54  <DonVitoCorleone> oooooo:
+2013-09-13T16:21:45  <Iota> .topic kk
+2013-09-13T16:21:48  <Iota> r
+2013-09-13T16:25:32  <DonVitoCorleone> I think fantasy is off
+2013-09-13T16:25:41  <DonVitoCorleone> .levels list
+2013-09-13T16:26:02  <DonVitoCorleone> .levels list
+2013-09-13T16:26:17  <DonVitoCorleone> Topic is disabled xD
+2013-09-13T16:27:41  <DonVitoCorleone> +topic Unofficial supybot support channel ||| Don't ask to ask, just ask, don't highlight HOPs and above, don't mass highlight ||| We aren't 24/7 online, be patient.
+2013-09-13T16:27:41  <KG-Bot> (topic [<channel>]) -- Returns the topic for <channel>. <channel> is only necessary if the message isn't sent in the channel itself. 
+2013-09-13T16:27:47  <DonVitoCorleone> +topic set Unofficial supybot support channel ||| Don't ask to ask, just ask, don't highlight HOPs and above, don't mass highlight ||| We aren't 24/7 online, be patient.
+2013-09-13T16:27:47  *** KG-Bot changes topic to "Unofficial supybot support channel ||| Don't ask to ask, just ask, don't highlight HOPs and above, don't mass highlight ||| We aren't 24/7 online, be patient."
+2013-09-13T16:39:21  *** oooooo <oooooo!~o8t7h4a4n@9F7D24B7.9F0C46F5.214689AC.IP> has quit IRC (Quit: »» Professional §©®ÎÞt v.4 ««)
+2013-09-14T22:34:57  *** IceCold sets mode: +q DonVitoCorleone
+2013-09-16T14:17:00  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #supybot
+2013-09-16T14:17:06  <IceCold> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-09-16T14:17:06  *** IceCold sets mode: +ao KG-Bot KG-Bot
+2013-09-16T15:16:04  *** FurryLand <FurryLand!Stefan_Nin@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize> has quit IRC (Ping timeout: 243 seconds)
+2013-09-16T15:37:50  *** Guest56724 <Guest56724!Stefan_Nin@Rizon-72A5E527.rizonbnc.eu.rizon.net> has joined #supybot
+2013-09-16T21:47:22  *** Guest56724 is now known as FurryLand
+2013-09-16T21:47:22  *** IceCold sets mode: +ao FurryLand FurryLand
+2013-09-16T22:36:01  *** DonVitoC- is now known as RizonBot
+2013-09-16T22:36:04  *** IceCold sets mode: +ao RizonBot RizonBot
+2013-09-16T22:51:56  *** RizonBot <RizonBot!~DonVitoCo@Rizon-4F80C23B.furryland.net> has quit IRC (Killed (mink (unwise)))
+2013-09-16T22:52:26  *** DonVitoC- <DonVitoC-!~DonVitoCo@Rizon-44644B3.electronirc.tk> has joined #supybot
+2013-09-16T22:53:37  <Iota> DonVitoC-, don't ever do that again
+2013-09-16T22:57:03  *** Iota <Iota!Iota@I.dont.give.1.fucking.Iota> has quit IRC (Quit: ZNC - http://znc.in)
+2013-09-16T22:57:45  *** Iota <Iota!~Iota@Rizon-76A9055F.electronirc.tk> has joined #supybot
+2013-09-16T22:58:24  *** IceCold sets mode: +o Iota
+2013-09-16T23:02:03  *** DonVitoC- is now known as KG|DonVitoCorleone
+2013-09-16T23:02:08  *** IceCold sets mode: +ao KG|DonVitoCorleone KG|DonVitoCorleone
+2013-09-19T02:29:51  *** GL <GL!~GLolol@taken.by.surprise> has joined #supybot
+2013-09-19T02:29:59  *** GL <GL!~GLolol@taken.by.surprise> has left #supybot (*poof* I leave!)
+2013-09-19T15:27:01  *** DonVitoCorleone <DonVitoCorleone!~Kraljeva-@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize> has quit IRC (Quit: ZNC - http://znc.in)
+2013-09-19T15:27:08  *** eRepublikBot <eRepublikBot!~KG@Rizon-DD5219AC.server4you.net> has joined #supybot
+2013-09-19T15:27:23  *** eRepublikBot is now known as Guest22567
+2013-09-19T15:29:01  *** Guest22567 is now known as DonVitoCorleone
+2013-09-19T15:29:11  *** IceCold sets mode: +ao DonVitoCorleone DonVitoCorleone
+2013-09-19T17:35:01  *** Iota <Iota!~Iota@I.dont.give.1.fucking.Iota> has quit IRC (Ping timeout: 240 seconds)
+2013-09-19T17:35:47  *** Mr_J <Mr_J!Iota@Rizon-76A9055F.electronirc.tk> has joined #supybot
+2013-09-19T17:46:07  *** Mr_J is now known as Iota
+2013-09-19T17:46:07  *** IceCold sets mode: +o Iota

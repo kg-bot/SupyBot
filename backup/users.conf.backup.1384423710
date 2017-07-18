@@ -1,0 +1,205 @@
+user 1
+  name DonVitoCorleone
+  ignore False
+  secure False
+  hashed True
+  password 9af22177|fdacae45378091c2c86cae33ee712c49009b2f7c
+  capability owner
+  capability #supy-testing,op
+  capability #playb,op
+  capability #donvitocorleone,-protected
+  capability #playb,voice
+  hostmask DonVitoCorleone!~Stajaznam@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize
+  hostmask DonVitoCorleone!~MalaTasa@IrcOp.at.Caffe.us.to
+  hostmask DonVitoCorleone!~Kraljeva-@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize
+  hostmask DonVitoCorleone!~MalaTasa@FurryLand-3A987FA1.furryland.net
+  hostmask DonVitoCorleone!~MalaTasa@20F6E2FA.CE2A70AA.87196476.IP
+  hostmask DonVitoCorleone!~KG@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize
+  hostmask DonVitoCorleone!DonVitoCor@Drzi.Prijatelje.Blizu.A.Neprijatelje.Jos.Blize
+  hostmask DonVitoCorleone!Stefan_Nin@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize
+  hostmask DonVitoCorleone!~DonVitoCo@IrcOp
+  hostmask DonVitoCorleone!~DonVitoCo@unaffiliated/donvitocorleone
+  hostmask DonVitoCorleone!~DonVitoCo@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize
+  hostmask Hektor!Hektor@deabdebc.99a51e40.net.hmsk
+
+user 3
+  name cuprijanac
+  ignore False
+  secure False
+  hashed True
+  password 13d5eac9|e5019a8dbf14792530b0582cfe211d3bff0f92e9
+  capability #playb,op
+  capability #papucari,op
+  hostmask Cuprijanac!cgiirc@E2738A04.7802514D.1D0A32F.IP
+
+user 4
+  name pfccvetkovic
+  ignore False
+  secure False
+  hashed True
+  password 0579c270|1cd4bfff2b4c86ecfdf727efabe1cc9c1d4035e2
+  hostmask pfccvetkovic!pfccvetkov@Rizon-4F36D615.rizonbnc.eu.rizon.net
+
+user 5
+  name MarkoTunic
+  ignore False
+  secure False
+  hashed True
+  password 16972090|83e3af1d1ecb2ee3b410285c4a83234ebfe81dc7
+  capability #izbaceni,mass
+  capability #izbaceni,-op
+  capability #izbaceni,alias.mass
+  hostmask MarkoTunic!cgiirc@Rizon-81A8558C.dynamic.isp.telekom.rs
+  hostmask MarkoTunic!cgiirc@Rizon-A6E7F875.dynamic.isp.telekom.rs
+
+user 7
+  name ajvarkolegenda
+  ignore False
+  secure False
+  hashed True
+  password 4478ffc1|5487d9bd23590f5b5b19c284a03804c1a6f71305
+  capability #izbaceni,alias.mass
+  hostmask ajvarkolegenda!cgiirc@Rizon-79A86D04.dynamic.sbb.rs
+  hostmask ajvarkolegenda!cgiirc@*
+
+user 8
+  name boske5555
+  ignore False
+  secure False
+  hashed True
+  password 494a61db|2e62610ce585c43e72496105574efc54d7b9593c
+  capability #ratnici,alias.mass
+  hostmask boske5555!cgiirc@Rizon-19664CF4.dynamic.isp.telekom.rs
+
+user 9
+  name remaaa
+  ignore False
+  secure False
+  hashed True
+  password 5461a2e1|492a2a2ac3d3fb05a01644d1d9cfe8389a5390cf
+  hostmask remaaa!~duk_scrip@Rizon-BB73A5BC.dynamic.sbb.rs
+
+user 10
+  name Ultras
+  ignore False
+  secure False
+  hashed True
+  password ee002446|8ad70c8c8f22b48ab30016eb58bde0662e4ae1f8
+  hostmask Ultras!Ultras@EGY.0.2
+
+user 11
+  name mehrgan
+  ignore False
+  secure False
+  hashed True
+  password 0b957882|6e7eff04509ddf2bd3df2afdf5be5347a2d12554
+  capability #managers,alias.mass
+  hostmask mehrgan!mehrgan@*
+  hostmask mehrgan!kvirc@*
+  hostmask mehrgan!~kvirc@*
+  hostmask Mehrgan!~kvirc@A2BF60D8.39F5649A.4BB6ED2B.IP
+  hostmask mehrgan!~mehrgan@*
+
+user 12
+  name xH4Dx
+  ignore False
+  secure False
+  hashed True
+  password 783685b7|429f56ec284609bfbc8e0b91214a8db7e7ea6a3f
+  capability #d(^_^)b,nopunish
+  capability #cityhall,nopunish
+  capability #chat,nopunish
+  capability #cityhall,alias.mass
+  hostmask xH4Dx!Elite5375@9EAD8000:4D5C75B8:2D5B49A2:IP
+  hostmask xH4Dx!xh4dx@NetAdmin
+
+user 13
+  name gogimisko
+  ignore False
+  secure False
+  hashed True
+  password a051a142|84075ed6f99880af712dcd7da7209ce2f54b4f2d
+  capability #vranje,alias.mass
+  hostmask gogimisko!~MarlonBru@gogimisko.AJKULE.eRepublik.rs
+
+user 14
+  name DonLex
+  ignore False
+  secure False
+  hashed True
+  password 41bac992|cc94babfbf8438d67f9ef3198cde7a474afd61d0
+  capability #arch.guard,alias.mass
+  hostmask DonLex!cgiirc@30D36824.2139AD9D.1243C520.IP
+
+user 15
+  name BabyBullet
+  ignore False
+  secure False
+  hashed True
+  password 0b2ac7bb|eef73ee337a7b24b6c18acf960595b472b2319a5
+  capability #borgiafamily,op
+  hostmask BabyBullet!BabyBullet@Rizon-A347560C.rizonbnc.eu.rizon.net
+
+user 16
+  name ristoII
+  ignore False
+  secure False
+  hashed True
+  password 936a1ce0|a0be6b2dcbcb5a41e9c29c34ca2eba92932cd730
+  hostmask ristoII!cgiirc@Rizon-EF7E2EC2.dynamic.sbb.rs
+
+user 17
+  name Cive
+  ignore False
+  secure False
+  hashed True
+  password 94bda988|42de0c45d11361a18f08e9d29891443ac5841bb7
+  capability #civilnodrustvo,alias.mass
+  capability #cromega,alias.mass
+  hostmask Cive!cgiirc@Rizon-119FDC26.dsl.optinet.hr
+
+user 18
+  name Anastasium
+  ignore False
+  secure False
+  hashed True
+  password 22aa06f9|70cfbb8ded55b9a9a0d1927de842829fbe750bc5
+  hostmask Anastasium!f0dor@Rizon-8132F515.rizonbnc.us.rizon.net
+
+user 19
+  name Roykerr
+  ignore False
+  secure False
+  hashed True
+  password 26722b2a|f301a0111b42fd9f3cc677ad2b4961097a7d187f
+  hostmask Roykerr!cgiirc@Rizon-D9ADCE65.zg.cable.xnet.hr
+
+user 21
+  name SpeeD94
+  ignore False
+  secure False
+  hashed True
+  password 1b3e8902|aeb7a9d96759734b5c3ae200d68c8f7b8cf9731c
+  capability #speed,protected
+  capability #sjs,op
+  capability #speed,op
+  capability #speed,voice
+  capability #speed,halfop
+  hostmask SpeeD94!~SpeeD94@Rizon-4C214FED.dynamic.isp.telekom.rs
+
+user 22
+  name Omegalord
+  ignore False
+  secure False
+  hashed True
+  password 5f3956ed|44a236fc1896ae258fc7d31f4e7864ba2a61b8bc
+  capability #golden-uno,op
+  hostmask Omegalord!~Omegalord@Rizon-75D26ED5.dynamic.isp.telekom.rs
+
+user 25
+  name kvvk
+  ignore False
+  secure False
+  hashed True
+  password 06e8f323|64bc297b39810a20e5962f292e163f14af9c7a86
+

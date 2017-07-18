@@ -1,0 +1,452 @@
+2013-08-30T21:03:23  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #cromega
+2013-08-30T21:03:32  <Cive> jesam
+2013-08-30T21:03:34  *** Sertinjo13 <Sertinjo13!cgiirc@Rizon-AB5EB445.adsl.net.t-com.hr> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2013-08-30T21:03:35  <Anastasium> +commands
+2013-08-30T21:03:35  <KG-Bot> action, add, adjust, alert, announce, announce add, announce remove, any, aol, append, apply, apropos, at, author, azn, babelize, ban add, ban list, ban remove, base, battle, battle active, battle advinfo, battle calc, begin, begingame, binary, bold, cache, calc, capabilities, capability add, capability list, capability remove, capability set, capability setdefault, capability unset,
+2013-08-30T21:03:36  <KG-Bot> capitalize, cf, change, changename, channel, channeldb, channels, channelstats, citizen advinfo, citizen avatar, citizen donate, citizen info, citizen link, citizen medals, clearq, clue, cmd, coffee, coin, collect, color, colorize, colourful, command, commands, completenick, concat, config, connect, contributors, convert, countargs, country advinfo, country economy, country society, cpu, ctime, (6 more messages)
+2013-08-30T21:03:39  <Anastasium> uh
+2013-08-30T21:03:48  <DonVitoCorleone> Bolje nemoj tako, ima se izgubis xD
+2013-08-30T21:03:55  <Anastasium> :D
+2013-08-30T21:04:07  <Anastasium> znaci komande su slicne kao u vecine botova
+2013-08-30T21:04:12  <Anastasium> samo je + predznak ?
+2013-08-30T21:04:39  <Cive> DonVitoCorleone:
+2013-08-30T21:04:42  <DonVitoCorleone> Pa i ne bas, ima 448 komandi sto malo koji bot ima (i to su samo ucitane komande, da ucitam sve bilo bi preko 900 komandi), da, predznak je  +
+2013-08-30T21:04:44  <DonVitoCorleone> Reci
+2013-08-30T21:04:56  <Cive> kako da stavim nekoga da mi bude bot
+2013-08-30T21:05:05  <Cive> za one komande npr. . call
+2013-08-30T21:05:07  <Roykerr> Don_Croata: sta uradi covjece haha 21:04	ChewChewShoe	Dead 21:04	ChewChewShoe	has been since that wankstain MUFC ruined it
+2013-08-30T21:05:14  <Cive> .call
+2013-08-30T21:05:15  <Anastasium> to ti je onaj on channel message DonVitoCorleone
+2013-08-30T21:05:27  <Anastasium> ja sam to imao pa su svi pingali preko mene
+2013-08-30T21:05:31  *** MIHAJLO sets mode: +v Taurus_II
+2013-08-30T21:05:31  <DonVitoCorleone> Znam, ali to je glupo
+2013-08-30T21:05:43  *** Taurus_II is now known as Zenones
+2013-08-30T21:05:43  <DonVitoCorleone> E upravo zbog toga je glupo, tesko je ograniciti
+2013-08-30T21:05:57  <DonVitoCorleone> +mass op op op
+2013-08-30T21:05:57  <KG-Bot> Anastasium, Cive, dajo90BNC, Don_Croata, DonVitoCorleone, eRepBot, eRepublik, iMakaveli, Internets, KG-Bot, kleptoman1950, LeskovarV, Luka882, MIHAJLO, OleOle256, Omar[out], Quotes, Roykerr, RustyEngine, and Zenones :  :::op op op :::
+2013-08-30T21:06:12  <Anastasium> moze se iskljuciti ovako da te pingaju
+2013-08-30T21:06:13  <Anastasium> ?
+2013-08-30T21:06:14  <DonVitoCorleone> E sad za ovo, da li svi mogu da pinguju ili hocete da ogranicite samo neke ljude?
+2013-08-30T21:06:18  <Anastasium> inace to moze u nekih
+2013-08-30T21:06:24  <Anastasium> ogranicii
+2013-08-30T21:06:28  <Cive> ograniči
+2013-08-30T21:06:29  <Anastasium> svi ce poludit
+2013-08-30T21:06:32  <DonVitoCorleone> Na koga?
+2013-08-30T21:06:34  <Anastasium> daj samo owenru adminima i opovima
+2013-08-30T21:06:41  <Anastasium> ovo sve ispod je ludilo
+2013-08-30T21:06:41  <Zenones> GOODNIGHT OΩ
+2013-08-30T21:06:45  *** RustyEngine <RustyEngine!~RustyEngi@Rizon-4475737D.adsl.net.t-com.hr> has quit IRC (Quit: ChatZilla 0.9.90.1 [Firefox 23.0.1/20130814063812])
+2013-08-30T21:06:47  <Cive> Zenones:
+2013-08-30T21:06:49  <Anastasium> Ω7
+2013-08-30T21:06:50  <Zenones> GOODNIGHT Ω7
+2013-08-30T21:06:50  <Cive> good night
+2013-08-30T21:07:09  <LeskovarV> +mass kome pinga
+2013-08-30T21:07:09  <KG-Bot> Anastasium, Cive, dajo90BNC, Don_Croata, DonVitoCorleone, eRepBot, eRepublik, iMakaveli, Internets, KG-Bot, kleptoman1950, LeskovarV, Luka882, MIHAJLO, OleOle256, Omar[out], Quotes, Roykerr, and Zenones :  :::kome pinga :::
+2013-08-30T21:07:13  <DonVitoCorleone> Moraju da se reguju na bota svi oni kojima treba da dam mass mogucnost
+2013-08-30T21:07:14  *** Zenones <Zenones!cgiirc@27072356.CBC76FBB.A96AF08E.IP> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2013-08-30T21:07:27  <DonVitoCorleone> /msg KG-Bot register NICK SIFRA
+2013-08-30T21:07:37  <Anastasium> znaci mogu svi
+2013-08-30T21:07:39  <DonVitoCorleone> Sifra moze bilo koja, ne mora sa eRep ili sa IRC -a
+2013-08-30T21:07:40  <Anastasium> koji se reggaju
+2013-08-30T21:07:44  <DonVitoCorleone> Ne
+2013-08-30T21:08:03  <DonVitoCorleone> Da bi ti dao mogucnost moras da se regujes
+2013-08-30T21:08:03  <LeskovarV> http://www.erepublik.com/hr/military/battlefield/44155 Don_Croata sta kazes na BH za srbe XD
+2013-08-30T21:08:04  <KG-Bot> Title: Besplatna online strateška igra za više igrača | eRepublik (at www.erepublik.com)
+2013-08-30T21:08:13  <Anastasium> mogu se svi reggat ali ne mogu svi callat
+2013-08-30T21:08:15  <Anastasium> aha
+2013-08-30T21:08:17  <DonVitoCorleone> Dap
+2013-08-30T21:08:18  <Don_Croata> ne LeskovarV
+2013-08-30T21:08:21  *** iMakaveli <iMakaveli!~chatzilla@Rizon-DD657B69.adsl.net.t-com.hr> has quit IRC (Quit: ChatZilla 0.9.90.1 [Firefox 23.0.1/20130814063812])
+2013-08-30T21:08:25  <LeskovarV> zezam se :D
+2013-08-30T21:08:45  <Cive> . call jeli radi :D
+2013-08-30T21:08:56  <Cive> .call jeli radi :D
+2013-08-30T21:09:02  <Anastasium> ide ti +mass
+2013-08-30T21:09:05  <Anastasium> i moras se reggat
+2013-08-30T21:09:16  <Anastasium> na bota
+2013-08-30T21:09:26  <Anastasium> npr. /msg KG-Bot register NICK SIFRA
+2013-08-30T21:09:26  <Cive> pa ja sam sad na njega seregao
+2013-08-30T21:09:30  <Roykerr> fkt te svi jebu zbog ankete Don_Croata
+2013-08-30T21:09:34  <Cive> i javio mi je KG bot u PM
+2013-08-30T21:09:34  <Anastasium> onda pisi +mass
+2013-08-30T21:09:37  <Cive> Done
+2013-08-30T21:09:45  <Cive> +mass
+2013-08-30T21:09:45  <KG-Bot> Anastasium, Cive, dajo90BNC, Don_Croata, DonVitoCorleone, eRepBot, eRepublik, Internets, KG-Bot, kleptoman1950, LeskovarV, Luka882, MIHAJLO, OleOle256, Omar[out], Quotes, and Roykerr :  ::: :::
+2013-08-30T21:09:49  <Anastasium> Don_Croata:
+2013-08-30T21:09:50  <DonVitoCorleone> Cive: uradi i /msg KG-Bot hostmask add
+2013-08-30T21:09:52  <Anastasium> ne ti
+2013-08-30T21:09:56  <DonVitoCorleone> Da ne moras uvek da radis identify
+2013-08-30T21:10:12  <DonVitoCorleone> +channel capability set -alias.mass
+2013-08-30T21:10:12  <KG-Bot> Done.
+2013-08-30T21:10:30  <Cive> avio mi je u pm Done
+2013-08-30T21:10:32  <Cive> šta sada
+2013-08-30T21:10:45  <Anastasium> sada nista
+2013-08-30T21:10:51  <DonVitoCorleone> +channel capability add Cive alias.mass
+2013-08-30T21:10:51  <KG-Bot> Done.
+2013-08-30T21:11:01  <DonVitoCorleone> Uradi mass Cive i ti Anastasium
+2013-08-30T21:11:09  <Anastasium> jel mozes to staviti na opove automatski
+2013-08-30T21:11:13  <Anastasium> i admine
+2013-08-30T21:11:17  <Cive> +channel capability add Cive alias.mass
+2013-08-30T21:11:24  <Anastasium> ne to
+2013-08-30T21:11:30  <Anastasium> +mass
+2013-08-30T21:11:37  <Cive> +mass
+2013-08-30T21:11:37  <KG-Bot> Anastasium, Cive, dajo90BNC, Don_Croata, DonVitoCorleone, eRepBot, eRepublik, Internets, KG-Bot, kleptoman1950, LeskovarV, Luka882, MIHAJLO, OleOle256, Omar[out], Quotes, and Roykerr :  ::: :::
+2013-08-30T21:11:50  <Anastasium> nema veze
+2013-08-30T21:12:00  <Cive> DonVitoCorleone:
+2013-08-30T21:12:00  <LeskovarV> ajde bez pinga
+2013-08-30T21:12:00  <Anastasium> i onako zloupotrebljujem svoju pingalicu
+2013-08-30T21:12:02  <DonVitoCorleone> Mogao bi da stavim na opove i vise ali mi se trenutno ne da, tj. boli me zub tako da nemam snage da radim
+2013-08-30T21:12:02  <Anastasium> :D
+2013-08-30T21:12:07  <Cive> zašto neće nadruge kanale ovo
+2013-08-30T21:12:07  <Roykerr> isusa vam i pinganje
+2013-08-30T21:12:08  <Anastasium> Don_Croata:
+2013-08-30T21:12:09  <Anastasium> ok
+2013-08-30T21:12:13  <Anastasium> Roykerr: suti
+2013-08-30T21:12:17  <DonVitoCorleone> Cive: koje druge kanale?
+2013-08-30T21:12:19  <Anastasium> DonVitoCorleone:
+2013-08-30T21:12:21  <Anastasium> ok
+2013-08-30T21:12:30  <Cive> npr na civilno drustvo
+2013-08-30T21:12:30  <Roykerr> necu i sta sad
+2013-08-30T21:12:32  <Anastasium> Cive: na ovaj je samo dosao sad
+2013-08-30T21:12:37  <DonVitoCorleone> Pa nema KG-Bot -a na njima
+2013-08-30T21:12:40  <Don_Croata> sta je ovo?
+2013-08-30T21:12:41  *** LeskovarV <LeskovarV!cgiirc@Rizon-D94ECCA4.cust.tele2.hr> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2013-08-30T21:12:43  <Cive> ahaaa
+2013-08-30T21:12:47  <Anastasium> Roykerr: covjek je naporno radio ovog bota i sada probavamo
+2013-08-30T21:12:52  <Don_Croata> aha
+2013-08-30T21:12:52  <Cive> moram ga tamo zvati
+2013-08-30T21:12:54  <Don_Croata> ok aj :P
+2013-08-30T21:13:36  <Roykerr> Dobro kuzim to al mogli ste otici na neki drugi kanal di nema ljudi pa tam probavat
+2013-08-30T21:13:49  <Anastasium> pa bot je na ovom kanalu
+2013-08-30T21:14:00  <Cive> Don_Croata:
+2013-08-30T21:14:06  <Cive> :D
+2013-08-30T21:14:12  <Cive> DonVitoCorleone:
+2013-08-30T21:14:18  <DonVitoCorleone> ?
+2013-08-30T21:14:24  <Cive> kako da ga zovem na drugi kanal
+2013-08-30T21:14:24  <Anastasium> imate to don pa pingam krivog
+2013-08-30T21:14:30  <Anastasium> ako si op tamo
+2013-08-30T21:14:32  <Cive> toga bota KG
+2013-08-30T21:14:39  <Cive> pa jesam
+2013-08-30T21:14:39  <Anastasium> npr. /invite KG-bot #channel
+2013-08-30T21:14:41  <Cive> itamo
+2013-08-30T21:14:54  <DonVitoCorleone> Kazes meni koji je kanal, ja udjem vidim da li cu da stavim bota, i onda ga ubacim
+2013-08-30T21:15:06  <DonVitoCorleone> Niko osim mene ne moze da zove bota
+2013-08-30T21:15:12  *** MOsijek <MOsijek!cgiirc@Rizon-ABEBDD0.duo.carnet.hr> has joined #cromega
+2013-08-30T21:15:12  *** MIHAJLO sets mode: +v MOsijek
+2013-08-30T21:15:15  <DonVitoCorleone> Nije JoinOnInvite
+2013-08-30T21:17:19  <Cive> ahaaaa
+2013-08-30T21:18:58  <Luka882> Ima.ko access na #gusteri
+2013-08-30T21:19:53  <Anastasium> samo ko je guster
+2013-08-30T21:19:55  <Anastasium> :/
+2013-08-30T21:23:48  <Don_Croata> ima tu neko d3?
+2013-08-30T21:23:51  <Don_Croata> samo da nes provjeri
+2013-08-30T21:24:07  <Roykerr> Mislim da nema niko
+2013-08-30T21:24:31  <Luka882> kleptoman1950,
+2013-08-30T21:24:41  <Anastasium> .fc kleptoman1950 -hn
+2013-08-30T21:24:42  <eRepublik> Error: Citizen not found or not included in database
+2013-08-30T21:24:45  <Anastasium> wat
+2013-08-30T21:24:48  <Anastasium> ko jos ovo nema
+2013-08-30T21:25:01  <Luka882> On
+2013-08-30T21:25:19  <Anastasium> a znam
+2013-08-30T21:25:27  <Luka882> Imam 23k cc
+2013-08-30T21:25:28  *** kjesa <kjesa!cgiirc@Rizon-FBE0B51C.adsl.net.t-com.hr> has joined #cromega
+2013-08-30T21:25:28  *** MIHAJLO sets mode: +o kjesa
+2013-08-30T21:25:30  <Luka882> I 135g
+2013-08-30T21:25:36  <kjesa> o7
+2013-08-30T21:25:40  <Luka882> o7
+2013-08-30T21:25:51  <Anastasium> imam 8k cc
+2013-08-30T21:25:54  <Anastasium> i 65 golda
+2013-08-30T21:25:58  <Luka882> Hhehe
+2013-08-30T21:26:08  <Roykerr> Dobro ti se stvarno volis hvalit jbt i to jos si sve dobil onak
+2013-08-30T21:26:13  <Luka882> Tebi niko nije dao 22kcc
+2013-08-30T21:26:15  <Luka882> K cc*
+2013-08-30T21:26:41  <Roykerr> Nije ni netreba nisam dijete da nemrem sam zaradit
+2013-08-30T21:28:01  <Luka882> Kak onak??
+2013-08-30T21:28:09  <Luka882> Misliš da to nisu kupljeni?
+2013-08-30T21:29:02  <Roykerr> Jesu al ne od tebe sto posto
+2013-08-30T21:29:25  <kjesa> Cive jesi tu
+2013-08-30T21:29:32  <Luka882> Od.mene
+2013-08-30T21:30:03  <Cive> da kjesa
+2013-08-30T21:30:09  <Roykerr> Aj dobro nek ti bude neda mi se svadat s decom
+2013-08-30T21:32:41  <Cive> +izmeri Roykerr
+2013-08-30T21:32:41  <KG-Bot> KG-Bot vadi svoju strucnu spravu za merenje penisa, skida gace Roykerr, meri i dolazi do zakljucka da on ima penis od 6cm.
+2013-08-30T21:32:52  <Cive> +izmeri kjesa
+2013-08-30T21:32:53  <KG-Bot> KG-Bot vadi svoju strucnu spravu za merenje penisa, skida gace kjesa, meri i dolazi do zakljucka da on ima penis od 17cm.
+2013-08-30T21:32:58  <Cive> ahahahahahahha
+2013-08-30T21:33:01  <Roykerr> lol
+2013-08-30T21:33:16  <Roykerr> izmjeri al nmvz
+2013-08-30T21:33:19  <kjesa> ju jesam kurat
+2013-08-30T21:33:20  <OleOle256> +izmeri OleOle256
+2013-08-30T21:33:20  <KG-Bot> KG-Bot vadi svoju strucnu spravu za merenje penisa, skida gace OleOle256, meri i dolazi do zakljucka da on ima penis od 9cm.
+2013-08-30T21:33:23  <MOsijek> +izmeri mosijek
+2013-08-30T21:33:23  <KG-Bot> KG-Bot vadi svoju strucnu spravu za merenje penisa, skida gace mosijek, meri i dolazi do zakljucka da on ima penis od 17cm.
+2013-08-30T21:33:24  <OleOle256> xD
+2013-08-30T21:33:27  <Cive> +slap kjesa
+2013-08-30T21:33:27  * KG-Bot slaps kjesa with a large wet socks
+2013-08-30T21:33:42  <Roykerr> +commands
+2013-08-30T21:33:42  <KG-Bot> action, add, adjust, alert, announce, announce add, announce remove, any, aol, append, apply, apropos, at, author, azn, babelize, ban add, ban list, ban remove, base, battle, battle active, battle advinfo, battle calc, begin, begingame, binary, bold, cache, calc, capabilities, capability add, capability list, capability remove, capability set, capability setdefault, capability unset, capitalize,
+2013-08-30T21:33:43  <KG-Bot> cf, change, changename, channel, channeldb, channels, channelstats, citizen advinfo, citizen avatar, citizen donate, citizen info, citizen link, citizen medals, clearq, clue, cmd, coffee, coin, collect, color, colorize, colourful, command, commands, completenick, concat, config, connect, contributors, convert, countargs, country advinfo, country economy, country society, cpu, ctime, cut, cycle, (6 more messages)
+2013-08-30T21:33:58  <MOsijek> +coffee
+2013-08-30T21:33:59  <KG-Bot>         {     
+2013-08-30T21:34:00  <KG-Bot>      }   }   {
+2013-08-30T21:34:02  <KG-Bot>     {   {  }  }
+2013-08-30T21:34:03  <KG-Bot>      }   }{  {
+2013-08-30T21:34:04  <KG-Bot>     {  }{  }  }
+2013-08-30T21:34:05  <KG-Bot>    ( }{ }{  { )
+2013-08-30T21:34:06  <KG-Bot>  .- { { }  { }} -.
+2013-08-30T21:34:07  <KG-Bot> (  ( } { } { } }  )
+2013-08-30T21:34:08  <KG-Bot> |`-..________ ..-'|
+2013-08-30T21:34:09  <KG-Bot> |                 |
+2013-08-30T21:34:10  <KG-Bot> |                 ;--.
+2013-08-30T21:34:11  <KG-Bot> |                (__  \
+2013-08-30T21:34:12  <KG-Bot> |                 | )  )
+2013-08-30T21:34:13  <Roykerr> a
+2013-08-30T21:34:14  <KG-Bot> |                 |/  /
+2013-08-30T21:34:15  <KG-Bot> |                 (  /
+2013-08-30T21:34:16  <KG-Bot> |                 y'
+2013-08-30T21:34:17  <KG-Bot> |                 |
+2013-08-30T21:34:18  <KG-Bot>  `-.._________..-'
+2013-08-30T21:34:20  <KG-Bot> Ahah, you really believed this? KG-Bot can do mostly everything, but not coffee!
+2013-08-30T21:34:25  <MOsijek> +coin
+2013-08-30T21:34:27  <KG-Bot> heads
+2013-08-30T21:34:35  <Cive> ahahahahahaha
+2013-08-30T21:34:37  <MOsijek> a da možemo se kockati :D
+2013-08-30T21:34:40  <MOsijek> pismo ili glava ? :D
+2013-08-30T21:34:43  <Roykerr> ahah a boze
+2013-08-30T21:34:45  <Roykerr> pismo
+2013-08-30T21:34:51  <MOsijek> +alert
+2013-08-30T21:34:51  <KG-Bot> (alert [<channel>] <text>) -- Sends <text> to all the users in <channel> who have the <channel>,op capability. 
+2013-08-30T21:35:02  <Roykerr> +coin
+2013-08-30T21:35:02  <KG-Bot> tails
+2013-08-30T21:35:08  <Roykerr> hey i win :P
+2013-08-30T21:35:24  <MOsijek> +clue
+2013-08-30T21:35:53  <Roykerr> +collect
+2013-08-30T21:36:04  <MOsijek> +color
+2013-08-30T21:36:04  <KG-Bot> (color <foreground> [<background>] <text>) -- Returns <text> with foreground color <foreground> and background color <background> (if given) 
+2013-08-30T21:36:07  <Roykerr> Error: You don\'t have the owner capability. If you think that you should have this capability, be sure that you are identified before trying again. The \'whoami\' command can tell you if you\'re identified.
+2013-08-30T21:36:14  <MOsijek> +colorlize
+2013-08-30T21:36:30  <MOsijek> +colorful
+2013-08-30T21:36:37  <Roykerr> +coin
+2013-08-30T21:36:37  <KG-Bot> tails
+2013-08-30T21:36:43  <MOsijek> +cut
+2013-08-30T21:36:43  <KG-Bot> (cut <size> <text>) -- Cuts <text> down to <size> by chopping off the rightmost characters in excess of <size>. If <size> is a negative number, it chops that many characters off the end of <text>. 
+2013-08-30T21:36:48  *** JuricaJuki <JuricaJuki!cgiirc@Rizon-E2AE3D07.st3.cable.xnet.hr> has joined #cromega
+2013-08-30T21:36:48  *** MIHAJLO sets mode: +v JuricaJuki
+2013-08-30T21:36:50  <MOsijek> +cycle
+2013-08-30T21:37:03  <Roykerr> +battle calc
+2013-08-30T21:37:03  <KG-Bot> (battle calc <name|id>) -- Calculates how many damages you can make in one hit.
+2013-08-30T21:37:15  <Cive> +cycle
+2013-08-30T21:37:22  <Roykerr> +battle calc Roykerr
+2013-08-30T21:37:24  <KG-Bot> Q0: 553, Q1: 664, Q2: 774, Q3: 885, Q4: 996, Q5: 1106, Q6: 1217, Q7: 1328
+2013-08-30T21:37:29  <Roykerr> hhm nice
+2013-08-30T21:37:34  <DonVitoCorleone> Ovo nije tacno jer API kasni
+2013-08-30T21:37:50  <MOsijek> +battle calc mosijek
+2013-08-30T21:37:56  <Cive> +citizen avatar
+2013-08-30T21:37:56  <KG-Bot> (citizen avatar <name|id>) -- Returns avatar link of citizen.
+2013-08-30T21:38:00  <Roykerr> moje je tu negdje
+2013-08-30T21:38:03  <MOsijek> e da rekao mi je bot : http://prntscr.com/1od3qo
+2013-08-30T21:38:10  <Cive> citizen avatar MOsijek
+2013-08-30T21:38:24  <MOsijek> +citizen avatar
+2013-08-30T21:38:29  <Cive> +citizen avatar MOsijek
+2013-08-30T21:38:37  <Roykerr> haha ignora te bot
+2013-08-30T21:38:37  <MOsijek> +citizen avatar mosijek
+2013-08-30T21:38:40  <Cive> mora lbiti link
+2013-08-30T21:38:40  <MOsijek> PA DA
+2013-08-30T21:38:42  <MOsijek> HAHAHAHAHAHHAHAHA
+2013-08-30T21:38:46  <Cive> ahahahha
+2013-08-30T21:38:48  <Luka882> Hahahahahhhaa
+2013-08-30T21:38:55  <OleOle256> .citizen avatar http://www.erepublik.com/en/citizen/profile/7604864
+2013-08-30T21:38:56  <KG-Bot> Title: OleOle256 - Citizen of The New World (at www.erepublik.com)
+2013-08-30T21:39:14  <Roykerr> .citizen link
+2013-08-30T21:39:14  <OleOle256> +citizen avatar http://www.erepublik.com/en/citizen/profile/7604864
+2013-08-30T21:39:17  *** kjesa <kjesa!cgiirc@Rizon-FBE0B51C.adsl.net.t-com.hr> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2013-08-30T21:39:17  <DonVitoCorleone> Nope
+2013-08-30T21:39:27  <Roykerr> +citizen link
+2013-08-30T21:39:27  <KG-Bot> (citizen link <name|id>) -- Returns link informations about a citizen.
+2013-08-30T21:39:29  <MOsijek> +citizean avatar http://www.erepublik.com/hr/citizen/profile/4564873
+2013-08-30T21:39:31  <DonVitoCorleone> +citizen avatar OleOle256
+2013-08-30T21:39:32  <KG-Bot> OleOle256's avatar link <-> http://static.erepublik.net/uploads/avatars/Citizens/2013/05/28/c54ce08c3e5852056307e7e281da96b0_100x100.jpg 
+2013-08-30T21:39:38  <Cive> +citizen avatar http://www.erepublik.com/hr/citizen/profile/7033939
+2013-08-30T21:39:40  <MOsijek> +battle calc mosijek
+2013-08-30T21:39:43  <DonVitoCorleone> Ili ID umesto imena
+2013-08-30T21:39:49  <OleOle256> +citizen avatar cive
+2013-08-30T21:39:51  <KG-Bot> cive 300's avatar link <-> http://www.erepublik.com/images/default_avatars/Citizens/default_male_142x142.gif 
+2013-08-30T21:39:58  <DonVitoCorleone> Imena sa eRep, ne sa IRC
+2013-08-30T21:39:59  <OleOle256> xD
+2013-08-30T21:40:08  <OleOle256> .citizen avatar c0fakson
+2013-08-30T21:40:16  <Roykerr> +citizen link
+2013-08-30T21:40:17  <KG-Bot> (citizen link <name|id>) -- Returns link informations about a citizen.
+2013-08-30T21:40:19  *** kjesa <kjesa!cgiirc@Rizon-FBE0B51C.adsl.net.t-com.hr> has joined #cromega
+2013-08-30T21:40:19  *** MIHAJLO sets mode: +o kjesa
+2013-08-30T21:40:21  <Roykerr> hmm
+2013-08-30T21:40:36  <OleOle256> +citizen link OleOle256
+2013-08-30T21:40:37  <KG-Bot> OleOle256's link <-> http://www.erepublik.com/sq/citizen/profile/7604864 
+2013-08-30T21:40:42  <Cive> +citizen avatar http://www.erepublik.com/hr/citizen/profile/7033939
+2013-08-30T21:40:56  <Roykerr> +citizen link Roykerr
+2013-08-30T21:40:57  <KG-Bot> Roykerr's link <-> http://www.erepublik.com/sq/citizen/profile/5291669 
+2013-08-30T21:41:03  <Roykerr> e tak vec da :P
+2013-08-30T21:41:32  <Cive> ej DonVitoCorleone
+2013-08-30T21:41:33  <DonVitoCorleone> Cive: ne ide link
+2013-08-30T21:41:38  <Cive> lik mi javlja da taj ne postoji
+2013-08-30T21:41:39  <DonVitoCorleone> Ime ili ID sa eRep -a
+2013-08-30T21:41:49  <Roykerr> Don_Croata: onda u nedleju samo sa USMC?
+2013-08-30T21:42:26  <Don_Croata> da
+2013-08-30T21:42:27  <Don_Croata> :D
+2013-08-30T21:42:33  <Cive> +citizen avatar gudilka91
+2013-08-30T21:42:35  <KG-Bot> gudilka91's avatar link <-> http://static.erepublik.net/uploads/avatars/Citizens/2013/01/29/46ac035986a953f7412521576a4f9a78_100x100.jpg 
+2013-08-30T21:42:39  <Roykerr> kad ono?
+2013-08-30T21:42:39  *** OleOle256 <OleOle256!cgiirc@Rizon-AE7C739A.adsl.net.t-com.hr> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2013-08-30T21:42:40  <Cive> ahaaa
+2013-08-30T21:43:15  *** MOsijek <MOsijek!cgiirc@Rizon-ABEBDD0.duo.carnet.hr> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2013-08-30T21:44:23  *** teski <teski!cgiirc@Rizon-BCCDBA16.adsl.net.t-com.hr> has joined #cromega
+2013-08-30T21:44:24  <MIHAJLO> [teski] http://www.youtube.com/watch?v=Fv2KRY8-Lg8
+2013-08-30T21:44:24  *** MIHAJLO sets mode: +o teski
+2013-08-30T21:44:25  <KG-Bot> Title: BUCO feat. SHORTY & ANDREA QUBRICK - GRAD PALIH ANĐELA (official video) - YouTube (at www.youtube.com)
+2013-08-30T21:44:34  <teski> hail KArlovačko
+2013-08-30T21:45:05  *** JuricaJuki <JuricaJuki!cgiirc@Rizon-E2AE3D07.st3.cable.xnet.hr> has quit IRC ()
+2013-08-30T21:45:12  <Roykerr> DonVitoCorleone:  jel mozes kak slozit komandu kad nam dodu novi da nam baci sve potrebne linkove umjesto da ih trazimo
+2013-08-30T21:45:38  <Cive> Don_Croata:
+2013-08-30T21:45:42  <Don_Croata> .sop add Cive
+2013-08-30T21:45:44  <Don_Croata> .sync
+2013-08-30T21:45:44  *** MIHAJLO sets mode: +a Cive
+2013-08-30T21:45:56  <Cive> kad sireko da dolazišu Vu
+2013-08-30T21:46:10  <Cive> Roykerr:
+2013-08-30T21:46:17  <Cive> super s se sjetio
+2013-08-30T21:46:29  <Roykerr> a znam :D
+2013-08-30T21:47:41  *** teski is now known as teski_jede
+2013-08-30T21:52:30  <Cive> Don_Croata:
+2013-08-30T21:52:41  <Cive> jesam ti plaču dao danas
+2013-08-30T21:55:29  <Roykerr> so si mi dvaput poslo :P kjesa
+2013-08-30T21:56:08  <kjesa> brzina
+2013-08-30T21:56:17  <Roykerr> Hehe
+2013-08-30T21:56:27  <Cive> alooo
+2013-08-30T21:56:28  <Roykerr> ja necu nazalost :P
+2013-08-30T21:56:33  <Cive> ko je zaduženza avatare
+2013-08-30T21:56:37  <Roykerr> mozda sam ovak na chet prek moba
+2013-08-30T21:56:42  <kjesa> jas
+2013-08-30T21:56:44  <Cive> jedan je cromegi a nema avatar
+2013-08-30T21:56:47  <kjesa> to rjesavam
+2013-08-30T21:57:00  <kjesa> avatare
+2013-08-30T21:57:04  <Cive> crolne!
+2013-08-30T21:57:12  <Cive> naši ga u 2pukovniji
+2013-08-30T21:57:15  <Cive> nađi
+2013-08-30T22:00:18  *** Roykerr <Roykerr!cgiirc@Rizon-D9ADCE65.zg.cable.xnet.hr> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2013-08-30T22:02:12  <Cive> si ga vidio kjesa
+2013-08-30T22:02:29  <kjesa> budem poslije
+2013-08-30T22:02:36  <Cive> oki
+2013-08-30T22:02:43  <Cive> japoslo 2 pukovniji svia
+2013-08-30T22:02:50  <Cive> svima*
+2013-08-30T22:04:26  <Cive> aloja mexikancu poslo
+2013-08-30T22:04:34  <Cive> lik ne razumije sad ću da mu prevedem
+2013-08-30T22:06:01  <Don_Croata> mislim da jesi Cive
+2013-08-30T22:07:13  <Cive> ajde provjeri ak mozes
+2013-08-30T22:07:20  <Cive> i hvala za ovo
+2013-08-30T22:07:45  *** dixib <dixib!cgiirc@Rizon-45773870.adsl.net.t-com.hr> has joined #cromega
+2013-08-30T22:07:46  *** MIHAJLO sets mode: +v dixib
+2013-08-30T22:07:53  <Cive> ja ovome i na eng i na španjolskom pisao
+2013-08-30T22:09:53  *** XperTT <XperTT!cgiirc@Rizon-A8F6CDE1.cgn.optinet.hr> has joined #cromega
+2013-08-30T22:09:53  *** MIHAJLO sets mode: +ao XperTT XperTT
+2013-08-30T22:10:40  *** teski_jede is now known as teski
+2013-08-30T22:11:47  <teski> Don_Croata da izbacim ovog Crolne?
+2013-08-30T22:12:02  <Don_Croata> sutra ak se ne javi
+2013-08-30T22:12:03  <XperTT> oi
+2013-08-30T22:12:05  <kjesa> nemoj jios
+2013-08-30T22:12:08  <teski> ok
+2013-08-30T22:12:16  <Cive> ne neee
+2013-08-30T22:12:19  <Cive> teski:
+2013-08-30T22:12:28  <teski> jel tvoj bot?
+2013-08-30T22:12:29  <Cive> ima ih par i u pukovniji 3
+2013-08-30T22:12:33  <Cive> ne nije
+2013-08-30T22:12:38  <Cive> nego možda je stranac
+2013-08-30T22:12:50  <Cive> jebiga ja sam ovo mexikancu prevodiočlanak i poruku
+2013-08-30T22:13:00  <Cive> pa nezna
+2013-08-30T22:13:05  <Cive> kjesi i teski
+2013-08-30T22:13:11  <Cive> kjesa:
+2013-08-30T22:13:14  <kjesa> oj
+2013-08-30T22:13:16  <Cive> sredite to vas dva
+2013-08-30T22:13:22  <teski> ok
+2013-08-30T22:13:24  <kjesa> bud3em ja sredio
+2013-08-30T22:13:25  <Cive> ima ih 23 pa da vidite za okvir
+2013-08-30T22:13:29  <Cive> 2il 3
+2013-08-30T22:14:26  <teski> odo
+2013-08-30T22:14:29  *** teski <teski!cgiirc@Rizon-BCCDBA16.adsl.net.t-com.hr> has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+2013-08-30T22:16:36  *** Don_Croata sets mode: +I matos96!*@*
+2013-08-30T22:16:52  *** MatoS96 <MatoS96!cgiirc@Rizon-2F9C254B.adsl.net.t-com.hr> has joined #cromega
+2013-08-30T22:17:01  <Don_Croata> dobrodosao o/
+2013-08-30T22:17:23  <Don_Croata> http://www.erepublik.com/en/article/cr-mega-priru-nik-za-lanove-2311859/1/20 ovdje se nalazi sve sto ti treba za pocetak pa procitaj ak vec nisi :)
+2013-08-30T22:17:24  <KG-Bot> Title: CrΩmega - Priručnik za članove - published by Don Croata on day 2,109 - page 1 of 1 (at www.erepublik.com)
+2013-08-30T22:17:35  <Cive> +mass Pozdrav za MatoS96  ajmo svi!
+2013-08-30T22:17:35  <KG-Bot> Anastasium, Cive, dajo90BNC, dixib, Don_Croata, DonVitoCorleone, eRepBot, eRepublik, Internets, KG-Bot, kjesa, kleptoman1950, Luka882, MatoS96, MIHAJLO, Omar[out], Quotes, and XperTT : :::Pozdrav za MatoS96 ajmo svi! :::
+2013-08-30T22:17:43  <Cive> o7
+2013-08-30T22:17:45  <XperTT> oi oi
+2013-08-30T22:20:30  <Cive> Don_Croata:
+2013-08-30T22:20:35  <Cive> Čuj moto
+2013-08-30T22:21:04  <Cive> Dvoklik je majka znanja!
+2013-08-30T22:23:12  <Don_Croata> ae
+2013-08-30T22:23:25  <Cive> svima poslana poruka
+2013-08-30T22:23:31  <dixib> znaci ja sam glupaca
+2013-08-30T22:23:43  <Cive> ahahaha i ja isto
+2013-08-30T22:23:48  <Don_Croata> svaka cast
+2013-08-30T22:23:49  <Cive> ko zna dvoklk
+2013-08-30T22:24:01  <Cive> zna i znanje
+2013-08-30T22:24:02  <Cive> :D
+2013-08-30T22:24:07  <Cive> nenne
+2013-08-30T22:24:18  <Cive> Svako jutro jedan dvoklik snagu daje!
+2013-08-30T22:24:24  <Cive> ustvari
+2013-08-30T22:24:37  <Cive> Svaki dan dvoklik snagu daje!
+2013-08-30T22:24:42  <Cive> evo Don_Croata
+2013-08-30T22:24:46  <Cive> šta kažeš
+2013-08-30T22:25:18  <Cive> ili Svaki dan dvoklikom snagu dobijaš!
+2013-08-30T22:25:55  <Don_Croata> haha
+2013-08-30T22:26:01  <Don_Croata> rastimo zajedno je nas
+2013-08-30T22:26:18  <Don_Croata> +mass ajmo komentiraj kao ja ovdje http://www.erepublik.com/en/article/11-igra-a-i-5-rezervi-2312480/1/20
+2013-08-30T22:28:12  <Cive> Don_Croata:
+2013-08-30T22:28:24  <Cive> mozda zbog linka neće
+2013-08-30T22:28:29  <Cive> DonVitoCorleone:
+2013-08-30T22:29:14  <Cive> +mass  http://www.erepublik.com/en/article/11-igra-a-i-5-rezervi-2312480/1/20
+2013-08-30T22:29:14  <KG-Bot> Anastasium, Cive, dajo90BNC, dixib, Don_Croata, DonVitoCorleone, eRepBot, eRepublik, Internets, KG-Bot, kjesa, kleptoman1950, Luka882, MatoS96, MIHAJLO, Omar[out], Quotes, and XperTT : :::http://www.erepublik.com/en/article/11-igra-a-i-5-rezervi-2312480/1/20 :::
+2013-08-30T22:29:34  <Cive> +mass ajmo komentiraj kao Don_Croata ovdje http://www.erepublik.com/en/article/11-igra-a-i-5-rezervi-2312480/1/20
+2013-08-30T22:29:34  <KG-Bot> Anastasium, Cive, dajo90BNC, dixib, Don_Croata, DonVitoCorleone, eRepBot, eRepublik, Internets, KG-Bot, kjesa, kleptoman1950, Luka882, MatoS96, MIHAJLO, Omar[out], Quotes, and XperTT : :::ajmo komentiraj kao Don_Croata ovdje http://www.erepublik.com/en/article/11-igra-a-i-5-rezervi-2312480/1/20 :::
+2013-08-30T22:30:26  <XperTT> nezelim im rec sretno :D
+2013-08-30T22:31:56  *** Don_Croata sets mode: +I banuscroatorum!*@*
+2013-08-30T22:32:02  <Don_Croata> XperTT: ti su dobri srbi xd
+2013-08-30T22:32:20  <XperTT> hahhahahahaha
+2013-08-30T22:32:34  *** banuscroatorum <banuscroatorum!cgiirc@Rizon-C781418F.duo.carnet.hr> has joined #cromega
+2013-08-30T22:32:49  <XperTT> blede kopije bre!
+2013-08-30T22:34:01  <Don_Croata> xD
+2013-08-30T22:34:03  <Don_Croata> banuscroatorum: o/
+2013-08-30T22:34:05  <Don_Croata> dobrodosao
+2013-08-30T22:34:11  <Don_Croata> http://www.erepublik.com/en/article/cr-mega-priru-nik-za-lanove-2311859/1/20
+2013-08-30T22:34:13  <KG-Bot> Title: CrΩmega - Priručnik za članove - published by Don Croata on day 2,109 - page 1 of 1 (at www.erepublik.com)
+2013-08-30T22:34:17  <Don_Croata> ovdje se nalazi sve sto ti treba za uspjesa pocetak
+2013-08-30T22:35:47  <Cive> +mass ajmo svi pozdraviti banuscroatorum sa Ω7
+2013-08-30T22:36:04  <Don_Croata> Ω7
+2013-08-30T22:36:07  <Don_Croata> e previse spama ovaj bot
+2013-08-30T22:36:11  <Don_Croata> morat cemo ga maknuti xD
+2013-08-30T22:36:21  <Cive> dobar je don
+2013-08-30T22:36:26  <Don_Croata> ma nije :S
+2013-08-30T22:36:28  <XperTT> oi
+2013-08-30T22:36:28  <Don_Croata> samo spama
+2013-08-30T22:36:29  <Cive> kad zašteka eto ga :D
+2013-08-30T22:36:33  <Cive> ahahahha
+2013-08-30T22:36:37  <Cive> ma koga jebe
+2013-08-30T22:36:54  <Cive> dobro nam dođe
+2013-08-30T22:36:58  *** Sertinjo13 <Sertinjo13!cgiirc@Rizon-AB5EB445.adsl.net.t-com.hr> has joined #cromega
+2013-08-30T22:36:58  *** MIHAJLO sets mode: +v Sertinjo13
+2013-08-30T22:37:05  <Sertinjo13> oooooooooooooooo
+2013-08-30T22:37:06  <Cive> +mass ajmo svi pozdraviti banuscroatorum sa Ω7
+2013-08-30T22:37:07  <Sertinjo13> MIce
+2013-08-30T22:37:13  <Sertinjo13> kakvi se djele kolači
+2013-08-30T22:37:15  <kjesa> MatoS96 evo gdje si izradjujes avatar MatoS96
+2013-08-30T22:37:16  <Sertinjo13> ja bi isto sira
+2013-08-30T22:37:18  <Sertinjo13> :D
+2013-08-30T22:37:21  <Cive> +mass
+2013-08-30T22:37:21  <KG-Bot> Anastasium, banuscroatorum, Cive, dajo90BNC, dixib, Don_Croata, DonVitoCorleone, eRepBot, eRepublik, Internets, KG-Bot, kjesa, kleptoman1950, Luka882, MatoS96, MIHAJLO, Omar[out], Quotes, Sertinjo13, and XperTT : ::: :::
+2013-08-30T22:37:25  <Cive> ahahaha
+2013-08-30T22:37:26  <Cive> radi
+2013-08-30T22:37:32  <Cive> +mass ajmo svi pozdraviti banuscroatorum sa o7
+2013-08-30T22:37:32  <KG-Bot> Anastasium, banuscroatorum, Cive, dajo90BNC, dixib, Don_Croata, DonVitoCorleone, eRepBot, eRepublik, Internets, KG-Bot, kjesa, kleptoman1950, Luka882, MatoS96, MIHAJLO, Omar[out], Quotes, Sertinjo13, and XperTT : :::ajmo svi pozdraviti banuscroatorum sa o7 :::
+2013-08-30T22:37:37  <Don_Croata> ma samo pinga vidis da nema ljudi odkad je dosao
+2013-08-30T22:37:41  <kjesa> Cive ne pingaj
+2013-08-30T22:37:44  <Don_Croata> .kb KG-Bot
+2013-08-30T22:37:44  *** MIHAJLO sets mode: +b *!*@Kraljeva.Garda.official.bot
+2013-08-30T22:37:44  *** KG-Bot was kicked by MIHAJLO (Requested)

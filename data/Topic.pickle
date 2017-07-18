@@ -1,0 +1,1073 @@
+csupybot.ircutils
+IrcDict
+p1
+((dp2
+S'#srs'
+p3
+(lp4
+(lp5
+S'\xd0\x97\xd0\xb2\xd0\xb0\xd0\xbd\xd0\xb8\xd1\x87\xd0\xbd\xd0\xb8 \xd0\xba\xd0\xb0\xd0\xbd\xd0\xb0\xd0\xbb \xd0\xa1\xd1\x80\xd0\xbf\xd1\x81\xd0\xba\xd0\xb5 \xd1\x80\xd0\xb0\xd0\xb4\xd0\xb8\xd0\xba\xd0\xb0\xd0\xbb\xd0\xbd\xd0\xb5 \xd1\x81\xd1\x82\xd1\x80\xd0\xb0\xd0\xbd\xd0\xba\xd0\xb5!!!  http://i1077.photobucket.com/albums/w468/Nesic_Ivan/380799_135905699856390_1169246454_n_zps5ae91149.jpg  \xd0\x9f\xd1\x80\xd0\xb8\xd0\xb4\xd1\x80\xd1\x83\xd0\xb6\xd0\xb8 \xd0\xbd\xd0\xb0\xd0\xbc \xd1\x81\xd0\xb5 \xd0\xbd\xd0\xb0 \xd1\x84\xd0\xbe\xd1\x80\xd1\x83\xd0\xbc\xd1\x83:http://srs-forum.tk/'
+p6
+aa(lp7
+S'\xd0\x97\xd0\xb2\xd0\xb0\xd0\xbd\xd0\xb8\xd1\x87\xd0\xbd\xd0\xb8 \xd0\xba\xd0\xb0\xd0\xbd\xd0\xb0\xd0\xbb \xd0\xa1\xd1\x80\xd0\xbf\xd1\x81\xd0\xba\xd0\xb5 \xd1\x80\xd0\xb0\xd0\xb4\xd0\xb8\xd0\xba\xd0\xb0\xd0\xbb\xd0\xbd\xd0\xb5 \xd1\x81\xd1\x82\xd1\x80\xd0\xb0\xd0\xbd\xd0\xba\xd0\xb5!!!  http://i1077.photobucket.com/albums/w468/Nesic_Ivan/380799_135905699856390_1169246454_n_zps5ae91149.jpg  \xd0\x9f\xd1\x80\xd0\xb8\xd0\xb4\xd1\x80\xd1\x83\xd0\xb6\xd0\xb8 \xd0\xbd\xd0\xb0\xd0\xbc \xd1\x81\xd0\xb5 \xd0\xbd\xd0\xb0 \xd1\x84\xd0\xbe\xd1\x80\xd1\x83\xd0\xbc\xd1\x83:http://srs-forum.tk/'
+p8
+aa(lp9
+S'\xd0\x97\xd0\xb2\xd0\xb0\xd0\xbd\xd0\xb8\xd1\x87\xd0\xbd\xd0\xb8 \xd0\xba\xd0\xb0\xd0\xbd\xd0\xb0\xd0\xbb \xd0\xa1\xd1\x80\xd0\xbf\xd1\x81\xd0\xba\xd0\xb5 \xd1\x80\xd0\xb0\xd0\xb4\xd0\xb8\xd0\xba\xd0\xb0\xd0\xbb\xd0\xbd\xd0\xb5 \xd1\x81\xd1\x82\xd1\x80\xd0\xb0\xd0\xbd\xd0\xba\xd0\xb5!!!  http://i1077.photobucket.com/albums/w468/Nesic_Ivan/380799_135905699856390_1169246454_n_zps5ae91149.jpg  \xd0\x9f\xd1\x80\xd0\xb8\xd0\xb4\xd1\x80\xd1\x83\xd0\xb6\xd0\xb8 \xd0\xbd\xd0\xb0\xd0\xbc \xd1\x81\xd0\xb5 \xd0\xbd\xd0\xb0 \xd1\x84\xd0\xbe\xd1\x80\xd1\x83\xd0\xbc\xd1\x83:http://srs-forum.tk/'
+p10
+aa(lp11
+S'\xd0\x97\xd0\xb2\xd0\xb0\xd0\xbd\xd0\xb8\xd1\x87\xd0\xbd\xd0\xb8 \xd0\xba\xd0\xb0\xd0\xbd\xd0\xb0\xd0\xbb \xd0\xa1\xd1\x80\xd0\xbf\xd1\x81\xd0\xba\xd0\xb5 \xd1\x80\xd0\xb0\xd0\xb4\xd0\xb8\xd0\xba\xd0\xb0\xd0\xbb\xd0\xbd\xd0\xb5 \xd1\x81\xd1\x82\xd1\x80\xd0\xb0\xd0\xbd\xd0\xba\xd0\xb5!!!  http://i1077.photobucket.com/albums/w468/Nesic_Ivan/380799_135905699856390_1169246454_n_zps5ae91149.jpg  \xd0\x9f\xd1\x80\xd0\xb8\xd0\xb4\xd1\x80\xd1\x83\xd0\xb6\xd0\xb8 \xd0\xbd\xd0\xb0\xd0\xbc \xd1\x81\xd0\xb5 \xd0\xbd\xd0\xb0 \xd1\x84\xd0\xbe\xd1\x80\xd1\x83\xd0\xbc\xd1\x83:http://srs-forum.tk/'
+p12
+aasS'#S.A.H.'
+p13
+(lp14
+(lp15
+S'Serbian Anonymous Heroes'
+p16
+aasS'#S.e.S'
+p17
+(lp18
+(lp19
+S'...'
+p20
+aasS'#izbaceni'
+p21
+(lp22
+(lp23
+S'https://www.facebook.com/photo.php?v=620164714681800&amp;set=vb.117778354920441&amp;type=2&amp;theater |||Dobrodosli na kanal za druzenje! #res #srb.udar #gromovnici  /// http://tinyurl.com/pq7s6h3'
+p24
+aa(lp25
+S'https://www.facebook.com/photo.php?v=620164714681800&amp;set=vb.117778354920441&amp;type=2&amp;theater |||Dobrodosli na kanal za druzenje! #res #srb.udar #gromovnici  /// http://tinyurl.com/pq7s6h3'
+p26
+aa(lp27
+S'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn2/971144_3498756044437_1485139182_n.jpg |||Dobrodosli na kanal za druzenje! #res #srb.udar #gromovnici  /// http://tinyurl.com/pq7s6h3   \\\\\\ SasaIka daj mi otkaz u firmi, ne ulazim vise...'
+p28
+aa(lp29
+S'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn2/971144_3498756044437_1485139182_n.jpg |||Dobrodosli na kanal za druzenje! #res #srb.udar #gromovnici  /// http://tinyurl.com/pq7s6h3   \\\\\\ SasaIka daj mi otkaz u firmi, ne ulazim vise...'
+p30
+aa(lp31
+S'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn2/971144_3498756044437_1485139182_n.jpg |||Dobrodosli na kanal za druzenje! #res #srb.udar #gromovnici  /// http://tinyurl.com/pq7s6h3   \\\\\\ SasaIka daj mi otkaz u firmi, ne ulazim vise...'
+p32
+aasS'#SJSrb'
+p33
+(lp34
+(lp35
+S'Za krst casni i otadzbinu -SJS -bez kickovanja sa kanala osim ako neko smara previse :D  i bez deranja na kanalu molicu lepo :D fala :D - obaramo rekorde i polako napredujemo slikovit prikaz--->  http://prntscr.com/26n2mp'
+p36
+aasS'#speed'
+p37
+(lp38
+(lp39
+S'ZVANI\xc4\x8cNI KANAL SPEEDA MA\xc4\x90IJE'
+p40
+aa(lp41
+S'ZVANI\xc4\x8cNI KANAL SPEEDA MA\xc4\x90IJE'
+p42
+aa(lp43
+S'ZVANI\xc4\x8cNI KANAL SPEEDA MA\xc4\x90IJE'
+p44
+aa(lp45
+S'ZVANI\xc4\x8cNI KANAL SPEEDA MA\xc4\x90IJE'
+p46
+aasS'#playB'
+p47
+(lp48
+(lp49
+S'Ko hoce da zajedno pravimo IRC mrezu neka se javi DonVitoCorleone na PM, potrebno je znanje engleskog jezika, da ste dobri prilikom grupnog rada, znanje u programiranju, zelja za napredovanjem i poznavanje IRC-a i komandi, ukoliko ispunjavate bilo koji od uslova javite se, posla ima za sve. :) \x034\x02\x1fNAPOMENA: \x037ZABRANJEN SVAKI VID POLITIKE !!!'
+p50
+aag50
+a(lp51
+S'Ko hoce da zajedno pravimo IRC mrezu neka se javi DonVitoCorleone na PM, potrebno je znanje engleskog jezika, da ste dobri prilikom grupnog rada, znanje u programiranju, zelja za napredovanjem i poznavanje IRC-a i komandi, ukoliko ispunjavate bilo koji od uslova javite se, posla ima za sve. :) \x034\x02\x1fNAPOMENA: \x037ZABRANJEN SVAKI VID POLITIKE !!!'
+p52
+aa(lp53
+S'Ko hoce da zajedno pravimo IRC mrezu neka se javi DonVitoCorleone na PM, potrebno je znanje engleskog jezika, da ste dobri prilikom grupnog rada, znanje u programiranju, zelja za napredovanjem i poznavanje IRC-a i komandi, ukoliko ispunjavate bilo koji od uslova javite se, posla ima za sve. :) \x034\x02\x1fNAPOMENA: \x037ZABRANJEN SVAKI VID POLITIKE !!!'
+p54
+aa(lp55
+S'Ko hoce da zajedno pravimo IRC mrezu neka se javi DonVitoCorleone na PM, potrebno je znanje engleskog jezika, da ste dobri prilikom grupnog rada, znanje u programiranju, zelja za napredovanjem i poznavanje IRC-a i komandi, ukoliko ispunjavate bilo koji od uslova javite se, posla ima za sve. :) \x034\x02\x1fNAPOMENA: \x037ZABRANJEN SVAKI VID POLITIKE !!!'
+p56
+aasS'#arch.guard'
+p57
+(lp58
+(lp59
+S"[Archangel's Guard] \xd0\x88\xd0\xb5\xd0\xb4\xd0\xb8\xd0\xbd\xd0\xb8\xd1\x86\xd0\xb0 \xd0\x90\xd1\x80\xd1\x85\xd0\xb0\xd0\xbd\xd0\xb3\xd0\xb5\xd0\xbb\xd0\xbe\xd0\xb2\xd0\xb8\xd1\x85 \xd1\x80\xd0\xb0\xd1\x82\xd0\xbd\xd0\xb8\xd0\xba\xd0\xb0 \xd1\x98\xd0\xb5 \xd0\xbe\xd1\x81\xd0\xbd\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd\xd0\xb0! http://www.erepublik.com/en/article/-archangel-039-s-guard--2283676/1/20"
+p60
+aa(lp61
+S"[Archangel's Guard] \xd0\x88\xd0\xb5\xd0\xb4\xd0\xb8\xd0\xbd\xd0\xb8\xd1\x86\xd0\xb0 \xd0\x90\xd1\x80\xd1\x85\xd0\xb0\xd0\xbd\xd0\xb3\xd0\xb5\xd0\xbb\xd0\xbe\xd0\xb2\xd0\xb8\xd1\x85 \xd1\x80\xd0\xb0\xd1\x82\xd0\xbd\xd0\xb8\xd0\xba\xd0\xb0 \xd1\x98\xd0\xb5 \xd0\xbe\xd1\x81\xd0\xbd\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd\xd0\xb0! http://www.erepublik.com/en/article/-archangel-039-s-guard--2283676/1/20"
+p62
+aa(lp63
+S"[Archangel's Guard] \xd0\x88\xd0\xb5\xd0\xb4\xd0\xb8\xd0\xbd\xd0\xb8\xd1\x86\xd0\xb0 \xd0\x90\xd1\x80\xd1\x85\xd0\xb0\xd0\xbd\xd0\xb3\xd0\xb5\xd0\xbb\xd0\xbe\xd0\xb2\xd0\xb8\xd1\x85 \xd1\x80\xd0\xb0\xd1\x82\xd0\xbd\xd0\xb8\xd0\xba\xd0\xb0 \xd1\x98\xd0\xb5 \xd0\xbe\xd1\x81\xd0\xbd\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd\xd0\xb0! http://www.erepublik.com/en/article/-archangel-039-s-guard--2283676/1/20"
+p64
+aasS'#supy-testing'
+p65
+(lp66
+(lp67
+S'This channel is only for supybot testings, bring your bot here and test him, if you need help \x02first try to Google it\x02, then ask. || If you need some supy scripting help please paste your code to http://pastebin.com'
+p68
+aa(lp69
+S'This channel is only for supybot testings, bring your bot here and test him, if you need help \x02first try to Google it\x02, then ask. || If you need some supy scripting help please paste your code to http://pastebin.com'
+p70
+aa(lp71
+S'This channel is only for supybot testings, bring your bot here and test him, if you need help \x02first try to Google it\x02, then ask. || If you need some supy scripting help please paste your code to http://pastebin.com'
+p72
+aa(lp73
+S'This channel is only for supybot testings, bring your bot here and test him, if you need help \x02first try to Google it\x02, then ask. || If you need some supy scripting help please paste your code to http://pastebin.com'
+p74
+aasS'#kraljeva-garda'
+p75
+(lp76
+(lp77
+S'PODELA POCINJE U 21:30 I TRAJE DO 22:00,POPUNI ZA OPREMU http://tinyurl.com/Upitnik-za-opremu  I CIM DOBIJES UDARAJ  PO DNEVNOJ ZAPOVESTI'
+p78
+aasS'#loto'
+p79
+(lp80
+(lp81
+S'Welcome to \x0310#loto\x03. You can read rules at Rules-Link, you can apply for next \x02\x038B\x03\x0310I\x03\x039N\x03\x037G\x03\x034O\x03!\x02 here Form-Link (please read carefully everything on it). Next game is for \x023 days at 22:00PM\x02 (Game No. \x02\x031018\x03\x03). My last game admin was: \x037DonVitoCorleone\x03'
+p82
+aa(lp83
+S'Welcome to \x0310#loto\x03. You can read rules at Rules-Link, you can apply for next \x02\x038B\x03\x0310I\x03\x039N\x03\x037G\x03\x034O\x03!\x02 here Form-Link (please read carefully everything on it). Next game is for \x023 days at 22:00PM\x02 (Game No. \x02\x031018\x03\x03). My last game admin was: \x037DonVitoCorleone\x03'
+p84
+aa(lp85
+S'Welcome to \x0310#loto\x03. You can read rules at Rules-Link, you can apply for next \x02\x038B\x03\x0310I\x03\x039N\x03\x037G\x03\x034O\x03!\x02 here Form-Link (please read carefully everything on it). Next game is for \x023 days at 22:00PM\x02 (Game No. \x02\x031018\x03\x03). My last game admin was: \x037DonVitoCorleone\x03'
+p86
+aa(lp87
+S'Welcome to \x0310#loto\x03. You can read rules at Rules-Link, you can apply for next \x02\x038B\x03\x0310I\x03\x039N\x03\x037G\x03\x034O\x03!\x02 here Form-Link (please read carefully everything on it). Next game is for \x023 days at 22:00PM\x02 (Game No. \x02\x031018\x03\x03). My last game admin was: \x037DonVitoCorleone\x03'
+p88
+aa(lp89
+S'Welcome to \x0310#loto\x03. You can read rules at Rules-Link, you can apply for next \x02\x038B\x03\x0310I\x03\x039N\x03\x037G\x03\x034O\x03!\x02 here Form-Link (please read carefully everything on it). Next game is for \x023 days at 22:00PM\x02 (Game No. \x02\x031018\x03\x03). My last game admin was: \x037DonVitoCorleone\x03'
+p90
+aasS'#it.only'
+p91
+(lp92
+(lp93
+S"If you need something for computers you are in right place, just ask your question (related to PC's ) and please don't highlight anybody with halfop or higher status."
+p94
+aa(lp95
+S"If you need something for computers you are in right place, just ask your question (related to PC's ) and please don't highlight anybody with halfop or higher status."
+p96
+aa(lp97
+S"If you need something for computers you are in right place, just ask your question (related to PC's ) and please don't highlight anybody with halfop or higher status."
+p98
+aa(lp99
+S"If you need something for computers you are in right place, just ask your question (related to PC's ) and please don't highlight anybody with halfop or higher status."
+p100
+aa(lp101
+S"If you need something for computers you are in right place, just ask your question (related to PC's ) and please don't highlight anybody with halfop or higher status."
+p102
+aasS'#ManchaHQ'
+p103
+(lp104
+(lp105
+S'\xe2\x94\x8f( -_-)\xe2\x94\x9b\xe2\x94\x97(-_- )\xe2\x94\x93\xe2\x94\x97( -_-)\xe2\x94\x9b\xe2\x94\x8f(-_- )\xe2\x94\x93 -PARTY HARD- \xe2\x94\x8f( -_-)\xe2\x94\x9b\xe2\x94\x97(-_- )\xe2\x94\x93\xe2\x94\x97( -_-)\xe2\x94\x9b\xe2\x94\x8f(-_- )\xe2\x94\x93'
+p106
+aa(lp107
+S'\xe2\x94\x8f( -_-)\xe2\x94\x9b\xe2\x94\x97(-_- )\xe2\x94\x93\xe2\x94\x97( -_-)\xe2\x94\x9b\xe2\x94\x8f(-_- )\xe2\x94\x93 -PARTY HARD- \xe2\x94\x8f( -_-)\xe2\x94\x9b\xe2\x94\x97(-_- )\xe2\x94\x93\xe2\x94\x97( -_-)\xe2\x94\x9b\xe2\x94\x8f(-_- )\xe2\x94\x93'
+p108
+aa(lp109
+S'\xe2\x94\x8f( -_-)\xe2\x94\x9b\xe2\x94\x97(-_- )\xe2\x94\x93\xe2\x94\x97( -_-)\xe2\x94\x9b\xe2\x94\x8f(-_- )\xe2\x94\x93 -PARTY HARD- \xe2\x94\x8f( -_-)\xe2\x94\x9b\xe2\x94\x97(-_- )\xe2\x94\x93\xe2\x94\x97( -_-)\xe2\x94\x9b\xe2\x94\x8f(-_- )\xe2\x94\x93'
+p110
+aa(lp111
+S':D http://userscripts.org/scripts/show/176922'
+p112
+aa(lp113
+S':D http://userscripts.org/scripts/show/176922'
+p114
+aasS'#kous'
+p115
+(lp116
+(lp117
+S'\x034\x02Druzenje pocinje u 22:00 i druzimo se do 22:02 http://tinyurl.com/chxgz7k POPUNITE!!\x0312Avatar jedinice http://www.dodaj.rs/f/3K/BI/4jLCBGiR/kosovskiustanici-v1.jpg'
+p118
+aa(lp119
+S'\x034\x02Druzenje pocinje u 22:00 i druzimo se do 22:02 http://tinyurl.com/chxgz7k POPUNITE!!\x0312Avatar jedinice http://www.dodaj.rs/f/3K/BI/4jLCBGiR/kosovskiustanici-v1.jpg'
+p120
+aasS'#vranje'
+p121
+(lp122
+(lp123
+S'Vranjanci sa eRepublik-a o9'
+p124
+aa(lp125
+S'Vranjanci sa eRepublik-a o9'
+p126
+aa(lp127
+S'Vranjanci sa eRepublik-a o9'
+p128
+aa(lp129
+S'Vranjanci sa eRepublik-a o9 http://prntscr.com/1rbffl'
+p130
+aasS'#Smor'
+p131
+(lp132
+(lp133
+S'http://www.erepublik.com/en/article/s-a-s-regrutuje-2304136/1/20 S.A.S REGRUTUJE'
+p134
+aasS'#Managers'
+p135
+(lp136
+(lp137
+S'\x033CHANNEL FOR BIG \x02HACKERS AND MANAGERS'
+p138
+aa(lp139
+S'\x033CHANNEL FOR BIG \x02HACKERS AND MANAGERS'
+p140
+aa(lp141
+S'\x033CHANNEL FOR BIG \x02HACKERS AND MANAGERS'
+p142
+aa(lp143
+S'\x033CHANNEL FOR BIG \x02HACKERS AND MANAGERS'
+p144
+aa(lp145
+S'\x033CHANNEL FOR BIG \x02HACKERS AND MANAGERS'
+p146
+aasS'#CorleoneFamily'
+p147
+(lp148
+(lp149
+S'&#9774'
+p150
+aa(lp151
+S'&#9774'
+p152
+aa(lp153
+S'&#9774'
+p154
+aa(lp155
+S'&#9774'
+p156
+aasS'#cromega'
+p157
+(lp158
+(lp159
+S'\x02\x0314,14\x034 Cr\x030\xce\xa9me\x032ga\x03 - Dobrodo\xc5\xa1li na kanal D1-2-3 jedinice Cr\xce\xa9mega || Sve informacije i bitni linkovi - http://goo.gl/Tx2UY ||  \x034 \xc4\x8cLANAK: \x03 http://www.erepublik.com/en/article/cr-omega-mega-zagrijavamo-se--2311097/1/20 || \x034 PRIRU\xc4\x8cNIK: \x03http://www.erepublik.com/en/article/cr-mega-priru-nik-za-lanove-2311859/1/20'
+p160
+aasS'#6-2'
+p161
+(lp162
+(lp163
+S'Trazi se nova budala dok stara cita ovo.       Kad je struju izmislio tesla Ameriko sisala si vesla...   Kanal za zajebanciju i druzenje svi su Dobordosli.  Zivela eSRBIJA \\o/'
+p164
+aa(lp165
+S'Trazi se nova budala dok stara cita ovo.       Kad je struju izmislio tesla Ameriko sisala si vesla...   Kanal za zajebanciju i druzenje svi su Dobordosli.  Zivela eSRBIJA \\o/'
+p166
+aasS'#BorgiaFamily'
+p167
+(lp168
+(lp169
+S"Welcome to \x0310#BorgiaFamily\x03, DISTRIBUTION: \x02\x034ON\x03\x02, DISTRIBUTOR: \x02\x034DonVitoCorleone\x03\x02, BATTLE ORDER: \x02\x034asdsad\x03\x02, use command \x02+request\x02 to request your supplies.('DonVitoCorleone', 'asdsad')"
+p170
+aa(lp171
+S"Welcome to \x0310#BorgiaFamily\x03, DISTRIBUTION: \x02\x034ON\x03\x02, DISTRIBUTOR: \x02\x034DonVitoCorleone\x03\x02, BATTLE ORDER: \x02\x034asdsad\x03\x02, use command \x02+request\x02 to request your supplies.('DonVitoCorleone', 'asdsad')"
+p172
+aa(lp173
+S"Welcome to \x0310#BorgiaFamily\x03, DISTRIBUTION: \x02\x034ON\x03\x02, DISTRIBUTOR: \x02\x034DonVitoCorleone\x03\x02, BATTLE ORDER: \x02\x034asdsad\x03\x02, use command \x02+request\x02 to request your supplies.('DonVitoCorleone', 'asdsad')"
+p174
+aa(lp175
+S"Welcome to \x0310#BorgiaFamily\x03, DISTRIBUTION: \x02\x034ON\x03\x02, DISTRIBUTOR: \x02\x034DonVitoCorleone\x03\x02, BATTLE ORDER: \x02\x034asdsad\x03\x02, use command \x02+request\x02 to request your supplies.('DonVitoCorleone', 'asdsad')"
+p176
+aasS'#szr'
+p177
+(lp178
+(lp179
+S'Zvanicni kanal Stranke Zdravog Razuma'
+p180
+aa(lp181
+S'Zvanicni kanal Stranke Zdravog Razuma'
+p182
+aasS'#famigliecorleone'
+p183
+(lp184
+S"Our web site can be found here http://famigliecorleone.klined.org/joomla/ it's still in creation"
+p185
+aS"Our web site can be found here http://famigliecorleone.webs.com/ it's still in creation"
+p186
+a(lp187
+S"Our web site can be found here http://famigliecorleone.webs.com/ it's still in creation"
+p188
+aasS'#bots'
+p189
+(lp190
+(lp191
+S'You can test your IRC bots here, talking bots are not allowed, every user is VOICED ( + ), bots that can be invited with /invite command are HALF-OPED ( % )'
+p192
+aa(lp193
+S'You can test your IRC bots here, talking bots are not allowed, every user is VOICED ( + ), bots that can be invited with /invite command are HALF-OPED ( % )'
+p194
+aa(lp195
+S'You can test your IRC bots here, talking bots are not allowed, every user is VOICED ( + ), bots that can be invited with /invite command are HALF-OPED ( % )'
+p196
+aa(lp197
+S'You can test your IRC bots here, talking bots are not allowed, every user is VOICED ( + ), bots that can be invited with /invite command are HALF-OPED ( % )'
+p198
+aasS'#b365'
+p199
+(lp200
+(lp201
+S'b365 Online MMO Games bettings \x0310:::\x03 Our Forum http://b365.nstars.org/ \x0310:::\x03 If you want to join our team please fill this form http://tinyurl.com/plv83pr'
+p202
+aa(lp203
+S'b365 Online MMO Games bettings \x0310:::\x03 Our Forum http://b365.nstars.org/ \x0310:::\x03 If you want to join our team please fill this form http://tinyurl.com/plv83pr'
+p204
+aa(lp205
+S'b365 Online MMO Games bettings \x0310:::\x03 Our Forum http://b365.nstars.org/ \x0310:::\x03 If you want to join our team please fill this form http://tinyurl.com/plv83pr'
+p206
+aa(lp207
+S'b365 Online MMO Games bettings \x0310:::\x03 Our Forum http://b365.nstars.org/ \x0310:::\x03 If you want to join our team please fill this form http://tinyurl.com/plv83pr'
+p208
+aa(lp209
+S'b365 Online MMO Games bettings \x0310:::\x03 Our Forum http://b365.nstars.org/ \x0310:::\x03 If you want to join our team please fill this form http://tinyurl.com/plv83pr'
+p210
+aasS'#ratnici'
+p211
+(lp212
+(lp213
+S'                                                                                          R A T N I C I'
+p214
+aa(lp215
+S'                                                                                          R A T N I C I'
+p216
+aa(lp217
+S'                                                                                          R A T N I C I'
+p218
+aa(lp219
+S'                                                                                          R A T N I C I'
+p220
+aasS'#pybots'
+p221
+(lp222
+(lp223
+S'Welcome to #pybots || Please be sure to let us know what bot name you are trying to join or what you need help with || Currently we give support for KG-Bot, Otaku, and foobar'
+p224
+aa(lp225
+S'Welcome to #pybots || Please be sure to let us know what bot name you are trying to join or what you need help with || Currently we give support for KG-Bot, Otaku, and foobar'
+p226
+aa(lp227
+S'Welcome to #pybots || Please be sure to let us know what bot name you are trying to join or what you need help with || Currently we give support for KG-Bot, Otaku, and foobar'
+p228
+aa(lp229
+S'Welcome to #pybots || Please be sure to let us know what bot name you are trying to join or what you need help with || Currently we give support for KG-Bot, Otaku, and foobar'
+p230
+aasS'#regiment-A'
+p231
+(lp232
+(lp233
+S'Topic u izradi...........'
+p234
+aa(lp235
+S'Topic u izradi...........'
+p236
+aasS'#staffi'
+p237
+(lp238
+(lp239
+S'\x030,4 Kuizi shtyhet per neser ne ora 21:00, shkaku moti me lageshti :P'
+p240
+aa(lp241
+S'\x030,4 Kuizi shtyhet per neser ne ora 21:00, shkaku moti me lageshti :P'
+p242
+aa(lp243
+S'\x030,4 Kuizi shtyhet per neser ne ora 21:00, shkaku moti me lageshti :P'
+p244
+aa(lp245
+S'\x030,4 Kuizi shtyhet per neser ne ora 21:00, shkaku moti me lageshti :P'
+p246
+aasS'#ebebe'
+p247
+(lp248
+(lp249
+S'Kanal MOS-a / Podela hleba za eBebe (do 30 lvl ) svake veceri od 20-21h :)) http://tinyurl.com/nrpouf8 - Link za podelu. Link mozete popunjavati od 19 do 21h, a hleb ce se deliti od 20 do 21h. ||| Molim bez ikakvog vida politike na kanalu.Hvala :))'
+p250
+aa(lp251
+S'Kanal MOS-a / Podela hleba za eBebe (do 30 lvl ) svake veceri od 20-21h :)) http://tinyurl.com/nrpouf8 - Link za podelu. Link mozete popunjavati od 19 do 21h, a hleb ce se deliti od 20 do 21h. ||| Molim bez ikakvog vida politike na kanalu.Hvala :))'
+p252
+aa(lp253
+S'Kanal MOS-a / Podela hleba za eBebe (do 30 lvl ) svake veceri od 20-21h :)) http://tinyurl.com/nrpouf8 - Link za podelu. Link mozete popunjavati od 19 do 21h, a hleb ce se deliti od 20 do 21h. ||| Molim bez ikakvog vida politike na kanalu.Hvala :))'
+p254
+aa(lp255
+S'Kanal MOS-a / Podela hleba za eBebe (do 30 lvl ) svake veceri od 20-21h :)) http://tinyurl.com/nrpouf8 - Link za podelu. Link mozete popunjavati od 19 do 21h, a hleb ce se deliti od 20 do 21h. ||| Molim bez ikakvog vida politike na kanalu.Hvala :))'
+p256
+aa(lp257
+S'Kanal MOS-a / Podela hleba za eBebe (do 30 lvl ) svake veceri od 20-21h :)) http://tinyurl.com/nrpouf8 - Link za podelu. Link mozete popunjavati od 19 do 21h, a hleb ce se deliti od 20 do 21h. ||| Molim bez ikakvog vida politike na kanalu.Hvala :)) SVI PREKO 30 LEVLA JAVITESE NA IGM OVDE http://www.erepublik.com/de/citizen/profile/2945393'
+p258
+aasS'#serbian.mofa'
+p259
+(lp260
+(lp261
+S'Welcome to eSerbian MoFA PublicChannel ///Enjoy your stay. MoFA for July: hari`TT ///Other MoFA Channels: http://tinyurl.com/MoFAChannel/// eSerbia general chat: #eSerbia'
+p262
+aa(lp263
+S'Welcome to eSerbian MoFA PublicChannel ///Enjoy your stay. MoFA for July: hari`TT ///Other MoFA Channels: http://tinyurl.com/MoFAChannel/// eSerbia general chat: #eSerbia'
+p264
+aa(lp265
+S'#serbian.mofa Welcome to eSerbian MoFA PublicChannel ///Enjoy your stay. MoFA for August: Nikol000 ///Other MoFA Channels: http://tinyurl.com/MoFAChannel/// eSerbia general chat: #eSerbia'
+p266
+aa(lp267
+S'#serbian.mofa Welcome to eSerbian MoFA PublicChannel ///Enjoy your stay. MoFA for August: Nikol000 ///Other MoFA Channels: http://tinyurl.com/MoFAChannel/// eSerbia general chat: #eSerbia'
+p268
+aa(lp269
+S'#serbian.mofa Welcome to eSerbian MoFA PublicChannel ///Enjoy your stay. MoFA for August: Nikol000 ///Other MoFA Channels: http://tinyurl.com/MoFAChannel/// eSerbia general chat: #eSerbia'
+p270
+aasS'#papucari'
+p271
+(lp272
+(lp273
+S'http://kraljeva-garda.webs.com/apps/faq/#anchor-146943-5 Ovde imate objasnjeno kako da reg nic-----For za dnevnu podelu https://docs.google.com/forms/d/181JSLFTT6CZ8Yloz9LMnqkqS8adDyBv4uh9Cr7aYfSI/viewform'
+p274
+aa(lp275
+S'http://kraljeva-garda.webs.com/apps/faq/#anchor-146943-5 Ovde imate objasnjeno kako da reg nic-----For za dnevnu podelu http://tinyurl.com/p5dcwhx'
+p276
+aasS'#regiment-B'
+p277
+(lp278
+(lp279
+S'darko <3 manchu :D'
+p280
+aa(lp281
+S'darko <3 manchu :D'
+p282
+aasS'#multi'
+p283
+(lp284
+(lp285
+S'DA DA DA DA DA DA DA DA DA http://www.erepublik.com/en/main/group-show/2843?page=1'
+p286
+aa(lp287
+S'DA DA DA DA DA DA DA DA DA http://www.erepublik.com/en/main/group-show/2843?page=1'
+p288
+aa(lp289
+S'DA DA DA DA DA DA DA DA DA http://www.erepublik.com/en/main/group-show/2843?page=1'
+p290
+aa(lp291
+S'DA DA DA DA DA DA DA DA DA http://www.erepublik.com/en/main/group-show/2843?page=1'
+p292
+aasS'#fc'
+p293
+(lp294
+(lp295
+S"Don't wanna use chat from site, no problem, just go to irc://irc.electronirc.tk/#fc and choose your favorite IRC client"
+p296
+aa(lp297
+S"Don't wanna use chat from site, no problem, just go to irc://irc.electronirc.tk/#fc and choose your favorite IRC client"
+p298
+aa(lp299
+S"Don't wanna use chat from site, no problem, just go to irc://irc.electronirc.tk/#fc and choose your favorite IRC client"
+p300
+aa(lp301
+S"Don't wanna use chat from site, no problem, just go to irc://irc.electronirc.tk/#fc and choose your favorite IRC client"
+p302
+aa(lp303
+S"Don't wanna use chat from site, no problem, just go to irc://irc.electronirc.tk/#fc and choose your favorite IRC client"
+p304
+aasS'#MyIRCHelp'
+p305
+(lp306
+(lp307
+S"\x02\x034Don't highlight anybody with HOP and higher statuses,just ask your question (related to IRC) and somebody will answer it.\x0312We are not 24h here so you need to wait but as soon as somebody comes online he will answer your questions if you are still here.\x037Also you ask your questions here and we will answer them http://myirchelp.4umer.com/"
+p308
+aa(lp309
+S"\x02\x034Don't highlight anybody with HOP and higher statuses,just ask your question (related to IRC) and somebody will answer it.\x0312We are not 24h here so you need to wait but as soon as somebody comes online he will answer your questions if you are still here.\x037Also you ask your questions here and we will answer them http://myirchelp.4umer.com/"
+p310
+aa(lp311
+S"\x02\x034Don't highlight anybody with HOP and higher statuses,just ask your question (related to IRC) and somebody will answer it.\x0312We are not 24h here so you need to wait but as soon as somebody comes online he will answer your questions if you are still here.\x037Also you ask your questions here and we will answer them http://myirchelp.4umer.com/"
+p312
+aa(lp313
+S"\x02\x034Don't highlight anybody with HOP and higher statuses,just ask your question (related to IRC) and somebody will answer it.\x0312We are not 24h here so you need to wait but as soon as somebody comes online he will answer your questions if you are still here.\x037Also you ask your questions here and we will answer them http://myirchelp.4umer.com/"
+p314
+aasS'#SJS'
+p315
+(lp316
+(lp317
+S'Kanal za muljanje, dobro nam dosli \\o/'
+p318
+aa(lp319
+S'Kanal za muljanje, dobro nam dosli \\o/'
+p320
+aa(lp321
+S'Kanal za muljanje, dobro nam dosli \\o/'
+p322
+aa(lp323
+S'Kanal za muljanje, dobro nam dosli \\o/'
+p324
+aasS'#S.A.S'
+p325
+(lp326
+(lp327
+S'\x02 \x034Dobro dosli na zvanicni kanal jedinice S.A.S. (Special Air Service) ||| Avatar jedinice \x02 \x0312http://www.dodaj.rs/f/L/Xc/1byiMdBe/-.jpg'
+p328
+aa(lp329
+S'\x02 \x034Dobro dosli na zvanicni kanal jedinice S.A.S. (Special Air Service) ||| Avatar jedinice \x02 \x0312http://www.dodaj.rs/f/L/Xc/1byiMdBe/-.jpg'
+p330
+aa(lp331
+S'\x02 \x034Dobro dosli na zvanicni kanal jedinice S.A.S. (Special Air Service) ||| Avatar jedinice \x02 \x0312http://www.dodaj.rs/f/L/Xc/1byiMdBe/-.jpg'
+p332
+aa(lp333
+S'\x02 \x034Dobro dosli na zvanicni kanal jedinice S.A.S. (Special Air Service) ||| Avatar jedinice \x02 \x0312http://www.dodaj.rs/f/L/Xc/1byiMdBe/-.jpg'
+p334
+aa(lp335
+S'\x02 \x034Dobro dosli na zvanicni kanal jedinice S.A.S. (Special Air Service) ||| Avatar jedinice \x02 \x0312http://www.dodaj.rs/f/L/Xc/1byiMdBe/-.jpg'
+p336
+aasS'#civilnodrustvo'
+p337
+(lp338
+(lp339
+S' DOBRODO\xc5\xa0LI NA SLU\xc5\xbdBENI KANAL STRANKE i MUa CIVILNO DRUSTVO\xe2\x95\x91 Link obrasca za opremu: goo.gl/uXul6 \xe2\x95\x91STATUT CDa http://goo.gl/QtRWr \xe2\x95\x91 za opremu pingajte OP-ove\xe2\x95\x91   NOVI OKVIR http://goo.gl/IqvAYD \xe2\x95\x91Sastanak 30.8. u 20:00 - opis http://www.erepublik.com/en/article/2311611/1/20'
+p340
+aasS'#Happy.tree.friends'
+p341
+(lp342
+(lp343
+S'\x0309,01Tanz\x0311,01anian\x03 military unit Happy Tree Friends \x0304,04 \x0302,02 \x0300,00 \x03 We are recruiting active players. For more information contact MarkoNestor or MojTeca. \x0304,04 \x0302,02 \x0300,00 \x03 http://tinyurl.com/nr32gm7'
+p344
+aa(lp345
+S'\x0309,01Tanz\x0311,01anian\x03 military unit Happy Tree Friends \x0304,04 \x0302,02 \x0300,00 \x03 We are recruiting active players. For more information contact MarkoNestor or MojTeca. \x0304,04 \x0302,02 \x0300,00 \x03 http://tinyurl.com/nr32gm7'
+p346
+aasS'#IdleRPG'
+p347
+(lp348
+(lp349
+S'Welcome to idleland! /msg IdleRPG register <character name> <password> <character class> to get started! Happy idling!'
+p350
+aa(lp351
+S'Welcome to idleland! /msg IdleRPG register <character name> <password> <character class> to get started! Happy idling!'
+p352
+aa(lp353
+S'Welcome to idleland! /msg IdleRPG register <character name> <password> <character class> to get started! Happy idling!'
+p354
+aa(lp355
+S'Welcome to idleland! /msg IdleRPG register <character name> <password> <character class> to get started! Happy idling!'
+p356
+aa(lp357
+S''
+aasS'#supybot'
+p358
+(lp359
+S"Unofficial supybot support channel ||| Don't ask to ask, just ask, don't highlight HOPs and above, don't mass highlight ||| We aren't 24/7 online, be patient."
+p360
+a(lp361
+S"Unofficial supybot support channel ||| Don't ask to ask, just ask, don't highlight HOPs and above, don't mass highlight ||| We aren't 24/7 online, be patient."
+p362
+aasS'#idle'
+p363
+(lp364
+(lp365
+S'\x02\x034,1Users that are not in any channel are automatically joined here on regular intervals.\x0f || \x02\x034,1Type\x0f /list \x02\x034,1to see a list of available channels on the network.'
+p366
+aasS'#pomoc'
+p367
+(lp368
+(lp369
+S'Imate li pitanja o Rizonu ili IRC-u, na pravom ste mestu. Postavite Vase pitanje i dobicete odgovor u najkracem roku. Zamolio bih vas da ne saljete PM nekome sa OP ili vecim statusom, vec da budete strpljivi, hvala na razumevanju. Botine \x02\x030,4 STOP \x0f'
+p370
+aa(lp371
+S'Imate li pitanja o Rizonu ili IRC-u, na pravom ste mestu. Postavite Vase pitanje i dobicete odgovor u najkracem roku. Zamolio bih vas da ne saljete PM nekome sa OP ili vecim statusom, vec da budete strpljivi, hvala na razumevanju. Botine \x02\x030,4 STOP \x0f'
+p372
+aa(lp373
+S'Imate li pitanja o Rizonu ili IRC-u, na pravom ste mestu. Postavite Vase pitanje i dobicete odgovor u najkracem roku. Zamolio bih vas da ne saljete PM nekome sa OP ili vecim statusom, vec da budete strpljivi, hvala na razumevanju. Botine \x02\x030,4 STOP \x0f'
+p374
+aa(lp375
+S'Imate li pitanja o Rizonu ili IRC-u, na pravom ste mestu. Postavite Vase pitanje i dobicete odgovor u najkracem roku. Zamolio bih vas da ne saljete PM nekome sa OP ili vecim statusom, vec da budete strpljivi, hvala na razumevanju. Botine \x02\x030,4 STOP \x0f'
+p376
+aasS'#CyberR.Alb'
+p377
+(lp378
+(lp379
+S'Kanali i ll Zyrtare CyberRepublik.net'
+p380
+aasS'#bleja'
+p381
+(lp382
+(lp383
+S'***ZVANICNI KANAL ALKOHOLICARA eSRBIJE*** Dodjite da pijemo zajedno ! xD HIT DANA: http://www.youtube.com/watch?v=vVOUrPyNfh8'
+p384
+aasS'#DonVitoCorleone'
+p385
+(lp386
+(lp387
+S'http://nexus-svjetlost.com/vijesti/u-pozadini-vijesti/item/253-video-fema-se-priprema-uskoro-nas-ocekuje-velika-krizna-situacija || Otvoren krizni stab, jos malo pa nestalo (nas) http://nexus-svjetlost.com/vijesti/misterije/item/240-ison-kometa-nlo-ili-planet-s-cudnom-orbitom'
+p388
+aa(lp389
+S'http://nexus-svjetlost.com/vijesti/u-pozadini-vijesti/item/253-video-fema-se-priprema-uskoro-nas-ocekuje-velika-krizna-situacija || Otvoren krizni stab, jos malo pa nestalo (nas) http://nexus-svjetlost.com/vijesti/misterije/item/240-ison-kometa-nlo-ili-planet-s-cudnom-orbitom'
+p390
+aa(lp391
+S'http://nexus-svjetlost.com/vijesti/u-pozadini-vijesti/item/253-video-fema-se-priprema-uskoro-nas-ocekuje-velika-krizna-situacija || Otvoren krizni stab, jos malo pa nestalo (nas) http://nexus-svjetlost.com/vijesti/misterije/item/240-ison-kometa-nlo-ili-planet-s-cudnom-orbitom'
+p392
+aa(lp393
+S'http://nexus-svjetlost.com/vijesti/u-pozadini-vijesti/item/253-video-fema-se-priprema-uskoro-nas-ocekuje-velika-krizna-situacija || Otvoren krizni stab, jos malo pa nestalo (nas) http://nexus-svjetlost.com/vijesti/misterije/item/240-ison-kometa-nlo-ili-planet-s-cudnom-orbitom'
+p394
+aa(lp395
+S'http://nexus-svjetlost.com/vijesti/u-pozadini-vijesti/item/253-video-fema-se-priprema-uskoro-nas-ocekuje-velika-krizna-situacija || Otvoren krizni stab, jos malo pa nestalo (nas) http://nexus-svjetlost.com/vijesti/misterije/item/240-ison-kometa-nlo-ili-planet-s-cudnom-orbitom'
+p396
+aasS'#kraljeva_garda'
+p397
+(lp398
+S'\x034ZA KRALJA I OTADZBINU,SLOBODA ILI SMRT!!! \x0312Popuni za tenkove http://tinyurl.com/upitnik-za-tenkove i cim dobijes udaraj po DO!!! PODELA POCINJE U 21:30 I ZAVRSAVA U 22:00,NE POPUNJAVAJ PRE ILI POSLE TOGA,NECES DOBITI TENKOVE!!!!'
+p399
+aS'\x034ZA KRALJA I OTADZBINU,SLOBODA ILI SMRT!!! \x0312Popuni za tenkove http://tinyurl.com/upitnik-za-tenkove i cim dobijes udaraj po DO!!! PODELA POCINJE U 21:30 I ZAVRSAVA U 22:00,NE POPUNJAVAJ PRE ILI POSLE TOGA,NECES DOBITI TENKOVE!!!!'
+p400
+ag400
+aS'\x034ZA KRALJA I OTADZBINU,SLOBODA ILI SMRT!!! \x0312Popuni za tenkove http://tinyurl.com/upitnik-za-tenkove i cim dobijes udaraj po DO!!! PODELA POCINJE U 21:30 I ZAVRSAVA U 22:00,NE POPUNJAVAJ PRE ILI POSLE TOGA,NECES DOBITI TENKOVE!!!!'
+p401
+asS'#Gromovnici'
+p402
+(lp403
+(lp404
+S'30.01.2014. UDAR po potrebi ||| PUSTAMO Piedmont ||| ***Zvani\xc4\x8dni kanal jedinice Red sv.Djordja*** ||| VA\xc5\xbdNO OBAVE\xc5\xa0TENJE http://prntscr.com/1vnnzf ||| FEED i SMS: http://goo.gl/NRRwL |||'
+p405
+aasS'#gvozdenipuk'
+p406
+(lp407
+(lp408
+S'DOBRO DOSLI...cene za clanove 0.08 food q5...gift q5 0.18...wep q1 0.028....q1 ticket 0.06  svi clanovi imaju op..regrutacija otvorena ko prvi dodje ujutru nek vidi da li su napali cro neku core regiju i nek stavi do na NB :* ljubi vas cp iz nocne smene'
+p409
+aa(lp410
+S'DOBRO DOSLI...cene za clanove 0.08 food q5...gift q5 0.18...wep q1 0.028....q1 ticket 0.06  svi clanovi imaju op..regrutacija otvorena ko prvi dodje ujutru nek vidi da li su napali cro neku core regiju i nek stavi do na NB :* ljubi vas cp iz nocne smene'
+p411
+aa(lp412
+S'DOBRO DOSLI...cene za clanove 0.08 food q5...gift q5 0.18...wep q1 0.028....q1 ticket 0.06  svi clanovi imaju op..regrutacija otvorena ko prvi dodje ujutru nek vidi da li su napali cro neku core regiju i nek stavi do na NB :* ljubi vas cp iz nocne smene'
+p413
+aa(lp414
+S'DOBRO DOSLI...cene za clanove 0.08 food q5...gift q5 0.18...wep q1 0.028....q1 ticket 0.06  svi clanovi imaju op..regrutacija otvorena ko prvi dodje ujutru nek vidi da li su napali cro neku core regiju i nek stavi do na NB :* ljubi vas cp iz nocne smene'
+p415
+aasS'#sjeb_raketasi'
+p416
+(lp417
+(lp418
+S'\x02\x034Oficijalni kanal \x038SJeB \x034Raketnog Odreda'
+p419
+aa(lp420
+S'\x02\x034Oficijalni kanal \x038SJeB \x034Raketnog Odreda'
+p421
+aasS'#Beogradski_Sindikat'
+p422
+(lp423
+(lp424
+S'Chat od stranke Beogradski sindikat  http://www.youtube.com/watch?v=6xiw-M9jAIE u produzetku stavi ovaj text: I kad nije bio blistav zivot, imalo je smisla, krivo nije bilo nikad zbog odricanja 300'
+p425
+aasS'#Golden-Uno'
+p426
+(lp427
+(lp428
+S'Welcome to \x0310#Golden-Uno\x03. You can read rules at Rules-Link, you can apply for next \x02\x038B\x03\x0310I\x03\x039N\x03\x037G\x03\x034O\x03!\x02 here Form-Link (please read carefully everything on it). Next game is for \x023 days at 22:00PM\x02 (Game No. \x02\x031011\x03\x03). My last game admin was: \x037DonVitoCorleone\x03'
+p429
+aa(lp430
+S'Welcome to \x0310#Golden-Uno\x03. You can read rules at Rules-Link, you can apply for next \x02\x038B\x03\x0310I\x03\x039N\x03\x037G\x03\x034O\x03!\x02 here Form-Link (please read carefully everything on it). Next game is for \x023 days at 22:00PM\x02 (Game No. \x02\x031011\x03\x03). My last game admin was: \x037DonVitoCorleone\x03'
+p431
+aa(lp432
+S'Welcome to \x0310#Golden-Uno\x03. You can read rules at Rules-Link, you can apply for next \x02\x038B\x03\x0310I\x03\x039N\x03\x037G\x03\x034O\x03!\x02 here Form-Link (please read carefully everything on it). Next game is for \x023 days at 22:00PM\x02 (Game No. \x02\x031011\x03\x03). My last game admin was: \x037DonVitoCorleone\x03'
+p433
+aa(lp434
+S'Welcome to \x0310#Golden-Uno\x03. You can read rules at Rules-Link, you can apply for next \x02\x038B\x03\x0310I\x03\x039N\x03\x037G\x03\x034O\x03!\x02 here Form-Link (please read carefully everything on it). Next game is for \x023 days at 22:00PM\x02 (Game No. \x02\x031011\x03\x03). My last game admin was: \x037DonVitoCorleone\x03'
+p435
+aa(lp436
+S'Welcome to \x0310#Golden-Uno\x03. You can read rules at Rules-Link, you can apply for next \x02\x038B\x03\x0310I\x03\x039N\x03\x037G\x03\x034O\x03!\x02 here Form-Link (please read carefully everything on it). Next game is for \x023 days at 22:00PM\x02 (Game No. \x02\x031011\x03\x03). My last game admin was: \x037DonVitoCorleone\x03'
+p437
+aasS'#KG-Bot'
+p438
+(lp439
+(lp440
+S'Help channel for KG-Bot, ask about any command that my bot has, list of available commands ( some of them are available only for owner and admins of KG-Bot ) you can see with \x0310+list <plugin>\x03 where <plugin> is the name of plugin (script), you can get full list of plugins with \x0310+list\x03 command, you can address bot with \x0310+\x03 or by his nickname ( KG-Bot )'
+p441
+aa(lp442
+S'Help channel for KG-Bot, ask about any command that my bot has, list of available commands ( some of them are available only for owner and admins of KG-Bot ) you can see with \x0310+list <plugin>\x03 where <plugin> is the name of plugin (script), you can get full list of plugins with \x0310+list\x03 command, you can address bot with \x0310+\x03 or by his nickname ( KG-Bot )'
+p443
+aa(lp444
+S'My help channel, use \x0310+list\x03 or \x0310+help\x03 to see some info about me. \x037:::\x03 You can request me with \x0310+reqchan \x039#Channel-Name\x03 \x037:::\x03 If you need any other help ask your question and wait. \x037:::\x03 You must have 15 users min on your channel to request me, ofc, there are some nicks that are not counted here. Those nicks are well-known bots. \x037:::\x03 My owner can disallow some channels.'
+p445
+aa(lp446
+S'My help channel, use \x0310+list\x03 or \x0310+help\x03 to see some info about me. \x037:::\x03 You can request me with \x0310+reqchan \x039#Channel-Name\x03 \x037:::\x03 If you need any other help ask your question and wait. \x037:::\x03 You must have 15 users min on your channel to request me, ofc, there are some nicks that are not counted here. Those nicks are well-known bots. \x037:::\x03 My owner can disallow some channels.'
+p447
+aa(lp448
+S'My help channel, use \x0310+list\x03 or \x0310+help\x03 to see some info about me. \x037:::\x03 You can request me with \x0310+reqchan \x039#Channel-Name\x03 \x037:::\x03 If you need any other help ask your question and wait. \x037:::\x03 You must have 15 users min on your channel to request me, ofc, there are some nicks that are not counted here. Those nicks are well-known bots. \x037:::\x03 My owner can disallow some channels.'
+p449
+aasS'#samosrbija'
+p450
+(lp451
+(lp452
+S'Povodom novonastalih desavanja http://www.youtube.com/watch?v=UgwLSpkFR54'
+p453
+aa(lp454
+S'Povodom novonastalih desavanja http://www.youtube.com/watch?v=UgwLSpkFR54'
+p455
+aa(lp456
+S'Dobrodo\xc5\xa1li na zvani\xc4\x8dni kanal stranke Samo Srbija'
+p457
+aasS'#spec'
+p458
+(lp459
+(lp460
+S'\x037Welcome to #spec\x034 |\x033 http://i.imgur.com/auQuzoz.gif\x034 |\x0310 Protect: 9001 \x038Op: 1337 \x0310HalfOp: 1000 \x038Voice: 101\x034 |\x034 \xe1\x83\x9a(\xe0\xb2\xa0\xe7\x9b\x8a\xe0\xb2\xa0)\xe1\x83\x9a\x0313'
+p461
+aa(lp462
+S'\x037Welcome to #spec\x034 |\x033 http://i.imgur.com/auQuzoz.gif\x034 |\x0310 Protect: 9001 \x038Op: 1337 \x0310HalfOp: 1000 \x038Voice: 101\x034 |\x034 \xe1\x83\x9a(\xe0\xb2\xa0\xe7\x9b\x8a\xe0\xb2\xa0)\xe1\x83\x9a\x0313'
+p463
+aa(lp464
+S'\x037Welcome to #spec\x034 |\x033 http://i.imgur.com/auQuzoz.gif\x034 |\x0310 Protect: 9000 \x038Op: 1337 \x0310HalfOp: 1000 \x038Voice: 101\x034 |\x034 \xe3\x83\x9f(\xe3\x80\x80 \xc2\xb4\xef\xbd\xa5\xcf\x89\xef\xbd\xa5) wee! \x034 |\x0313 Squat Report Must Be Posted!'
+p465
+aa(lp466
+S'\x037Welcome to #spec\x034 |\x033 http://i.imgur.com/auQuzoz.gif\x034 |\x0310 Protect: 9000 \x038Op: 1337 \x0310HalfOp: 1000 \x038Voice: 101\x034 |\x034 \xe3\x83\x9f(\xe3\x80\x80 \xc2\xb4\xef\xbd\xa5\xcf\x89\xef\xbd\xa5) wee! \x034 |\x0313 Squat Report Must Be Posted!'
+p467
+aasS'#ThePunisher'
+p468
+(lp469
+(lp470
+S'http://i.imgur.com/WFtedZp.png http://img547.imageshack.us/img547/2593/snlx.png'
+p471
+aastRp472
+.csupybot.ircutils
+IrcDict
+p1
+((dp2
+S'#S.A.S'
+p3
+(lp4
+(lp5
+S'NOVI AVATAR SVI STAVLJAJTE http://www.dodaj.rs/f/L/Xc/1byiMdBe/-.jpg'
+p6
+aasS'#DonVitoCorleone'
+p7
+(lp8
+S'kk'
+p9
+astRp10
+.csupybot.ircutils
+IrcDict
+p1
+((dp2
+S'#ratnici'
+p3
+(lp4
+S'                                                                                          R A T N I C I'
+p5
+asS'#DonVitoCorleone'
+p6
+(lp7
+S'.quote read 1 za registraciju nicka | | | .quote read 2 za reg. kanala | | | .quote read 3 za ownermode | | | .quote read 4 za stavljanje modova kanala | | | .quote read 5 za skidanje modova kanala | | | .quote read 6 za vHost'
+p8
+asS'#kraljeva_garda'
+p9
+(lp10
+S'\x034ZA KRALJA I OTADZBINU,SLOBODA ILI SMRT!!! \x0312Popuni za tenkove http://tinyurl.com/upitnik-za-tenkove i cim dobijes udaraj po DO!!! PODELA POCINJE U 21:30 I ZAVRSAVA U 22:00,NE POPUNJAVAJ PRE ILI POSLE TOGA,NECES DOBITI TENKOVE!!!!'
+p11
+asS'#famigliecorleone'
+p12
+(lp13
+S"Our web site can be found here http://famigliecorleone.webs.com/ it's still in creation"
+p14
+asS'#papucari'
+p15
+(lp16
+S'http://kraljeva-garda.webs.com/apps/faq/#anchor-146943-5 Ovde imate objasnjeno kako da reg nic-----For za dnevnu podelu http://tinyurl.com/p5dcwhx'
+p17
+asS'#playB'
+p18
+(lp19
+S'Ko hoce da zajedno pravimo IRC mrezu neka se javi DonVitoCorleone na PM, potrebno je znanje engleskog jezika, da ste dobri prilikom grupnog rada, znanje u programiranju, zelja za napredovanjem i poznavanje IRC-a i komandi, ukoliko ispunjavate bilo koji od uslova javite se, posla ima za sve. :) \x034\x02\x1fNAPOMENA: \x037ZABRANJEN SVAKI VID POLITIKE !!!'
+p20
+asS'#S.A.S'
+p21
+(lp22
+S'\x02 \x034 Dobro dosli na zvanicni kanal jedinice S.A.S. (Special Air Service) \x02 \x0312||| Avatari jedinice http://tiny.cc/SAS_Avatari ||| \x02 \x034http://www.erepublik.com/en/article/s-a-s-regrutuje--2302411/1/20'
+p23
+asS'#CorleoneFamily'
+p24
+(lp25
+S'gg'
+p26
+asS'#KG-Bot'
+p27
+(lp28
+S'Help channel for KG-Bot, ask about any command that my bot has, list of available commands ( some of them are available only for owner and admins of KG-Bot ) you can see with +commands, you can address bot with + or by his nickname ( KG-Bot )'
+p29
+asS'#it.only'
+p30
+(lp31
+S"If you need something for computers you are in right place, just ask your question (related to PC's ) and please don't highlight anybody with halfop or higher status."
+p32
+asS'#supybot'
+p33
+(lp34
+S"Unofficial supybot support channel ||| Don't ask to ask, just ask, don't highlight HOPs and above, don't mass highlight ||| We aren't 24/7 online, be patient."
+p35
+astRp36
+.csupybot.ircutils
+IrcSet
+p1
+((lp2
+ccopy_reg
+_reconstructor
+p3
+(csupybot.ircutils
+IrcString
+p4
+c__builtin__
+str
+p5
+S'#icn0imzfztlbp96'
+tRp6
+(dp7
+S'lowered'
+p8
+S'#icn0imzfztlbp96'
+p9
+sbag3
+(g4
+g5
+S'#r.s.i.'
+tRp10
+(dp11
+g8
+S'#r.s.i.'
+p12
+sbag3
+(g4
+g5
+S'#bots'
+tRp13
+(dp14
+g8
+S'#bots'
+p15
+sbag3
+(g4
+g5
+S'#arch.guard'
+tRp16
+(dp17
+g8
+S'#arch.guard'
+p18
+sbag3
+(g4
+g5
+S'#starttv'
+tRp19
+(dp20
+g8
+S'#starttv'
+p21
+sbag3
+(g4
+g5
+S'#zbgxkle11em87vf'
+tRp22
+(dp23
+g8
+S'#zbgxkle11em87vf'
+p24
+sbag3
+(g4
+g5
+S'#MHQ'
+tRp25
+(dp26
+g8
+S'#mhq'
+p27
+sbag3
+(g4
+g5
+S'#ajdejicaHahahahahahahalolololololololoOjsaa'
+tRp28
+(dp29
+g8
+S'#ajdejicahahahahahahahalolololololololoojsaa'
+p30
+sbag3
+(g4
+g5
+S'#2014/15'
+tRp31
+(dp32
+g8
+S'#2014/15'
+p33
+sbag3
+(g4
+g5
+S'#ACCMS'
+tRp34
+(dp35
+g8
+S'#accms'
+p36
+sbag3
+(g4
+g5
+S'#IceDice'
+tRp37
+(dp38
+g8
+S'#icedice'
+p39
+sbag3
+(g4
+g5
+S'#CorleoneFamili'
+tRp40
+(dp41
+g8
+S'#corleonefamili'
+p42
+sbag3
+(g4
+g5
+S'#kontrola-c'
+tRp43
+(dp44
+g8
+S'#kontrola-c'
+p45
+sbag3
+(g4
+g5
+S'#kontrola-B'
+tRp46
+(dp47
+g8
+S'#kontrola-b'
+p48
+sbag3
+(g4
+g5
+S'#kontrola-A'
+tRp49
+(dp50
+g8
+S'#kontrola-a'
+p51
+sbag3
+(g4
+g5
+S'#relej'
+tRp52
+(dp53
+g8
+S'#relej'
+p54
+sbag3
+(g4
+g5
+S'##izbizbaceni'
+tRp55
+(dp56
+g8
+S'##izbizbaceni'
+p57
+sbag3
+(g4
+g5
+S'#710hiks8j5rxvdi'
+tRp58
+(dp59
+g8
+S'#710hiks8j5rxvdi'
+p60
+sbag3
+(g4
+g5
+S'#CoMuD'
+tRp61
+(dp62
+g8
+S'#comud'
+p63
+sbag3
+(g4
+g5
+S'#ACCMS_DEV'
+tRp64
+(dp65
+g8
+S'#accms_dev'
+p66
+sbag3
+(g4
+g5
+S'#ACCMS_REQUEST'
+tRp67
+(dp68
+g8
+S'#accms_request'
+p69
+sbag3
+(g4
+g5
+S'#CorleoneFamily'
+tRp70
+(dp71
+g8
+S'#corleonefamily'
+p72
+sbag3
+(g4
+g5
+S'#tfz6g1xvlyxa1rb'
+tRp73
+(dp74
+g8
+S'#tfz6g1xvlyxa1rb'
+p75
+sbag3
+(g4
+g5
+S'#kraljeva_garda'
+tRp76
+(dp77
+g8
+S'#kraljeva_garda'
+p78
+sbag3
+(g4
+g5
+S'#KG_Market'
+tRp79
+(dp80
+g8
+S'#kg_market'
+p81
+sbag3
+(g4
+g5
+S'#regiment-C'
+tRp82
+(dp83
+g8
+S'#regiment-c'
+p84
+sbag3
+(g4
+g5
+S'#glas'
+tRp85
+(dp86
+g8
+S'#glas'
+p87
+sbag3
+(g4
+g5
+S'#dice_dev'
+tRp88
+(dp89
+g8
+S'#dice_dev'
+p90
+sbag3
+(g4
+g5
+S'#Golden-Uno'
+tRp91
+(dp92
+g8
+S'#golden-uno'
+p93
+sbag3
+(g4
+g5
+S'#supy'
+tRp94
+(dp95
+g8
+S'#supy'
+p96
+sbatRp97
+.

@@ -1,0 +1,306 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+<title>System Requirements - Search: Search Results</title>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<meta name='description' content='System Requirements - Database and Community Site' />
+<meta name='keywords' content='system requirements, minimum requirements, recommended requirements, game, video games, database, configuration, hardware, PC, requirements, software, performance, graphics, sys-req, sysreq, sys req, database, support, forum, systemreq, game system requirements, VGA, ATI, NVidia, AMD, Intel, RAM, COD' />
+<meta http-equiv='Refresh' content='1800' />
+<link rel='stylesheet' href='themes/Gepigeny/styles.css' type='text/css' media='screen' />
+<link rel='shortcut icon' href='images/favicon.ico' type='image/x-icon' />
+<script type='text/javascript' src='includes/jscript.js'></script>
+<script type='text/javascript' src='includes/jquery.js'></script>
+<script type='text/javascript' src='includes/jquery-ui.js'></script>
+</head>
+<body>
+<table width='980px' align='center'><tr><td><table cellpadding='0' cellspacing='0' width='100%' border='0px'>
+<tr>
+<td width='480px' height='70px' sytle='position:relative;overflow:hidden;' rowspan='2'>
+<a href='http://gamesystemrequirements.com/' title='System Requirements''><img src='images/systemrequirementslogo.jpg' alt='System Requirements' style='border: 0;' /></a>
+</td>
+<td width='280px' align='right' height='33px'><table cellpadding='0' cellspacing='0' width='300px' border='0px'>
+<tr>
+<td width='29px'><a href='//www.youtube.com/user/gepigeny' title='Gépigény Youtube Channel' target='_blank'><img src='images/youtube_icon.png' alt='Gépigény Youtube Channel' width='23px' height='23px' style='padding:0 3px 0 3px;' border='0px'/></a></td><td width="67px"><a href="//www.youtube.com/subscription_center?add_user_id=pbOL9mlV0g34IvbHCJydvg&feature=creators_cornier-//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_61x23_red.png" title="Subscribe to Gépigény Youtube Channel!" target="_blank"><img src="images/YT_Subscribe_61x23_red.png" alt="Subscribe to Gépigény Youtube Channel!" width="61px" height="23px" style="padding:0 3px 0 3px;" border="0px"/></a><img src="//www.youtube-nocookie.com/gen_204?feature=creators_cornier-//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_61x23_red.png" style="display: none" border="0px"/></td><td width="29px"><a href="//plus.google.com/102551661760786092932" rel="publisher" style="text-decoration:none;" title="Game System Requirements Google+ profile" target="_blank"><img src="images/googleplus_icon.png" alt="Game System Requirements Google+ profile" width="23px" height="23px" style="border:0;width:23px;height:23px;padding:0 3px 0 3px;" border="0px"/></a></td><td width="32px"><div class="g-plusone" data-size="medium" data-annotation="none"></div></td><td width="29px"><a href="//facebook.com/gamesystemrequirements" title="Game System Requirements Facebook profile" target="_blank"><img src="images/facebook_icon.png" alt="Game System Requirements Facebook profile" width="23px" height="23px"  style="padding:0px 3px 0 3px;" border="0px"/></a></td><td width="113px"><div class="fb-like" data-href="http://facebook.com/gamesystemrequirements" data-send="false" data-layout="button_count" data-width="104" data-show-faces="false" data-colorscheme="dark" data-font="verdana"></div></td></tr></table></td>
+<script type="text/javascript">
+		$(document).ready(function() {
+			$(".dropdown dt a").click(function() {
+				$(".dropdown dd ul").toggle();
+			});
+			$(document).bind('click', function(e) {
+				var $clicked = $(e.target);
+				if (! $clicked.parents().hasClass("dropdown"))
+					$(".dropdown dd ul").hide();
+			});
+		});
+	</script><td width='70px' align='right' height='33px'><div id='sample' class='dropdown'><dt><a href='#'>English</a></dt><dd><ul><li><a href='http://gepigeny.hu'>Magyar</a></li><li><a href='http://gamesystemrequirements.com'>English</a></li><li><a href='http://systemanforderungen.com'>Deutsch</a></li><li><a href='http://системныетребования.рф'>Русский</a></li><li><a href='http://requisitosdesistema.com'>Español</a></li><li><a href='http://wymaganiasystemowe.pl'>Polski</a></li><li><a href='http://configurationrequise.com'>Français</a></li></ul></dd></div>
+</td></tr><tr><td align='right' valign='middle' colspan='2' ><form id='ui_element' class='search_wr' method='get' action='search.php'><input class='sb_input' type='text' name='q' value='Search' onfocus="if(this.value==this.defaultValue)this.value='';$(this).css('color','#FFF');" onblur="if(this.value=='')this.value=this.defaultValue;$(this).css('color','#DDD');""/><input class='search_button' type='submit' value='' title='Search'/><div class='search_select'><select name='w'>
+<span class='option'><option value='1' selected='selected'>Everywhere</option>
+<option value='2'>Games</option>
+<option value='5'>Member</option>
+<option value='4'>Thread</option>
+</span></select>
+</div></form></td></tr></table>
+<div class='menu_space'><div class='menu'><ul><table width='980px' align='center' cellpadding='0' cellspacing='0' border='0px'><tr><td width='4%'><li><a href='index.php' id='fooldal' title='Main'><img src='images/main.png' alt='Main' border='0'/></a></li></td><td width='13%'><li><a href='games.php' id='jatekok'>Games</a><ul>
+	<li><a href='database.php'>Database</a></li>
+	<li><a href='releases.php'>Releases</a></li></ul></li></td><td width='13%'><li><a href='news.php' id='hirek'>News</a></li></td><td width='13%'><li><a href='articles.php' id='cikkek'>Reviews</a></li></td><td width='13%'><li><a href='video/main.php' id='videok'>Videos</a></li></td><td width='13%'><li><a href='forum/index.php' id='forum'>Forum</a></li></td><td width='13%'><li><a href='community.php' id='kozosseg'>Community</a></td><td width='13%'><li><a href='about_us.php' id='oldalinfok'>About us</a><ul>
+	<li><a href='about_us.php'>About the site</a></li><li><a href='donate.php'>Donate</a></li>
+	<li><a href='terms_of_use.php'>Terms of Use</a></li>
+	<li><a href='legal_notice.php'>Legal notice</a></li>
+	<li><a href='top.php'>Top</a></li>
+	<li><a href='submit.php'>Submit</a></li>
+	<li><a href='contact.php'>Contact</a></li></ul></li></td></tr></table></ul></div></div><table cellpadding='0' cellspacing='0' width='100%' align='center' style='table-layout:fixed;'  class='side-both'>
+<tr>
+<td class='side-column-left' valign='top'><table cellpadding='0' cellspacing='0' class='side-panel-border'>
+<tr>
+<td class='panel_title'>New system requirements</td>
+</tr>
+<td class='side-panel'>
+<img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2172' style='font-size:11px'>Final Exam</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=1993' style='font-size:11px'>Call of Duty: Ghosts</a><br /><img src='themes/Gepigeny/images/bullet_hl.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2179' style='font-size:11px;font-weight:bold;'>Sniper Elite: Nazi Zombie Army 2</a><br /><img src='themes/Gepigeny/images/bullet_hl.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2177' style='font-size:11px;font-weight:bold;'>Nether</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2154' style='font-size:11px'>Football Manager 2014</a><br /><img src='themes/Gepigeny/images/bullet_hl.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2178' style='font-size:11px;font-weight:bold;'>Deadly Premonition: The Director&#39;s Cut</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=1694' style='font-size:11px'>Battlefield 4</a><br /><img src='themes/Gepigeny/images/bullet_hl.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2140' style='font-size:11px;font-weight:bold;'>Contagion</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2175' style='font-size:11px'>WRC 4</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2164' style='font-size:11px'>Naruto Shippuden: Ultimate Ninja STORM ...</a><br /></td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='0' class='side-panel-border'>
+<tr>
+<td class='panel_title'>Most viewed</td>
+</tr>
+<td class='side-panel'>
+<img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=1694' style='font-size:11px' >Battlefield 4</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=1993' style='font-size:11px' >Call of Duty: Ghosts</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=1963' style='font-size:11px' >Batman: Arkham Origins</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2164' style='font-size:11px' >Naruto Shippuden: Ultimate Ninja STORM 3 Full B...</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=1900' style='font-size:11px' >Assassin’s Creed IV: Black Flag</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2021' style='font-size:11px' >Need for Speed Rivals</a><br /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> <a href='games.php?id=2056' style='font-size:11px' >FIFA 14</a><br /></td>
+</tr>
+</table>
+<center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3686398933774826";
+/* G HUN T-bal 160x600, 2007.11.07. */
+google_ad_slot = "4999977393";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td><td class='main-column' valign='top'><a id='content' name='content'></a>
+<table cellpadding='0' cellspacing='0' width='100%' border='0px' style='margin:3px 1px 3px 1px;'><tr><td align='center'>
+	<script type="text/javascript"><!--
+	google_ad_client = "ca-pub-3686398933774826";
+	google_ad_slot = "0105566270";
+	google_ad_width = 468;
+	google_ad_height = 60;
+	//-->
+	</script>
+	<script type="text/javascript"
+	src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+	</td></tr></table><table cellpadding='0' cellspacing='0' width='100%' class='main-panel-border'>
+<tr>
+<td class='panel_title'>Search</td>
+</tr>
+<td class='main-panel'>
+<form id='ui_element' class='search_wr_big' method='get' action='search.php'><table width='100%' cellpadding='0' cellspacing='0'>
+<tr>
+<td class='tbl0'><input class='sb_input' type='text' name='q' value='oblivion' />
+<input class='search_button' type='submit' value='' title='Search'/><div class='search_select'><select name='w'>
+<span class='option'><option value='1' >Everywhere</option>
+<option value='2'  selected='selected'>Games</option>
+<option value='5' >Member</option>
+<option value='4' >Thread</option>
+</span></select>
+</div></td></tr><tr>
+<td class='tbl0' align='left' style='width:50%;'>
+<label><input type='radio' name='method' value='AND' checked='checked' /> result has to contain all those words</label><br  /><label><input type='radio' name='method' value='OR' /> search any of those words</label>
+</td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+</table>
+<center><table cellpadding='0' cellspacing='0' width='100%' class='main-panel-border'>
+<tr>
+<td class='panel_title'>Search Results</td>
+</tr>
+<td class='main-panel'>
+<div class='quote'><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> &nbsp;<a href='search.php?w=2&amp;q=oblivion&amp;method=AND&amp;'>1 game found matching search criteria</a><br />
+<hr /><img src='themes/Gepigeny/images/bullet.gif' alt='*' style='margin: 0 0 2px 0;'> &nbsp;<strong>1 találat összesen</strong></div><table width='100%'><tr><td class='tbl3'>Games</td></tr><tr><td class='tbl1'><a href='games.php?id=5'>The Elder Scrolls IV <span class='search_highlight'>Oblivion</span> game</a></td></tr>
+</table></td>
+</tr>
+</table>
+</center></td><td class='side-column-right' valign='top'><table cellpadding='0' cellspacing='0' class='side-panel-border'>
+<tr>
+<td class='panel_title'>Login</td>
+</tr>
+<td class='side-panel'>
+<center><table border='0px' width='100%'><tr><td><form name='loginform' method='post' action='/search.php?q=oblivion&amp;amp;w=2'>
+Name</td><td align='right'><input type='text' name='user_name' class='textbox' style='width:90%' /></td></tr><tr><td>Passw.</td><td align='right'><input type='password' name='user_pass' class='textbox' style='width:90%' /></td></tr><tr><td><input type='checkbox' name='remember_me' value='y' title='Remember Me' style='vertical-align:middle;' /></td><td align='right'><input type='submit' name='login' value='Login' class='button' style='width:95%;'/></form></td></tr><tr><td colspan='2' style='font-size: 16px;font-weight: bold;'><a href='register.php' class='side'>Register</a></td></tr><tr><td colspan='2' style='font-size: 9px;'><a href='lostpassword.php' class='side'>Forgotten password</a></td></tr></table></center></td>
+</tr>
+</table>
+<center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3686398933774826";
+/* G HUN T-jobb 160x600, 207.11.07. */
+google_ad_slot = "6957657000";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center><table cellpadding='0' cellspacing='0' border='0px' width='100%' class='nyeremenyjatek_box'>
+<tr><td align='center' valign='top'><a href='sweepstakes.php?id=20131110' title='GameSystemRequirements Sweepstakes'><span class='ny_title'>Sweepstakes!<br /><br /></span><span class='ny_targy'>Battlefield 3<br />PC game<span></a></td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='0' class='side-panel-border'>
+<tr>
+<td class='panel_title'>Vote</td>
+</tr>
+<td class='side-panel'>
+<form name='voteform' method='post' action='search.php?q=oblivion&amp;w=2'>
+<center><strong>Do you want a forum on this site?</strong></center>
+<label><input type='radio' name='voteoption' value='0' /> Yes</label><br />
+<label><input type='radio' name='voteoption' value='1' /> I don&#39;t know</label><br />
+<div style='text-align:center'><input type='hidden' name='poll_id' value='2' />
+You must login to vote.</div>
+</form>
+</td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='0' class='side-panel-border'>
+<tr>
+<td class='panel_title'>Members</td>
+</tr>
+<td class='side-panel'>
+Members: 81,335<br />
+Newest member: <a href='profile.php?lookup=82188' class='side'>afekete7</a>
+<br />
+Online members (77): <table cellpadding='0' cellspacing='0' width='100%'><tr>
+<td class='side-small' align='left'><a href='profile.php?lookup=69710' title='WarGaMEr0' class='side'>WarGaMEr0</a>, 
+<a href='profile.php?lookup=63887' title='Zola79' class='side'>Zola79</a>, 
+<a href='profile.php?lookup=34878' title='Szotya' class='side'>Szotya</a>, 
+<a href='profile.php?lookup=66305' title='down' class='side'>down</a>, 
+<a href='profile.php?lookup=76804' title='mccflex' class='side'>mccflex</a>, 
+<a href='profile.php?lookup=73989' title='szabi96' class='side'>szabi96</a>, 
+<a href='profile.php?lookup=45308' title='Dani46' class='side'>Dani46</a>, 
+<a href='profile.php?lookup=30612' title='zslti234' class='side'>zslti234</a>, 
+<a href='profile.php?lookup=46776' title='rafferd' class='side'>rafferd</a>, 
+<a href='profile.php?lookup=56383' title='gertzu' class='side'>gertzu</a>, 
+<a href='profile.php?lookup=47465' title='Marci14' class='side'>Marci14</a>, 
+<a href='profile.php?lookup=23001' title='DeanRain' class='side'>DeanRain</a>, 
+<a href='profile.php?lookup=54687' title='BRYAN007' class='side'>BRYAN007</a>, 
+<a href='profile.php?lookup=19039' title='orodreath' class='side'>orodreath</a>, 
+<a href='profile.php?lookup=76259' title='SwitcX' class='side'>SwitcX</a>, 
+<a href='profile.php?lookup=75148' title='MuneebSalman1999' class='side'>MuneebSalman...</a>, 
+<a href='profile.php?lookup=54125' title='jooricsike' class='side'>jooricsike</a>, 
+<a href='profile.php?lookup=80284' title='Tekki' class='side'>Tekki</a>, 
+<a href='profile.php?lookup=81399' title='atcaofmeister' class='side'>atcaofmeister</a>, 
+<a href='profile.php?lookup=45500' title='cubetibi' class='side'>cubetibi</a>, 
+<a href='profile.php?lookup=47542' title='Pammerka' class='side'>Pammerka</a>, 
+<a href='profile.php?lookup=25224' title='Haha' class='side'>Haha</a>, 
+<a href='profile.php?lookup=27940' title='YellowFlash' class='side'>YellowFlash</a>, 
+<a href='profile.php?lookup=81662' title='akosvargaa' class='side'>akosvargaa</a>, 
+<a href='profile.php?lookup=1' title='Nruhtas' class='side'>Nruhtas</a>, 
+<a href='profile.php?lookup=79339' title='paradicsom1234' class='side'>paradicsom1234</a>, 
+<a href='profile.php?lookup=12694' title='pittike7405' class='side'>pittike7405</a>, 
+<a href='profile.php?lookup=18945' title='Rajmi17' class='side'>Rajmi17</a>, 
+<a href='profile.php?lookup=49896' title='damonend' class='side'>damonend</a>, 
+<a href='profile.php?lookup=45615' title='dingos_dave' class='side'>dingos_dave</a>, 
+<a href='profile.php?lookup=19820' title='Superlompos' class='side'>Superlompos</a>, 
+<a href='profile.php?lookup=79774' title='Den2013' class='side'>Den2013</a>, 
+<a href='profile.php?lookup=74844' title='daniel58230' class='side'>daniel58230</a>, 
+<a href='profile.php?lookup=41360' title='Sanchez' class='side'>Sanchez</a>, 
+<a href='profile.php?lookup=30251' title='cod4ultra' class='side'>cod4ultra</a>, 
+<a href='profile.php?lookup=80887' title='donhuan' class='side'>donhuan</a>, 
+<a href='profile.php?lookup=78661' title='addam2' class='side'>addam2</a>, 
+<a href='profile.php?lookup=82036' title='Ajax' class='side'>Ajax</a>, 
+<a href='profile.php?lookup=80870' title='andor360' class='side'>andor360</a>, 
+<a href='profile.php?lookup=5437' title='Demmer' class='side'>Demmer</a>, 
+<a href='profile.php?lookup=29415' title='gacso' class='side'>gacso</a>, 
+<a href='profile.php?lookup=80626' title='Gaborc' class='side'>Gaborc</a>, 
+<a href='profile.php?lookup=63987' title='shubi1597' class='side'>shubi1597</a>, 
+<a href='profile.php?lookup=41088' title='Swype' class='side'>Swype</a>, 
+<a href='profile.php?lookup=35250' title='tomykhaaa' class='side'>tomykhaaa</a>, 
+<a href='profile.php?lookup=38656' title='Citrom' class='side'>Citrom</a>, 
+<a href='profile.php?lookup=14753' title='danika76' class='side'>danika76</a>, 
+<a href='profile.php?lookup=70373' title='sit98' class='side'>sit98</a>, 
+<a href='profile.php?lookup=21905' title='tamas98765' class='side'>tamas98765</a>, 
+<a href='profile.php?lookup=61970' title='atis27' class='side'>atis27</a>, 
+... </td></tr></table></td>
+</tr>
+</table>
+</td></tr>
+</table>
+<div class='main-footer-line'></div><table cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td align='left' width='35%' class='main-footer'>Gépigény (HUN) &copy; 2007-2013</td>
+<td align='right' width='35%' class='main-footer'><a href='javascript:window.scrollTo(0,0)'>Jump to Top! ▲</a></td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td align='left' valign='top' width='10%' class='main-footer'><img src='images/gepigeny_gear.jpg' alt='System Requirements' style='border='0px'/></td>
+<td align='left' valign='top' width='20%' class='main-footer'><a href='index.php' target='_self'>Main</a><br /><a href='games.php' target='_self'>Games</a><br /><a href='news.php' target='_self'>News</a><br /><a href='articles.php' target='_self'>Reviews</a><br /><a href='video/main.php' target='_self'>Videos</a><br /><a href='forum/index.php' target='_self'>Forum</a><td align='left' valign='top' width='20%' class='main-footer'><a href='about_us.php' target='_self'>About the site</a><br /><a href='terms_of_use.php' target='_self'>Terms of Use</a><br /><a href='legal_notice.php' target='_self'>Legal notice</a><br /><a href='submit.php' target='_self'>Submit</a><br /><a href='contact.php' target='_self'>Contact</a></td>
+<td align='left' valign='top' width='20%' class='main-footer'><a href='http://gepigeny.hu'>Gepigeny.hu</a><br /><a href='http://gamesystemrequirements.com'>GameSystemRequirements.com</a><br /><a href='http://systemanforderungen.com'>Systemanforderungen.com</a></td>
+<td align='left' valign='top' width='20%' class='main-footer'><a href='http://системныетребования.рф'>Cистемныетребования.рф</a><br /><a href='http://requisitosdesistema.com'>Requisitosdesistema.com</a><br /><a href='http://wymaganiasystemowe.pl'>Wymaganiasystemowe.pl</a></td>
+<td align='left' valign='top' width='20%' class='main-footer'><a href='http://configurationrequise.com'>Configurationrequise.com</a><br /><a href='http://koncertonline.hu'>KoncertOnline.hu</a><br /><a href='http://lolz.hu'>LOLz.hu</a></td>
+</tr>
+<tr>
+<td align='right' colspan='6' class='main-footer' style='font-size:8px;'>Powered by PHP-Fusion copyright &copy; 2002 - 2013 by Nick Jones. Released as free software without warranties under GNU Affero GPL v3.
+</td>
+</tr>
+</table>
+</td></tr></table></body>
+</html>
+<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-1842613-15']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1842613-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+$(function() {
+	$( document ).tooltip({
+		track: true
+	});
+});
+</script><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));</script><script type='text/javascript'>
+  window.___gcfg = {lang: 'en'};
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script><script>
+$(function() {
+   var fixadent = $('.menu'), pos = fixadent.offset();
+   $(window).scroll(function() {
+     if($(this).scrollTop() > (pos.top + 0) &&
+	fixadent.css('position') == 'static') { fixadent.addClass('fixed'); } 
+     else if($(this).scrollTop() <= pos.top &&
+	fixadent.hasClass('fixed')){ fixadent.removeClass('fixed'); }
+   })
+});
+</script>

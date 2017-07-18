@@ -1,0 +1,80 @@
+2014-02-07T01:51:02  *** eRepublikBot <eRepublikBot!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has joined #fc
+2014-02-07T01:51:02  <FC-Bot> Network is not found.
+2014-02-07T01:51:17  <[FC]> !eval sys.path
+2014-02-07T01:51:17  <eRepublikBot> ['C:\\Python27\\Scripts', 'C:\\Python27\\lib\\site-packages\\beautifulsoup4-4.3.2-py2.7.egg', 'C:\\Python27\\lib\\site-packages\\mechanize-0.2.5-py2.7.egg', 'C:\\Python27\\lib\\site-packages\\twitter-1.10.0-py2.7.egg', 'C:\\Python27\\lib\\site-packages\\httplib2-0.8-py2.7.egg', 'C:\\Python27\\lib\\site-packages\\thepiratebay-1.1.3-py2.7.egg',
+2014-02-07T01:51:17  <FC-Bot> ['/usr/local/bin', '/usr/lib/python2.7', '/usr/lib/python2.7/plat-linux2', '/usr/lib/python2.7/lib-tk', '/usr/lib/python2.7/lib-old', '/usr/lib/python2.7/lib-dynload', '/usr/local/lib/python2.7/dist-packages', '/usr/lib/python2.7/dist-packages', '/usr/lib/python2.7/dist-packages/PIL', '/usr/lib/python2.7/dist-packages/gtk-2.0', '/usr/lib/pymodules/python2.7']
+2014-02-07T01:51:18  <eRepublikBot> 'C:\\Python27\\lib\\site-packages\\dateutils-0.6.6-py2.7.egg', 'C:\\Python27\\lib\\site-packages\\purl-0.8-py2.7.egg', 'C:\\Python27\\lib\\site-packages\\pytz-2013.7-py2.7.egg', 'C:\\Python27\\lib\\site-packages\\python_dateutil-2.1-py2.7.egg', 'C:\\Python27\\lib\\site-packages\\argparse-1.2.1-py2.7.egg', 'C:\\Python27\\lib\\site-packages\\six-1.4.1-py2.7.egg', (3 more messages)
+2014-02-07T01:51:21  <[FC]> <eval sys.path
+2014-02-07T01:51:22  <xbot> [FC]: ['C:\\Python26\\Scripts', 'C:\\Windows\\system32\\python26.zip', 'C:\\Python26\\DLLs', 'C:\\Python26\\lib', 'C:\\Python26\\lib\\plat-win', 'C:\\Python26\\lib\\lib-tk', 'C:\\Python26', 'C:\\Python26\\lib\\site-packages']
+2014-02-07T01:51:25  <[FC]> See xD
+2014-02-07T01:51:36  <Iota> question, why use those versions
+2014-02-07T01:51:48  <[FC]> Those?
+2014-02-07T01:52:13  <[FC]> I won't use them, I just want to try this on Linux xD
+2014-02-07T01:52:29  <Iota> then go ahead and try it
+2014-02-07T01:52:39  <[FC]> And btw, synce when I have root priviledges on troll? o-O
+2014-02-07T01:54:04  <Iota> i meant you're not jailed (i.e your home is /home/don instead /home/jail/./home/don/)
+2014-02-07T01:54:25  * [FC] is Laughing Out Loud
+2014-02-07T01:54:33  <[FC]> You have jail on server xD
+2014-02-07T01:55:23  <Iota> yes, since i sell shell accounts and need users jailed
+2014-02-07T01:55:48  <[FC]> There are already 3 python versions on Troll xD
+2014-02-07T01:59:55  <[FC]> This one is used by Supybot /usr/local/lib/python2.7/dist-packages/supybot
+2014-02-07T01:59:56  <[FC]> ?
+2014-02-07T02:03:47  <[FC]> I see this beta plugins, Botlist
+2014-02-07T02:04:08  <[FC]> I can give you source from one that I've made for #bots @ Rizon
+2014-02-07T02:09:17  <Iota> thats actually what i've used before for there
+2014-02-07T02:14:58  <Iota> and what is typoed
+2014-02-07T02:15:47  <[FC]>  They can also go to http://electrocode.net/chat and use any server they li
+2014-02-07T02:15:51  <FC-Bot> Title: Chat | electrocode.net (at electrocode.net)
+2014-02-07T02:16:06  <[FC]> "like" maybe?
+2014-02-07T02:25:23  <[FC]> http://i.imgur.com/rYGLc3j.jpg
+2014-02-07T02:25:28  <[FC]> Finished
+2014-02-07T03:16:51  *** xbot <xbot!~KG@7D06A083.F3B5CED7.D9B479AF.IP> has quit IRC (Quit: Ctrl-C at console.)
+2014-02-07T03:49:18  <[FC]> I've finally made checking for channel admins
+2014-02-07T03:49:42  <[FC]> But now I have to copy all of my plugins to this local bot :/
+2014-02-07T12:40:24  *** eRepublikBot` <eRepublikBot`!~KraljevaGar@ElectroCode-257C5245.e-code.in> has joined #fc
+2014-02-07T12:40:24  <FC-Bot> Network is not found.
+2014-02-07T12:40:28  *** eRepublikBot` <eRepublikBot`!~KraljevaGar@ElectroCode-257C5245.e-code.in> has quit IRC (Client exited)
+2014-02-07T12:45:21  *** xbot <xbot!~KraljevaGar@ElectroCode-257C5245.e-code.in> has joined #fc
+2014-02-07T12:45:22  <FC-Bot> Network is not found.
+2014-02-07T13:00:04  *** xbot <xbot!~KraljevaGar@ElectroCode-257C5245.e-code.in> has quit IRC (Quit: Making changes)
+2014-02-07T13:03:26  *** xbot <xbot!~KraljevaGar@ElectroCode-257C5245.e-code.in> has joined #fc
+2014-02-07T13:03:26  <FC-Bot> Network is not found.
+2014-02-07T13:08:54  *** xbot <xbot!~KraljevaGar@ElectroCode-257C5245.e-code.in> has quit IRC (Quit: Making changes)
+2014-02-08T01:25:45  *** eRepublikBot` <eRepublikBot`!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has joined #fc
+2014-02-08T01:25:47  <FC-Bot> Network is not found.
+2014-02-08T01:27:38  *** eRepublikBot` <eRepublikBot`!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has quit IRC (Client exited)
+2014-02-08T01:28:13  *** xbot <xbot!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has joined #fc
+2014-02-08T01:28:14  <FC-Bot> Network is not found.
+2014-02-08T06:13:27  <[FC]> !sayadmins
+2014-02-08T06:24:13  <Iota> admins
+2014-02-08T06:36:12  <[FC]> Can you tell me, if I have one version of Python on server for global use, and I setup another version that will be used by just one user (local instalation) is it going to take same CPU resources or CPU will go crazy? xD
+2014-02-08T06:36:37  <[FC]> And MEM ofc
+2014-02-08T15:05:18  *** xbot <xbot!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has quit IRC (Quit: Making changes)
+2014-02-08T21:09:55  *** eRepublikBot <eRepublikBot!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has joined #fc
+2014-02-08T21:09:57  <FC-Bot> Network is not found.
+2014-02-08T21:15:02  *** eRepublikBot <eRepublikBot!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has joined #fc
+2014-02-08T21:15:02  <FC-Bot> Network is not found.
+2014-02-08T21:19:24  *** eRepublikBot <eRepublikBot!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has joined #fc
+2014-02-08T21:19:25  <FC-Bot> Network is not found.
+2014-02-08T23:55:20  *** FC-Bot <FC-Bot!~FC@FamiglieCorleone-official-bot> has quit IRC (Quit: Making changes)
+2014-02-09T00:42:10  <Iota> eh?
+2014-02-09T03:09:13  <[FC]> I never had a harder night in my fucking life
+2014-02-09T03:09:29  <[FC]> installing Python locally took me ~8 hours
+2014-02-09T03:10:54  <Iota> o.o
+2014-02-09T03:11:13  <[FC]> _sqlite3
+2014-02-09T03:11:26  <[FC]> I've installed Python before that one
+2014-02-09T03:11:44  <[FC]> And it couldn't do anything
+2014-02-09T03:11:51  <[FC]> (with supy I mean)
+2014-02-09T03:12:05  <[FC]> Because you must have _sqlite3 available to start supy
+2014-02-09T03:12:34  <[FC]> And I didn't know that first I have to install SQLite and then Python
+2014-02-09T03:13:05  <[FC]> So I was trying to fix it with pip, sqlite3, pysqlite, sqlite3-dev
+2014-02-09T03:13:15  <[FC]> And I lost almost 8 fucking hours
+2014-02-09T03:14:17  <[FC]> Now I'm transferinf supy folders to my PC, I'll install clean supy, modules that I need and then I'll return my stable supy version on the server and run it
+2014-02-09T03:14:36  <[FC]> And I'll be able to modify those standard modules shipped with supy
+2014-02-09T03:14:48  <[FC]> Like irlib.py, Owner plugin etc.
+2014-02-09T03:15:04  <[FC]> At least that's what I hope I'll be able to do
+2014-02-09T03:15:47  <[FC]> Except I'll delete everything, even my shell accs, I'll go off the IRC forever and I'll dump my PC and start living healthy life :)
+2014-02-09T03:16:36  <[FC]> I have to find someone for Skype or my head is going to explode
+2014-02-11T04:46:37  *** eRepublikBot <eRepublikBot!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has joined #fc
+2014-02-11T04:57:07  *** eRepublikBot <eRepublikBot!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has joined #fc
+2014-02-11T05:04:35  *** eRepublikBot <eRepublikBot!~KraljevaGar@7D06A083.F3B5CED7.D9B479AF.IP> has joined #fc

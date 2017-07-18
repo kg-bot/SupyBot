@@ -1,0 +1,40 @@
+How many training centers we have in eRepublik?*There are 4 training centers
+When you post something on eRep, how much time do you need to wait until your next post?*You need to wait 10 minutes
+How much articles is in top news?*There are 5 articles
+How many types of medals do we have in eRepublik?*We have 12 types
+How many types of bombs do we have in eRepublik?*We have 2 types of bombs
+How many days you need to work to get Hard Work medal?*You need to work 30 days
+What rank is before General in eRep?*Rank before General is Colonel
+What do you need to do to get the Campagin Hero medal?*You need to reach the highest war infulence in a campagin
+What do you need to do to get the Congress Member medal?*You need to win the congress elections
+What do you need to do to get the Resistance Hero medal?*You need to start resistance war and liberate that region
+What do you need to do to get the Super Soldier medal?*You need to advance 250 strength points
+What do you need to do to get the Country President medal?*You need to win the presidential elections
+What do you need to do to get the Mercenary medal?*You need to defeat 25 enemies for 50 different countries
+What do you need to do to get the Society Builder medal?*You need to invite 10 people and help them reach level 10
+What do you need to do to get the Battle Hero medal?*You need to reach the highest war influence in a battle
+What do you need to do to get the Media Mogul medal?*You need to reach the 1000 subscribers to your newspaper
+How many training centers we have in eRepublik?*There are 4 training centers
+When you post something on eRep, how much time do you need to wait until your next post?*You need to wait 10 minutes
+How much articles is in top news?*There are 5 articles
+How many types of medals do we have in eRepublik?*We have 12 types
+How many types of bombs do we have in eRepublik?*We have 2 types of bombs
+How many days you need to work to get Hard Work medal?*You need to work 30 days
+What rank is before General in eRep?*Rank before General is Colonel
+What do you need to do to get the Campagin Hero medal?*You need to reach the highest war infulence in a campagin
+What do you need to do to get the Congress Member medal?*You need to win the congress elections
+What do you need to do to get the Resistance Hero medal?*You need to start resistance war and liberate that region
+What do you need to do to get the Super Soldier medal?*You need to advance 250 strength points
+What do you need to do to get the Country President medal?*You need to win the presidential elections
+What do you need to do to get the Mercenary medal?*You need to defeat 25 enemies for 50 different countries
+What do you need to do to get the Society Builder medal?*You need to invite 10 people and help them reach level 10
+What do you need to do to get the Battle Hero medal?*You need to reach the highest war influence in a battle
+What do you need to do to get the Media Mogul medal?*You need to reach the 1000 subscribers to your newspaper
+How much is maximum health you can have?*Maximum health you can have is 650
+In what format your avatar must be?*Your avatar must be in jpg. format
+How much time you can work on a day?*You can work one time
+What is the color of weapon raw material?*Its green color
+How much division we have?*We have 4 divisions
+
+
+

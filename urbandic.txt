@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang='en' prefix='og: http://ogp.me/ns#'>
+<!--
+        _|_  _  _    _|. __|_. _  _  _  _
+    |_|| |_)(_|| |  (_||(_ | |(_)| |(_||\/
+                                        /
+
+    Need help? http://bit.ly/urbandictionary-help
+-->
+<head>
+<meta charset='UTF-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='app-id=584986228' name='apple-itunes-app'>
+<meta content='app-id=com.urbandictionary.android' name='google-play-app'>
+<meta content='UrbanDict' name='apple-mobile-web-app-title'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<link href='http://d.udimg.com/assets/apple-touch-startup-image-320x460-af3ce9323a922de4710df6cca7b5b0a5.png' media='(device-width: 320px)' rel='apple-touch-startup-image'>
+<link href='http://b.udimg.com/assets/apple-touch-startup-image-640x920-45bee4447e92c8f88cc109ccec32952e.png' media='(device-width: 320px) and (-webkit-device-pixel-ratio: 2)' rel='apple-touch-startup-image'>
+<link href='http://d.udimg.com/assets/apple-touch-icon-f2bff4f0c89241e2389aa3a9683b35a5.png' rel='apple-touch-icon'>
+<title>Urban Dictionary: vaginal_leakage</title>
+<link href="http://b.udimg.com/assets/application-4a395325ce3dfb7a9bb1db177312ade3.css" media="screen" rel="stylesheet" />
+<link href="http://feeds.urbandictionary.com/UrbanWordOfTheDay" rel="alternate" title="Urban Word of the Day" type="application/rss+xml" />
+<link href="http://a.udimg.com/favicon.ico" rel="shortcut icon" /><link href="http://a.udimg.com/favicon.ico" rel="icon" />
+
+<link href='http://b.udimg.com/osd.xml' rel='search' title='Urban Dictionary Search' type='application/opensearchdescription+xml'>
+<meta content='vaginal_leakage' property='og:title'>
+<meta content='summary' property='twitter:card'>
+<meta content='@urbandictionary' property='twitter:site'>
+<meta content='Urban Dictionary' property='og:site_name'>
+<meta content='http://b.udimg.com/assets/og_image-9c80a2091be0bb141d4f4706964adee1.jpg' property='og:image'>
+<script>
+  //<![CDATA[
+    (function() {
+      /* Modernizr 2.6.2 (Custom Build) | MIT & BSD
+     * Build: http://modernizr.com/download/#-mq-teststyles-load
+     */
+    ;window.Modernizr=function(a,b,c){function v(a){i.cssText=a}function w(a,b){return v(prefixes.join(a+";")+(b||""))}function x(a,b){return typeof a===b}function y(a,b){return!!~(""+a).indexOf(b)}function z(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:x(f,"function")?f.bind(d||b):f}return!1}var d="2.6.2",e={},f=b.documentElement,g="modernizr",h=b.createElement(g),i=h.style,j,k={}.toString,l={},m={},n={},o=[],p=o.slice,q,r=function(a,c,d,e){var h,i,j,k,l=b.createElement("div"),m=b.body,n=m||b.createElement("body");if(parseInt(d,10))while(d--)j=b.createElement("div"),j.id=e?e[d]:g+(d+1),l.appendChild(j);return h=["&#173;",'<style id="s',g,'">',a,"</style>"].join(""),l.id=g,(m?l:n).innerHTML+=h,n.appendChild(l),m||(n.style.background="",n.style.overflow="hidden",k=f.style.overflow,f.style.overflow="hidden",f.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),f.style.overflow=k),!!i},s=function(b){var c=a.matchMedia||a.msMatchMedia;if(c)return c(b).matches;var d;return r("@media "+b+" { #"+g+" { position: absolute; } }",function(b){d=(a.getComputedStyle?getComputedStyle(b,null):b.currentStyle)["position"]=="absolute"}),d},t={}.hasOwnProperty,u;!x(t,"undefined")&&!x(t.call,"undefined")?u=function(a,b){return t.call(a,b)}:u=function(a,b){return b in a&&x(a.constructor.prototype[b],"undefined")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!="function")throw new TypeError;var d=p.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(p.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(p.call(arguments)))};return e});for(var A in l)u(l,A)&&(q=A.toLowerCase(),e[q]=l[A](),o.push((e[q]?"":"no-")+q));return e.addTest=function(a,b){if(typeof a=="object")for(var d in a)u(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b=="function"?b():b,typeof enableClasses!="undefined"&&enableClasses&&(f.className+=" "+(b?"":"no-")+a),e[a]=b}return e},v(""),h=j=null,e._version=d,e.mq=s,e.testStyles=r,e}(this,this.document),function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}}(this,document),Modernizr.load=function(){yepnope.apply(window,[].slice.call(arguments,0))};;
+      window.responsiveMode = function() {
+        if (Modernizr.mq("(max-width: 767px)")) {
+          return "767px-max";
+        }
+        if (Modernizr.mq("(min-width: 768px) and (max-width: 979px)")) {
+          return "768px-979px";
+        }
+        return "default";
+      };
+    
+      Modernizr.load({
+        load: ["http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js", "http://a.udimg.com/assets/application-5f78da9127e696fad3eb5b3ab3aedd9d.js"],
+        complete: function() {
+          return $(function() {
+            return Uncacheable.instance.load([]);
+          });
+        }
+      });
+    
+      window.page_globals = {
+        "sfg_flag": true,
+        "sfa_flag": true,
+        "rails_env": "production",
+        "locale": "en"
+      };
+    
+      page_globals.responsive = responsiveMode();
+    
+      window.googletag = window.googletag || {};
+    
+      googletag.cmd = googletag.cmd || [];
+    
+      yepnope.injectJs("http://www.googletagservices.com/tag/js/gpt.js");
+    
+    }).call(this);
+  //]]>
+</script>
+
+</head>
+<body class='define_controller'>
+<div id='fb-root'></div>
+<div class='hidden-phone' id='like_buttons'>
+<a data-toggle='modal' href='#subscribe_pane' id='subscribe-button'>
+<i class='icon-envelope'></i>
+<span>Subscribe</span>
+</a>
+<a class='feedback' href='javascript:' id='feedback-button'>
+<i class='icon-comment'></i>
+<span>Feedback</span>
+</a>
+<iframe allowtransparency='true' data-src='https://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3A%2F%2Ffacebook.com%2Furbandictionary&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21' frameborder='0' scrolling='no' style='border:none; overflow:hidden; width:82px; height:21px; display: inline; margin-top: 1px; margin-right: 10px'></iframe>
+<iframe allowtransparency='true' data-src='https://platform.twitter.com/widgets/follow_button.html?lang=en&amp;screen_name=urbandictionary&amp;show_count=true&amp;show_screen_name=false' frameborder='0' scrolling='no' style='width:144px; height:21px; margin-right: 10px' title='Twitter Follow Button'></iframe>
+<span class='dropdown' style='text-align: left'>
+<a class='dropdown-toggle' data-target='#' data-toggle='dropdown' href='javascript:' id='dLabel' role='button' style='color: white'>
+English
+</a>
+<ul aria-labelledby='dLabel' class='dropdown-menu' role='menu'>
+<li>
+<a href='http://ar.urbandictionary.com/'>العربية</a>
+</li>
+<li>
+<a href='http://da.urbandictionary.com/'>dansk</a>
+</li>
+<li>
+<a href='http://de.urbandictionary.com/'>Deutsch</a>
+</li>
+<li>
+<a href='http://es.urbandictionary.com/'>español</a>
+</li>
+<li>
+<a href='http://fr.urbandictionary.com/'>français</a>
+</li>
+<li>
+<a href='http://hu.urbandictionary.com/'>magyar</a>
+</li>
+<li>
+<a href='http://it.urbandictionary.com/'>italiano</a>
+</li>
+<li>
+<a href='http://nl.urbandictionary.com/'>Nederlands</a>
+</li>
+<li>
+<a href='http://pl.urbandictionary.com/'>polski</a>
+</li>
+<li>
+<a href='http://pt.urbandictionary.com/'>português</a>
+</li>
+<li>
+<a href='http://ru.urbandictionary.com/'>русский</a>
+</li>
+<li>
+<a href='http://th.urbandictionary.com/'>ไทย</a>
+</li>
+<li>
+<a href='http://tr.urbandictionary.com/'>Türkçe</a>
+</li>
+<li>
+<a href='http://uk.urbandictionary.com/'>українська</a>
+</li>
+<li>
+<a href='http://zh.urbandictionary.com/'>中文</a>
+</li>
+<li class='divider'></li>
+<li>
+<a href='http://bit.ly/translateud' target='_blank'>Help translate!</a>
+</li>
+</ul>
+</span>
+<a id='facebook_menu'></a>
+</div>
+<div class='container'>
+<div class='row hidden-phone big-header'>
+<div class='span4'>
+<a href="/" id="logo"></a>
+</div>
+<div class='span5 pull-right right'>
+<div>
+<form accept-charset="UTF-8" action="/search.php" class="define-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="kKuWgLb8uY8WybQyqS4ud7I7PIGqXyLHL1Ez/zIYlns=" /></div>
+<div class='look_up'>
+look up any word, like <a href="/define.php?term=cenosillicaphobia">cenosillicaphobia</a>:
+</div>
+<div class='input-append'>
+<input autocomplete="off" class="autocomplete input-xlarge " id="term" name="term" tabindex="1" type="text" value="vaginal_leakage" />
+<input class='btn' type='submit' value='search'>
+</div>
+</form>
+
+</div>
+</div>
+</div>
+<div class='row'>
+<div id='nav1'><a href="/">word of the day</a> <a href="/category/sex">categories</a> <a href="/favorites.php">favorites</a> <a class="active" href="/popular.php?character=A">dictionary</a> <a href="/editor/staygo.php">game</a> <a href="/thesaurus.php">thesaurus</a> <a href="/names.php">names</a> <a href="/video.list.php">media</a> <a href="/products.php">store</a> <a href="/add.php">add</a> <a href="http://blog.urbandictionary.com/">blog</a></div>
+</div>
+<div class='row visible-phone small-header'>
+<div class='span12'>
+<form accept-charset="UTF-8" action="/search.php" class="define-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="kKuWgLb8uY8WybQyqS4ud7I7PIGqXyLHL1Ez/zIYlns=" /></div>
+<table>
+<tr>
+<td class='left'>
+<a href="/"><div id='logo-tiny'></div>
+</a></td>
+<td>
+<div>
+<input id="term" name="term" tabindex="1" type="text" value="vaginal_leakage" />
+</div>
+</td>
+<td class='right'>
+<a href="/random.php"><i class='icon-random'></i>
+</a><a href='#' id='hamburger'>
+<i class='icon-reorder'></i>
+</a>
+</td>
+</tr>
+</table>
+</form>
+
+</div>
+</div>
+</div>
+
+<div class='container' id='outer'>
+<div class='row'>
+<div class='span12'>
+<div id='nav2'><a href="/random.php">random</a> <a href="/popular.php?character=A">A</a> <a href="/popular.php?character=B">B</a> <a href="/popular.php?character=C">C</a> <a href="/popular.php?character=D">D</a> <a href="/popular.php?character=E">E</a> <a href="/popular.php?character=F">F</a> <a href="/popular.php?character=G">G</a> <a href="/popular.php?character=H">H</a> <a href="/popular.php?character=I">I</a> <a href="/popular.php?character=J">J</a> <a href="/popular.php?character=K">K</a> <a href="/popular.php?character=L">L</a> <a href="/popular.php?character=M">M</a> <a href="/popular.php?character=N">N</a> <a href="/popular.php?character=O">O</a> <a href="/popular.php?character=P">P</a> <a href="/popular.php?character=Q">Q</a> <a href="/popular.php?character=R">R</a> <a href="/popular.php?character=S">S</a> <a href="/popular.php?character=T">T</a> <a href="/popular.php?character=U">U</a> <a class="active" href="/browse.php?word=vaginal_leakage">V</a> <a href="/popular.php?character=W">W</a> <a href="/popular.php?character=X">X</a> <a href="/popular.php?character=Y">Y</a> <a href="/popular.php?character=Z">Z</a> <a href="/browse.php?character=%2A">#</a> <a href="/yesterday.php?date=2013-11-02">new</a> <a href="http://urbandictionary.tv/" target="_blank">tv</a></div>
+</div>
+</div>
+<div class='row visible-phone mobile-ad'>
+<ins class='adsbygoogle' data-ad-client='ca-pub-4733233155277872' data-ad-slot='0602746196' data-override-format style='display:inline-block;width:400px;height:50px'></ins>
+
+</div>
+<div class='row' style='background-color: white'>
+<div class='span2' style='background-color: #fffbce'>
+<div class='hidden-phone' id='left_column'>
+<div id='nearby_titles'>
+<p>trending</p>
+<ul class='trending'>
+<li><a href="/define.php?term=thot">thot</a></li>
+<li><a href="/define.php?term=hipster">hipster</a></li>
+<li><a href="/define.php?term=spiderman">spiderman</a></li>
+<li><a href="/define.php?term=cenosillicaphobia">cenosillicaphobia</a></li>
+<li><a href="/define.php?term=the%20eiffel%20tower">the eiffel tower</a></li>
+<li><a href="/define.php?term=blow%20stamps">blow stamps</a></li>
+<li><a href="/define.php?term=yolo">yolo</a></li>
+<li><a href="/define.php?term=ratchet">ratchet</a></li>
+<li><a href="/define.php?term=strange">strange</a></li>
+<li><a href="/define.php?term=no%20shave%20november">no shave november</a></li>
+</ul>
+<p>categories</p>
+<ul class='categories'>
+<li><a href="/category/gaming">gaming</a></li>
+<li><a href="/category/sports">sports</a></li>
+<li><a href="/category/food">food</a></li>
+<li><a href="/category/sex">sex</a></li>
+<li><a href="/category/tv">tv</a></li>
+<li><a href="/category/film">film</a></li>
+<li><a href="/category/celebrities">celebrities</a></li>
+<li><a href="/category/military">military</a></li>
+<li><a href="/category/music">music</a></li>
+<li><a href="/category/weather">weather</a></li>
+<li><a href="/category/insults">insults</a></li>
+</ul>
+<p>alphabetical</p>
+<ul class='alphabetical'>
+<li><a href="/define.php?term=vaginalist">vaginalist</a></li><li><a href="/define.php?term=vaginalistic">vaginalistic</a></li><li><a href="/define.php?term=Vaginal%20Itch">Vaginal Itch</a></li><li><a href="/define.php?term=vaginalitis">vaginalitis</a></li><li><a href="/define.php?term=vaginalitosis">vaginalitosis</a></li><li><a href="/define.php?term=vaginality">vaginality</a></li><li><a href="/define.php?term=Vagina%20Lizard">Vagina Lizard</a></li><li><a href="/define.php?term=vaginalization">vaginalization</a></li><li><a href="/define.php?term=Vaginalize">Vaginalize</a></li><li><a href="/define.php?term=vaginalized">vaginalized</a></li><li><a href="/define.php?term=Vaginal%20Jihad">Vaginal Jihad</a></li><li><a href="/define.php?term=vaginal%20juice">vaginal juice</a></li><li><a href="/define.php?term=Vaginal%20juices">Vaginal juices</a></li><li><a href="/define.php?term=Vaginalke">Vaginalke</a></li><li><a href="/define.php?term=vaginal%20laceration">vaginal laceration</a></li><li class="active"><b>vaginal_leakage</b></li><li><a href="/define.php?term=vaginal%20liquour">vaginal liquour</a></li><li><a href="/define.php?term=vaginal%20loadstone">vaginal loadstone</a></li><li><a href="/define.php?term=vaginal%20lobster">vaginal lobster</a></li><li><a href="/define.php?term=vaginally%20challenged">vaginally challenged</a></li><li><a href="/define.php?term=Vaginally-challenged">Vaginally-challenged</a></li><li><a href="/define.php?term=Vaginally%20Frigid">Vaginally Frigid</a></li><li><a href="/define.php?term=Vaginal%20Malaria">Vaginal Malaria</a></li><li><a href="/define.php?term=vaginal%20melancholy">vaginal melancholy</a></li><li><a href="/define.php?term=Vaginal%20Mesh">Vaginal Mesh</a></li><li><a href="/define.php?term=Vaginal%20Mialga">Vaginal Mialga</a></li><li><a href="/define.php?term=vaginal%20miasma">vaginal miasma</a></li><li><a href="/define.php?term=vaginal%20midgets">vaginal midgets</a></li><li><a href="/define.php?term=Vaginal%20Moanings">Vaginal Moanings</a></li><li><a href="/define.php?term=vaginal%20mosquitoes">vaginal mosquitoes</a></li><li><a href="/define.php?term=Vaginal%20Mound">Vaginal Mound</a></li><li><a href="/define.php?term=Vaginal%20Mucus%20Pouch">Vaginal Mucus Pouch</a></li><li><a href="/define.php?term=Vaginal%20mullet">Vaginal mullet</a></li><li><a href="/define.php?term=vaginal%20nebula">vaginal nebula</a></li><li><a href="/define.php?term=Vaginal%20Nominee">Vaginal Nominee</a></li><li><a href="/define.php?term=vaginaloaf">vaginaloaf</a></li><li><a href="/define.php?term=vagina%20loaf">vagina loaf</a></li><li><a href="/define.php?term=vaginal%20obesity">vaginal obesity</a></li><li><a href="/define.php?term=vaginal%20obstruction">vaginal obstruction</a></li><li><a href="/define.php?term=vaginal%20odor">vaginal odor</a></li><li><a href="/define.php?term=vagina%20logger">vagina logger</a></li>
+</ul>
+</div>
+
+</div>
+</div>
+<div class='span6'>
+<div id='content'>
+<div id='not_defined_yet'>
+<h3>
+<i>vaginal_leakage</i> isn't defined.<br/>Can you define it?
+</h3>
+<div id='add_form'>
+<form accept-charset="UTF-8" action="/add.php" class="new_submission" id="new_submission" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="kKuWgLb8uY8WybQyqS4ud7I7PIGqXyLHL1Ez/zIYlns=" /></div><input id="submission_word" name="submission[word]" type="hidden" value="vaginal_leakage" />
+<input id="source" name="source" type="hidden" value="define" />
+<textarea class="input-xlarge" id="body_definition" name="body[definition]" rows="5">
+</textarea>
+<br>
+<input class="btn btn-primary btn-large" name="commit" type="submit" value="Continue" />
+</form>
+
+</div>
+</div>
+<hr style='margin-top: 40px'>
+<div class='random_button'>
+<a class="btn btn-large" href="/random.php"><i class='icon-random'></i>
+Random Word
+</a></div>
+
+<div class="dfp " data-size="300x250" id="Define_300x250"></div>
+
+</div>
+</div>
+<div class='span4 hidden-phone'>
+<div class="dfp hidden-phone" data-size="300x600" id="ROS_Right_160x60"></div>
+<a class='advertise_here' href='http://ads.urbandictionary.com/'>advertise here</a>
+</div>
+
+</div>
+<div class='row visible-phone mobile-ad'>
+<ins class='adsbygoogle' data-ad-client='ca-pub-4733233155277872' data-ad-slot='8951389826' data-override-format style='display:inline-block;width:400px;height:50px'></ins>
+
+</div>
+<div class='row hidden-phone'>
+<div class='span12' id='bottomad'>
+<div class="dfp hidden-phone" data-size="728x90" id="ROS_BTF_728x90"></div>
+</div>
+</div>
+<div class='row text-center' id='copyright'>
+<div class='span12'>
+<span id='years'>&copy;1999-2013 Urban Dictionary&reg;</span>
+<a href='/tos.php'>terms of service</a>
+<a href='/privacy.php'>privacy</a>
+<a class='feedback' href='javascript:'>feedback</a>
+<a href='/editor/remove.php'>remove</a>
+<a href='http://ads.urbandictionary.com/'>advertise</a>
+<a href='/chat.php'>chat</a>
+<a href='/poweredby.php'>technology</a>
+<a href='http://jobs.urbandictionary.com/'>jobs</a>
+<a href='#' onclick="javascript:window.open('http://urbandictionary.wufoo.com/forms/api-interest-form/', 'wufoo', 'width=640,height=600'); return false">api</a>
+</div>
+</div>
+
+<div class='row text-center offsite'>
+<div class='span3'>
+<i class='icon-rss'></i>
+<a href="http://feeds.urbandictionary.com/UrbanWordOfTheDay">rss</a>
+and
+<a href="http://www.google.com/calendar/render?cid=http%3A%2F%2Fwww.urbandictionary.com%2Fdaily.ics">gcal</a>
+</div>
+<div class='span3'>
+<i class='icon-facebook'></i>
+<a href="http://www.facebook.com/urbandictionary">facebook
+</a></div>
+<div class='span3'>
+<i class='icon-mobile-phone'></i>
+<a href="/sms.php">sms</a>
+</div>
+<div class='span3'>
+<i class='icon-twitter'></i>
+<a href="http://twitter.com/urbandictionary/">twitter
+</a></div>
+</div>
+
+</div>
+<div class='spinner'></div>
+<div class='modal hide fade' id='subscribe_pane' role='dialog' tabindex='-1'>
+<div class='modal-header' style='background-color: #FFC652; background-clip: padding-box; color: white'>
+<button class='close' data-dismiss='modal' type='button'>×</button>
+<h3>Free Daily Email</h3>
+</div>
+<div class='modal-body text-center'>
+<p id='subscribe_status'>
+Type your email address below to get our <b>free Urban Word of the Day</b> every morning!
+</p>
+<form>
+<div class='input-append'>
+<input id="email" name="email" placeholder="your@email.com" type="text" />
+<input class="btn" name="commit" type="submit" value="Subscribe" />
+</div>
+</form>
+<p>Emails are sent from daily@urbandictionary.com. We'll never spam you.</p>
+</div>
+</div>
+
+<div class='modal hide fade' id='favorites_modal' role='dialog' tabindex='-1'>
+<div class='modal-header' style='background-color: #FFC652; background-clip: padding-box; color: white'>
+<button class='close' data-dismiss='modal' type='button'>×</button>
+<h3>My Favorites</h3>
+</div>
+<div class='modal-body'>
+<div class='favorites-spinner text-center hide'>
+<i class='icon-spinner icon-spin' style='font-size: 32px'></i>
+</div>
+<div class='not-logged-in text-center hide'>
+<p>
+<b>Log in with Facebook</b> to save your favorite definitions
+<br>
+and share them with friends.
+</p>
+<button class='login-button btn'>
+Login with Facebook
+</button>
+</div>
+</div>
+</div>
+
+<div class='modal hide fade' id='feedback_modal' role='dialog' tabindex='-1'>
+<div class='modal-header' style='background-color: #FFC652; background-clip: padding-box; color: white'>
+<button class='close' data-dismiss='modal' type='button'>×</button>
+<i>Customer support is only available in English.</i>
+</div>
+<div class='modal-body' id='wufoo-p7x3x5'>
+<div class='text-center'>
+<i class='icon-spinner icon-spin' style='font-size: 32px'></i>
+</div>
+</div>
+</div>
+
+<script>
+  //<![CDATA[
+    (function() {
+      googletag.cmd.push(function() {
+        var element, key, size, sizeArray, value, _i, _len, _ref;
+        for (key in page_globals) {
+          value = page_globals[key];
+          googletag.pubads().setTargeting(key, String(value));
+        }
+        googletag.pubads().enableSingleRequest();
+        _ref = document.getElementsByClassName('dfp');
+        for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+          element = _ref[_i];
+          size = element.getAttribute('data-size').split('x');
+          sizeArray = [parseInt(size[0]), parseInt(size[1])];
+          googletag.defineSlot("/1031683/" + element.id, sizeArray, element.id).addService(googletag.pubads());
+        }
+        return googletag.enableServices();
+      });
+    
+      googletag.cmd.push(function() {
+        var element, _i, _len, _ref, _results;
+        _ref = document.getElementsByClassName('dfp');
+        _results = [];
+        for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+          element = _ref[_i];
+          _results.push(googletag.display(element.id));
+        }
+        return _results;
+      });
+    
+      window._gaq = window._gaq || [];
+    
+      _gaq.push(['_setAccount', 'UA-31805-1']);
+    
+      _gaq.push(['_setCustomVar', 1, 'sfa_flag', 'sfa', 3]);
+    
+      _gaq.push(['_setCustomVar', 2, 'responsive_mode', responsiveMode(), 2]);
+    
+      _gaq.push(['_trackPageview']);
+    
+      yepnope.injectJs("http://www.google-analytics.com/ga.js");
+    
+      window._qevents = window._qevents || [];
+    
+      yepnope.injectJs("http://edge.quantserve.com/quant.js");
+    
+    }).call(this);
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    _qevents.push({ qacct:"p-77H27_lnOeCCI"});
+  //]]>
+</script>
+<noscript>
+<div style='display: none;'>
+<img alt='Quantcast' height='1' src='//pixel.quantserve.com/pixel/p-77H27_lnOeCCI.gif' width='1'>
+</div>
+</noscript>
+
+</body>
+</html>

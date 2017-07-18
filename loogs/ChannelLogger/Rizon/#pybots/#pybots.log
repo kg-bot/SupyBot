@@ -1,0 +1,697 @@
+2013-08-30T05:26:03  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #pybots
+2013-08-30T05:26:03  <}o{> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-08-30T05:26:03  *** }o{ sets mode: +ao KG-Bot KG-Bot
+2013-08-30T05:26:07  <KG-Bot> Title: Novi Reporter - br. 153, 15/2/2006 (at tinyurl.com)
+2013-08-30T05:26:08  <Iota> Otaku is opped cuz he's channel administration
+2013-08-30T05:26:09  <Otaku> Error: need more than 1 value to unpack
+2013-08-30T05:26:11  <Iota> r
+2013-08-30T05:26:22  <DonVitoCorleone> And KG-Bot is in my grouped nicks
+2013-08-30T05:26:23  <Iota> .vop add KG-Bot
+2013-08-30T05:26:25  <Iota> o
+2013-08-30T05:26:51  <Iota> hm
+2013-08-30T05:27:47  <Iota> .sop add DonVitoCorleone
+2013-08-30T05:27:53  <Iota> .sync
+2013-08-30T05:28:01  <Iota> .aop add Otaku
+2013-08-30T05:28:05  <Iota> .sop del Otaku
+2013-08-30T05:28:07  <Iota> .sync
+2013-08-30T05:28:10  <Iota> ..
+2013-08-30T05:28:28  <Iota> .set secureops on
+2013-08-30T05:28:30  <Iota> .sync
+2013-08-30T05:28:30  *** }o{ sets mode: -a Otaku
+2013-08-30T05:28:31  <Iota> k
+2013-08-30T05:29:04  *** }o{ sets mode: -a KG-Bot
+2013-08-30T05:29:13  *** }o{ sets mode: -o KG-Bot
+2013-08-30T05:29:23  <Iota> !voice KG-Bot
+2013-08-30T05:29:23  *** Otaku sets mode: +v KG-Bot
+2013-08-30T05:30:03  *** foobar <foobar!~limnoria@compilers.bot> has joined #pybots
+2013-08-30T05:31:28  <Iota> !voice foobar
+2013-08-30T05:31:29  *** Otaku sets mode: +v foobar
+2013-08-30T07:23:32  <Iota> !topic set 3 Currently we give support for KG-Bot, Otaku, and foobar(I'm an admin on it.)
+2013-08-30T07:23:33  *** Otaku changes topic to "Welcome to #pybots || Please be sure to let us know what bot name you are trying to join or what you need help with || Currently we give support for KG-Bot, Otaku, and foobar(I'm an admin on it.)"
+2013-08-30T07:27:36  *** The-Compiler <The-Compiler!~compiler@the-compiler.org> has joined #pybots
+2013-08-30T07:54:32  <Iota> .sop add The-Compiler
+2013-08-30T07:54:34  <Iota> .sync
+2013-08-30T07:54:34  *** }o{ sets mode: +ao The-Compiler The-Compiler
+2013-08-30T07:54:34  *** }o{ sets mode: +ao KG-Bot KG-Bot
+2013-08-30T07:54:46  <Iota> .deprotect KG-Bo
+2013-08-30T07:54:51  <Iota> ..
+2013-08-30T07:55:10  *** Iota sets mode: -a KG-Bot
+2013-08-30T07:55:17  *** Iota sets mode: -o KG-Bot
+2013-08-30T07:55:27  <Iota> gn The-Compiler
+2013-08-30T07:55:46  <Iota> see ya tomorrow
+2013-08-30T07:55:51  <The-Compiler> nighty night
+2013-08-30T11:55:16  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Ping timeout: 240 seconds)
+2013-08-30T18:27:34  <Iota> !summon Jordy
+2013-08-30T18:27:40  <Iota> o
+2013-08-30T18:28:30  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has joined #pybots
+2013-08-30T18:28:30  <}o{> [Otaku] o,o Hi there
+2013-08-30T18:28:30  *** }o{ sets mode: +o Otaku
+2013-08-30T18:28:41  <Iota> !summon Jordy
+2013-08-30T18:29:44  <Otaku> Error: You don't have the #pybots,op capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2013-08-30T18:30:04  <Iota> .
+2013-08-30T18:30:17  <Iota> !summon Jordy
+2013-08-30T18:30:20  <Otaku> Brilliant!
+2013-08-30T18:30:42  <Iota> !summon Jordy
+2013-08-30T18:30:43  <Iota> !summon Jordy
+2013-08-30T18:30:44  <Iota> !summon Jordy
+2013-08-30T18:30:47  <Otaku> Yep
+2013-08-30T18:30:48  <Otaku> Brilliant!
+2013-08-30T18:31:09  <Iota> !success add Yatta!
+2013-08-30T18:31:10  <Otaku> Yep  Success #4 added.
+2013-08-30T18:33:25  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has joined #pybots
+2013-08-30T18:33:35  <Iota> .sop add Jordy
+2013-08-30T18:34:04  <Iota> if i sync then kg bot gets its sop
+2013-08-30T18:34:15  <Iota> so use update
+2013-08-30T18:36:09  <Iota> !kick Jordy rejoin
+2013-08-30T18:36:09  *** Jordy was kicked by Otaku (rejoin)
+2013-08-30T18:37:49  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has joined #pybots
+2013-08-30T18:37:49  *** }o{ sets mode: +ao Jordy Jordy
+2013-08-30T18:38:26  <Jordy> I see. o.o
+2013-08-30T18:41:46  <Iota> !topic set 3 Currently we give support for KG-Bot, Otaku, and foobar
+2013-08-30T18:41:46  *** Otaku changes topic to "Welcome to #pybots || Please be sure to let us know what bot name you are trying to join or what you need help with || Currently we give support for KG-Bot, Otaku, and foobar"
+2013-08-30T18:42:24  <Iota> .sop add Otaku
+2013-08-30T18:42:52  <Iota> !ircquote PRIVMSG NickServ :update
+2013-08-30T18:42:53  *** }o{ sets mode: +a Otaku
+2013-08-30T18:43:51  <Jordy> lol
+2013-08-30T18:44:31  <Iota> That way I can just !mode -ao KG-Bot KG-Bot
+2013-08-30T18:45:09  <Iota> o yah I can do the Joining #channel thing, brb
+2013-08-30T18:45:46  <Iota> ..
+2013-08-30T18:45:55  * Iota has to go find a Admin
+2013-08-30T18:48:38  *** Mezarbekcisi <Mezarbekcisi!Mezarbekci@mezar.bekcisi> has joined #pybots
+2013-08-30T18:48:52  *** Mezarbekcisi <Mezarbekcisi!Mezarbekci@mezar.bekcisi> has left #pybots
+2013-08-30T18:49:57  <Iota> !reload Admin
+2013-08-30T18:49:58  <Otaku> Brilliant!
+2013-08-30T18:50:07  <Iota> !join ####test
+2013-08-30T18:50:11  <Otaku> Joining ####test...
+2013-08-30T18:50:12  <Iota> k
+2013-08-30T18:50:27  <Iota> I remember I had a version where i had it in
+2013-08-30T18:50:35  <Iota> !part ####test
+2013-08-30T18:50:38  <Otaku> Brilliant!
+2013-08-30T18:50:46  * Iota adds colors
+2013-08-30T19:01:25  * Jordy watches
+2013-08-30T21:56:42  <Iota> !reload Admin
+2013-08-30T21:56:43  <Otaku> Yatta!
+2013-08-30T21:56:49  <Iota> !join ####test
+2013-08-30T21:56:53  <Otaku> Joining ####test...
+2013-08-30T21:56:55  <Iota> .
+2013-08-30T21:57:55  <Iota> !reload Admin
+2013-08-30T21:57:56  <Otaku> You got it
+2013-08-30T21:58:00  <Iota> !part ####test
+2013-08-30T21:58:02  <Otaku> Yatta!
+2013-08-30T21:58:08  <Iota> !join ####test
+2013-08-30T21:58:13  <Otaku> Joining ####test...
+2013-08-30T21:58:16  <Iota> XD
+2013-08-30T21:58:26  <Jordy> meh
+2013-08-30T21:58:29  <Jordy> !join #############################test
+2013-08-30T21:58:30  <Otaku> Error: You don't have the admin capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2013-08-30T21:58:33  <Jordy> lol :)
+2013-08-30T21:58:44  <Iota> u not id'd
+2013-08-30T21:58:54  <Jordy> idk my username x)
+2013-08-30T21:58:55  <Iota> !part ####test
+2013-08-30T21:58:57  <Otaku> Brilliant!
+2013-08-30T21:58:58  <Iota> !user list
+2013-08-30T21:58:59  <Otaku> Iota, Ishaq, MiracleShot, snow, Special-G, and wolfmitchell
+2013-08-30T21:59:01  <Iota> ^
+2013-08-30T21:59:02  <Jordy> oh
+2013-08-30T21:59:15  <Jordy> !join #jordy
+2013-08-30T21:59:15  <Otaku> Error: You don't have the admin capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2013-08-30T21:59:18  <Jordy> why
+2013-08-30T21:59:19  <Jordy> ;-;
+2013-08-30T21:59:23  <Jordy> !whoami
+2013-08-30T21:59:25  <Otaku> snow
+2013-08-30T21:59:28  <Iota> !capabilities snow
+2013-08-30T21:59:29  <Jordy> oh
+2013-08-30T21:59:31  <Jordy> no wait
+2013-08-30T21:59:51  <Jordy> !whoami
+2013-08-30T21:59:52  <Otaku> Jordy
+2013-08-30T21:59:53  <Jordy> k
+2013-08-30T22:00:14  <Iota> !admin capability add Jordy admin
+2013-08-30T22:00:14  <Otaku> Brilliant!
+2013-08-30T22:00:20  <Jordy> !join #jordy
+2013-08-30T22:00:24  <Otaku> Joining #jordy...
+2013-08-30T22:00:25  <Iota> !admin capability add snow admin
+2013-08-30T22:00:27  <Otaku> You got it
+2013-08-30T22:00:47  <Jordy> can't be
+2013-08-30T22:00:50  <Iota> ?
+2013-08-30T22:00:53  <Jordy> snow is not a existing username
+2013-08-30T22:00:56  <Iota> !user list
+2013-08-30T22:00:56  <Otaku> Iota, Ishaq, Jordy, MiracleShot, Special-G, and wolfmitchell
+2013-08-30T22:00:59  <Iota> o_O
+2013-08-30T22:01:01  <Iota> wut
+2013-08-30T22:01:17  <Jordy> check log and see my magic. :3
+2013-08-30T22:03:05  <Iota> identify called in private by "God!~Iota@bitches".
+2013-08-30T22:03:05  <Iota> [16:02] <@FurryServ> INFO 2013-08-30T15:59:38 supybot changename called in private by "Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004".
+2013-08-30T22:03:05  <Iota> [16:02] <@FurryServ> INFO 2013-08-30T15:59:47 supybot changename called in private by "Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004".
+2013-08-30T22:03:16  <Jordy> hehe
+2013-08-30T22:08:02  <Iota> !ircquote PRIVMSG NickServ :set greet Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-08-30T22:10:00  <Jordy> !pybots
+2013-08-30T22:10:01  <Otaku> I don't fucking know .-.
+2013-08-30T22:10:10  <Jordy> great help
+2013-08-30T22:10:13  <Iota> !pybots is If you would like help with or want foobar, Otaku, or KG-Bot, join #pybots, you can also promote your own by adding it to our fleet
+2013-08-30T22:10:15  <Otaku> You got it
+2013-08-30T22:10:16  <Iota> r
+2013-08-30T22:10:34  <Jordy> echo
+2013-08-30T22:10:35  <Jordy> reply
+2013-08-30T22:10:40  <Iota> r
+2013-08-30T22:10:43  <Iota> its a factoid
+2013-08-30T22:10:46  <Jordy> !pybots
+2013-08-30T22:10:46  <Otaku> pybots is If you would like help with or want foobar, Otaku, or KG-Bot, join #pybots, you can also promote your own by adding it to our fleet
+2013-08-30T22:10:50  <Iota> o
+2013-08-30T22:10:52  <Jordy> make it is <reply>
+2013-08-30T22:11:05  <Iota> !forget pybot
+2013-08-30T22:11:06  <Iota> !forget pybots
+2013-08-30T22:11:06  <Otaku> Well Shit....
+2013-08-30T22:11:07  <Otaku> I don't fucking know .-.
+2013-08-30T22:11:09  <Iota> eh
+2013-08-30T22:11:10  <Jordy> xd
+2013-08-30T22:11:25  <Iota> !list moobotfactoids
+2013-08-30T22:11:26  <Otaku> factinfo, listauth, listkeys, listvalues, literal, lock, most, random, remove, and unlock
+2013-08-30T22:11:52  <Iota> !alias add forget "moobotfactoids remove $1"
+2013-08-30T22:11:53  <Otaku> Brilliant!
+2013-08-30T22:12:00  <Iota> !forget pybots
+2013-08-30T22:12:01  <Otaku> Yep
+2013-08-30T22:12:02  <Jordy> pybots is <reply> If you would like help with or want foobar, Otaku, or KG-Bot, join #pybots, you can also promote your own by adding it to our fleet
+2013-08-30T22:12:03  <Iota> ha
+2013-08-30T22:12:06  <Jordy> fu
+2013-08-30T22:12:10  <Jordy> !pybots is <reply> If you would like help with or want foobar, Otaku, or KG-Bot, join #pybots, you can also promote your own by adding it to our fleet
+2013-08-30T22:12:11  <Otaku> Yatta!
+2013-08-30T22:12:13  <Jordy> !pybots
+2013-08-30T22:12:14  <Otaku> If you would like help with or want foobar, Otaku, or KG-Bot, join #pybots, you can also promote your own by adding it to our fleet
+2013-08-30T22:12:16  <Jordy> I're pro
+2013-08-30T22:12:41  <Jordy> My py bots are useless ;3
+2013-08-30T22:13:42  <Iota> gonna set up to go over to a friends
+2013-08-30T22:17:26  <Iota> too bad I can't have #otaku
+2013-08-30T22:17:51  <Iota> I can still use #Ptaku though
+2013-08-30T22:17:52  <Iota> 0_ó
+2013-08-30T22:17:55  <Iota> #Pytaku*
+2013-08-30T22:20:21  <Iota> hopefully they have wifi
+2013-08-30T22:34:04  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Ping timeout: 240 seconds)
+2013-08-30T23:02:50  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has quit IRC (Quit: Leaving)
+2013-08-31T07:55:45  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has joined #pybots
+2013-08-31T07:55:45  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-08-31T07:55:45  *** }o{ sets mode: +ao Otaku Otaku
+2013-08-31T08:13:37  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has joined #pybots
+2013-08-31T08:13:37  *** }o{ sets mode: +ao Jordy Jordy
+2013-08-31T12:17:29  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has quit IRC (Ping timeout: 240 seconds)
+2013-09-01T00:04:06  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Ping timeout: 240 seconds)
+2013-09-01T00:18:02  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has joined #pybots
+2013-09-01T00:18:03  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-01T00:18:03  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-01T11:35:15  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has joined #pybots
+2013-09-01T11:35:15  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-01T16:05:11  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Remote host closed the connection)
+2013-09-01T16:05:31  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-01T16:05:31  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-01T16:05:31  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-01T19:50:32  <Iota> hey The-Compiler
+2013-09-01T19:50:36  <Iota> [13:44] <@FurryServ> /home/otaku/Otaku/logs/messages.log: AttributeError: 'recipe' object has no attribute 'registryValue'
+2013-09-01T19:51:48  <Iota> when trying to use it in an if, even when setting it before the if to like quiet = self.registryValue('quiet', msg.args[0])
+2013-09-01T20:05:44  <The-Compiler> I have no ideas what you're talking about
+2013-09-01T20:19:31  <Iota> uh
+2013-09-01T20:19:37  <Iota> a config value
+2013-09-01T20:20:51  <The-Compiler> for a supybot or what?
+2013-09-01T20:26:56  <Jordy> derp
+2013-09-01T20:27:47  <The-Compiler> I can't read your thoughts! :P
+2013-09-01T20:28:06  <The-Compiler> Jordy: query?
+2013-09-01T20:28:36  <Jordy> Always.
+2013-09-01T20:42:39  <Iota> The-Compiler, yes
+2013-09-01T20:42:40  <Iota> ofc
+2013-09-01T20:42:58  <Iota> its never mirc with me anymore, only python
+2013-09-01T20:43:30  <Iota> I'm trying something different and seeing if this will work
+2013-09-01T20:44:32  <Iota> !reload Minecraft
+2013-09-01T20:44:32  <Otaku> Yep
+2013-09-01T20:44:36  <Iota> !config reload
+2013-09-01T20:44:40  <Otaku> Brilliant!
+2013-09-01T20:44:52  <Iota> !list minecraft
+2013-09-01T20:44:52  <Otaku> haspaid, recipeadd, recipecount, recipeget, recipelist, and recipesearch
+2013-09-01T20:45:04  <Iota> !recipelist
+2013-09-01T20:47:26  <Iota> !recipelist
+2013-09-01T20:47:44  <Iota> !ping
+2013-09-01T20:47:44  <Otaku> pong
+2013-09-01T20:48:03  <Iota> !makeunquiet #pybots
+2013-09-01T20:48:03  <Otaku> You got it
+2013-09-01T20:48:05  <Iota> !recipelist
+2013-09-01T23:49:31  *** foobar <foobar!~limnoria@compilers.bot> has quit IRC (Remote host closed the connection)
+2013-09-01T23:50:21  *** foobar <foobar!~limnoria@compilers.bot> has joined #pybots
+2013-09-02T00:48:31  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has quit IRC (Ping timeout: 240 seconds)
+2013-09-02T01:46:43  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Read error: Connection reset by peer)
+2013-09-02T02:37:21  <Iota> .vop add foobar
+2013-09-02T02:37:22  <Iota> .sync
+2013-09-02T02:37:22  *** }o{ sets mode: +v foobar
+2013-09-02T02:37:22  *** }o{ sets mode: +ao KG-Bot KG-Bot
+2013-09-02T02:37:36  <Iota> !mode -ao KG-Bot KG-Bot
+2013-09-02T02:37:41  <Iota> !mode
+2013-09-02T02:37:43  <Iota> o
+2013-09-02T02:38:43  <DonVitoCorleone> Otaku not here xD
+2013-09-02T02:38:59  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-02T02:38:59  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-02T02:38:59  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-02T02:39:07  <Iota> !mode -ao KG-Bot KG-Bot
+2013-09-02T02:39:21  <Iota> !mode -ao KG-Bot KG-Bot
+2013-09-02T02:39:58  <DonVitoCorleone> /mode #pybots -ao KG-Bot =.= it's much faster
+2013-09-02T02:40:00  <DonVitoCorleone> xD
+2013-09-02T02:40:17  <Otaku> Error: You don't have the #pybots,op capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2013-09-02T02:40:28  <DonVitoCorleone> Hhahahah xD
+2013-09-02T02:40:36  <DonVitoCorleone> Fuck you
+2013-09-02T02:41:49  <Iota> !mode -ao KG-Bot KG-Bot
+2013-09-02T03:30:46  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Quit: I have been running for 52 minutes and 31 seconds.)
+2013-09-02T03:42:38  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-02T03:42:38  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-02T03:42:38  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-02T09:39:41  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has joined #pybots
+2013-09-02T09:39:41  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-02T09:43:57  *** The-Compiler <The-Compiler!~compiler@the-compiler.org> has quit IRC (Remote host closed the connection)
+2013-09-02T09:44:13  *** The-Compiler <The-Compiler!~compiler@the-compiler.org> has joined #pybots
+2013-09-02T09:44:13  *** }o{ sets mode: +ao The-Compiler The-Compiler
+2013-09-02T17:34:44  *** DonVitoCorleone <DonVitoCorleone!Stefan_Nin@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize> has quit IRC (Killed (irc.siglost.com (4 joins/parts in #kraljeva_garda within 7 seconds.)))
+2013-09-02T17:43:36  *** DonVitoCorleone <DonVitoCorleone!Stefan_Nin@Drzi.Prijatelje.Blizu.A.Neprijatelje.Jos.Blize> has joined #pybots
+2013-09-02T17:43:36  <}o{> [DonVitoCorleone] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-09-02T17:43:36  *** }o{ sets mode: +ao DonVitoCorleone DonVitoCorleone
+2013-09-02T17:43:37  <KG-Bot> Title: Novi Reporter - br. 153, 15/2/2006 (at tinyurl.com)
+2013-09-02T17:52:07  <Iota> !list Channel
+2013-09-02T17:52:20  <Iota> ./list Channel
+2013-09-02T17:52:22  <Otaku> alert, ban add, ban list, ban remove, capability add, capability list, capability remove, capability set, capability setdefault, capability unset, cycle, dehalfop, deop, devoice, disable, enable, halfop, iban, ignore add, ignore list, ignore remove, invite, kban, key, kick, limit, listbans, lobotomy add, lobotomy list, lobotomy remove, mode, moderate, nicks, op, unban, unmoderate, and voice
+2013-09-02T17:52:39  <Iota> ./channel mode
+2013-09-02T17:52:40  <Otaku> Error: You don't have the #pybots,op capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2013-09-02T17:52:48  <Iota> ./channel mode
+2013-09-02T17:52:51  <Otaku> (channel mode [<channel>] <mode> [<arg> ...]) -- Sets the mode in <channel> to <mode>, sending the arguments given. <channel> is only necessary if the message isn't sent in the channel itself.
+2013-09-02T17:53:02  <Iota> ./channel mode -ao KG-Bot KG-Bot
+2013-09-02T17:53:45  <Iota> !mode
+2013-09-02T17:53:53  <Iota> ./mode
+2013-09-02T17:53:54  <Otaku> (mode [<channel>] <mode> [<arg> ...]) -- Sets the mode in <channel> to <mode>, sending the arguments given. <channel> is only necessary if the message isn't sent in the channel itself.
+2013-09-02T17:54:02  <Iota> ah same thing
+2013-09-02T17:54:15  *** Iota sets mode: -ao KG-Bot KG-Bot
+2013-09-02T18:00:22  <DonVitoCorleone> Why it won't work?
+2013-09-02T18:02:48  <DonVitoCorleone> On my bot every mode change works great
+2013-09-02T18:02:49  <DonVitoCorleone> o_O
+2013-09-02T18:11:54  <DonVitoCorleone> Iota: could you tell me something about plugins coding?
+2013-09-02T18:20:09  <Iota> ?
+2013-09-02T18:21:05  <Iota> DonVitoCorleone, ?
+2013-09-02T21:03:21  <DonVitoCorleone> How to irc.reply the message that someone said?
+2013-09-02T21:05:42  <Iota> eh
+2013-09-02T21:05:45  <Iota> how exactly
+2013-09-02T21:05:56  <Iota> you mean like
+2013-09-02T21:05:59  <Iota> !reply dicks
+2013-09-02T21:06:04  <Iota> ./reply dicks
+2013-09-02T21:06:04  <Otaku> Iota: dicks
+2013-09-02T21:06:25  <Iota> DonVitoCorleone, ^
+2013-09-02T21:07:20  <Iota> def command(self, irc, msg, args, message):
+2013-09-02T21:07:38  <Iota>     irc.reply(message)
+2013-09-02T21:07:41  <Iota> ¯\(°_o)/¯
+2013-09-02T21:08:02  <Iota> I'll get IotaBot over here and show you
+2013-09-02T21:08:18  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-02T21:11:03  <Jordy> iotabot
+2013-09-02T21:11:33  <Iota> @reload Test
+2013-09-02T21:11:33  <IotaBot> Iota: The operation succeeded.
+2013-09-02T21:11:37  <Iota> @list Test
+2013-09-02T21:11:37  <IotaBot> Iota: ircreply and ischan
+2013-09-02T21:11:49  <Iota> @ircreply IotaBot sucks
+2013-09-02T21:11:49  <IotaBot> Iota: IotaBot sucks
+2013-09-02T21:11:50  <IotaBot> Iota: @ircreply IotaBot sucks
+2013-09-02T21:12:01  <Iota> first one is using message in the irc.repy
+2013-09-02T21:12:04  <Iota> reply*
+2013-09-02T21:12:15  <Iota> second one is using msg.args[1]
+2013-09-02T21:12:40  <Iota>     def ircreply(self, irc, msg, args, message):
+2013-09-02T21:12:40  <Iota>         """Message
+2013-09-02T21:12:40  <Iota>         Replies with the message given to it"""
+2013-09-02T21:12:40  <Iota>         irc.reply(message)
+2013-09-02T21:12:40  <Iota>         irc.reply(msg.args[1])
+2013-09-02T21:12:42  <Iota>     ircreply = wrap(ircreply, ["text"])
+2013-09-02T21:13:19  <Iota> Jordy, as i said, IotaBot is my personal bot, so i can name it how i want
+2013-09-02T21:13:30  <Iota> Otaku is still alive so i can't use that nick
+2013-09-02T21:13:31  <Otaku> Error: need more than 1 value to unpack
+2013-09-02T21:13:32  <Iota> r
+2013-09-02T21:13:59  <Iota> ./config reply.whenaddressedby.nicks ""
+2013-09-02T21:14:00  <Otaku> Brilliant!
+2013-09-02T21:14:04  <Iota> Otaku is still alive so i can't use that nick
+2013-09-02T21:14:04  <Otaku> Error: need more than 1 value to unpack
+2013-09-02T21:14:06  <Iota> .
+2013-09-02T21:14:12  <Jordy> I know :D
+2013-09-02T21:14:35  <Iota> and I made repos for all of them
+2013-09-02T21:14:43  <Iota> and their own keys
+2013-09-02T21:14:47  <Iota> so i can't mix it up
+2013-09-02T21:15:50  <Iota> and deleted the old supyplugins directory
+2013-09-02T21:26:57  <DonVitoCorleone> I want to make the same thing that I've already made, but then I used only one msg and not user input msg, understand
+2013-09-02T21:27:51  <DonVitoCorleone> I'll show you
+2013-09-02T21:27:55  <DonVitoCorleone> def doJoin(self, irc, msg):
+2013-09-02T21:27:57  <DonVitoCorleone>         channel = msg.args[0]
+2013-09-02T21:27:59  <DonVitoCorleone>         now = datetime.datetime.now()
+2013-09-02T21:28:01  <DonVitoCorleone>         msg = '\x0310POPUNI ZA TENKOVE http://tinyurl.com/upitnik-za-tenkove I ' + \
+2013-09-02T21:28:02  <KG-Bot> Title: UPITNIK ZA TENKOVE (at tinyurl.com)
+2013-09-02T21:28:03  <DonVitoCorleone>               'CIM DOBIJES UDARAJ PO DO\x03'
+2013-09-02T21:28:05  <DonVitoCorleone>         users = ' '.join(irc.state.channels[channel].users)
+2013-09-02T21:28:07  <DonVitoCorleone>         if channel == '#kraljeva_garda' and \
+2013-09-02T21:28:09  <DonVitoCorleone>                 now.hour == 17 and now.minute >= 22:
+2013-09-02T21:28:12  <DonVitoCorleone>             irc.reply('%s: %s' % (users, msg))
+2013-09-02T21:28:16  <DonVitoCorleone> See
+2013-09-02T21:28:58  <DonVitoCorleone> Now I want to make the same thing that will work on command, and it will take users msg after command instead of this msg
+2013-09-02T21:59:48  <Iota> o_O
+2013-09-02T22:12:47  <DonVitoCorleone> You don't know it?
+2013-09-02T22:51:00  *** The-Compiler <The-Compiler!~compiler@the-compiler.org> has quit IRC (Remote host closed the connection)
+2013-09-02T22:51:15  *** The-Compiler <The-Compiler!~compiler@the-compiler.org> has joined #pybots
+2013-09-02T22:51:15  *** }o{ sets mode: +ao The-Compiler The-Compiler
+2013-09-03T01:51:16  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has quit IRC (Quit: Leaving)
+2013-09-03T10:18:53  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has joined #pybots
+2013-09-03T10:18:54  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-04T02:56:58  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has quit IRC (Quit: Leaving)
+2013-09-04T09:35:58  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has joined #pybots
+2013-09-04T09:35:58  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-04T12:33:41  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has quit IRC (Ping timeout: 240 seconds)
+2013-09-04T12:48:24  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has joined #pybots
+2013-09-04T12:48:24  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-04T18:46:34  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has quit IRC (Ping timeout: 240 seconds)
+2013-09-04T18:47:27  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has joined #pybots
+2013-09-04T18:47:27  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-04T23:34:07  *** Servidor <Servidor!~Manzana@De.Minstens> has joined #pybots
+2013-09-04T23:34:16  *** Servidor <Servidor!~Manzana@De.Minstens> has left #pybots
+2013-09-05T01:58:57  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has quit IRC (Quit: Leaving)
+2013-09-05T02:05:41  *** KG|DonVitoCorleone <KG|DonVitoCorleone!~Kraljeva-@I-m.not.bot.this.is.just.another.bnc.profile> has joined #pybots
+2013-09-05T02:05:42  <}o{> [KG|DonVitoCorleone] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-09-05T02:05:42  *** }o{ sets mode: +ao KG|DonVitoCorleone KG|DonVitoCorleone
+2013-09-05T02:05:43  <KG-Bot> Title: Novi Reporter - br. 153, 15/2/2006 (at tinyurl.com)
+2013-09-05T02:18:07  *** DonVitoCorleone is now known as FurryLand
+2013-09-05T02:18:55  *** KG|DonVitoCorleone is now known as DonVitoCorleone
+2013-09-05T03:46:49  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Remote host closed the connection)
+2013-09-05T03:46:52  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Read error: Connection reset by peer)
+2013-09-05T04:43:23  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-05T04:43:24  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-05T04:43:24  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-05T04:45:34  *** Otaku` <Otaku`!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-05T04:45:34  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Killed (NickServ (GHOST command used by Otaku`)))
+2013-09-05T04:46:23  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has joined #pybots
+2013-09-05T04:46:24  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-05T04:46:24  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-05T04:48:09  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Killed (NickServ (GHOST command used by Otaku`)))
+2013-09-05T04:49:46  *** Otaku` <Otaku`!~Otaku@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Remote host closed the connection)
+2013-09-05T04:50:52  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-05T04:50:52  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-05T04:50:52  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-05T04:51:22  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Read error: Connection reset by peer)
+2013-09-05T04:52:47  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has joined #pybots
+2013-09-05T04:52:47  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-05T04:52:47  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-05T12:09:28  *** Jordy <Jordy!~Jordynl@chasing.that.peer.that.resets.your.connection.since.2004> has joined #pybots
+2013-09-05T12:09:29  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-05T13:27:05  *** Iota <Iota!Iota@Rizon-F9E93F15.furryland.net> has quit IRC (Quit: ZNC - http://znc.in)
+2013-09-05T13:28:41  *** Mr_J <Mr_J!~Iota@Rizon-D4452227.furryland.net> has joined #pybots
+2013-09-05T13:31:50  *** Mr_J is now known as Iota
+2013-09-05T13:31:50  *** }o{ sets mode: +qo Iota Iota
+2013-09-05T14:12:05  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Ping timeout: 240 seconds)
+2013-09-05T17:10:44  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-05T17:10:44  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-05T17:11:20  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC ()
+2013-09-05T17:20:28  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-05T17:20:28  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-05T18:09:04  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Read error: Connection reset by peer)
+2013-09-05T18:14:09  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Quit: I have been running for 13 hours, 21 minutes, and 34 seconds.)
+2013-09-05T18:14:57  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-05T18:14:57  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-05T19:19:21  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Read error: Connection reset by peer)
+2013-09-05T19:49:04  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-05T19:49:04  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-05T19:51:10  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Read error: Connection reset by peer)
+2013-09-05T19:53:03  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-05T19:53:03  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-05T21:00:25  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Ping timeout: 240 seconds)
+2013-09-05T21:13:16  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-05T21:13:17  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-05T22:30:30  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Ping timeout: 240 seconds)
+2013-09-05T23:12:05  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-05T23:12:05  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-05T23:20:56  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Ping timeout: 240 seconds)
+2013-09-05T23:29:22  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-05T23:29:22  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-05T23:42:17  *** Otaku <Otaku!~Otaku@Rizon-FC1B5893.nycap.res.rr.com> has joined #pybots
+2013-09-05T23:42:17  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-05T23:42:17  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-06T01:19:20  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Ping timeout: 240 seconds)
+2013-09-06T08:05:32  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Quit: Iota)
+2013-09-06T08:20:39  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-06T08:20:39  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-06T08:50:28  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Quit: ping...)
+2013-09-06T08:52:25  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-06T08:52:25  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-06T10:57:44  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Killed (NickServ (GHOST command used by Jordynl2)))
+2013-09-06T10:57:47  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-06T10:57:47  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-06T12:32:06  *** Jordynl2 <Jordynl2!~Jordynl@Rizon-FC5E24E9.anonymous.at.anonine.com> has joined #pybots
+2013-09-06T12:33:16  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Ping timeout: 240 seconds)
+2013-09-06T12:33:33  *** Jordynl2 is now known as Jordy
+2013-09-06T12:33:34  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-06T15:49:13  *** Otaku <Otaku!~Otaku@Rizon-FC1B5893.nycap.res.rr.com> has joined #pybots
+2013-09-06T15:49:13  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-06T15:49:13  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-06T18:20:58  *** Jordynl2 <Jordynl2!~Jordynl@Rizon-506EDE49.anonymous.at.anonine.com> has joined #pybots
+2013-09-06T18:21:29  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Killed (NickServ (GHOST command used by Jordynl2)))
+2013-09-06T18:21:32  *** Jordynl2 is now known as Jordy
+2013-09-06T18:21:32  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-06T19:54:47  <KG-Bot> Announcement from my owner (DonVitoCorleone): eRepublik komande ne rade dok se ne popravi stanje sa eRep serverima. Hvala na razumevanju. :)
+2013-09-06T23:44:04  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Ping timeout: 240 seconds)
+2013-09-07T09:24:57  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-07T09:24:57  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-07T10:19:00  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Read error: Connection reset by peer)
+2013-09-07T11:13:47  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has joined #pybots
+2013-09-07T11:13:47  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-07T11:20:36  *** Jordynl2 <Jordynl2!~Jordynl@Rizon-30C1F161.adsl.online.nl> has joined #pybots
+2013-09-07T11:21:17  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Killed (NickServ (GHOST command used by Jordynl2)))
+2013-09-07T11:21:19  *** Jordynl2 is now known as Jordy
+2013-09-07T11:21:19  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-07T12:03:31  *** [BNC]Jordy <[BNC]Jordy!Jordy@Rizon-37D12ADB.the.feds.are.investigat.in> has joined #pybots
+2013-09-07T12:04:46  *** Jordy <Jordy!~Jordynl@snowstorms.are.awesome> has quit IRC (Quit: Leaving)
+2013-09-07T12:05:03  *** [BNC]Jordy is now known as Jordy
+2013-09-07T12:05:04  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-07T14:13:11  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Ping timeout: 240 seconds)
+2013-09-07T14:27:51  *** Otaku <Otaku!~Otaku@Rizon-FC1B5893.nycap.res.rr.com> has joined #pybots
+2013-09-07T14:27:51  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-07T14:27:51  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-07T15:05:51  *** Jordy <Jordy!Jordy@snowstorms.are.awesome> has quit IRC (Ping timeout: 240 seconds)
+2013-09-07T15:38:01  *** Jordy <Jordy!Jordy@snowstorms.are.awesome> has joined #pybots
+2013-09-07T15:38:01  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-07T16:45:40  *** Jordy <Jordy!Jordy@snowstorms.are.awesome> has quit IRC (Quit: I'm using a Free IRC Bouncer from BNC4FREE - http://bnc4free.com/)
+2013-09-07T16:48:56  *** Guest6025 <Guest6025!Jordy@Rizon-530185CD.longdouble.ro> has joined #pybots
+2013-09-07T16:49:54  *** Guest6025 is now known as Jordy
+2013-09-07T16:50:00  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-07T17:43:35  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Quit: Iota)
+2013-09-07T23:51:48  <KG-Bot> Announcement from my owner (DonVitoCorleone): eRepublik plugin won't work for some time, API is perma disabled and everything must be made from scratch
+2013-09-08T00:59:03  *** Otaku <Otaku!~Otaku@Rizon-E7B84208.twcny.res.rr.com> has joined #pybots
+2013-09-08T00:59:04  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-08T00:59:04  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-08T02:57:26  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Ping timeout: 240 seconds)
+2013-09-08T03:33:33  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-08T03:33:33  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-08T03:33:33  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-08T03:37:54  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Remote host closed the connection)
+2013-09-08T03:42:18  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-08T03:42:18  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-08T03:42:18  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-08T20:15:29  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-08T20:46:54  <DonVitoCorleone> Iota: can you turn off title fetching for #playB xD
+2013-09-08T21:07:05  <Iota> DonVitoCorleone, done
+2013-09-08T21:09:51  <DonVitoCorleone> Thanks
+2013-09-08T21:10:05  <DonVitoCorleone> It's stupid to have 2 bots that does same thing :)
+2013-09-08T21:10:34  <DonVitoCorleone> And why did you left #playB
+2013-09-08T21:10:43  <DonVitoCorleone> Once you where there all the time :/
+2013-09-09T16:49:25  *** Jordy <Jordy!Jordy@snowstorms.are.awesome> has quit IRC (Connection closed)
+2013-09-09T17:07:48  *** Jordy <Jordy!Jordy@snowstorms.are.awesome> has joined #pybots
+2013-09-09T17:07:48  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-09T22:06:56  <DonVitoCorleone> Iota: you here?
+2013-09-09T22:11:27  <Iota> DonVitoCorleone, ya
+2013-09-09T22:11:28  <Iota> o,o
+2013-09-09T22:11:40  <DonVitoCorleone> PM xD
+2013-09-09T22:41:17  *** The-Compiler <The-Compiler!~compiler@the-compiler.org> has left #pybots (WeeChat 0.4.2-rc1)
+2013-09-10T05:44:51  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Ping timeout: 240 seconds)
+2013-09-10T05:45:16  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Ping timeout: 240 seconds)
+2013-09-10T06:02:42  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-10T06:02:50  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-10T06:02:50  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-10T06:02:50  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-10T06:03:56  *** IotaBot` <IotaBot`!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-10T06:04:00  *** Otaku` <Otaku`!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-10T06:04:00  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Killed (NickServ (GHOST command used by Otaku`)))
+2013-09-10T06:04:33  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has joined #pybots
+2013-09-10T06:04:33  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-10T06:04:33  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-10T06:05:01  *** IotaBot` <IotaBot`!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Remote host closed the connection)
+2013-09-10T06:05:01  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Remote host closed the connection)
+2013-09-10T06:05:03  *** Otaku` <Otaku`!~Otaku@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Read error: Connection reset by peer)
+2013-09-10T06:05:03  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Read error: Connection reset by peer)
+2013-09-10T06:10:34  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-10T06:10:34  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-10T06:10:34  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-10T06:10:36  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-11T17:08:06  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Quit: I have been running for 1 day, 10 hours, 57 minutes, and 43 seconds.)
+2013-09-11T18:15:22  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-11T18:15:22  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-11T18:15:22  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-11T18:15:30  *** IotaBot` <IotaBot`!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-11T18:30:19  *** IotaBot_ <IotaBot_!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-11T18:30:20  *** Otaku` <Otaku`!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-11T18:31:25  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Killed (NickServ (GHOST command used by Otaku`)))
+2013-09-11T18:31:33  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-11T18:31:33  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-11T18:31:33  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-11T18:31:49  *** IotaBot_ <IotaBot_!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Read error: Connection reset by peer)
+2013-09-11T18:31:49  *** IotaBot` <IotaBot`!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Read error: Connection reset by peer)
+2013-09-11T18:31:50  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Remote host closed the connection)
+2013-09-11T18:31:51  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Read error: Connection reset by peer)
+2013-09-11T18:31:52  *** Otaku` <Otaku`!~Otaku@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Read error: Connection reset by peer)
+2013-09-11T18:35:21  <Jordy> wtf iota
+2013-09-11T19:00:17  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-11T19:00:19  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has joined #pybots
+2013-09-11T19:00:19  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-11T19:00:19  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-11T19:41:16  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Read error: Connection reset by peer)
+2013-09-11T19:50:16  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-11T19:50:16  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-11T19:50:16  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-11T21:54:24  *** Ediz <Ediz!~Ediz@transformice.staff> has joined #pybots
+2013-09-11T21:54:40  *** Ediz <Ediz!~Ediz@transformice.staff> has left #pybots
+2013-09-12T09:42:08  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Remote host closed the connection)
+2013-09-12T09:43:20  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has joined #pybots
+2013-09-12T09:43:20  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-12T09:43:20  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-12T09:55:26  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Remote host closed the connection)
+2013-09-12T09:55:59  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-12T09:55:59  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-12T09:55:59  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-12T10:11:24  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Ping timeout: 240 seconds)
+2013-09-12T10:11:24  *** Jordy <Jordy!Jordy@snowstorms.are.awesome> has quit IRC (Ping timeout: 240 seconds)
+2013-09-12T10:13:43  *** Jordy <Jordy!~Jordy@Rizon-D106650B.longdouble.ro> has joined #pybots
+2013-09-12T10:14:05  *** }o{ sets mode: +ao Jordy Jordy
+2013-09-12T10:14:06  *** Jordy is now known as Guest18314
+2013-09-12T10:14:20  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-12T10:15:15  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-12T10:15:15  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-12T10:31:03  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Remote host closed the connection)
+2013-09-12T10:32:05  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-12T10:32:05  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-12T10:32:05  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-12T10:44:27  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Remote host closed the connection)
+2013-09-12T10:45:30  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-12T10:45:30  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-12T10:45:30  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-12T19:22:34  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #pybots
+2013-09-12T19:24:23  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #pybots
+2013-09-12T19:24:27  <}o{> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-09-12T19:24:27  *** }o{ sets mode: +ao KG-Bot KG-Bot
+2013-09-12T19:25:50  <KG-Bot> Title: Novi Reporter - br. 153, 15/2/2006 (at tinyurl.com)
+2013-09-13T03:19:43  *** Iota <Iota!~Iota@I.dont.give.1.fucking.Iota> has quit IRC (Killed (irc.siglost.com (4 joins/parts in #Iota within 3 seconds.)))
+2013-09-13T03:21:11  *** Mr_J <Mr_J!Iota@Rizon-52C41297.electronirc.tk> has joined #pybots
+2013-09-13T03:50:27  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Remote host closed the connection)
+2013-09-13T03:50:28  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Read error: Connection reset by peer)
+2013-09-13T04:00:10  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-13T04:00:20  *** Otaku <Otaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-13T04:00:20  <}o{> [Otaku] Want help with Otaku, foobar, or KG-Bot? Use the command pybots // Or if you would like to promote your bot let us know
+2013-09-13T04:00:20  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-13T04:55:19  *** Mr_J is now known as Iota
+2013-09-13T04:55:20  *** }o{ sets mode: +qo Iota Iota
+2013-09-13T14:05:00  *** foobar <foobar!~limnoria@compilers.bot> has quit IRC (Quit: Ctrl-C at console.)
+2013-09-13T14:06:40  *** foobar <foobar!~limnoria@compilers.bot> has joined #pybots
+2013-09-13T14:06:40  *** }o{ sets mode: +v foobar
+2013-09-14T18:04:26  *** Evie <Evie!~Evie@877B949D.C9B47849.F590D8F7.IP> has joined #pybots
+2013-09-14T18:04:49  <DonVitoCorleone> 'ello
+2013-09-14T18:06:22  <Evie> i need bot
+2013-09-14T18:06:49  <Evie> add my channel #Skype
+2013-09-14T18:15:16  <DonVitoCorleone> Sorry but I'm not adding my bot on channels where owner is collecting bots
+2013-09-14T18:16:55  <Evie> give me bot
+2013-09-14T18:17:03  <Evie> Request
+2013-09-14T18:17:49  <DonVitoCorleone> I'm not going to give you bot, maybe Iota will give his bot, ask him
+2013-09-14T18:43:05  <Iota> neither am i
+2013-09-14T18:59:33  <Jordy> I am. :3
+2013-09-14T18:59:46  <Jordy> DonVitoCorleone, Oh we meet again.
+2013-09-14T19:00:47  <DonVitoCorleone> Man, I didn;t know it's you, I'm really sorry
+2013-09-14T19:01:24  <Jordy> Nah its fine, I was jsut following the network rules not my own.
+2013-09-14T19:01:34  <Jordy> I'l unban it now because it's also my own IP xD
+2013-09-14T19:01:39  <Jordy> Don't be trouble :)
+2013-09-14T19:02:03  <DonVitoCorleone> I know it's your IP, Milos told me xD
+2013-09-14T19:02:32  <DonVitoCorleone> But really, that rule is little stupid, right?
+2013-09-14T19:02:33  <DonVitoCorleone> xD
+2013-09-14T19:05:08  <Jordy> Yeah :/
+2013-09-14T19:05:42  <DonVitoCorleone> Are those ppls on Anonym. channels really anonymous guys? xD
+2013-09-14T19:06:22  <Jordy> Yes.
+2013-09-14T19:06:24  <Jordy> Well no
+2013-09-14T19:06:31  <Jordy> 99% is troll.
+2013-09-14T19:06:46  <DonVitoCorleone> OPs SOPs etc.?
+2013-09-14T19:06:52  <Jordy> Yeah
+2013-09-14T19:06:57  <DonVitoCorleone> o_O
+2013-09-14T19:06:59  <Jordy> Just for keeping the channels clean
+2013-09-14T19:07:12  <Jordy> that's all they do
+2013-09-14T19:07:55  <DonVitoCorleone> I can't believe, gov can trace them if Anon admins give them info and other stuff
+2013-09-14T19:07:58  <DonVitoCorleone> Right?
+2013-09-14T19:08:37  <Jordy> we don't..
+2013-09-14T19:08:53  <Jordy> Its a stupid rumour that we are working with the feds
+2013-09-14T19:09:01  <DonVitoCorleone> No no
+2013-09-14T19:09:09  <Jordy> Just to get everyone of the network because we 'banned' several ppl and they did this as revenge
+2013-09-14T19:09:12  <Jordy> that is all.
+2013-09-14T19:09:23  <Jordy> They are mad and made a lie
+2013-09-14T19:09:38  <DonVitoCorleone> I'm not saying that, but if FBI comes to you, you wouldn't give info?
+2013-09-14T19:10:07  <Jordy> Of course not.
+2013-09-14T19:10:17  <DonVitoCorleone> Hmm
+2013-09-14T19:10:19  <Jordy> Privacy goes first.
+2013-09-14T19:10:35  <Jordy> What other lies did you got told?
+2013-09-14T19:10:43  <DonVitoCorleone> But thay can force you to give it, it's FBI man xD
+2013-09-14T19:11:09  <DonVitoCorleone> And nobody told me that
+2013-09-14T19:11:33  <Jordy> They can.. But they won't get it.
+2013-09-14T19:11:33  <DonVitoCorleone> I've found Anon net few days ago and it seams nice net to me
+2013-09-14T19:11:58  <Jordy> You're welcome again. But no bots. Most of the users there are ... trollish and retarded (Not all but most)
+2013-09-14T19:12:13  <Jordy> Giving them all a bot, will be one big mess ;p
+2013-09-14T19:13:12  <DonVitoCorleone> I'm wasn't mad because of bot, I was mad because he banned me from channel one second after he asked me a question
+2013-09-14T19:13:22  <DonVitoCorleone> How can I answer in 1-2 seconds, no way
+2013-09-14T19:13:44  <Jordy> Elmo is.. well he doesn't like ppl ;p
+2013-09-14T19:14:50  <DonVitoCorleone> He's the one of those at the end of sentence?
+2013-09-14T19:14:51  <DonVitoCorleone> [19:12:07] <&Jordy> You're welcome again. But no bots. Most of the users there are ... trollish and retarded (Not all but most)
+2013-09-14T19:14:56  <DonVitoCorleone> xD
+2013-09-15T01:39:54  *** Evie <Evie!~Evie@877B949D.C9B47849.F590D8F7.IP> has quit IRC (Ping timeout: 240 seconds)
+2013-09-15T11:15:05  *** Evie <Evie!~Evie@B6D15359.C9B47849.F590D8F7.IP> has joined #pybots
+2013-09-15T12:19:11  *** Evie <Evie!~Evie@B6D15359.C9B47849.F590D8F7.IP> has quit IRC (Ping timeout: 240 seconds)
+2013-09-15T15:00:52  <DonVitoCorleone> Iota: ping me when you come, I have to ask you something
+2013-09-15T15:01:18  <Iota> DonVitoCorleone, PING
+2013-09-15T15:01:30  <DonVitoCorleone> PM xD
+2013-09-16T14:16:57  *** KG-Bot <KG-Bot!~KraljevaG@Kraljeva.Garda.official.bot> has joined #pybots
+2013-09-16T14:17:05  <}o{> [KG-Bot] http://tinyurl.com/l3j2f48 http://www.youtube.com/watch?v=CR8logunPzQ
+2013-09-16T14:17:05  *** }o{ sets mode: +ao KG-Bot KG-Bot
+2013-09-16T14:18:52  <KG-Bot> Title: Novi Reporter - br. 153, 15/2/2006 (at tinyurl.com)
+2013-09-16T15:16:04  *** FurryLand <FurryLand!Stefan_Nin@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize> has quit IRC (Ping timeout: 243 seconds)
+2013-09-16T15:48:02  *** Guest56724 <Guest56724!Stefan_Nin@Rizon-72A5E527.rizonbnc.eu.rizon.net> has joined #pybots
+2013-09-16T21:47:22  *** Guest56724 is now known as FurryLand
+2013-09-16T21:47:22  *** }o{ sets mode: +ao FurryLand FurryLand
+2013-09-16T22:57:03  *** Iota <Iota!Iota@I.dont.give.1.fucking.Iota> has quit IRC (Quit: ZNC - http://znc.in)
+2013-09-16T22:57:45  *** Iota <Iota!~Iota@Rizon-76A9055F.electronirc.tk> has joined #pybots
+2013-09-16T22:57:57  <Otaku> It's not that I'm so smart, it's just that I stay with problems longer. -- Albert Einstien
+2013-09-16T22:58:24  *** }o{ sets mode: +qo Iota Iota
+2013-09-18T20:25:56  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Ping timeout: 240 seconds)
+2013-09-18T20:27:51  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Ping timeout: 240 seconds)
+2013-09-18T21:30:10  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-18T21:30:19  *** Pytaku <Pytaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-18T21:44:37  *** Pytaku is now known as Otaku
+2013-09-18T21:44:37  *** }o{ sets mode: +ao Otaku Otaku
+2013-09-19T04:59:00  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Remote host closed the connection)
+2013-09-19T04:59:02  *** Otaku <Otaku!~Otaku@Jokers.little.clown> has quit IRC (Read error: Connection reset by peer)
+2013-09-19T05:00:13  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-19T07:51:30  *** foobar <foobar!~limnoria@compilers.bot> has quit IRC (Read error: Connection reset by peer)
+2013-09-19T07:52:42  *** The-Compiler <The-Compiler!~compiler@the-compiler.org> has joined #pybots
+2013-09-19T07:52:42  *** }o{ sets mode: +ao The-Compiler The-Compiler
+2013-09-19T07:52:58  *** foobar <foobar!~limnoria@EAB544F2:6B8EBCFA:F66E7410:IP> has joined #pybots
+2013-09-19T07:52:58  *** }o{ sets mode: +v foobar
+2013-09-19T08:25:00  *** foobar <foobar!~limnoria@compilers.bot> has quit IRC (Ping timeout: 240 seconds)
+2013-09-19T08:25:23  *** foobar <foobar!~limnoria@Rizon-FA00102A.org> has joined #pybots
+2013-09-19T08:25:23  *** }o{ sets mode: +v foobar
+2013-09-19T15:27:01  *** DonVitoCorleone <DonVitoCorleone!~Kraljeva-@Drzi.Prijatelje.BlizuA.Neprijatelje.Jos.Blize> has quit IRC (Quit: ZNC - http://znc.in)
+2013-09-19T15:27:08  *** eRepublikBot <eRepublikBot!~KG@Rizon-DD5219AC.server4you.net> has joined #pybots
+2013-09-19T15:27:23  *** eRepublikBot is now known as Guest22567
+2013-09-19T15:29:01  *** Guest22567 is now known as DonVitoCorleone
+2013-09-19T15:29:11  *** }o{ sets mode: +ao DonVitoCorleone DonVitoCorleone
+2013-09-19T15:30:23  *** Pytaku <Pytaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-19T15:57:25  *** The-Compiler <The-Compiler!~compiler@the-compiler.org> has quit IRC (Remote host closed the connection)
+2013-09-19T15:57:47  *** The-Compiler <The-Compiler!~compiler@the-compiler.org> has joined #pybots
+2013-09-19T15:57:48  *** }o{ sets mode: +ao The-Compiler The-Compiler
+2013-09-19T17:35:01  *** Iota <Iota!~Iota@I.dont.give.1.fucking.Iota> has quit IRC (Ping timeout: 240 seconds)
+2013-09-19T17:35:47  *** Mr_J <Mr_J!Iota@Rizon-76A9055F.electronirc.tk> has joined #pybots
+2013-09-19T17:46:07  *** Mr_J is now known as Iota
+2013-09-19T17:46:08  *** }o{ sets mode: +qo Iota Iota
+2013-09-19T19:29:48  *** Pytaku <Pytaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Quit: Iota)
+2013-09-19T19:29:57  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has quit IRC (Quit: Iota)
+2013-09-19T19:33:37  *** Pytaku <Pytaku!~Otaku@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-19T19:33:46  *** IotaBot <IotaBot!~limnoria@Rizon-B517E566.twcny.res.rr.com> has joined #pybots
+2013-09-19T19:34:31  *** Pytaku is now known as Otaku
+2013-09-19T19:34:31  *** }o{ sets mode: +ao Otaku Otaku
